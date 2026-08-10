@@ -4,7 +4,7 @@ import { KARAOKE_TRACKS } from "./karaokeTracks";
 const LS_TIMINGS = (id) => `raquest_karaoke_times_${id}`;
 const LS_LYRICS = (id) => `raquest_karaoke_lyrics_${id}`;
 
-function loadTimes(id, n) {
+function loadTimes(id, n, fallback) {
   try {
     const raw = localStorage.getItem(LS_TIMINGS(id));
     if (raw) {
@@ -12,7 +12,8 @@ function loadTimes(id, n) {
       if (Array.isArray(arr)) return arr;
     }
   } catch {}
-  // fallback: even distribution by duration — filled on first loadmetadata
+  // fallback: baked timings from the track (e.g. whisper-derived), else nulls
+  if (Array.isArray(fallback) && fallback.length === n) return fallback.slice();
   return new Array(n).fill(null);
 }
 function saveTimes(id, arr) {
@@ -42,7 +43,7 @@ export default function Karaoke({ initialLang, onExit }) {
   const track = KARAOKE_TRACKS[trackIdx];
 
   const [lyrics, setLyrics] = useState(() => loadLyrics(track.id, track.lyrics));
-  const [times, setTimes] = useState(() => loadTimes(track.id, track.lyrics.length));
+  const [times, setTimes] = useState(() => loadTimes(track.id, track.lyrics.length, track.times));
   const [playing, setPlaying] = useState(false);
   const [cur, setCur] = useState(0);
   const [dur, setDur] = useState(0);
@@ -82,7 +83,7 @@ export default function Karaoke({ initialLang, onExit }) {
     setSyncMode(false);
     setSyncPtr(0);
     setLyrics(loadLyrics(track.id, track.lyrics));
-    setTimes(loadTimes(track.id, track.lyrics.length));
+    setTimes(loadTimes(track.id, track.lyrics.length, track.times));
   }, [trackIdx]); // eslint-disable-line
 
   // when lyrics change (track switch / edit save), resize times array
@@ -184,17 +185,23 @@ export default function Karaoke({ initialLang, onExit }) {
     setEditing(false);
   };
   const resetTimes = () => {
-    if (!window.confirm("Apagar os tempos de sync desta faixa?")) return;
-    setTimes(new Array(lineCount).fill(null));
-    saveTimes(track.id, new Array(lineCount).fill(null));
+    if (!window.confirm("Restaurar os tempos originais (whisper) desta faixa?")) return;
+    const base = (Array.isArray(track.times) && track.times.length === lineCount)
+      ? track.times.slice()
+      : new Array(lineCount).fill(null);
+    setTimes(base);
+    saveTimes(track.id, base);
     setSyncPtr(0);
   };
   const resetLyrics = () => {
     if (!window.confirm("Restaurar a letra original desta faixa?")) return;
     setLyrics(track.lyrics);
     saveLyrics(track.id, track.lyrics);
-    setTimes(new Array(track.lyrics.length).fill(null));
-    saveTimes(track.id, new Array(track.lyrics.length).fill(null));
+    const base = (Array.isArray(track.times) && track.times.length === track.lyrics.length)
+      ? track.times.slice()
+      : new Array(track.lyrics.length).fill(null);
+    setTimes(base);
+    saveTimes(track.id, base);
   };
 
   const markedCount = times.filter((t) => t != null).length;
