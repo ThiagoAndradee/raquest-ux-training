@@ -1,0 +1,1129 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:10.000
+Então.
+
+00:00:10.000 --> 00:00:27.000
+O que a gente vê aqui é a tela inicial do RaQuest, antes de logar. Em geral, os clientes hoje também podem escolher entrar por Single Sign-On.
+
+00:00:27.000 --> 00:00:39.000
+Ou seja, logam na conta do Windows — ligam o PC, entram — e já caem automaticamente dentro do RaQuest. Isso existe faz talvez um ano, eu diria.
+
+00:00:39.000 --> 00:00:47.000
+O jeito tradicional é você mesmo se autenticar, com usuário e senha.
+
+00:00:47.000 --> 00:00:57.000
+Aqui a gente normalmente trabalha SEM Single Sign-On, porque rodamos em paralelo as aplicações de vários clientes.
+
+00:00:57.000 --> 00:01:11.000
+Então é melhor sempre logar manualmente. O que você também vê aqui é o nome da versão — essa é a Kumamoto.
+
+00:01:11.000 --> 00:01:27.000
+Nossas versões sempre foram batizadas com nomes de vulcões. Kumamoto é a mais nova. E olhando aqui — ah, essa ainda é de 2020, do Q4.
+
+00:01:27.000 --> 00:01:43.000
+Aí você vê essa sequência comprida de números. Pode sempre assumir que '24' = Kumamoto. E lendo da direita pra trás, isso é 18 de março.
+
+00:01:43.000 --> 00:01:58.000
+Então é uma versão de 18 de março, e a de número zero — conta-se do zero. Se você faz várias versões no dia, pode vir 1, 2, 3, 4, 5, 6, 7.
+
+00:01:58.000 --> 00:02:04.000
+Mas se quiser saber o mês e o dia, pega esses números: 18 de março.
+
+00:02:04.000 --> 00:02:16.000
+Então não é uma versão novíssima — tem mais novas. Mas isso te ajuda a se situar no que você tem em mãos. Importante pro Suporte e QA também.
+
+00:02:17.000 --> 00:02:30.000
+Usuário. A gente sempre tem um usuário padrão. Muitas vezes vem com 'SV' — de Sachbearbeiter (operador/analista). SV2, ou SV1.
+
+00:02:30.000 --> 00:02:37.000
+E a senha costuma ser 'Halvotec'. Aí você entra na conexão padrão. E clica em Anmelden (Entrar).
+
+00:02:40.000 --> 00:02:54.000
+Aqui monta a interface — a página inicial do RaQuest. Primeiro você vê a barra de menu, que te ajuda a se orientar rápido e entrar nas várias partes do programa.
+
+00:02:54.000 --> 00:03:01.000
+Aí você vê essas caixas pretas com borda. A gente chama de Webparts.
+
+00:03:02.000 --> 00:03:09.000
+São partes do programa que reportam várias coisas pro usuário, o operador.
+
+00:03:11.000 --> 00:03:24.000
+Assim ele já tem uma visão completa das partes do RaQuest — e até do que ele tem que fazer. Talvez até quando, e por que ele tem que fazer.
+
+00:03:25.000 --> 00:03:37.000
+Por isso a gente separou em vários Webparts — porque você realmente precisa ser avisado de vários cantos do RaQuest. Dá pra fechar um Webpart se não precisa dele.
+
+00:03:38.000 --> 00:03:49.000
+Também dá pra minimizar, e até mover. Tem operador que simplesmente não precisa de um Webpart ou outro.
+
+00:03:50.000 --> 00:03:59.000
+Por exemplo, se não fazem Relief-at-source ou isenção padrão, podem fechar um desses Webparts.
+
+00:04:00.000 --> 00:04:11.000
+Além disso, esses Webparts consomem processamento. Então se você quer a página inicial mais rápida, pode remover alguns. Ok.
+
+00:04:14.000 --> 00:04:25.000
+Na barra de menu, indo da esquerda pra direita, você vê mais opções aparecendo pra selecionar.
+
+00:04:27.000 --> 00:04:36.000
+Se você vai pra esquerda e clica em Beantragen (Solicitar), entra direto no processo de solicitação de Ansprüche. O que são Ansprüche (créditos/claims)?
+
+00:04:37.000 --> 00:04:51.000
+Os Ansprüche surgem sempre que alguém tem títulos (Wertpapiere). Sobre eles recebe dividendos ou juros — e infelizmente incide imposto.
+
+00:04:52.000 --> 00:04:59.000
+E esse imposto são esses Ansprüche. Ou seja, dá pra reaver uma parte lá do exterior.
+
+00:05:01.000 --> 00:05:09.000
+Então, com base nos créditos dos títulos — os dividendos e juros — dá pra calcular o imposto.
+
+00:05:09.000 --> 00:05:19.000
+E daí dá pra calcular o crédito que você tem, o que quer reaver. Isso gera essas linhas.
+
+00:05:19.000 --> 00:05:33.000
+Deixa eu entrar rapidinho: clico em Beantragen, Ansprüche beantragen. Abre uma tela nova. Agora clico rápido em Suche starten (Iniciar busca). Você vai ver esse 'iniciar busca' o tempo todo.
+
+00:05:34.000 --> 00:05:43.000
+E aí recebo todos os Ansprüche que existem, baseados nesses impostos. Uma linha é um Anspruch.
+
+00:05:43.000 --> 00:05:54.000
+Você poderia dizer que essa linha é uma ISIN suíça, um título suíço. E aqui aparece a palavra 'beantragbar' (solicitável).
+
+00:05:55.000 --> 00:06:05.000
+Não quero te afogar em todos esses dados e fatos aqui. Mas esse aqui já é solicitável. Com ele dá pra disparar o processo.
+
+00:06:06.000 --> 00:06:18.000
+Por botão-direito → Beantragen. Bem simples. Isso dispara o processo pra escrever pras várias partes envolvidas.
+
+00:06:19.000 --> 00:06:29.000
+Pra exigir as assinaturas que elas têm que dar. E no fim também pra apresentar às autoridades estrangeiras e bancos, ou Lagerstellen (custodiantes).
+
+00:06:29.000 --> 00:06:42.000
+Que então checam se o imposto vai ser restituído. O banco apresenta um pedido. Digamos que eu tenho ações na Suíça.
+
+00:06:42.000 --> 00:06:54.000
+Aí apresento o pedido ao fisco na Suíça. Ou — pra quem o banco alemão manda o pedido, pelo imposto na fonte que foi retido na Suíça?
+
+00:06:54.000 --> 00:07:07.000
+Suponha que você está num banco alemão. Tem sua conta de custódia (Depot). E já tem seu crédito suíço. Você sabe que tem.
+
+00:07:07.000 --> 00:07:14.000
+O próprio banco faria isso em seu nome, sob sua procuração (Vollmacht), porque você deu essa autorização ao banco.
+
+00:07:14.000 --> 00:07:25.000
+Aí esse banco imprime os formulários com o RaQuest e manda pra autoridade fiscal estrangeira na Suíça.
+
+00:07:25.000 --> 00:07:36.000
+Ela se chama de fato Eidgenössische Steuerverwaltung (Administração Fiscal Federal Suíça). Temos o endereço dela no RaQuest também.
+
+00:07:37.000 --> 00:07:50.000
+Essa administração fiscal suíça recebe uma carta. Nela diz: Anna Krause tem tais créditos da Suíça e quer de volta tantos euros.
+
+00:07:51.000 --> 00:08:03.000
+'Cara administração fiscal estrangeira.' Aí eles transferem pro banco, e o banco transfere pra você. Mas espera — meu banco tem que provar que paguei o imposto de renda de capital aqui na Alemanha.
+
+00:08:04.000 --> 00:08:13.000
+E só por isso eu tenho direito a reaver o imposto na fonte — porque já paguei o imposto sobre ganho de capital aqui na Alemanha.
+
+00:08:14.000 --> 00:08:28.000
+Concretamente: você é contribuinte na Alemanha e na Suíça. Mas se for tributado na Suíça, pagaria 35 por cento.
+
+00:08:28.000 --> 00:08:36.000
+Na Alemanha pagaria 25, ou 26,375 com imposto de igreja e adicional de solidariedade.
+
+00:08:36.000 --> 00:08:48.000
+Digamos 25 e 25 — dá quase exatamente 60 por cento de imposto que você teria que pagar.
+
+00:08:48.000 --> 00:08:57.000
+Se reavesse 10.000 euros, pagaria 60% de imposto, sobrariam 4.000. Isso não é ok.
+
+00:08:57.000 --> 00:09:05.000
+Por isso países como Alemanha e Suíça firmaram um Acordo de Bitributação (DBA).
+
+00:09:06.000 --> 00:09:15.000
+Ele diz que um alemão não pode ser tributado mais do que é tributado na Alemanha. Ou seja, deve ficar nos 25 por cento.
+
+00:09:15.000 --> 00:09:29.000
+Mas Alemanha e Suíça dividem o imposto entre si. Cada um fica com um pedaço dos 25%. Então você seria tributado um pouco menos na Alemanha.
+
+00:09:29.000 --> 00:09:42.000
+Digamos 10 por cento — é o que foi combinado. Ou 11,375. Vamos usar 10, é mais simples. E da Suíça você reclama 15 por cento de volta.
+
+00:09:42.000 --> 00:09:55.000
+10 mais 15 dá 25, e você não é tributado mais do que deveria na Alemanha. Então reavemos 15% da Suíça — no cenário ideal.
+
+00:09:59.000 --> 00:10:07.000
+20 por cento ficam na Suíça, dos 35. — Mas aí eu não pago 10% a mais do que se tivesse só ações alemãs? Não.
+
+00:10:09.000 --> 00:10:23.000
+Em ações alemãs você paga 25, e se é bitributado e reave, no fim — depois que recebe seu dinheiro — você volta pros 25. Só é mais complicado e demorado.
+
+00:10:25.000 --> 00:10:38.000
+E é por isso que o RaQuest existe. Talvez a gente cubra esse tema de fundamentos em outra sessão.
+
+00:10:38.000 --> 00:10:49.000
+Sr. Börn, podemos marcar uma sessão com um vídeo do YouTube onde ele explica de novo. Perfeito. Então sigo em frente no RaQuest. Mas é uma boa base.
+
+00:10:49.000 --> 00:11:01.000
+Ajuda muito pra entender o resto. Então — você vê um Anspruch aqui, e pode disparar o processo. A gente faz isso de novo daqui a alguns minutos.
+
+00:11:02.000 --> 00:11:14.000
+Mas quero voltar pra interface principal — é o ponto de entrada principal. Sério, pra um Standard Refund você quase não precisa fazer mais nada. É simples assim.
+
+00:11:14.000 --> 00:11:28.000
+Quando um desses Ansprüche é fixado num Antrag (pedido) — o que é um Antrag? Um Antrag pro fisco suíço é um formulário real da autoridade suíça. Você vai ver isso bastante.
+
+00:11:28.000 --> 00:11:42.000
+E o crédito é 'impresso' nele. 'Impresso' no RaQuest significa: o crédito é movido pra um container, impresso nesse Antrag. E aí temos uma nova parte do programa.
+
+00:11:43.000 --> 00:11:54.000
+Anträge → Anträge verwalten (Gerenciar pedidos). Vou esconder de propósito os pedidos coletivos. Vamos em Anträge verwalten — porque aí você já está mais adiante no processo.
+
+00:11:54.000 --> 00:12:04.000
+Você já teria movido um crédito pra um Antrag. E agora cliquei de novo em Suche starten.
+
+00:12:07.000 --> 00:12:20.000
+E aí você vê, ok, pedidos foram criados. Eles ganham números de pedido — uma RA-NR. 'RA' de RaQuest, 'NR' de número (Nummer).
+
+00:12:20.000 --> 00:12:32.000
+Cada Antrag ganha seu número único, formado por data, mês, dia, mais um número de seis ou sete dígitos depois,
+
+00:12:32.000 --> 00:12:43.000
+que é crescente. Então cada Antrag tem seu próprio número. E essa linha já é um Antrag, mesmo estando cancelado.
+
+00:12:43.000 --> 00:12:56.000
+Vamos não nos distrair aqui. Mas você teria pedidos assim, já mais adiante no processo.
+
+00:12:56.000 --> 00:13:10.000
+Agora dava pra ainda mandar pro fisco. Vou fechar. Ou seja, pensando da esquerda pra direita: primeiro você tem Ansprüche, roda num processo, e imediatamente recebe Anträge.
+
+00:13:10.000 --> 00:13:22.000
+Bem rápido. Aí você entraria na segunda parte do programa, porque é lá que os pedidos ficam. Então, o que mais temos? Claro, o RaQuest tem Kontakte (contatos),
+
+00:13:23.000 --> 00:13:31.000
+como os dados de cliente. Deixa eu abrir rapidinho: Kontakte → Kontakte verwalten.
+
+00:13:35.000 --> 00:13:46.000
+E já pode guardar isso: assim que clica em Kontakte verwalten, tem lá no canto direito, discreto, um 'Kontaktart' (tipo de contato).
+
+00:13:47.000 --> 00:13:57.000
+Esses tipos de contato são na verdade TODOS os contatos que temos no RaQuest, de todos os lados — não só clientes. No meio diz Kunden (clientes),
+
+00:13:57.000 --> 00:14:08.000
+mas lá no topo também tem autoridade estrangeira — poderia ser uma autoridade estrangeira suíça.
+
+00:14:09.000 --> 00:14:23.000
+Ou realmente todas as autoridades estrangeiras por aí que a gente implementou no RaQuest. Aí tem outra tela, por exemplo pros Finanzämter (repartições de finanças).
+
+00:14:24.000 --> 00:14:35.000
+A gente precisa de incontáveis repartições de vários países. Na Alemanha tem 600, 700, 800. Se eu clico aqui,
+
+00:14:35.000 --> 00:14:49.000
+vamos buscar as repartições com Suche starten. Recebemos os endereços de todas implementadas no RaQuest. Embaixo à esquerda, rolei tudo pra baixo — 671 implementadas atualmente.
+
+00:14:49.000 --> 00:15:00.000
+Não precisam ser só alemãs; podem ser de outros países também. Por que precisamos delas? Porque pra alguém como a Sra. Krause, se ela
+
+00:15:00.000 --> 00:15:13.000
+tem títulos e quer reaver, em algum momento do processo a residência dela tem que ser confirmada — que ela realmente reside na Alemanha,
+
+00:15:13.000 --> 00:15:24.000
+que ela é tributada na Alemanha. E que, portanto, o Acordo de Bitributação, por ex. com a Suíça, se aplica. Alemanha, Suíça.
+
+00:15:25.000 --> 00:15:39.000
+É a prova de que ela é residente e que está tudo nos conformes. Por isso precisamos das repartições. Aí precisamos de Finanzinstitute (instituições financeiras). Vamos ver — Suche starten.
+
+00:15:41.000 --> 00:15:55.000
+Esse aqui (OIMB) é meio esquisito — é info de teste. Aqui apareceria um banco. Poderia ser KUWA, ASPC, LBBW etc. Esse também é o Mandant (tenant/cliente da instância).
+
+00:15:55.000 --> 00:16:07.000
+Ou seja, não só o endereço da instituição que usa o RaQuest, mas também muitas, muitas configurações embaixo, abaixo da linha,
+
+00:16:08.000 --> 00:16:20.000
+das quais falaremos depois. Tem muitíssima configuração vinda da instituição ali. Mas também dá pra buscar por clientes — clica em Suche starten.
+
+00:16:22.000 --> 00:16:36.000
+E um aviso importante: o RaQuest sempre distingue os tipos de cliente — Pessoa, Grupo, Organização, Fundo. Pessoas são Bogdan, Anna, Claudia, Christoph.
+
+00:16:37.000 --> 00:16:51.000
+Grupos são por ex. casais, ou irmãos, ou gente que se junta em grupo pra investir. Tem Organizações — basicamente todas as organizações
+
+00:16:51.000 --> 00:17:04.000
+de todas as formas jurídicas que existem. É tipo uma gaveta. E também dá pra buscar por Fundos. Muitos dos nossos clientes — os que usam o RaQuest —
+
+00:17:05.000 --> 00:17:18.000
+gerenciam muitos fundos via gestoras (Kapitalanlagegesellschaften). E por isso esses fundos também podem reaver imposto na fonte. Vamos em Pessoas,
+
+00:17:18.000 --> 00:17:31.000
+clica em Suche starten de novo, e você acha só pessoas. Aqui, Mela Rodriguez seria um contato pra quem um dia se reaveria imposto. Não vamos entrar mais fundo agora.
+
+00:17:32.000 --> 00:17:45.000
+Dava pra dar duplo-clique e entrar no contato, ver os vários passos do processo — tudo que você tem que considerar e configurar no cliente. Mas vou clicar em Cancelar,
+
+00:17:46.000 --> 00:18:00.000
+pra não adiantar demais. Então: Kontakte verwalten pelo menu principal — é o teu ponto de entrada. Só buscar contatos, de todo tipo. Operadores de banco também
+
+00:18:00.000 --> 00:18:14.000
+ficam em Kontakt. Zahlungen (Pagamentos). Isso é bem interessante, porque em algum momento o dinheiro chega — por ex. da Suíça — e cai um recebimento (Zahlungseingang),
+
+00:18:14.000 --> 00:18:27.000
+ou seja, um dado, no RaQuest. E esses recebimentos são até casados totalmente automáticos com o Antrag existente. Imagina: temos aquele Antrag suíço
+
+00:18:27.000 --> 00:18:40.000
+com aquele número RaQuest, e — se configuramos tudo perfeitamente — o recebimento, teus 10.000 euros,
+
+00:18:40.000 --> 00:18:54.000
+sabe que pertence àquele Antrag, e são casados. Então os dados se reencontram aqui. O recebimento vem de fora — primeiro tem que ser ligado ao registro
+
+00:18:55.000 --> 00:19:08.000
+que temos no RaQuest. Nosso banco — aqui chamado HFPC — apresenta um pedido na Suíça, e se a Suíça diz sim, vamos devolver, o dinheiro primeiro vai pro HFPC, e eles então
+
+00:19:08.000 --> 00:19:21.000
+transfeririam pro cliente final, né? Em 99% dos casos conheço o processo assim: o HFPC quer administrar o dinheiro. Imagina —
+
+00:19:21.000 --> 00:19:34.000
+Eles fazem isso pra milhares de clientes. E pra milhares de clientes, talvez chegue um recebimento grande, ou muitos pequenos, e aí o dinheiro
+
+00:19:34.000 --> 00:19:46.000
+basicamente vai como um bolo só pra conta do HSBC. Esse é o objetivo. Por isso o formulário suíço mostra não a conta da Anna Krause, mas a conta do HSBC.
+
+00:19:48.000 --> 00:20:02.000
+O HSBC então distribui direitinho pro cliente com ajuda do RaQuest — e é aí que entram os Zahlungsausgänge (pagamentos de saída), não os de entrada.
+
+00:20:02.000 --> 00:20:16.000
+Dinheiro saindo. Pensa como um lançamento contábil: dinheiro saindo pro cliente, pra conta dele. Dá pra imaginar assim também: você recebe um dividendo,
+
+00:20:16.000 --> 00:20:30.000
+e muitos meses ou um ano depois recebe a restituição da Suíça — basicamente o imposto na fonte restante que ainda te é devido. Muito, muito depois. O que é uma pena, porque nesse meio-tempo você
+
+00:20:30.000 --> 00:20:44.000
+não pode reinvestir o dinheiro — mas é assim. Stammdaten (dados-mestres). Os dados-mestres são importantíssimos, porque é aqui que você encontra primeiro os títulos.
+
+00:20:46.000 --> 00:20:58.000
+Todos os títulos necessários pros créditos. Eles são importados. Uns poucos milhares ou dezenas de milhares de títulos podem ser carregados tranquilo.
+
+00:21:00.000 --> 00:21:14.000
+Então você vai em Stammdaten → Wertpapier verwalten (Gerenciar títulos), clica, e dá Suche starten. Agora dá pra dizer, ok, tem 2.800 linhas aqui,
+
+00:21:15.000 --> 00:21:29.000
+representando títulos com uma ISIN, um nome, e um Instrumentart (tipo de instrumento) — ação ou título de dívida. Aí tem um país de tributação. Esse é tributado na Áustria, porque é um
+
+00:21:29.000 --> 00:21:43.000
+título austríaco. Se você clica mais no título, recebe info adicional, mas os registros não são muito grandes nesse caso.
+
+00:21:44.000 --> 00:21:57.000
+Isso já basta pras boas reclamações que fazemos com o RaQuest. — Então o RaQuest só reave imposto de países bem específicos, né? Você não conhece todo
+
+00:21:57.000 --> 00:22:11.000
+fisco do mundo. Então se eu tenho posições no Brasil, digamos — você tem Dinamarca, Alemanha, Áustria — então só dá pra reaver imposto de ações desses países?
+
+00:22:11.000 --> 00:22:25.000
+Na real, a gente sempre estende o RaQuest. Então se chega um cliente novo e diz, temos Indonésia,
+
+00:22:26.000 --> 00:22:39.000
+aí — acho que a gente até tem Indonésia — mas se não tivéssemos no RaQuest, diríamos, vamos olhar o processo juntos, ver como o imposto na fonte é retido,
+
+00:22:41.000 --> 00:22:55.000
+e aí dizer: precisam de certos formulários, qual autoridade a gente escreve, ou é uma Lagerstelle (um banco) que a gente escreve, como é o processo,
+
+00:22:55.000 --> 00:23:07.000
+quais formulários vocês precisam, e por aí vai. E aí — em especial os business analysts — sentam e tentam reconstruir o processo, reduzir ao essencial
+
+00:23:07.000 --> 00:23:21.000
+e construir. O que ainda não temos, investigamos se dá pra construir. Priorizamos, claro, países que têm Acordo de Bitributação.
+
+00:23:21.000 --> 00:23:34.000
+Então com certeza estamos na Europa — porque fechar acordos de bitributação é prática comum lá. Deve ter uma lista, um panorama, de quais países geralmente
+
+00:23:34.000 --> 00:23:48.000
+têm bitributação ou acordos entre si. Já é bastante coisa. — Mas no RaQuest, vocês têm só bancos alemães, ou estrangeiros também?
+
+00:23:50.000 --> 00:24:03.000
+No RaQuest — nossos clientes que usam o RaQuest — Liechtenstein, Luxemburgo, e muita Alemanha. E Áustria. Suíça.
+
+00:24:03.000 --> 00:24:17.000
+E indiretamente a Suíça já está incluída também. Claro que sempre tem barreiras de idioma. Então se você diz
+
+00:24:17.000 --> 00:24:31.000
+vamos pra República Tcheca ou algum lugar e queremos nos estabelecer lá, precisa de gente que fale o idioma, aí fica mais fácil. Mas agora estamos nos países
+
+00:24:31.000 --> 00:24:44.000
+que fazem fronteira com a Alemanha. O que não descarta expandir no futuro.
+
+00:24:46.000 --> 00:25:00.000
+Aí temos Stammdaten → Applikationseinstellungen (configurações da aplicação). Você poderia perguntar, o que configurações fazem dentro dos dados-mestres? Bom, é só como foi implementado.
+
+00:25:00.000 --> 00:25:14.000
+Dava pra ter feito esse botão Applikationseinstellungen separado. Mas essas configurações também agem nos dados-mestres e, de certa forma, contêm dados-mestres
+
+00:25:14.000 --> 00:25:27.000
+nelas mesmas. Você vai ver. Deixa eu clicar em Applikationseinstellungen. Aqui tem várias árvores de processo, passos de processo,
+
+00:25:27.000 --> 00:25:41.000
+e pra se orientar você vai do topo: Ablauffristen (prazos de prescrição). Vou só tocar rapidinho.
+
+00:25:41.000 --> 00:25:55.000
+Claro que a autoridade suíça — como qualquer autoridade ou Lagerstelle — pode dizer, em algum momento, talvez depois de quatro anos, você não pode mais reaver. Assim como
+
+00:25:55.000 --> 00:26:09.000
+minha declaração de imposto, que só posso fazer por um ou poucos anos. Aí esses prazos vencem, e depois não dá mais pra pedir — e mesmo que envie, não recebe dinheiro.
+
+00:26:09.000 --> 00:26:23.000
+Acabou. Prescreveu (verjährt). E por isso temos que configurar vários prazos, e aqui tem um modelo de prazos. Dá pra explicar caso a caso depois. Mas aí tem uma ferramenta muito
+
+00:26:23.000 --> 00:26:37.000
+poderosa — as Anwendungseinstellungen (configurações de comportamento). Você vê umas linhas de novo, mas são ferramentas muito poderosas que influenciam o processo do RaQuest, ou
+
+00:26:37.000 --> 00:26:51.000
+o anulam, dependendo. Com o tempo, trabalhando com o RaQuest, você conhece alguns desses pontos. Ainda não todos exatamente. O que também é
+
+00:26:51.000 --> 00:27:05.000
+importante, por ex., são os Investitionsmärkte (mercados de investimento) — e aqui também, bem interessante: quais mercados já existem? Aqui você vê os códigos ISO, AT pra Áustria, B pra
+
+00:27:05.000 --> 00:27:19.000
+Bélgica, Taiwan, Suécia, Rússia, Portugal, Noruega, Holanda, KDR sei lá, Japão, Itália, e por aí vai.
+
+00:27:20.000 --> 00:27:33.000
+Suponha que eu abra um desses mercados — o que fizemos? Duplo-clique. De novo tem várias configurações que vamos conhecer com o tempo, e quando você
+
+00:27:33.000 --> 00:27:46.000
+clica em Quellensteuersätze (alíquotas de imposto na fonte) — vou te mostrar rapidinho — você vê bem preciso: quanto de imposto na fonte incide na França? Pra ações.
+
+00:27:48.000 --> 00:28:02.000
+Ok, mas quanto deve sobrar no RaQuest no fim do processo? Isso significaria, calculo de cabeça, menos 15 dá então
+
+00:28:03.000 --> 00:28:17.000
+Então eu posso reaver isso. Tem que sempre imaginar como um Dreiklang (uma tríade). E é assim que o RaQuest calcula também. Imagina um crédito suíço — agora estamos infelizmente no mercado França,
+
+00:28:17.000 --> 00:28:31.000
+se a gente for pra Suíça. Deixa eu ir no mercado Suíça. Vou tentar mostrar de forma mais viva. Pra ações. Ok.
+
+00:28:31.000 --> 00:28:45.000
+Agora, um crédito entra no RaQuest, e o crédito é checado contra essas configurações que temos. Checa: ok, esse é
+
+00:28:45.000 --> 00:28:59.000
+um crédito suíço, então incide 35% de imposto na fonte. Bate com o que foi importado? É conferido — sim, 35 importado, 35 no RaQuest, bate. Aí diz, sim, mas
+
+00:28:59.000 --> 00:29:13.000
+creditável são [15]. Ou seja, 15 fica na fonte, 15 fica no exterior, pra sempre. Esquece, dá baixa. Então 15 de 35 ficam na fonte. Aí
+
+00:29:13.000 --> 00:29:27.000
+o RaQuest te diz, e calcula de novo: então posso reaver 20. E aí recebo o crédito importado com os valores reaviáveis certos.
+
+00:29:29.000 --> 00:29:43.000
+E isso é só uma conferência de que tudo bate e está correto e conforme. Como tudo funciona? Coletamos os dados, olhamos um pouco o acordo de bitributação, a gente
+
+00:29:43.000 --> 00:29:57.000
+conversa com os clientes pra darem as alíquotas certas, e aí fica conhecido pra um mercado: é 35 [e 15], lança no RaQuest, e fica fixado por ora.
+
+00:29:58.000 --> 00:30:12.000
+Poderia mudar — se o fisco suíço resolvesse subir pra 40, teríamos que mudar. Dá pra mudar tudo. Espero não estar te afogando, mas esse
+
+00:30:12.000 --> 00:30:26.000
+tema das alíquotas na fonte é o ponto central, por isso já entro mais a fundo. Aqui embaixo tem outra linha — o grid do meio basicamente diz:
+
+00:30:26.000 --> 00:30:33.000
+essas são todas as alíquotas que, pelo DBA (Acordo de Bitributação — é a abreviação),
+
+00:30:41.000 --> 00:30:54.000
+pelo DBA ficam na fonte: 15 por cento. Aí diz que também tem uma alíquota creditável de Domestic Law (lei doméstica).
+
+00:30:56.000 --> 00:31:10.000
+Domestic Law significa que existem regras fora do DBA que sobrepõem o DBA e são mais fortes, valendo só
+
+00:31:10.000 --> 00:31:24.000
+naquele país, aquele país-mercado — a Suíça. Aqui, pra fundações por ex., 20% ficariam na fonte — ou seja, ah, eles podem reaver menos,
+
+00:31:24.000 --> 00:31:38.000
+recebem 15 de volta de 35, e aqui também é conferido: se um cliente fosse, digamos, uma fundação transparente, recebe essa alíquota. Todos os outros clientes recebem
+
+00:31:38.000 --> 00:31:52.000
+essa alíquota pra ações. Tudo se joga um contra o outro. Tem muitas outras colunas e configurações que você pode trazer e
+
+00:31:52.000 --> 00:31:54.000
+conhecer com o tempo.
+
+00:32:24.000 --> 00:32:37.000
+Quando você importa uma pessoa física, ela ganha atribuição — tipo uma saudação de carta, 'Prezado Senhor'. Isso são basicamente tabelas.
+
+00:32:38.000 --> 00:32:52.000
+Não são configurações complicadas, só tabelas de correspondência (matching) que dá pra configurar livre por idioma: alemão, inglês, francês — você precisa de todos os idiomas, todas as formas de tratamento,
+
+00:32:52.000 --> 00:33:06.000
+gêneros e seus rótulos. Aí aqui você também acha Rechtsformen (formas jurídicas). Interessante, porque todo mundo conhece OHG, AG, ou
+
+00:33:06.000 --> 00:33:20.000
+KG — mas quem não fala francês, 'Société Anonyme' significa uma forma jurídica, francesa. Então a gente mantém e cultiva
+
+00:33:20.000 --> 00:33:31.000
+formas jurídicas também; clientes diferentes podem ter conjuntos de dados diferentes, e essas formas são de novo casadas como tabela aos dados do cliente.
+
+00:33:35.000 --> 00:33:49.000
+Independente de — ou quase indiretamente dependente das — formas jurídicas, tem as Kundentypisierungen (tipificações de cliente). O que é isso? Imagina como, pela Europa ou mundo, vários termos
+
+00:33:49.000 --> 00:34:03.000
+circulam. Todos esses termos nem sempre dá pra atribuir 100% claro a uma forma jurídica, porque não dá pra mapear tudo um-pra-um a uma GmbH. Esses
+
+00:34:03.000 --> 00:34:17.000
+vários termos mostrados aqui também são usados nos formulários de pedido. Exemplo: um formulário suíço tem um campo em algum lugar — um campo bem
+
+00:34:17.000 --> 00:34:31.000
+pequeno — que pode exigir 'Pooled Fund Trust'. De onde vem esse termo? Tem que vir do RaQuest de algum jeito. É de novo uma tabela onde mantemos esses termos.
+
+00:34:32.000 --> 00:34:46.000
+Mas os termos são ainda mais poderosos — tem muita mágica por trás do que eles fazem. Mas você entra nisso aos poucos também. Vamos do fácil ao difícil.
+
+00:34:46.000 --> 00:35:00.000
+Estou de volta na página principal do RaQuest. Tocamos rapidinho em Stammdaten, títulos e configurações, e ainda estamos nos menus. Tem Konflikte (conflitos) —
+
+00:35:01.000 --> 00:35:15.000
+não o que você está pensando. Quando você importa dados, o RaQuest checa. O RaQuest tem um sistema de validação bem
+
+00:35:15.000 --> 00:35:28.000
+preciso e diz, não, esses dados não estão corretos, preciso de mais info. Aí a gente chama de conflito e joga esses dados num container chamado Konflikte.
+
+00:35:32.000 --> 00:35:46.000
+Ou simplesmente dados com erro — melhor dizendo, dados com info faltando — podem ser conflitos. Aqui em cima na
+
+00:35:46.000 --> 00:36:00.000
+barra de menu, Konflikte é mencionado, mas embaixo à esquerda também tem um Webpart chamado Quarantäne, que de novo guarda conflitos. E agora, se passo o mouse por cima,
+
+00:36:00.000 --> 00:36:12.000
+ó, tem conflitos: alíquotas divergentes, câmbio faltando (Devisenkurs), Lagerstellennummer faltando.
+
+00:36:13.000 --> 00:36:27.000
+Acho Lagerstellennummer bem fácil agora. Deixa eu entrar — clico em Konflikte, abre uma janela separada, no canto direito tem uma seleção global do que você quer,
+
+00:36:27.000 --> 00:36:41.000
+e vou em Lagerstellennummer. Suche starten. Quais dados têm Lagerstellennummer faltando? Essa é a questão. Aí dá pra dizer, ah, um crédito com uma
+
+00:36:41.000 --> 00:36:55.000
+ISIN dos EUA — um título — com número de conta antigo não tem Lagerstellennummer. Aí eu poderia atribuir a Lagerstellennummer. Então dá pra manter os
+
+00:36:55.000 --> 00:36:59.000
+dados aqui, como operador também.
+
+00:37:11.000 --> 00:37:24.000
+Ele pode seguir pedindo créditos, movendo pro processo. Um conflito é uma etapa preliminar — pra checar os dados antes de você sequer pedir.
+
+00:37:25.000 --> 00:37:36.000
+Se falta dado, talvez você não consiga pedir, porque a Lagerstellennummer está faltando. Então o que é uma Lagerstellennummer?
+
+00:37:36.000 --> 00:37:50.000
+Os créditos sempre apontam pra algum lugar. Apontam pra autoridade estrangeira, ou pra um banco onde eu
+
+00:37:50.000 --> 00:38:02.000
+peço. A gente chama de Lagerstellen — onde os títulos ficam em custódia. São basicamente só bancos, e você escreve pra esses bancos.
+
+00:38:04.000 --> 00:38:18.000
+E claro que você tem contas nesses bancos. Ligadas a essas contas tem as Lagerstellennummern. Com esse número você aponta pra conta,
+
+00:38:18.000 --> 00:38:32.000
+e indiretamente pro banco que quer alcançar. Tem que ter uma ligação de algum jeito. Se não tem ligação, tem conflito — e se tem conflito, não dá pra pedir.
+
+00:38:33.000 --> 00:38:46.000
+Acho que expliquei o suficiente ao redor. Dá pra acompanhar? Conflitos de dados? — Então é assim: estou no HSBC agora,
+
+00:38:47.000 --> 00:39:01.000
+meu cliente tem, digamos, ações na Suíça, mas elas só são negociadas num banco ou bolsa suíça. Aí eu basicamente ponho a Lagerstellennummer — o lugar na Suíça, no banco
+
+00:39:01.000 --> 00:39:15.000
+onde minha ação é negociada. Né? — Eu formularia um pouco diferente. Eu diria: você é cliente do HSBC.
+
+00:39:16.000 --> 00:39:30.000
+Você tem créditos. Esses créditos — que raramente te interessam — agora estão na Clearstream. Clearstream é o nome de um banco. Clearstream é até um
+
+00:39:30.000 --> 00:39:43.000
+banco custodiante bem grande, onde esses títulos ficam guardados fisicamente — não fisicamente, mas pelo menos digitalmente. Imagina: quando você tem um título,
+
+00:39:44.000 --> 00:39:57.000
+o título está lançado na sua conta (Depot), mas em termos de dado ele está espelhado — melhor dizendo, o original está na Lagerstelle, na Clearstream.
+
+00:39:59.000 --> 00:40:11.000
+Eu sei, quis vender e infelizmente não [conectam] mais meu banco com o outro banco. Conheço a firma, sim. Ok, estranho. Ações,
+
+00:40:11.000 --> 00:40:25.000
+Quando você olha na sua papelada — depois de comprar, chegam uns documentos na tua conta — dá pra ler onde
+
+00:40:25.000 --> 00:40:39.000
+seus títulos estão de fato guardados. O que diz? Lagerstelle ou Verwahrstelle (custodiante)? Está tudo bonitinho listado se você quiser saber. Conflitos,
+
+00:40:39.000 --> 00:40:53.000
+isso. Conflitos surgem simplesmente quando o dado não está limpo. Ok, então
+
+00:40:53.000 --> 00:41:07.000
+um operador senta no banco, liga o RaQuest de manhã, e diz, ó, meu Webpart me reportou conflitos. Preciso
+
+00:41:07.000 --> 00:41:21.000
+resolver, entro — pá — e ela trabalha, ataca o conflito, pesquisa, ah, a Lagerstellennummer é 123, digita, tá tá, próximo, resolvendo um conflito atrás do outro, e só então o dado está
+
+00:41:21.000 --> 00:41:35.000
+limpo. Esse seria o trabalho dela, porque ela vê esse Webpart mostrando conflitos. Administration — isso é algo que só eu vejo. Se eu tenho certos
+
+00:41:35.000 --> 00:41:48.000
+direitos, dá pra gerenciar usuários aqui — criar um usuário: Anna Krause, Bogdan, Ursu — e dar papéis (Rollen) ao usuário, pra que ele possa pedir, por ex.,
+
+00:41:49.000 --> 00:42:03.000
+mas não pode fazer Massenverarbeitung (processamento em massa), e definitivamente não ter direitos de administrador da aplicação — isso é só um operador. Então temos aqui
+
+00:42:03.000 --> 00:42:17.000
+um conceito de papéis bem sofisticado atribuído aos usuários. Usuários são, via de regra, as pessoas no banco que trabalham com o RaQuest. Auswertungen (relatórios).
+
+00:42:18.000 --> 00:42:28.000
+Imagina Auswertungen como 90% listas de Excel. Quando clico em Auswertungen → Berichte (Relatórios),
+
+00:42:28.000 --> 00:42:41.000
+sou sempre levado aos relatórios, e clico num relatório
+
+00:42:41.000 --> 00:42:55.000
+e vejo, ok, máscaras de filtro de novo — eu poderia olhar alguns relatórios aqui. Quero ver um relatório de cliente,
+
+00:42:55.000 --> 00:43:08.000
+e aí talvez eu tenha que digitar alguns dados, ou não. Às vezes os relatórios funcionam sem filtro, então clico em Avançar e vejo se dá algo. Não, precisa de um parâmetro.
+
+00:43:09.000 --> 00:43:15.000
+Aí eu teria que inventar e conhecer um parâmetro. Tem algo mais?
+
+00:43:15.000 --> 00:43:31.000
+Ele não me mostrou
+
+00:43:31.000 --> 00:43:45.000
+quais casos são 'leves'? — Às vezes, infelizmente ainda não. Posso te dar um exemplo. É uma ótima pergunta, mas ainda não é tão sofisticado.
+
+00:43:45.000 --> 00:43:59.000
+Quando você entra e vê, ok, alguns campos estão pré-preenchidos — além disso, tem campos obrigatórios? Você não sabe. Você descobre [no erro]. E eu queria, como business analyst, ei,
+
+00:43:59.000 --> 00:44:13.000
+pinta esse campo de vermelho ou faz algo, pra eu entender. Não quero ter que preencher todo campo. Aí a gente vai ter azar. O que sai
+
+00:44:13.000 --> 00:44:27.000
+é uma lista de Excel. Só clicar em Avançar embaixo à direita, ou Preview em cima à esquerda, aí vem o preview rápido e dá pra baixar o Excel. Talvez a gente tenha
+
+00:44:27.000 --> 00:44:41.000
+um bom exemplo. Mas não vou insistir se não achar um. — Vocês já comunicaram algo assim numa lista,
+
+00:44:41.000 --> 00:44:55.000
+ou vocês no BA têm uma lista de tarefas onde dizem, isso precisa entrar num sprint em algum momento? — Sempre que uma ideia surge e você anota, ela vai
+
+00:44:55.000 --> 00:45:08.000
+pro TFS, pro Backlog. Backlog items, chama-se. É o backlog. Tudo que deveria ser feito é coletado ali.
+
+00:45:10.000 --> 00:45:24.000
+Geralmente — eu pessoalmente às vezes chego a dizer, isso na real precisa ser feito logo, maio, junho, julho — e já atribuo. Mas tem muitos
+
+00:45:24.000 --> 00:45:38.000
+requisitos tão trivialmente sem importância que ficam parados. Claro que algumas coisas são priorizadas — os devs fazem essas primeiro — e outras ficam. Esse aqui seria um requisito:
+
+00:45:39.000 --> 00:45:52.000
+faça os campos de modo que eu saiba quais são obrigatórios. Esse requisito poderia ser classificado como não importante, porque o cliente não está exatamente clamando por ele.
+
+00:45:53.000 --> 00:46:07.000
+O cliente notou uma vez, mas se acostumou. Com o tempo descobriram quais eram os campos obrigatórios. Então dá pra argumentar: fica no backlog por ora. E em algum momento
+
+00:46:07.000 --> 00:46:17.000
+talvez um dev júnior que quer praticar ou aprender pega as tarefas fáceis. Uma opção.
+
+00:48:02.000 --> 00:48:15.000
+A gente vive testando coisas, aí descarta de novo — então tem muito movimento. Administration é muito importante pra
+
+00:48:15.000 --> 00:48:28.000
+usuários, papéis, permissões etc., e relatórios seriam algo tipo — como o Christopher pode te mostrar que sai uma lista de Excel, preciso primeiro [achar um exemplo].
+
+00:48:29.000 --> 00:48:43.000
+Isso é interessante. B-Depot, que não vão detalhar agora. Dokumente → Fachdokumente verwalten (gerenciar documentos técnicos), bem interessante.
+
+00:48:47.000 --> 00:49:00.000
+Rapidamente: antes a gente só suportava Standard Refund e construiu software pra isso. Agora, há alguns anos, também dá pra fazer
+
+00:49:00.000 --> 00:49:14.000
+pré-isenção. Tem, digamos, três processos principais pra reaver ou trazer dinheiro do exterior. O primeiro é Vorabbefreiung (isenção antecipada) — já ouviu?
+
+00:49:14.000 --> 00:49:24.000
+Ok. O segundo é Quick Refund — uma recuperação rápida. E o terceiro é Standard Refund. E dá pra pensar assim.
+
+00:49:24.000 --> 00:49:38.000
+O RaQuest só tinha Standard Refund no começo — você vai em Beantragen, Ansprüche beantragen. Mas quando é isenção antecipada, a gente só coleta documentos. Aí você entra nesse processo.
+
+00:49:38.000 --> 00:49:52.000
+Dokumente → Fachdokumente verwalten. Talvez no futuro a gente coloque outros documentos, mas aqui coletamos linhas de documentos. É um banco de teste. Pode ser que não tenha nada nele.
+
+00:49:52.000 --> 00:50:02.000
+Na verdade tem. Aí você teria linhas de documentos aqui. Cada linha é um documento — por exemplo uma Wohnsitzbestätigung (comprovante de residência).
+
+00:50:05.000 --> 00:50:17.000
+E esses documentos são coletados e entregues num pacote pra Lagerstelle em algum momento. E a Lagerstelle então sabe que os documentos chegaram.
+
+00:50:17.000 --> 00:50:20.000
+Agora posso te transferir o dinheiro.
+
+00:50:23.000 --> 00:50:37.000
+Então é uma parte muito, muito interessante e importante do programa, com a qual vamos abordar nossos clientes ainda mais no futuro. Conto três clientes que vão usar,
+
+00:50:37.000 --> 00:50:46.000
+mas sei que outros também vão pegar. É um produto que aos poucos está pegando velocidade de verdade como linha de produto.
+
+00:50:46.000 --> 00:51:00.000
+Sim, a linha de produto de documentos. Então, a barra de menu. Já falamos um pouco dela. Já dá pra se orientar.
+
+00:51:00.000 --> 00:51:12.000
+E agora vamos entrar um pouco nesses Webparts, essas caixas pretas. Esse é sobre login do sistema. Quem está logado — é o SV2.
+
+00:51:12.000 --> 00:51:22.000
+Ou seja, o usuário é SV2. E o operador atribuído a esse usuário é Sabrina Josefina Klatterbrock. Ou seja, eu.
+
+00:51:22.000 --> 00:51:34.000
+Loguei com esse nome, esse usuário. E esse usuário por acaso tem Sabrina Josefina Klatterbrock, operadora, atribuída.
+
+00:51:36.000 --> 00:51:49.000
+E esse usuário tem papéis atribuídos. Vou ler: perito (Sachverständige), operador, processamento em massa, administrador de dados/sistema, e gerente de dados-mestres da aplicação.
+
+00:51:49.000 --> 00:52:03.000
+Tem muitos outros papéis. Posso folhear. Aqui você vê outros papéis. É só um panorama bem simples.
+
+00:52:03.000 --> 00:52:17.000
+Qual papel pode e consegue fazer o quê? Compartilho essa apresentação depois com prazer. Operador e perito são os operadores comuns que colocam todos esses processos pra rodar.
+
+00:52:17.000 --> 00:52:31.000
+Eles podem, por ex., executar casos de uso na aplicação — tipo pedir créditos. Pra Suíça, podem fazer.
+
+00:52:31.000 --> 00:52:43.000
+Recebimentos são casados. Lançar entrada e saída, talvez possam. Peritos (Sachverständige) são meio que supervisores — geralmente chefes de área.
+
+00:52:43.000 --> 00:52:51.000
+São pessoas que ganham um pouco mais de direitos. Podem liberar ou apagar uma aprovação de quatro-olhos.
+
+00:52:51.000 --> 00:53:05.000
+E simplesmente têm um pouco mais de poder. Tem auditores (Revision). Aí tem administrador da aplicação, correção de dados, e assim por diante.
+
+00:53:05.000 --> 00:53:16.000
+Podemos entrar nisso em detalhe quando vocês estiverem prontos. Então um operador geralmente tem esses dois papéis: perito e/ou operador.
+
+00:53:16.000 --> 00:53:27.000
+E quando alguém precisa fazer algo em massa, ganha também o processamento em massa. Quem tem que fazer correção de dados, porque tem dado errado, ganha esse papel também.
+
+00:53:27.000 --> 00:53:39.000
+Administrador de sistema é muito, muito poderoso — monta sistemas, consegue montar o RaQuest de ponta a ponta. O gerente de dados-mestres só faz dados-mestres.
+
+00:53:43.000 --> 00:53:57.000
+Então, me dei todos esses direitos. Posso fazer bastante coisa. E dá pra deslogar do RaQuest também — vamos fazer. Deslogar. Estamos de propósito no básico hoje.
+
+00:53:57.000 --> 00:54:11.000
+Aí dá pra logar de novo. Então — deslogar, esperamos aqui. Se quiser sair do RaQuest, também dá pra trocar a senha. Ok, é tudo bem tranquilo nesse Webpart.
+
+00:54:12.000 --> 00:54:24.000
+Aí chegamos em Quarantäne (quarentena). Palavra bem atual ultimamente. Ontem pesquisei de onde vem a palavra 'quarentena'.
+
+00:54:24.000 --> 00:54:37.000
+Vem da região de Veneza. Fascinante — na época da peste diziam que navios que chegavam tinham que passar 40 dias em quarentena.
+
+00:54:37.000 --> 00:54:48.000
+Não sei se era uma ilha vizinha onde tinham que ficar 40 dias. É daí que vem a palavra 'quarentena'.
+
+00:54:48.000 --> 00:55:02.000
+Embora com a peste não soubessem exatamente o tempo de incubação. Mas pegaram 40 dias no chute, e só então podia entrar na cidade.
+
+00:55:02.000 --> 00:55:16.000
+E também podia entrar na cidade se fosse muito rico. Interessante — tem na Wikipedia. Mas nesse caso, quarentena é dado.
+
+00:55:16.000 --> 00:55:28.000
+Está com erro, como vimos. E tem que limpar. Aí tem também a Antragsquarantäne (quarentena de pedidos). É como conflitos, mas aqui você já está mais adiante — já tem Anträge lá em cima.
+
+00:55:28.000 --> 00:55:42.000
+Ou seja, na barra de menu, no segundo item, você já está mais adiante. Pedidos foram criados. E pode ser que algum operador apagou dados fiscais ou algo.
+
+00:55:42.000 --> 00:55:54.000
+Ou apagou alguma info do cliente que manda o pedido pra quarentena. Imagina: Anna Krause se muda.
+
+00:55:54.000 --> 00:56:08.000
+Anna Krause não informou o novo endereço. O banco só sabe que ela se mudou. Anna Krause talvez tenha também um novo número fiscal, se possível. E agora foi removido do RaQuest.
+
+00:56:08.000 --> 00:56:21.000
+Aí o pedido suíço existente dela, ainda não restituído, vai pra quarentena de pedidos — porque não pode ser solicitado. Ela tem novo domicílio.
+
+00:56:21.000 --> 00:56:32.000
+Isso não foi verificado. Então vai pra quarentena, e o operador pode chamar e tratar.
+
+00:56:32.000 --> 00:56:46.000
+Talvez ele também tenha que se corresponder com a Anna Krause. Ou os consultores de cliente se correspondem com ela e trazem os dados. Aí temos Kritische Rückforderungen (reclamações críticas).
+
+00:56:46.000 --> 00:57:00.000
+Antes, nas configurações dos dados-mestres, vimos rapidinho os prazos de prescrição. Cada país tem prazos diferentes. Estou falando de improviso, porque não decorei.
+
+00:57:00.000 --> 00:57:10.000
+Na França três anos, na Suíça quatro anos, e assim por diante. Aí tem um Webpart que mostra algo. Atenção!
+
+00:57:10.000 --> 00:57:22.000
+Em algumas semanas, dias, meses o prazo vence. Caro operador, envie seus pedidos rápido agora. Isso é um reporte.
+
+00:57:22.000 --> 00:57:29.000
+A gente chama de reclamações críticas.
+
+00:57:29.000 --> 00:57:43.000
+E com o mouse por cima você teria mais dados de novo. Deixa eu ir em atual — 1, 1, 1.
+
+00:57:43.000 --> 00:57:47.000
+E aí diz, ó, tenho reclamações críticas na França: 33.
+
+00:57:47.000 --> 00:58:01.000
+Aí eu poderia clicar em 'atual' e receber uma página nova mostrando quais desses créditos são críticos. Tem uma marca (Fleck) ali.
+
+00:58:01.000 --> 00:58:11.000
+A marca sinaliza: ah, vencendo em breve. Eu deveria começar a pedir esses agora. Aí aqui eu também poderia iniciar o processo direto — pedir.
+
+00:58:11.000 --> 00:58:25.000
+Pá, deixar todos os documentos prontos, mandar as coisas, porque não temos muito tempo. Deixa eu ir pro PowerPoint. Dá pra mostrar visualmente também.
+
+00:58:25.000 --> 00:58:38.000
+O RaQuest tem o modelo de dados por trás, mas é bem simples. Pega a França de exemplo. Aqui teríamos 60 meses de prescrição — quanto é isso, 5 anos?
+
+00:58:38.000 --> 00:58:49.000
+Então você tem bastante tempo — a faixa azul. Agora você tem um dia de pagamento (Zahltag). Um Zahltag é sempre quando o dividendo é distribuído.
+
+00:58:49.000 --> 00:59:02.000
+A partir desse ponto o relógio começa, até 5 anos no futuro. E quando os 5 anos acabam, prescreve. Por isso escrevi 'verjährt' (prescrito) aqui no fim.
+
+00:59:02.000 --> 00:59:13.000
+E talvez você ainda tenha na quarentena, na quarentena de pedidos. E pode olhar de novo — ah, droga, os pedidos prescreveram. O cliente não recebe o dinheiro.
+
+00:59:13.000 --> 00:59:29.000
+Aí aqui tem prazos intermediários também — uma Lagerstellenfrist (prazo do custodiante) — porque o custodiante também diz, ei, 180 dias antes do prazo oficial de 60 meses, eu gostaria de ser lembrado.
+
+00:59:29.000 --> 00:59:38.000
+Ou melhor, não lembrado — só me dê todos os seus pedidos. Envie dentro desse prazo, senão acabou. Esse é o prazo do custodiante.
+
+00:59:38.000 --> 00:59:52.000
+Aí o RaQuest também tem um Warnfrist (prazo de aviso) embutido, onde você diz, queremos estar dentro ainda mais cedo. Por ex., quando eu estudava pra escola, aprendia desde o começo, mas no fim não.
+
+00:59:52.000 --> 01:00:05.000
+E quem enviou seus pedidos nos primeiros meses não tem mais nada a fazer aqui, nesses períodos críticos. Aí você tem, digamos, um prazo de aviso de 90 dias.
+
+01:00:05.000 --> 01:00:17.000
+E aí é essa marca clara. E quando você está no prazo do custodiante, é uma marca vermelha. Então, entro no RaQuest.
+
+01:00:17.000 --> 01:00:30.000
+E vejo marcas claras e vermelhas. Aí sei: ok, a marca vermelha era o prazo do custodiante, a marca clara era o prazo de aviso. E um ponto de exclamação — o que era?
+
+01:00:30.000 --> 01:00:44.000
+Ah, já pres— como? Prescreveu, sim. Não dá mais pra fazer nada. É o prego no caixão. Acabou. Perdeu.
+
+01:00:46.000 --> 01:00:59.000
+Fechar. Aprendemos reclamações críticas um pouco também. É um sistema de monitoramento dos mercados e de reporte pros operadores.
+
+01:00:59.000 --> 01:01:09.000
+Então, o que temos aqui — Warndokumente (documentos de aviso)? Bem interessante, porque eu disse: lá em cima tem um processo de documento, Fachdokumente verwalten.
+
+01:01:09.000 --> 01:01:23.000
+Mas só por ser um item de menu não significa que o cliente é avisado. E aqui embaixo tem um reporte disso. Então pra documentos de aviso: ei, caro operador do banco, crie 39 documentos.
+
+01:01:23.000 --> 01:01:35.000
+Se você não criar, entra também numa espécie de prescrição. Então isso tem que ser feito. Criar.
+
+01:01:35.000 --> 01:01:49.000
+Por mais trivial que a palavra soe, é literalmente criar documentos. Tem um modelo de dados muito complexo e interessante por trás de quando esses avisos surgem.
+
+01:01:49.000 --> 01:02:03.000
+Por quê, como, pra quê? Você tem que fazer muita configuração. Mas quando surgem, é um bom reporte. Não passamos por todo Webpart, porque alguns não nos afetam por um tempo.
+
+01:02:03.000 --> 01:02:09.000
+E quando afetam, digamos, o Bogdan especificamente, dá pra entrar mais fundo.
+
+01:02:09.000 --> 01:02:23.000
+E vamos fazer isso no futuro também — o RaQuest só dá pra digerir em pedaços. E quando você tem um caso específico, dá pra ir mais fundo.
+
+01:02:23.000 --> 01:02:36.000
+Porque atrás de cada um desses Webparts tem tanta coisa — tanta massa de assunto. Sem querer te assustar.
+
+01:02:36.000 --> 01:02:45.000
+Agora em cima temos Hintergrundaktivitäten (atividades de fundo). Extremamente interessante. Isso acontece sempre que algo acontece no RaQuest, quando dados se movem.
+
+01:02:45.000 --> 01:02:57.000
+Vamos disparar um processo e observar as atividades de fundo. Aprendemos que dá pra clicar em cima à esquerda em Beantragen, Ansprüche beantragen.
+
+01:02:57.000 --> 01:03:09.000
+Vou entrar corajoso agora. Você ainda não viu um único documento. Ainda não conhece o processo — só conhece essa interface um pouco de vista.
+
+01:03:09.000 --> 01:03:18.000
+Então agora vou te mostrar o processo. E com o processo, surgem atividades de fundo. Como operador você deve e pode observá-las.
+
+01:03:18.000 --> 01:03:31.000
+Porque atrás de tudo que você faz, muitas vezes tem cálculos, contas etc.
+
+01:03:31.000 --> 01:03:44.000
+Então, pra te introduzir um pouco ao processo, vamos entrar direto agora. Beantragen, Ansprüche beantragen.
+
+01:03:44.000 --> 01:03:58.000
+Aqui você vê muitos filtros e máscaras de busca. Só pra mostrar uma vez. Aqui tem um menu suspenso com a seta. Vamos escolher Suíça.
+
+01:03:58.000 --> 01:04:07.000
+Porque é um bom exemplo. Aí, aqui atrás tem um círculo. Esse círculo é um campo de busca.
+
+01:04:07.000 --> 01:04:21.000
+Se eu clico, vou pra outra máscara de busca e agora tenho que buscar um contato, por ex. Quero o contato — Kontaktart Finanzinstitut. Quero a instituição que opera o RaQuest: o banco EU-MB.
+
+01:04:21.000 --> 01:04:27.000
+Duplo-clique. Agora selecionei. Suíça e essa instituição. Esses são os filtros que pré-defini.
+
+01:04:27.000 --> 01:04:40.000
+E não preciso usar todos os filtros, mas são muitos, muitos — o que já te sinaliza: ah, tem muita complexidade aqui também.
+
+01:04:40.000 --> 01:04:43.000
+Agora clico em Suche starten.
+
+01:04:43.000 --> 01:05:02.000
+E recebo, pro mercado Suíça que defini, pra instituição, 117 pedidos ou créditos suíços.
+
+01:05:02.000 --> 01:05:17.000
+Esses dados, se tudo deu certo e você resolveu os conflitos, estão perfeitamente implementados no RaQuest e ficam no status 'beantragbar' (solicitável).
+
+01:05:17.000 --> 01:05:31.000
+O que é um status? Temos muitos status diferentes. Acho que não dá pra dizer o plural direito — Statie? 'Statie' é uma palavra bonita.
+
+01:05:31.000 --> 01:05:44.000
+Dá pra trabalhar com isso. Deixa eu te mostrar um status — nosso modelo de status. Se provou ao longo dos anos. Nos créditos você teria primeiro Konflikt. Já aprendemos isso.
+
+01:05:44.000 --> 01:05:56.000
+Quando um crédito é conflito, tem que ser resolvido. Resolvido, ele calcula como não-solicitável ou solicitável. Solicitável é o status-alvo que queremos, porque aí dá pra entrar no processo.
+
+01:05:56.000 --> 01:06:07.000
+Aí dá pra avançar pra cancelado — aí está cancelado. Com erro. Em andamento, ou solicitado. 'Beantragt' (solicitado) é nosso status-alvo pro futuro.
+
+01:06:07.000 --> 01:06:18.000
+Então o que fazemos juntos agora é passar de solicitável pra solicitado. Esses status vão te acompanhar muito, e você vai conhecê-los de cor.
+
+01:06:18.000 --> 01:06:30.000
+Também tem — quando você tem outros — um modelo pra o histórico do pedido (Antragsverlauf). Tem status diferentes com nomes diferentes. Não vou te atacar com isso agora.
+
+01:06:30.000 --> 01:06:42.000
+Também fiquei um tempo olhando esses diagramas. Mas quando você põe o RaQuest do lado e roda esses processos, você entende. Todas as setas verdes.
+
+01:06:42.000 --> 01:06:55.000
+Então você faz uma ação, e surge um status. Outra ação, outro status. Aí dá pra desfazer tudo — por isso duas setas pra cima. E você volta pra um status anterior.
+
+01:06:58.000 --> 01:07:11.000
+É mais ou menos isso. Você vai receber e pode estudar com calma. Vamos entrar no processo. Ei, esse é solicitável. Botão-direito, aí vou em Beantragen.
+
+01:07:12.000 --> 01:07:24.000
+O que o RaQuest faz agora: copia esse crédito pra cá e diz, você tem um crédito suíço, por isso diz CH,
+
+01:07:24.000 --> 01:07:36.000
+pra conta (Depot), pra esse cliente AG2R — um cliente de teste com nome peculiar — copiado uma vez, disponível.
+
+01:07:36.000 --> 01:07:44.000
+Eu também poderia ter dez créditos, dez ações suíças diferentes — poderia ter agrupado aqui. Duplo-clique.
+
+01:07:44.000 --> 01:07:51.000
+Aí você recebe outra máscara, e agora chegamos aos Antragsmodule (módulos de pedido).
+
+01:07:51.000 --> 01:08:05.000
+Sugiro irmos mais 13 minutos e aí fazemos uma pausa. Já estou pronto pra um café pra todos. Ok.
+
+01:08:05.000 --> 01:08:18.000
+Estamos agora dentro do pedido, bem interessante. Então o RaQuest já montou pra gente um container de pedido totalmente automático.
+
+01:08:18.000 --> 01:08:31.000
+O crédito agora aponta pra esse pedido com o número RA-NR ...20. Esse é agora seu ID único, seu número único de pedido.
+
+01:08:31.000 --> 01:08:43.000
+E aqui temos um módulo de pedido. Esses módulos vão aparecer bastante. Pra cada país tem módulos diferentes. Pra cada fisco estrangeiro tem módulos — pra cada Lagerstelle.
+
+01:08:43.000 --> 01:08:55.000
+E esse módulo é Suíça no fisco Suíça — 'CH bei FA CH'. Ou seja, mercado Suíça no fisco suíço.
+
+01:08:55.000 --> 01:09:08.000
+É assim que se lê. FA = Finanzamt Suíça — a repartição na Suíça. E aqui está o domicílio. Ah, o cliente mora na França.
+
+01:09:08.000 --> 01:09:20.000
+Aqui também vemos os dados do crédito e sabemos: ah, ok, imposto na fonte reaviável 10.000 francos suíços. Só pra apontar.
+
+01:09:20.000 --> 01:09:33.000
+E todos esses dados são usados agora pro pedido. E vou pro Druckprozess (processo de impressão). Entramos num pré-processo de impressão. Tem essas barras cinza. Deixa assentar.
+
+01:09:33.000 --> 01:09:46.000
+Aqui, por ex., é a barra do pedido. Aqui a barra do cliente. E uma barra pro fisco do cliente. E uma barra pro fisco estrangeiro — na Suíça, por ex.
+
+01:09:46.000 --> 01:10:00.000
+E essas barras abrem uma após a outra. Ou seja, nem todas estão ativas — agora só a primeira está ativa, e a do fisco do cliente. O que eu faço? Quero imprimir um pedido.
+
+01:10:00.000 --> 01:10:12.000
+Um pedido suíço, que veremos já. Se não virmos, tenho que configurar algo. Tenho que configurar algo. Um segundo. Hehe.
+
+01:10:12.000 --> 01:10:18.000
+Esse era domicílio França.
+
+01:10:18.000 --> 01:10:33.000
+Vamos com calma.
+
+01:10:33.000 --> 01:10:47.000
+Não, não está aqui — está na Suíça. Como é uma versão de teste que uso pela primeira vez hoje. Ah, ativamos pra França.
+
+01:10:47.000 --> 01:10:59.000
+Muito bem. Então, processo de impressão. Imprimimos um pedido, e aqui embaixo imprimimos uma carta pro fisco do cliente. Parece mesmo uma carta. Em cima à direita. Correio sai, né?
+
+01:10:59.000 --> 01:11:13.000
+Existe de fato — quando imprimo os pedidos pra envio. Deixa eu ir rapidinho em cima à direita em 'imprimir todos os documentos selecionados'.
+
+01:11:13.000 --> 01:11:24.000
+Aí primeiro recebo PDFs. Então ele renderiza e monta os PDFs com todos os dados.
+
+01:11:24.000 --> 01:11:37.000
+É um processo bem trabalhoso, por isso demora um pouco. E o que você vê aqui é um pedido suíço recém-nascido, todo impresso.
+
+01:11:37.000 --> 01:11:44.000
+Diz Form 83, diz Swiss e blá blá blá.
+
+01:11:44.000 --> 01:11:52.000
+Então é um pedido suíço referente ao mercado França, ao domicílio França.
+
+01:11:52.000 --> 01:12:03.000
+Deixa eu dar zoom out um pouco pra você ver quanto papel tem, e zoom in de novo. O que se vê? Vê o endereço da instituição.
+
+01:12:03.000 --> 01:12:15.000
+Talvez já veja os dados do cliente — aqui AG2R, um endereço, o endereço da instituição que faz isso pra você.
+
+01:12:15.000 --> 01:12:29.000
+Vê os dados bancários — pra onde o dinheiro deve ser transferido. França, IBAN. E vê o crédito aqui. Aí, ok, tem uma linha de total.
+
+01:12:29.000 --> 01:12:40.000
+Poderia ter vários créditos aí. E aí 10.260 é reaviado. Total amount. 10.260 é reaviado.
+
+01:12:40.000 --> 01:12:48.000
+É isso que submetemos ao fisco estrangeiro, o que queremos receber. Aí você vê Antragsfragen (perguntas do pedido). O que é isso?
+
+01:12:49.000 --> 01:12:58.000
+O estado suíço — na real qualquer estado — quer checar se você é mesmo elegível. Pra isso tem que resolver certas questões.
+
+01:12:58.000 --> 01:13:12.000
+Que o Christoph Huckermann, digamos, se ele tivesse uma empresa na Suíça, poderia ser um caso em que ele não pode reaver nada.
+
+01:13:12.000 --> 01:13:24.000
+Se você não pode mais lidar com isso, aí tem que marcar várias cruzes aqui. E o RaQuest pode marcar as cruzes totalmente automático. Então dá pra influenciar tudo.
+
+01:13:24.000 --> 01:13:36.000
+E marcamos as cruzes quase automático. Aí dá pra descer — tem uma segunda cópia, uma terceira cópia. Porque quem recebe cópias?
+
+01:13:36.000 --> 01:13:49.000
+O cliente recebe cópia, o fisco estrangeiro recebe cópia, e o fisco do cliente recebe cópia. E aqui vemos uma carta que na verdade diz à autoridade francesa,
+
+01:13:49.000 --> 01:13:59.000
+até em francês, 'cara autoridade fiscal estrangeira francesa, por favor, por favor' — essa é a carta pro fisco.
+
+01:13:59.000 --> 01:14:07.000
+Cara autoridade francesa, você é a autoridade do cliente, o fisco do cliente,
+
+01:14:07.000 --> 01:14:17.000
+emita pra gente um comprovante de residência (Wohnsitzbestätigung) de que o francês mora na França, em — sei lá — Paris,
+
+01:14:17.000 --> 01:14:27.000
+é tributado lá, é residente lá. E assim, com essa carta, obtemos a prova de residência.
+
+01:14:27.000 --> 01:14:37.000
+Aqui diz em francês, 'certificat de résidence', que estamos solicitando uma confirmação de residência.
+
+01:14:37.000 --> 01:14:50.000
+E é isso. Esse formulário, e agora — Anna, tua pergunta — tem que ser impresso. De todo jeito, ainda 90% em papel na maioria.
+
+01:14:50.000 --> 01:15:02.000
+Aí é envelopado pelos operadores do banco. Mas isso está um pouco fora da nossa esfera de influência,
+
+01:15:02.000 --> 01:15:10.000
+porque as autoridades estrangeiras às vezes ainda trabalham muito pouco digital, e querem por correio.
+
+01:15:10.000 --> 01:15:17.000
+Então se houvesse um jeito de mandar por e-mail e fosse permitido, talvez fizessem.
+
+01:15:17.000 --> 01:15:29.000
+Aí no RaQuest a gente poderia dizer, sim, você tem os PDFs aqui, mas poderia salvar, imprimir, puxar as coisas e salvar como PDF em algum lugar.
+
+01:15:29.000 --> 01:15:40.000
+E aí talvez um dia dá pra chegar a ponto de conectar a caixa de e-mail, conectar contas de e-mail.
+
+01:15:40.000 --> 01:15:47.000
+Seria uma forma de pensar — todos os documentos pro e-mail e tchau. Mas não, isso ainda não existe.
+
+01:15:47.000 --> 01:16:01.000
+A assinatura eletrônica — hoje dá também; o Sr. Färker me manda faturas digitalmente — existem esses sistemas de faturamento com assinatura eletrônica e afins.
+
+01:16:01.000 --> 01:16:09.000
+Nesse caso, quando os fiscos não querem — temos 800 repartições na Alemanha — todos ainda recebem por correio.
+
+01:16:09.000 --> 01:16:29.000
+E quando eles escaneiam de volta digital no local, num centro de digitalização central — mas isso está tudo fora do meu escopo ou conhecimento; a gente entrega esses documentos e PDFs, salva, e aí ele manda pra impressora e envelopa.
+
+01:16:29.000 --> 01:16:41.000
+90% dos casos. Também já existe um processo digital, que chamamos de STTI, que criamos em paralelo — paralelo a esses processos de impressão.
+
+01:16:41.000 --> 01:16:59.000
+Ok, agora você diz, tudo certo, revisei o pedido como operador, as assinaturas estão, super legal, as cruzes estão, e aí ele pode clicar em Eintragen (lançar/confirmar).
+
+01:17:00.000 --> 01:17:07.000
+Cliquei em Eintragen embaixo à direita, confirmei o processo, e aí ele pode clicar em Übernehmen (aplicar).
+
+01:17:07.000 --> 01:17:20.000
+Então agora, com a segunda confirmação, esses dados — o pedido — estão de fato fixados. Agora existe. Antes era um processo de criação.
+
+01:17:21.000 --> 01:17:30.000
+Agora existe. Aqui vemos o crédito antigo como foi copiado, e aqui vemos um pedido com número de pedido.
+
+01:17:30.000 --> 01:17:37.000
+Agora já vemos, ah, tem um status novo chamado 'Wohnsitzbestätigung eingefordert' (comprovante de residência solicitado).
+
+01:17:38.000 --> 01:17:51.000
+E é exatamente isso. Escrevemos pro fisco na França pra solicitar o comprovante — foi o que fizemos, solicitamos. Agora esperamos duas semanas — são rápidos — mandam o comprovante pro banco.
+
+01:17:52.000 --> 01:18:06.000
+O banco pega o comprovante — ah, chegou — entra no RaQuest, botão-direito, Empfangsbestätigung (confirmação de recebimento), escreve pro fisco, pá. Está confirmado? Sim, está. É tipo um carimbo de processo.
+
+01:18:06.000 --> 01:18:20.000
+Aí dizemos, ok, botão-direito, de volta pro processo de impressão, porque agora tenho todos os documentos — o pedido e o comprovante. Imprimir.
+
+01:18:20.000 --> 01:18:34.000
+E abre uma nova categoria de impressão. Deixa eu rolar pra baixo, anotar rápido — ah, a Beantragungsstelle (posto de solicitação) está aberta agora. Então posso escrever pra ela.
+
+01:18:35.000 --> 01:18:47.000
+Pra onde queremos solicitar de novo? Pra Suíça. E aqui mais documentos são impressos também — uma lista de pedidos, tax voucher, imposto na fonte, rendimentos relevantes.
+
+01:18:47.000 --> 01:19:00.000
+Então não se assuste — o RaQuest, me disseram, já tem bem mais de 500 formulários implementados. Não consigo nomear cada um, nem explicar todos de cara,
+
+01:19:01.000 --> 01:19:15.000
+tem que falar dos formulários juntos, um de cada vez. E aí você diz, agora mando isso pro processo de impressão. E ha — aqui estão até os signatários autorizados, Charles Waldorf e Herbert Stadler,
+
+01:19:15.000 --> 01:19:22.000
+que agora seriam os signatários autorizados. Aí mando pro processo de impressão via 'imprimir todos os documentos selecionados'.
+
+01:19:24.000 --> 01:19:38.000
+Agora renderiza de novo e nos manda pro processo de impressão. Então estamos no fim do processo todo. Demorou mais com a explicação, mas se eu faço a toque de caixa,
+
+01:19:38.000 --> 01:19:49.000
+termino em dois, cinco minutos. Dois a cinco minutos eu estimaria. Agora temos uma nova carta pra administração fiscal estrangeira na Suíça,
+
+01:19:49.000 --> 01:20:00.000
+pedindo à administração fiscal que por favor transfira dinheiro pra esse IBAN. E temos outros documentos?
+
+01:20:00.000 --> 01:20:11.000
+Sim, aqui temos mais demonstrativos, listagens e comprovantes que o fisco também talvez queira ter.
+
+01:20:13.000 --> 01:20:23.000
+Aqui estão até as assinaturas de Waldorf e Stadler. E temos opções de configuração complexas pra
+
+01:20:23.000 --> 01:20:36.000
+como controlamos essas assinaturas no RaQuest, e agora teríamos os documentos. Agora ele tem que imprimir de novo, envelopar, e pro fisco estrangeiro. Agora o operador diz, tudo certo.
+
+01:20:37.000 --> 01:20:51.000
+Feito. Clico em Eintragen. Agora estou de volta no processo de impressão. Confirmo uma segunda vez — sempre confirmar duas vezes. Eintragen de novo. Agora vemos, fantástico.
+
+01:20:52.000 --> 01:21:06.000
+Nosso pedido agora está no status 'beantragt' (solicitado). Aqui, a última coluna. Então tínhamos, e mostro de novo, inicialmente um crédito em 'solicitável'.
+
+01:21:06.000 --> 01:21:18.000
+Aqui o crédito nesse status do meio 'solicitável'. Movemos pra um pedido. E aí vemos esse pedido. Histórico de status.
+
+01:21:19.000 --> 01:21:30.000
+Note que tínhamos 'comprovante de residência solicitado' como status. E terceiro, 'solicitado' foi o terceiro status. Então nem todo status sempre ocorre — depende do desenho do processo.
+
+01:21:32.000 --> 01:21:45.000
+E agora estamos em 'solicitado' e basicamente quase terminamos o processo. Porque agora descansa no fisco. Pode levar um ano até o dinheiro chegar.
+
+01:21:46.000 --> 01:21:57.000
+E agora temos um pouso perfeito. Às 11h vamos fazer uma pausa curta até e dez, ok? Aí nos vemos de novo. Ok.

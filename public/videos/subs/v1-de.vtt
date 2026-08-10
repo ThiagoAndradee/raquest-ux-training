@@ -1,0 +1,7888 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:10.000
+Jetzt.
+
+00:00:10.000 --> 00:00:27.000
+Ja, also was wir hier sehen, ist die Startoberfläche von RaQuest, bevor ihr euch einloggt. Ganz generell ist es so, dass die Kunden mittlerweile auch wählen können, dass sie mit einem Single Sign-On sich einloggen können.
+
+00:00:27.000 --> 00:00:39.000
+Also bedeutet, sie tun sich an ihrem Windows-Benutzerkonto anmelden, also Rechner hochfahren, anmelden und wären dann schon automatisch in RaQuest drin. Gibt's jetzt vielleicht schon seit einem Jahr, würde ich sagen.
+
+00:00:39.000 --> 00:00:47.000
+Auf die bewährte Art und Weise war es, dass man sich selber anmeldet, da hat man Benutzername und ein Passwort dafür.
+
+00:00:47.000 --> 00:00:57.000
+Wir machen das meistens so, dass wir hier nicht mit Single Sign-On arbeiten, denn wir haben ja parallel viele Anwendungen laufen von verschiedenen Kunden.
+
+00:00:57.000 --> 00:01:11.000
+Und dann empfiehlt es sich, sich immer manuell anzumelden. Was ihr hier also seht, ist außerdem da noch der Name der Version. Das ist da die Kumamoto.
+
+00:01:11.000 --> 00:01:27.300
+Unsere Versionen werden bis dato immer nach Namen von Vulkanen bezeichnet. Kumamoto ist die aktuellste Version. Und wenn man jetzt hier schaut, ah okay, das ist noch aus dem Jahr 2020, aus dem Q4, Quartal 4.
+
+00:01:27.300 --> 00:01:43.440
+Und dann sieht man hier so eine lange Zahlenreihe. Da kann man dann immer davon ausgehen, dass 24 ist gleich die Kumamoto. Und wenn man von rechts hinten liest, dann ist es der 18. März.
+
+00:01:43.440 --> 00:01:58.020
+Das heißt, das ist eine Version aus dem 18. März und die Nullte. Also quasi man zählt von Null. Wenn man mehrere Versionen am Tag macht, dann kann es dann auch als eine 1, 2, 3, 4, 5, 6, 7 kommen.
+
+00:01:58.480 --> 00:02:04.840
+Aber wenn man wissen möchte, also welchen Monat und Tag das kommt, dann nimmt man diese Zahlen, 18. März.
+
+00:02:04.840 --> 00:02:16.260
+Das ist also nicht eine ganz aktuelle Version. Schon wieder neuere. Aber so kann man sich schon mal orientieren, was man vor sich hat. Das ist ganz wichtig auch für Support und QS.
+
+00:02:17.840 --> 00:02:30.460
+Benutzername. Wir haben immer so eine Standardbenutzername. Sehr häufig kommt ihr mit SV. Steht für Sachbearbeiter, Sachverwalter oder so. 2 oder Sachverwalter SV 1.
+
+00:02:30.460 --> 00:02:37.460
+Und das Passwort ist häufig Halvotec. Dann könnt ihr in die Standardanbindung rein. Und dann geht ihr auf Anmelden.
+
+00:02:40.160 --> 00:02:54.840
+Hier baut sich eine Benutzeroberfläche auf. Das ist die Startseite von RaQuest. Was ihr hier seht, sind erstmal so die Menüleiste, worüber man sich sehr schnell orientieren kann und in verschiedene Programmteile einsteigen kann.
+
+00:02:54.840 --> 00:03:01.740
+Dann sieht man hier so verschiedene schwarze Balken mit Umrandungen. Die nennen wir Webparts.
+
+00:03:02.300 --> 00:03:09.840
+Das sind Programmteile, die dem Benutzer, dem Sachbearbeiter verschiedene Dinge reporten.
+
+00:03:11.020 --> 00:03:19.200
+Also hier hat er sofort eine komplette Übersicht über die verschiedenen Programmteile aus RaQuest und sogar eine Übersicht darüber, was er zu tun hat.
+
+00:03:19.200 --> 00:03:24.340
+Vielleicht sogar, wann er es zu tun hat. Wieso, weshalb, warum er es zu tun hat.
+
+00:03:25.000 --> 00:03:32.280
+Und deswegen haben wir das so in verschiedene Webparts unterteilt, weil man eben wirklich aus verschiedenen Ecken von RaQuest reportet werden muss.
+
+00:03:33.360 --> 00:03:37.000
+Diese Webparts könnte man jetzt also weg-ixen, wenn man sie nicht braucht.
+
+00:03:38.100 --> 00:03:41.740
+Diese Webparts könnte man auch minimieren, wenn man sie nicht braucht.
+
+00:03:41.740 --> 00:03:43.280
+Und man kann sie sogar verschieben.
+
+00:03:45.400 --> 00:03:49.520
+Es gibt ja vielleicht Sachbearbeiter, die brauchen den einen oder anderen Webpart nicht.
+
+00:03:50.480 --> 00:03:59.180
+Weil sie zum Beispiel keinen Relief-Versource oder Standard-Farbbefreiung machen, dann könnten sie hier eines dieser Webparts schließen.
+
+00:04:00.980 --> 00:04:05.680
+Außerdem, diese Webparts brauchen auch eine gewisse Rechenleistung.
+
+00:04:05.820 --> 00:04:09.840
+Also wenn man möchte, dass die Startseite schneller geht, dann kann man sich ein paar natürlich wegmachen.
+
+00:04:09.840 --> 00:04:11.840
+Okay.
+
+00:04:14.460 --> 00:04:25.920
+Von der Menüleiste her, wenn wir jetzt mal von links nach rechts durchgehen, dann kann man gut sagen, dass hier wieder weitere Punkte auftauchen, die man auswählen kann.
+
+00:04:27.020 --> 00:04:35.080
+Wenn man jetzt von links weggeht, dann auf Beantragen klickt, dann könnte man direkt in den Ansprüche Beantragung Prozess einsteigen.
+
+00:04:35.080 --> 00:04:36.360
+Was sind Ansprüche?
+
+00:04:37.360 --> 00:04:42.540
+Ansprüche entstehen immer dann, wenn jemand Wertpapiere hält.
+
+00:04:43.220 --> 00:04:47.080
+Auf Basis der Wertpapiere bekommt er Dividenden oder Zinsen.
+
+00:04:48.300 --> 00:04:51.300
+Und leider werden darauf dann Steuern fällig.
+
+00:04:52.240 --> 00:04:54.480
+Und diese Steuern sind diese Ansprüche.
+
+00:04:54.480 --> 00:04:59.640
+Das heißt, man kann sich auch noch etwas aus dem Ausland zurückfordern.
+
+00:05:01.640 --> 00:05:09.220
+Also auf Basis der Wertpapieransprüche, also der Dividenden und Zinsen, lässt es, ließe sich dann eben die Steuer rechnen.
+
+00:05:09.320 --> 00:05:16.240
+Und daraus ließe sich der Anspruch, den man dann hat, also was man rückfordern möchte, rechnen.
+
+00:05:16.240 --> 00:05:19.620
+Dann entstehen eben so Linien.
+
+00:05:19.760 --> 00:05:25.100
+Ich kann dann mal da kurz rein gehen, auf Antragen, Ansprüche beantragen klicken.
+
+00:05:25.540 --> 00:05:27.540
+Dann geht eine neue Maske auf.
+
+00:05:28.140 --> 00:05:31.260
+Und jetzt gehe ich mal ganz schnell, geschwind auf Suche Staaten.
+
+00:05:31.360 --> 00:05:33.160
+Diese Suche Staaten werdet ihr immer wieder sehen.
+
+00:05:34.380 --> 00:05:39.540
+Und dann bekomme ich alle Ansprüche, die es gibt, basierend auf diesen Steuern.
+
+00:05:40.720 --> 00:05:43.020
+Eine Linie ist ein Anspruch.
+
+00:05:43.020 --> 00:05:50.760
+Jetzt könnte man dann sagen, diese Linie ist jetzt eine Schweizer Isin, ein Schweizer Wertpapier.
+
+00:05:51.500 --> 00:05:54.780
+Und hier steht das Wort Beantrag.
+
+00:05:55.000 --> 00:05:59.720
+Also ich will euch nicht erschlagen mit den ganz verschiedenen Daten und Fakten, die hier sehen.
+
+00:06:00.100 --> 00:06:02.320
+Aber das ist auf jeden Fall schon mal beantragbar.
+
+00:06:02.460 --> 00:06:05.520
+Damit kann man jetzt sozusagen den Prozess anstoßen.
+
+00:06:06.300 --> 00:06:10.020
+Durch Rechtsklick beantragen.
+
+00:06:10.640 --> 00:06:11.500
+Das ist ganz einfach.
+
+00:06:11.500 --> 00:06:18.400
+Dann wird man den Prozess anstoßen, um verschiedene Teilnehmer an diesem Prozess anzuschreiben.
+
+00:06:19.660 --> 00:06:22.820
+Unterschriften einzufordern, die sie zu leisten haben.
+
+00:06:23.640 --> 00:06:29.500
+Und im Endeffekt aber auch an den auslöhnlichen Behörden und Banken bzw. Lagerstellen einzurechnen.
+
+00:06:29.500 --> 00:06:34.900
+Die dann prüfen, ob die Steuer halt dann erstattet wird.
+
+00:06:34.900 --> 00:06:39.920
+Und zwar an der Bank stellt ja einen Anspruch.
+
+00:06:40.160 --> 00:06:42.120
+Ich sage mal, ich habe Aktien in der Schweiz.
+
+00:06:42.900 --> 00:06:48.120
+Und dann stelle ich dann an die österreichische Regierung, ans Finanzamt in der Schweiz den Anspruch.
+
+00:06:48.300 --> 00:06:54.680
+Oder an wen schickt die Deutsche Bank den Anspruch für die Quellensteuer, die in der Schweiz erwohnt wurde?
+
+00:06:54.680 --> 00:07:01.380
+Du bist angenommen, du bist bei einer deutschen Bank.
+
+00:07:01.580 --> 00:07:02.440
+Hast dein Depot.
+
+00:07:03.240 --> 00:07:05.980
+Und du hast deinen Schweizer Anspruch bereits.
+
+00:07:06.100 --> 00:07:07.180
+Du weißt, dass du ihn hast.
+
+00:07:07.180 --> 00:07:14.260
+Die Bank selber würde das dann in deinem Auftrag, in deiner Vollmacht machen, weil du der Bank eine Vollmacht gegeben hast.
+
+00:07:14.940 --> 00:07:25.760
+Dann würde diese Bank hier Formulare mit RaQuest drucken und sendet es an die ausländische Steuerbehörde in der Schweiz.
+
+00:07:25.760 --> 00:07:33.980
+Die heißt tatsächlich dann eidgenössische Steuerverwaltung.
+
+00:07:34.460 --> 00:07:36.460
+Wir haben die Adresse auch in RaQuest.
+
+00:07:37.100 --> 00:07:43.220
+Der würde dann diese eidgenössische Steuerverhaltung bekommt ein Anschreiben.
+
+00:07:43.360 --> 00:07:50.620
+Da steht dann drauf, Anna Krause hat die und die Ansprüche aus der Schweiz und möchte so und so viel Euro zurückhaben.
+
+00:07:51.000 --> 00:07:52.640
+Liebes ausländische Steuerverwaltung.
+
+00:07:53.040 --> 00:07:55.700
+Dann überweisen die es an die Bank.
+
+00:07:55.760 --> 00:07:56.980
+Und die überweisen es an dich.
+
+00:07:58.080 --> 00:07:58.760
+Aber so, oder?
+
+00:07:59.340 --> 00:08:03.480
+Meine Bank muss nachweisen, dass ich hier deutsche Kapitalertragssteuer gezahlt habe.
+
+00:08:04.760 --> 00:08:12.620
+Und nur deswegen habe ich Anspruch auf Rückforderung der Quellensteuer, weil ich hier schon die Kapitalertragssteuer in Deutschland bezahlt habe.
+
+00:08:12.900 --> 00:08:13.720
+Auch meine FW.
+
+00:08:14.640 --> 00:08:23.640
+Ja, ganz konkret würde man dann sagen, naja, du bist ja in Deutschland dann steuerpflichtlich und in der Schweiz.
+
+00:08:23.640 --> 00:08:28.380
+Wenn du aber in der Schweiz steuerpflichtig bist, müsstest du 35 Prozent zahlen.
+
+00:08:28.500 --> 00:08:36.020
+In Deutschland müsstest du 25 oder 26,375 mit Kirchensteuern Solidaritätszuschlag zahlen.
+
+00:08:36.020 --> 00:08:48.620
+Sagen wir mal 25 und 25,35 sind dann ziemlich genau 60 Prozent, die du Steuern zahlen müsstest.
+
+00:08:48.620 --> 00:08:55.120
+Würdest du 10.000 Euro zurückfordern, dann müsstest du 60 Prozent Steuern zahlen, dann bleiben dir 4.000.
+
+00:08:56.000 --> 00:08:57.680
+Das ist nicht okay.
+
+00:08:57.680 --> 00:09:05.860
+Deswegen haben dann die Staaten wie Deutschland und der Schweiz ein Doppelbesteuerungsabkommen vereinbart.
+
+00:09:06.700 --> 00:09:12.800
+Und darin besagt man, dass ein Deutscher nicht mehr besteuert werden darf, als er in Deutschland besteuert wird.
+
+00:09:12.940 --> 00:09:15.260
+Also das soll bei 25 Prozent bleiben.
+
+00:09:15.260 --> 00:09:21.240
+Allerdings teilt sich der deutsche Staat und der Schweizer Staat die Steuer auf.
+
+00:09:21.320 --> 00:09:23.920
+Jeder kriegt ein bisschen was von einem 25 Prozent.
+
+00:09:24.560 --> 00:09:29.220
+Also wäre es dann ja so, dass du in Deutschland eben etwas geringer besteuert wirst.
+
+00:09:29.400 --> 00:09:31.980
+Sagen wir mal 10 Prozent oder so.
+
+00:09:32.420 --> 00:09:33.300
+Das ist halt vereinbart.
+
+00:09:33.480 --> 00:09:34.900
+Oder 11,375.
+
+00:09:35.900 --> 00:09:37.520
+Bleiben wir mal, weil es 10 ist einfacher.
+
+00:09:37.520 --> 00:09:42.420
+Und aus der Schweiz forderst du 15 Prozent zurück.
+
+00:09:42.980 --> 00:09:47.800
+10 und 15 macht 25 und du bist nicht mehr besteuert, als in Deutschland besteuert werden sollte.
+
+00:09:50.380 --> 00:09:52.820
+Also kriegen wir aus der Schweiz 15 Prozent zurück.
+
+00:09:53.680 --> 00:09:55.880
+Im Idealfall.
+
+00:09:59.060 --> 00:10:00.760
+20 Prozent bleiben in der Schweiz.
+
+00:10:02.220 --> 00:10:03.000
+Von den 35.
+
+00:10:03.000 --> 00:10:07.600
+Aber sage ich 10 Prozent dann schon mehr steuert, als wenn ich nur deutsche Aktien hätte.
+
+00:10:08.100 --> 00:10:08.360
+Nein.
+
+00:10:09.420 --> 00:10:14.560
+Deutsche Aktien zahlst du 25 und wenn du doppelt besteuert wirst und es zurückgefordert hast,
+
+00:10:14.700 --> 00:10:19.940
+im Endeffekt, am Ende des Prozesses, du dein Geld erhalten hast, bist du auch wieder bei 25.
+
+00:10:21.700 --> 00:10:23.740
+Es ist nur komplizierter, langwieriger.
+
+00:10:25.320 --> 00:10:27.360
+Und deswegen gibt es RaQuest.
+
+00:10:28.340 --> 00:10:28.900
+Ja, ja.
+
+00:10:28.900 --> 00:10:38.260
+Vielleicht können wir ja auch dieses Grundlagenthema dann in ein anderer Gespräch oder schon.
+
+00:10:38.260 --> 00:10:43.340
+Herr Börn, wir können stellen uns einen Termin ein mit einem YouTube-Video, wo er es nochmal erklärt.
+
+00:10:44.640 --> 00:10:45.120
+Perfekt.
+
+00:10:46.480 --> 00:10:48.760
+Dann würde ich in Rackwitz sozusagen voranschreiten.
+
+00:10:48.840 --> 00:10:49.780
+Aber es ist eine gute Grundlage.
+
+00:10:49.920 --> 00:10:53.680
+Das ist auf jeden Fall für das weitere Verständnis.
+
+00:10:53.680 --> 00:10:59.040
+Ja, also seht ihr hier so einen Anspruch und dann könnte man den Prozess anstoßen.
+
+00:10:59.360 --> 00:11:01.920
+Das machen wir auch in ein paar Minuten dann nochmal.
+
+00:11:02.360 --> 00:11:06.520
+Aber ich möchte nochmal auf die Hauptbenutzeroberfläche zurückkommen.
+
+00:11:07.440 --> 00:11:09.580
+Also wäre das der Haupteinstiegspunkt.
+
+00:11:09.740 --> 00:11:12.660
+Ja, wie mehr müsste man beim Standardrefund eigentlich gar nicht machen?
+
+00:11:13.200 --> 00:11:14.400
+So einfach ist das.
+
+00:11:14.400 --> 00:11:20.740
+Wenn einer dieser Ansprüche auf einen Antrag gepinnt ist, was ist ein Antrag?
+
+00:11:20.860 --> 00:11:26.240
+Ein Antrag für die Schweizer Steuerbehörde ist halt ein echtes Schweizer Steuerbehördenformular.
+
+00:11:26.960 --> 00:11:28.580
+Das werdet ihr noch oft genug sehen.
+
+00:11:28.860 --> 00:11:30.660
+Und da wird der Anspruch drauf gedruckt.
+
+00:11:31.600 --> 00:11:36.160
+Draufgedruckt bedeutet aber in RaQuest, naja, der Anspruch wird in einen Container überführt,
+
+00:11:36.260 --> 00:11:38.300
+wird auf diesen Antrag drauf gedruckt.
+
+00:11:38.300 --> 00:11:42.700
+Und dann haben wir hier einen neuen Programmteil.
+
+00:11:43.000 --> 00:11:44.400
+Anträge, Anträge verwalten.
+
+00:11:45.520 --> 00:11:48.440
+Ich blende mal hier Sammleranträge bewusst aus.
+
+00:11:49.060 --> 00:11:51.740
+Gehen wir mal auf Anträge verwalten.
+
+00:11:52.720 --> 00:11:54.720
+Denn dann wärt ihr schon im Prozess weiter.
+
+00:11:54.860 --> 00:11:59.140
+Ihr hättet ja schon einen Anspruch in einen Antrag überführt.
+
+00:11:59.140 --> 00:12:04.380
+Und jetzt bin ich wieder auf Suche starten gegangen.
+
+00:12:07.200 --> 00:12:11.600
+Und dort sieht man dann, ja, okay, hier sind so Anträge entstanden.
+
+00:12:11.760 --> 00:12:13.900
+Die Anträge bekommen solche Antragsnummern.
+
+00:12:14.240 --> 00:12:15.180
+Eine RANR.
+
+00:12:16.320 --> 00:12:17.000
+RANR.
+
+00:12:17.340 --> 00:12:19.540
+N-R-A steht für RaQuest.
+
+00:12:19.640 --> 00:12:20.700
+N-R steht für Nummer.
+
+00:12:20.700 --> 00:12:26.300
+Aber jeder Antrag bekommt diese eindeutige, seine eigene eindeutige Nummer,
+
+00:12:26.420 --> 00:12:32.140
+bestehend aus Datum, Monat, Tag und noch einer, ich glaube, sechs- oder siebenstelligen Zahl dahinter,
+
+00:12:32.700 --> 00:12:37.420
+die dann eben, ja, aufsteigend ist.
+
+00:12:38.340 --> 00:12:40.280
+Also hat jeder Antrag eine eigene Nummer.
+
+00:12:40.460 --> 00:12:43.780
+Und diese Linie ist jetzt schon ein Antrag, auch wenn er storniert ist.
+
+00:12:43.780 --> 00:12:50.800
+Warum wir uns hier nicht ablenken lassen.
+
+00:12:51.900 --> 00:12:56.180
+Aber dann hätte man solche Anträge und man wäre schon im Prozess weiter.
+
+00:12:56.320 --> 00:12:59.160
+Jetzt könnte man die dann noch zur Steuerbehörde schicken.
+
+00:13:00.000 --> 00:13:01.160
+Jetzt gehe ich mal auf schließen.
+
+00:13:01.360 --> 00:13:04.020
+Das heißt eigentlich, von links nach rechts gedacht,
+
+00:13:04.380 --> 00:13:07.640
+erst habt ihr Ansprüche, führt die in einen Prozess
+
+00:13:07.640 --> 00:13:10.160
+und erhaltet dann sofort Anträge.
+
+00:13:10.560 --> 00:13:11.200
+Ziemlich schnell.
+
+00:13:11.200 --> 00:13:14.980
+Und dann könntet ihr in den zweiten Programmteil einsteigen,
+
+00:13:15.160 --> 00:13:16.920
+weil dann befinden sich die Anträge dort.
+
+00:13:19.120 --> 00:13:20.240
+So, was hat man noch?
+
+00:13:20.360 --> 00:13:22.600
+Natürlich hat man in RaQuest Kontakte,
+
+00:13:23.180 --> 00:13:25.100
+wie zum Beispiel die Kundendaten.
+
+00:13:26.100 --> 00:13:27.440
+Jetzt mal ganz kurz öffnen.
+
+00:13:29.920 --> 00:13:31.620
+Kontakte, Kontakte verwalten.
+
+00:13:35.180 --> 00:13:38.460
+Und vielleicht dürft ihr euch jetzt schon im Kopf merken,
+
+00:13:38.460 --> 00:13:42.800
+wenn ihr auf Kontakte, Kontakte verwalten geklickt habt,
+
+00:13:43.600 --> 00:13:46.820
+dann gibt es hier rechts außen so unscheinbar eine Kontaktart.
+
+00:13:47.940 --> 00:13:51.240
+Diese Kontaktarten sind eigentlich alle Kontakte,
+
+00:13:51.380 --> 00:13:53.940
+die wir in RaQuest haben, von allen Seiten, die es gibt.
+
+00:13:54.460 --> 00:13:55.300
+Nicht nur Kunden.
+
+00:13:55.600 --> 00:13:57.180
+Also hier in der Mitte steht zwar Kunden,
+
+00:13:57.180 --> 00:14:04.460
+aber ganz da oben steht auch ausländische Behörde,
+
+00:14:04.560 --> 00:14:08.920
+das könnte darunter liegen, eine Schweizer ausländische Behörde.
+
+00:14:09.660 --> 00:14:12.000
+Oder eigentlich alle ausländischen Behörden,
+
+00:14:12.340 --> 00:14:16.540
+die es da draußen so gibt, die wir in RaQuest implementiert haben.
+
+00:14:16.540 --> 00:14:23.980
+Dann hat man noch eine andere Maske zum Beispiel für Finanzämter.
+
+00:14:24.780 --> 00:14:28.360
+Wir brauchen natürlich unzählige Finanzämter von verschiedenen Ländern.
+
+00:14:28.800 --> 00:14:32.400
+In Deutschland gibt es 600 oder 700, 800 Finanzämter.
+
+00:14:33.100 --> 00:14:35.120
+Wenn ich jetzt mal da draufklicke,
+
+00:14:35.500 --> 00:14:39.320
+suchen wir mal mit Suche Staaten nach Finanzämtern.
+
+00:14:39.720 --> 00:14:41.880
+Dann bekommen wir die Adressen aller Finanzämter,
+
+00:14:42.020 --> 00:14:43.540
+die in RaQuest implementiert sind.
+
+00:14:43.540 --> 00:14:46.080
+Hier unten links, ich habe mal ganz runtergeskollt,
+
+00:14:46.120 --> 00:14:47.320
+sind 671.
+
+00:14:47.920 --> 00:14:49.000
+Derzeit implementiert.
+
+00:14:49.860 --> 00:14:51.840
+Könnte auch, können nicht nur Deutsche sein,
+
+00:14:51.960 --> 00:14:53.360
+sondern könnten auch von anderen Ländern sein.
+
+00:14:55.380 --> 00:14:56.800
+Warum brauchen wir die ja?
+
+00:14:56.920 --> 00:15:00.680
+Weil für die einer Krause, wenn sie eine ist,
+
+00:15:00.760 --> 00:15:04.600
+die Wertpapier hält, Rückforderung machen möchte,
+
+00:15:05.100 --> 00:15:07.380
+dass man ja dann auch im Laufe des Prozesses
+
+00:15:07.380 --> 00:15:08.880
+ihren Wohnsitz bestätigen muss,
+
+00:15:08.960 --> 00:15:11.320
+dass sie wirklich in Deutschland Wohnsitz,
+
+00:15:11.320 --> 00:15:13.520
+also einen Wohnsitz hat, ansässig ist,
+
+00:15:13.540 --> 00:15:16.440
+dass sie in Deutschland auch besteuert wird.
+
+00:15:17.980 --> 00:15:20.340
+Und dass dann infolgedessen natürlich auch
+
+00:15:20.340 --> 00:15:21.800
+das Doppelbesteuerungsabkommen,
+
+00:15:21.940 --> 00:15:23.280
+zum Beispiel mit der Schweiz gilt.
+
+00:15:24.120 --> 00:15:24.720
+Deutschland, Schweiz.
+
+00:15:25.820 --> 00:15:28.920
+Das ist der Nachweis, dass sie ansässig ist
+
+00:15:28.920 --> 00:15:32.220
+und dass alles mit rechten Dingen zugeht.
+
+00:15:32.220 --> 00:15:35.320
+Deswegen brauchen wir die Finanzämter.
+
+00:15:35.420 --> 00:15:37.020
+Dann brauchen wir Finanzinstitute.
+
+00:15:37.020 --> 00:15:39.480
+Wenn wir mal reinschauen, mit Suche starten.
+
+00:15:41.180 --> 00:15:44.620
+Das ist jetzt ein sehr ungeschickter OIMB,
+
+00:15:44.780 --> 00:15:46.160
+ist nämlich eine Testinformation.
+
+00:15:47.000 --> 00:15:49.680
+Da würde dann eine Bank drinstehen.
+
+00:15:49.780 --> 00:15:53.940
+Es könnte KUWA, ASPC, LBBW oder so drinstehen.
+
+00:15:53.940 --> 00:15:55.520
+Das ist dann auch der Mandant.
+
+00:15:55.520 --> 00:16:00.020
+Also quasi nicht nur die Adresse des Instituts,
+
+00:16:00.580 --> 00:16:01.740
+die RaQuest anwenden,
+
+00:16:02.300 --> 00:16:05.880
+sondern eben auch viele, viele Einstellungen sind
+
+00:16:05.880 --> 00:16:07.320
+darunter unter der Linie,
+
+00:16:08.320 --> 00:16:10.560
+auf die wir dann mal zu sprechen kommen.
+
+00:16:10.560 --> 00:16:13.680
+Also vom Institut ausgehende Einstellungen
+
+00:16:13.680 --> 00:16:16.020
+sind da ganz, ganz viele vorhanden.
+
+00:16:16.800 --> 00:16:19.160
+Dann könnte man aber auch nach Kunden suchen.
+
+00:16:19.380 --> 00:16:20.980
+Können wir mal auf Suche starten klicken.
+
+00:16:22.380 --> 00:16:24.500
+Und hier ein wichtiger Hinweis wäre,
+
+00:16:25.080 --> 00:16:27.540
+es wird immer unterschieden
+
+00:16:27.540 --> 00:16:29.840
+zwischen verschiedenen Kundenarten.
+
+00:16:30.340 --> 00:16:32.660
+Personen, Gruppe, Organisation, Fonds.
+
+00:16:33.040 --> 00:16:36.420
+Personen sind Bogdan, Anna, Claudia, Christoph.
+
+00:16:37.420 --> 00:16:39.260
+Gruppen sind zum Beispiel Ehepaare.
+
+00:16:39.260 --> 00:16:41.880
+oder Geschwisterpaare
+
+00:16:41.880 --> 00:16:44.140
+oder halt irgendwie Leute,
+
+00:16:44.360 --> 00:16:46.180
+die sich in Gruppen zusammentun und anlegen.
+
+00:16:46.720 --> 00:16:47.940
+Es gibt Organisationen.
+
+00:16:48.660 --> 00:16:51.300
+Organisationen sind eigentlich alle Organisationen
+
+00:16:51.300 --> 00:16:53.440
+hinsichtlich aller Rechtsformen, die es gibt.
+
+00:16:54.760 --> 00:16:56.140
+Das ist quasi eine Schublade.
+
+00:16:56.740 --> 00:16:58.760
+Und dann aber auch kann man nach Fonds suchen.
+
+00:16:59.680 --> 00:17:02.640
+Viele unserer Kunden haben,
+
+00:17:02.780 --> 00:17:04.560
+also unsere Kunden, die RaQuest anwenden,
+
+00:17:05.380 --> 00:17:07.260
+verwalten ja auch viele Fonds
+
+00:17:07.260 --> 00:17:10.500
+über Kapitalanlagegesellschaften.
+
+00:17:11.840 --> 00:17:13.440
+Und deswegen müssen auch diese Fonds,
+
+00:17:13.520 --> 00:17:15.680
+dürfen auch Kölnsteuer zurückfordern.
+
+00:17:16.900 --> 00:17:18.640
+Ja, gehen wir mal auf Personen,
+
+00:17:18.780 --> 00:17:20.500
+dann könnt ihr wieder auf Suche starten gehen
+
+00:17:20.500 --> 00:17:21.880
+und dann findet ihr nur Personen.
+
+00:17:23.260 --> 00:17:24.560
+Hier, Mela Rodriguez,
+
+00:17:24.560 --> 00:17:25.840
+wäre ein so ein Kontakt,
+
+00:17:26.680 --> 00:17:28.220
+für den vielleicht irgendwann mal
+
+00:17:28.220 --> 00:17:29.660
+Kölnsteuer zurückgefordert wird.
+
+00:17:29.660 --> 00:17:31.920
+Da gehen wir jetzt auch nicht tiefer rein.
+
+00:17:32.020 --> 00:17:33.720
+Man könnte dann doppelt draufklicken
+
+00:17:33.720 --> 00:17:35.620
+und würde dann in den Kontakt gelangen
+
+00:17:35.620 --> 00:17:37.760
+und hätte dann so verschiedene,
+
+00:17:38.180 --> 00:17:39.460
+ja, Prozessschritte,
+
+00:17:39.720 --> 00:17:41.200
+was man da alles beim Kunden
+
+00:17:41.200 --> 00:17:43.140
+beachten und einstellen muss.
+
+00:17:44.220 --> 00:17:45.720
+Jetzt gehe ich aber mal auf Abbrechen,
+
+00:17:46.120 --> 00:17:48.720
+um nicht zu viel vorwegzunehmen.
+
+00:17:48.720 --> 00:17:51.880
+Also Kontakte verwalten von der Hauptwebseite
+
+00:17:51.880 --> 00:17:52.540
+vom Menü.
+
+00:17:53.100 --> 00:17:54.120
+Das ist euer Einstieg.
+
+00:17:54.780 --> 00:17:55.900
+Nur nach Kontakten suchen.
+
+00:17:56.440 --> 00:17:56.880
+Allerart.
+
+00:17:58.860 --> 00:18:00.960
+Auch Sachbearbeiter der Banken
+
+00:18:00.960 --> 00:18:01.900
+werden unter Kontakt.
+
+00:18:04.300 --> 00:18:04.900
+Zahlungen.
+
+00:18:05.580 --> 00:18:06.540
+Das ist ziemlich spannend,
+
+00:18:06.960 --> 00:18:09.280
+weil irgendwann kommt ja dann das Geld,
+
+00:18:09.400 --> 00:18:10.420
+zum Beispiel aus der Schweiz
+
+00:18:10.420 --> 00:18:14.320
+und dann landet ein Zahlungseingang,
+
+00:18:14.480 --> 00:18:16.660
+also eine Dateninformation
+
+00:18:16.660 --> 00:18:18.040
+in der RaQuest
+
+00:18:18.040 --> 00:18:20.460
+und diese Zahlungseingänge
+
+00:18:20.460 --> 00:18:22.660
+werden dann sogar vollautomatisch
+
+00:18:22.660 --> 00:18:24.600
+mit dem bestehenden Antrag gematcht,
+
+00:18:24.660 --> 00:18:25.820
+weil ihr müsst euch ja vorstellen,
+
+00:18:25.940 --> 00:18:27.400
+wir haben da diesen Schweizer Antrag
+
+00:18:27.400 --> 00:18:30.960
+mit dieser Run-RaQuest-Nummer
+
+00:18:30.960 --> 00:18:35.160
+und vielleicht weiß ja,
+
+00:18:35.340 --> 00:18:37.420
+also wenn wir alles perfekt konfiguriert haben,
+
+00:18:37.420 --> 00:18:38.680
+der Zahlungseingang,
+
+00:18:38.780 --> 00:18:40.240
+also deine 10.000 Euro,
+
+00:18:40.420 --> 00:18:42.960
+dass sie zu dem und dem Antrag gehören
+
+00:18:42.960 --> 00:18:44.920
+und werden dann gematcht.
+
+00:18:45.580 --> 00:18:46.280
+Das bedeutet,
+
+00:18:46.500 --> 00:18:48.800
+hier finden sich dann die Daten wieder zusammen.
+
+00:18:49.420 --> 00:18:50.160
+Denn der Zahlungseingang,
+
+00:18:50.600 --> 00:18:51.580
+der kommt ja von außen.
+
+00:18:51.700 --> 00:18:52.640
+Der muss ja erst mal
+
+00:18:52.640 --> 00:18:54.960
+mit dem Datensatz verknüpft werden,
+
+00:18:55.060 --> 00:18:56.520
+den wir dann in der RaQuest haben.
+
+00:18:57.480 --> 00:18:58.080
+Aber quasi,
+
+00:18:58.700 --> 00:19:00.000
+also unsere Bahn,
+
+00:19:00.100 --> 00:19:00.880
+bei sich heißt HFPC,
+
+00:19:01.100 --> 00:19:02.380
+stellt in den Schweiz einen Antrag
+
+00:19:02.380 --> 00:19:04.020
+und wenn die Schweiz sagt,
+
+00:19:04.140 --> 00:19:05.640
+ja, wir zahlen das zurück,
+
+00:19:05.640 --> 00:19:06.300
+dann wird das Geld
+
+00:19:06.300 --> 00:19:07.920
+erstmal an den HFPC überwiesen
+
+00:19:07.920 --> 00:19:08.860
+und die würden es dann
+
+00:19:08.860 --> 00:19:10.820
+dem Endkunden überweisen, oder?
+
+00:19:11.520 --> 00:19:11.860
+Ja,
+
+00:19:12.060 --> 00:19:14.780
+in 99% der Fällen
+
+00:19:14.780 --> 00:19:16.220
+kenne ich den Prozess genauso,
+
+00:19:17.020 --> 00:19:18.520
+dass natürlich der HFPC
+
+00:19:18.520 --> 00:19:19.920
+das Geld verwalten möchte.
+
+00:19:20.420 --> 00:19:21.580
+Man muss sich ja vorstellen,
+
+00:19:21.680 --> 00:19:23.160
+die machen das ja für Tausende
+
+00:19:23.160 --> 00:19:24.300
+von Kunden.
+
+00:19:25.060 --> 00:19:26.300
+Und für Tausende von Kunden
+
+00:19:26.300 --> 00:19:27.080
+kommt dann vielleicht
+
+00:19:27.080 --> 00:19:28.900
+ein großer Zahlungseingang
+
+00:19:28.900 --> 00:19:31.720
+oder viele kleine Zahlungseingänge
+
+00:19:31.720 --> 00:19:34.360
+und dann würde das Geld
+
+00:19:34.360 --> 00:19:36.360
+sozusagen ein ganzer Batzen Geld
+
+00:19:36.360 --> 00:19:37.640
+auf das Konto
+
+00:19:37.640 --> 00:19:38.960
+der HSBC wandern.
+
+00:19:39.680 --> 00:19:40.540
+Das ist das Ziel.
+
+00:19:40.960 --> 00:19:41.580
+Deswegen steht auch
+
+00:19:41.580 --> 00:19:42.920
+auf dem Schweizer Antragsformular
+
+00:19:42.920 --> 00:19:44.020
+nicht das Konto
+
+00:19:44.020 --> 00:19:45.220
+von der Anna Krause,
+
+00:19:45.660 --> 00:19:46.140
+sondern das Konto
+
+00:19:46.140 --> 00:19:46.880
+von der HSBC.
+
+00:19:48.560 --> 00:19:50.360
+Die HSBC verteilt es dann
+
+00:19:50.360 --> 00:19:52.040
+entsprechend mit Hilfe von
+
+00:19:52.040 --> 00:19:53.660
+RaQuest ordentlich
+
+00:19:53.660 --> 00:19:54.480
+zum Kunden
+
+00:19:54.480 --> 00:19:55.460
+und das,
+
+00:19:55.660 --> 00:19:56.440
+da kommt dann auch
+
+00:19:56.440 --> 00:19:57.580
+Zahlungsausgänge
+
+00:19:57.580 --> 00:20:00.040
+zum Einsatz,
+
+00:20:00.160 --> 00:20:01.280
+also nicht Zahlungseingänge,
+
+00:20:01.420 --> 00:20:02.140
+sondern Zahlungsausgänge.
+
+00:20:02.460 --> 00:20:03.300
+Geld, das rausgeht.
+
+00:20:03.440 --> 00:20:04.160
+Also das muss man sich
+
+00:20:04.160 --> 00:20:05.540
+wie einen Buchungssatz vorstellen.
+
+00:20:07.080 --> 00:20:08.100
+Geld, das rausgeht
+
+00:20:08.100 --> 00:20:08.780
+zum Kunden
+
+00:20:08.780 --> 00:20:10.100
+auf das Konto des Kunden.
+
+00:20:10.100 --> 00:20:14.720
+Man könnte sich auch so vorstellen,
+
+00:20:14.900 --> 00:20:16.240
+ihr bekommt eine Dividende
+
+00:20:16.240 --> 00:20:17.860
+und viele Monate
+
+00:20:17.860 --> 00:20:18.780
+oder ein Jahr später
+
+00:20:18.780 --> 00:20:20.560
+bekommt ihr die Rückerstattung
+
+00:20:20.560 --> 00:20:21.480
+aus der Schweiz.
+
+00:20:22.120 --> 00:20:23.800
+Also quasi die restliche
+
+00:20:23.800 --> 00:20:25.100
+verbliebene Quellensteuer,
+
+00:20:25.220 --> 00:20:26.220
+die euch noch zusteht.
+
+00:20:27.360 --> 00:20:28.300
+Viel, viel später.
+
+00:20:29.120 --> 00:20:29.980
+Was natürlich schade ist,
+
+00:20:30.020 --> 00:20:30.800
+weil man dann das Geld
+
+00:20:30.800 --> 00:20:32.700
+ja nicht wieder neu anlegen kann
+
+00:20:32.700 --> 00:20:33.360
+in der Zeit,
+
+00:20:33.480 --> 00:20:35.960
+aber so ist das halt.
+
+00:20:39.500 --> 00:20:39.940
+Stammdaten.
+
+00:20:40.100 --> 00:20:41.900
+Stammdaten ist äußerst wichtig,
+
+00:20:42.060 --> 00:20:42.740
+weil hier findet ihr
+
+00:20:42.740 --> 00:20:44.020
+erstmals die Wertpapiere.
+
+00:20:46.940 --> 00:20:48.240
+Alle Wertpapiere,
+
+00:20:48.460 --> 00:20:49.380
+die gebraucht werden
+
+00:20:49.380 --> 00:20:50.380
+für die Ansprüche.
+
+00:20:50.940 --> 00:20:51.960
+Die werden eingelesen.
+
+00:20:52.040 --> 00:20:53.120
+Da können dann gut mal
+
+00:20:53.120 --> 00:20:54.920
+ein paar Tausende
+
+00:20:54.920 --> 00:20:56.420
+oder Zehntausende
+
+00:20:56.420 --> 00:20:57.220
+von Wertpapieren
+
+00:20:57.220 --> 00:20:58.220
+eingelesen werden.
+
+00:21:00.920 --> 00:21:02.000
+Da geht man also
+
+00:21:02.000 --> 00:21:02.940
+auf Stammdaten,
+
+00:21:03.020 --> 00:21:04.160
+Wertpapier verwalten
+
+00:21:04.160 --> 00:21:05.580
+und ich klicke da drauf
+
+00:21:05.580 --> 00:21:07.960
+und gehe auf Suche starten.
+
+00:21:08.700 --> 00:21:09.820
+Jetzt kann man dann sagen,
+
+00:21:09.820 --> 00:21:11.160
+okay, hier sind jetzt
+
+00:21:11.160 --> 00:21:14.340
+2800 Linien drin,
+
+00:21:15.340 --> 00:21:17.420
+was Wertpapiere darstellt
+
+00:21:17.420 --> 00:21:18.240
+mit einer Isin,
+
+00:21:18.300 --> 00:21:19.020
+mit einem Namen
+
+00:21:19.020 --> 00:21:20.300
+und was ist es für
+
+00:21:20.300 --> 00:21:21.560
+ein Instrumentart,
+
+00:21:21.800 --> 00:21:23.100
+heißt Aktie oder Anleihe.
+
+00:21:25.100 --> 00:21:26.000
+Hier ist dann noch
+
+00:21:26.000 --> 00:21:27.100
+ein Besteuerungsland.
+
+00:21:27.600 --> 00:21:28.680
+Es wird in Österreich
+
+00:21:28.680 --> 00:21:29.320
+besteuert,
+
+00:21:29.380 --> 00:21:29.860
+weil es ja ein
+
+00:21:29.860 --> 00:21:31.780
+österreichisches Wertpapier
+
+00:21:31.780 --> 00:21:32.900
+genau.
+
+00:21:33.940 --> 00:21:35.180
+Wenn ihr da noch draufklickt
+
+00:21:35.180 --> 00:21:35.960
+aufs Wertpapier,
+
+00:21:36.060 --> 00:21:37.260
+da erhaltet ihr zusätzliche
+
+00:21:37.260 --> 00:21:39.080
+Informationen zum Wertpapier,
+
+00:21:40.260 --> 00:21:42.260
+aber sehr groß sind die
+
+00:21:42.260 --> 00:21:43.460
+Datensätze hier in dem Fall
+
+00:21:43.460 --> 00:21:43.780
+nicht.
+
+00:21:44.120 --> 00:21:44.860
+Das ist eigentlich schon
+
+00:21:44.860 --> 00:21:46.540
+ausreichend für gute
+
+00:21:46.540 --> 00:21:47.240
+Rückforderungen,
+
+00:21:47.340 --> 00:21:48.200
+die wir dann machen können
+
+00:21:48.200 --> 00:21:48.800
+mit RaQuest.
+
+00:21:48.800 --> 00:21:50.480
+Aber Aktie oder so,
+
+00:21:50.580 --> 00:21:51.640
+dass RaQuest quasi
+
+00:21:51.640 --> 00:21:53.380
+nur Quellensteuer
+
+00:21:53.380 --> 00:21:54.720
+aus sehr speziellen Ländern
+
+00:21:54.720 --> 00:21:55.680
+zurückfordern kann,
+
+00:21:55.780 --> 00:21:55.880
+oder?
+
+00:21:56.580 --> 00:21:57.780
+Ihr kennt ja nicht alle
+
+00:21:57.780 --> 00:21:59.200
+Finanzbehörden weltweit.
+
+00:21:59.860 --> 00:22:00.360
+Also wenn ich jetzt
+
+00:22:00.360 --> 00:22:01.140
+die Sachen
+
+00:22:01.140 --> 00:22:02.780
+in Brasilien habe
+
+00:22:02.780 --> 00:22:03.140
+oder so,
+
+00:22:03.220 --> 00:22:03.720
+sage ich mal,
+
+00:22:04.940 --> 00:22:05.300
+dann,
+
+00:22:06.140 --> 00:22:06.320
+ihr habt das,
+
+00:22:06.320 --> 00:22:07.520
+Dänemark,
+
+00:22:07.740 --> 00:22:08.060
+Deutschland,
+
+00:22:08.200 --> 00:22:08.760
+Österreich,
+
+00:22:09.420 --> 00:22:10.900
+also kann nur Aktien
+
+00:22:10.900 --> 00:22:11.800
+aus diesen Ländern
+
+00:22:11.800 --> 00:22:13.240
+die Quellensteuer
+
+00:22:13.240 --> 00:22:14.240
+der Tour gefordert werden.
+
+00:22:15.420 --> 00:22:15.780
+Ja,
+
+00:22:16.680 --> 00:22:19.260
+tatsächlich ist es so,
+
+00:22:19.360 --> 00:22:20.260
+dass wir RaQuest
+
+00:22:20.260 --> 00:22:21.300
+immer nachrüsten.
+
+00:22:21.480 --> 00:22:22.100
+Wenn also jetzt
+
+00:22:22.100 --> 00:22:23.100
+ein neuer Kunde kommt
+
+00:22:23.100 --> 00:22:23.480
+und er sagt,
+
+00:22:23.540 --> 00:22:25.080
+wir haben Indonesien,
+
+00:22:26.360 --> 00:22:27.320
+dann haben wir,
+
+00:22:27.400 --> 00:22:27.640
+glaube ich,
+
+00:22:27.680 --> 00:22:27.940
+sogar,
+
+00:22:28.720 --> 00:22:30.080
+wir haben Indonesien
+
+00:22:30.080 --> 00:22:31.040
+und wir hätten es
+
+00:22:31.040 --> 00:22:32.160
+noch nicht in RaQuest,
+
+00:22:32.800 --> 00:22:34.460
+dann könnten wir sagen,
+
+00:22:35.120 --> 00:22:35.840
+wir schauen uns mal
+
+00:22:35.840 --> 00:22:36.240
+gemeinsam,
+
+00:22:36.320 --> 00:22:37.160
+den Prozess an,
+
+00:22:37.660 --> 00:22:39.040
+behalten die Quellensteuer ein,
+
+00:22:39.340 --> 00:22:39.980
+möglicherweise.
+
+00:22:41.200 --> 00:22:41.960
+Und dann
+
+00:22:41.960 --> 00:22:43.420
+sagen wir,
+
+00:22:43.540 --> 00:22:43.640
+ja,
+
+00:22:43.760 --> 00:22:44.700
+brauchen die bestimmte
+
+00:22:44.700 --> 00:22:45.420
+Formulare,
+
+00:22:45.560 --> 00:22:47.100
+was ist denn die Behörde,
+
+00:22:47.200 --> 00:22:48.220
+die wir anschreiben muss
+
+00:22:48.220 --> 00:22:49.500
+oder ist es eine Lagerstelle,
+
+00:22:49.600 --> 00:22:50.480
+also eine Bank,
+
+00:22:51.140 --> 00:22:52.520
+die man da anschreiben muss,
+
+00:22:52.700 --> 00:22:53.940
+um das durchzuführen,
+
+00:22:54.560 --> 00:22:55.680
+wie schaut der Prozess aus,
+
+00:22:55.780 --> 00:22:57.020
+welche Formulare braucht ihr
+
+00:22:57.020 --> 00:22:57.500
+und so weiter.
+
+00:22:57.580 --> 00:22:58.520
+Und dann könnten wir,
+
+00:22:58.740 --> 00:22:59.400
+also insbesondere
+
+00:22:59.400 --> 00:23:00.420
+die Business-Analysen
+
+00:23:00.420 --> 00:23:02.220
+setzen sich hin
+
+00:23:02.220 --> 00:23:03.340
+und versuchen,
+
+00:23:03.480 --> 00:23:05.000
+den Prozess zu rekonstruieren,
+
+00:23:05.000 --> 00:23:07.960
+aufs Wesentliche runterzubrechen
+
+00:23:07.960 --> 00:23:10.500
+und zu bauen.
+
+00:23:11.340 --> 00:23:11.840
+Und das,
+
+00:23:11.920 --> 00:23:12.800
+was wir noch nicht haben,
+
+00:23:12.880 --> 00:23:13.940
+müssen wir halt dann untersuchen,
+
+00:23:14.040 --> 00:23:14.880
+ob wir es bauen können.
+
+00:23:17.660 --> 00:23:19.580
+Vorrangig machen wir natürlich Länder,
+
+00:23:19.720 --> 00:23:21.440
+die Doppelbesteuerungsabkommen haben.
+
+00:23:21.440 --> 00:23:22.440
+Also wir sind auf jeden Fall
+
+00:23:22.440 --> 00:23:23.180
+mal in Europa.
+
+00:23:24.800 --> 00:23:25.520
+Weil da einfach
+
+00:23:25.520 --> 00:23:27.080
+das gängige Praxis ist,
+
+00:23:27.880 --> 00:23:29.320
+Doppelbesteuerungsabkommen
+
+00:23:29.320 --> 00:23:30.120
+abzuschließen.
+
+00:23:31.560 --> 00:23:32.340
+Da gibt es sicherlich
+
+00:23:32.340 --> 00:23:32.940
+auch eine Liste,
+
+00:23:33.040 --> 00:23:33.580
+eine Übersicht,
+
+00:23:33.700 --> 00:23:34.380
+welche Länder haben
+
+00:23:34.380 --> 00:23:34.860
+grundsätzlich
+
+00:23:34.860 --> 00:23:36.180
+Doppelbesteuerungen
+
+00:23:36.180 --> 00:23:37.680
+oder Besteuerungsabkommen
+
+00:23:37.680 --> 00:23:38.480
+miteinander.
+
+00:23:39.280 --> 00:23:39.900
+Das ist schon
+
+00:23:39.900 --> 00:23:40.560
+eine ganze Menge.
+
+00:23:40.560 --> 00:23:44.820
+Aber ihr habt das nur
+
+00:23:44.820 --> 00:23:45.480
+im RaQuest,
+
+00:23:45.600 --> 00:23:46.760
+habt ihr nur Deutschbanken
+
+00:23:46.760 --> 00:23:47.400
+oder habt ihr auch
+
+00:23:47.400 --> 00:23:48.480
+ausländische Banken?
+
+00:23:50.540 --> 00:23:51.240
+In RaQuest,
+
+00:23:51.440 --> 00:23:52.860
+also unsere Kunden
+
+00:23:52.860 --> 00:23:54.200
+von RaQuest sind,
+
+00:23:54.460 --> 00:23:55.620
+die RaQuest einsetzen.
+
+00:23:56.260 --> 00:23:56.820
+Liechtenstein,
+
+00:23:57.900 --> 00:23:58.520
+Luxemburg
+
+00:23:58.520 --> 00:23:59.780
+und ganz viel Deutschland,
+
+00:23:59.960 --> 00:24:00.040
+ja.
+
+00:24:01.220 --> 00:24:02.100
+Und Österreich.
+
+00:24:03.200 --> 00:24:03.560
+Schweiz.
+
+00:24:03.640 --> 00:24:05.220
+Und indirekt ist Schweiz
+
+00:24:05.220 --> 00:24:06.180
+auch mit dabei schon,
+
+00:24:06.300 --> 00:24:06.520
+ja.
+
+00:24:10.560 --> 00:24:14.260
+Natürlich gibt es dann
+
+00:24:14.260 --> 00:24:14.920
+auch immer
+
+00:24:14.920 --> 00:24:16.040
+sprachliche Hürden.
+
+00:24:16.440 --> 00:24:17.580
+Also wenn man jetzt sagt,
+
+00:24:17.640 --> 00:24:18.100
+man geht in
+
+00:24:18.100 --> 00:24:19.740
+Tschechien oder so
+
+00:24:19.740 --> 00:24:20.560
+oder irgendwo hin,
+
+00:24:20.920 --> 00:24:21.700
+möchte da eine
+
+00:24:21.700 --> 00:24:23.420
+sich etablieren,
+
+00:24:23.480 --> 00:24:24.280
+dann muss man natürlich
+
+00:24:24.280 --> 00:24:24.900
+auch Leute haben,
+
+00:24:24.980 --> 00:24:25.440
+die vielleicht auch
+
+00:24:25.440 --> 00:24:26.120
+die Sprache können,
+
+00:24:26.180 --> 00:24:26.760
+dann ist das noch
+
+00:24:26.760 --> 00:24:27.620
+etwas einfacher.
+
+00:24:29.020 --> 00:24:30.360
+Aber jetzt aktuell
+
+00:24:30.360 --> 00:24:31.560
+sind wir in den Ländern
+
+00:24:31.560 --> 00:24:34.780
+angrenzend an
+
+00:24:34.780 --> 00:24:36.760
+Deutschland.
+
+00:24:40.560 --> 00:24:42.420
+Was nicht ausschließt,
+
+00:24:42.480 --> 00:24:43.180
+dass wir das nicht
+
+00:24:43.180 --> 00:24:44.680
+ausweiten in Zukunft.
+
+00:24:46.180 --> 00:24:47.680
+Dann haben wir
+
+00:24:47.680 --> 00:24:49.100
+Stammdaten
+
+00:24:49.100 --> 00:24:50.380
+Applikationseinstellungen.
+
+00:24:52.660 --> 00:24:53.940
+Ja, man könnte jetzt sagen,
+
+00:24:54.080 --> 00:24:54.620
+was machen denn
+
+00:24:54.620 --> 00:24:55.700
+Applikationseinstellungen
+
+00:24:55.700 --> 00:24:56.640
+in den Stammdaten?
+
+00:24:56.860 --> 00:24:57.940
+Also de facto denke ich,
+
+00:24:58.420 --> 00:24:59.580
+ist jetzt mal so
+
+00:24:59.580 --> 00:25:00.460
+implementiert.
+
+00:25:00.980 --> 00:25:02.040
+Man hätte auch sagen können,
+
+00:25:02.200 --> 00:25:02.900
+okay, diesen Button
+
+00:25:02.900 --> 00:25:03.820
+Applikationseinstellungen
+
+00:25:03.820 --> 00:25:04.580
+könnte man extra
+
+00:25:04.580 --> 00:25:05.480
+separat machen.
+
+00:25:06.040 --> 00:25:07.160
+Aber diese
+
+00:25:07.160 --> 00:25:08.440
+Applikationseinstellungen
+
+00:25:08.440 --> 00:25:10.300
+wirken auch auf
+
+00:25:10.300 --> 00:25:11.220
+Stammdaten und
+
+00:25:11.220 --> 00:25:12.060
+beinhalten auch
+
+00:25:12.060 --> 00:25:13.460
+gewisserweise
+
+00:25:13.460 --> 00:25:14.320
+Stammdaten
+
+00:25:14.320 --> 00:25:15.680
+in sich selbst.
+
+00:25:16.120 --> 00:25:16.860
+Das wird man dann sehen.
+
+00:25:17.360 --> 00:25:17.800
+Ich klicke mal
+
+00:25:17.800 --> 00:25:19.040
+auf Applikationseinstellungen.
+
+00:25:21.680 --> 00:25:22.440
+Hier gibt es
+
+00:25:22.440 --> 00:25:23.880
+so verschiedene
+
+00:25:23.880 --> 00:25:26.320
+Prozessbäume,
+
+00:25:26.620 --> 00:25:27.220
+Prozessschritte
+
+00:25:27.220 --> 00:25:30.360
+und wenn man sich
+
+00:25:30.360 --> 00:25:31.300
+da orientieren möchte,
+
+00:25:31.420 --> 00:25:32.140
+geht man von oben
+
+00:25:32.140 --> 00:25:32.940
+durch, sagt man,
+
+00:25:33.540 --> 00:25:33.820
+ja,
+
+00:25:35.060 --> 00:25:35.940
+Ablauffristen.
+
+00:25:35.940 --> 00:25:38.280
+Ich
+
+00:25:38.280 --> 00:25:39.320
+tue es nur kurz
+
+00:25:39.320 --> 00:25:41.380
+anreißen.
+
+00:25:41.820 --> 00:25:42.280
+Natürlich
+
+00:25:42.280 --> 00:25:43.460
+kann ja die
+
+00:25:43.460 --> 00:25:44.360
+Schweizer Behörde
+
+00:25:44.360 --> 00:25:45.300
+unter allen möglichen
+
+00:25:45.300 --> 00:25:46.140
+Behörden und
+
+00:25:46.140 --> 00:25:46.820
+Lagerstellen
+
+00:25:46.820 --> 00:25:47.320
+sagen,
+
+00:25:47.900 --> 00:25:48.520
+irgendwann,
+
+00:25:49.460 --> 00:25:50.040
+vielleicht nach
+
+00:25:50.040 --> 00:25:51.300
+vier Jahren oder so,
+
+00:25:51.840 --> 00:25:52.400
+kannst du nicht
+
+00:25:52.400 --> 00:25:53.300
+mehr zurückfordern.
+
+00:25:54.260 --> 00:25:55.040
+Genauso wie
+
+00:25:55.040 --> 00:25:56.320
+meine Steuererklärung
+
+00:25:56.320 --> 00:25:56.780
+auch nur
+
+00:25:56.780 --> 00:25:57.980
+ein Jahr oder
+
+00:25:57.980 --> 00:25:58.600
+ein paar Jahre
+
+00:25:58.600 --> 00:25:59.220
+machen kann
+
+00:25:59.220 --> 00:25:59.700
+und darf.
+
+00:26:01.320 --> 00:26:02.060
+Und dann
+
+00:26:02.060 --> 00:26:02.560
+laufen
+
+00:26:02.560 --> 00:26:03.760
+diese Fristen
+
+00:26:03.760 --> 00:26:04.300
+ja auch ab
+
+00:26:04.300 --> 00:26:04.860
+und danach
+
+00:26:04.860 --> 00:26:05.480
+kann man keinen
+
+00:26:05.480 --> 00:26:05.960
+Anspruch
+
+00:26:05.960 --> 00:26:06.680
+mehr beantragen
+
+00:26:06.680 --> 00:26:07.060
+und auch,
+
+00:26:07.660 --> 00:26:07.940
+wenn man es
+
+00:26:07.940 --> 00:26:08.260
+einschickt,
+
+00:26:08.340 --> 00:26:08.600
+kriegt man
+
+00:26:08.600 --> 00:26:09.020
+keinen Geld
+
+00:26:09.020 --> 00:26:09.220
+mehr.
+
+00:26:09.680 --> 00:26:10.040
+Schluss.
+
+00:26:10.600 --> 00:26:11.440
+Das ist verjährt.
+
+00:26:12.760 --> 00:26:13.380
+Und deswegen
+
+00:26:13.380 --> 00:26:13.720
+müssen wir
+
+00:26:13.720 --> 00:26:14.620
+verschiedene Fristen
+
+00:26:14.620 --> 00:26:15.520
+einstellen
+
+00:26:15.520 --> 00:26:16.100
+und haben hier
+
+00:26:16.100 --> 00:26:16.320
+so ein
+
+00:26:16.320 --> 00:26:17.240
+Fristenmodell.
+
+00:26:18.980 --> 00:26:19.820
+Kann man im
+
+00:26:19.820 --> 00:26:20.680
+Einzelfall
+
+00:26:20.680 --> 00:26:21.120
+dann später
+
+00:26:21.120 --> 00:26:21.540
+erklären.
+
+00:26:22.420 --> 00:26:23.040
+Dann gibt es
+
+00:26:23.040 --> 00:26:23.520
+aber sehr
+
+00:26:23.520 --> 00:26:24.420
+mächtiges
+
+00:26:24.420 --> 00:26:24.780
+Werkzeug,
+
+00:26:24.900 --> 00:26:26.100
+die Anwendungseinstellungen.
+
+00:26:27.560 --> 00:26:27.980
+Da sieht man
+
+00:26:27.980 --> 00:26:28.300
+jetzt auch
+
+00:26:28.300 --> 00:26:28.880
+wieder so ein paar
+
+00:26:28.880 --> 00:26:29.260
+Linien,
+
+00:26:29.720 --> 00:26:30.740
+aber das sind
+
+00:26:30.740 --> 00:26:31.340
+sehr mächtige
+
+00:26:31.340 --> 00:26:31.920
+Werkzeuge,
+
+00:26:31.920 --> 00:26:32.840
+die in Rackwist
+
+00:26:32.840 --> 00:26:33.720
+den Prozess
+
+00:26:33.720 --> 00:26:34.700
+beeinflussen
+
+00:26:34.700 --> 00:26:36.860
+oder
+
+00:26:36.860 --> 00:26:37.800
+Prozess
+
+00:26:37.800 --> 00:26:38.540
+aushebeln,
+
+00:26:38.600 --> 00:26:39.160
+je nachdem.
+
+00:26:40.360 --> 00:26:41.200
+Wird man
+
+00:26:41.200 --> 00:26:42.380
+mit der Zeit,
+
+00:26:42.480 --> 00:26:42.880
+wenn man mit
+
+00:26:42.880 --> 00:26:43.660
+Rackwist arbeitet,
+
+00:26:43.860 --> 00:26:44.820
+einige dieser Punkte
+
+00:26:44.820 --> 00:26:45.640
+kennenlernen.
+
+00:26:46.520 --> 00:26:47.180
+Genau noch nicht
+
+00:26:47.180 --> 00:26:48.080
+alle ganz genau.
+
+00:26:50.740 --> 00:26:51.660
+Was aber auch
+
+00:26:51.660 --> 00:26:52.240
+zum Beispiel
+
+00:26:52.240 --> 00:26:52.820
+noch
+
+00:26:52.820 --> 00:26:54.100
+wichtig ist,
+
+00:26:54.200 --> 00:26:54.420
+sind
+
+00:26:54.420 --> 00:26:55.780
+Investitionsmärkte
+
+00:26:55.780 --> 00:26:58.160
+und hier
+
+00:26:58.160 --> 00:26:59.700
+auch sehr
+
+00:26:59.700 --> 00:27:00.240
+interessant,
+
+00:27:00.800 --> 00:27:01.360
+welche Märkte
+
+00:27:01.360 --> 00:27:01.980
+gibt es denn
+
+00:27:01.980 --> 00:27:02.200
+schon?
+
+00:27:02.460 --> 00:27:02.900
+Hier sieht man
+
+00:27:02.900 --> 00:27:03.600
+die ISO-Codes,
+
+00:27:03.920 --> 00:27:04.380
+AT für
+
+00:27:04.380 --> 00:27:05.000
+Österreich,
+
+00:27:05.460 --> 00:27:05.880
+B für
+
+00:27:05.880 --> 00:27:06.560
+Belgien,
+
+00:27:07.680 --> 00:27:08.860
+Taiwan,
+
+00:27:10.060 --> 00:27:10.520
+Schweden,
+
+00:27:10.700 --> 00:27:11.140
+Russland,
+
+00:27:11.300 --> 00:27:11.720
+Portugal
+
+00:27:11.720 --> 00:27:13.620
+und
+
+00:27:13.620 --> 00:27:15.240
+Norwegen,
+
+00:27:15.480 --> 00:27:16.360
+Niederlande,
+
+00:27:16.520 --> 00:27:17.240
+KDR weiß ich
+
+00:27:17.240 --> 00:27:17.520
+nicht,
+
+00:27:17.660 --> 00:27:18.120
+Japan,
+
+00:27:18.360 --> 00:27:18.780
+Italien
+
+00:27:18.780 --> 00:27:19.300
+und so weiter.
+
+00:27:20.640 --> 00:27:21.160
+Angenommen,
+
+00:27:21.240 --> 00:27:21.900
+ich nehme jetzt mal
+
+00:27:21.900 --> 00:27:23.060
+eins dieser Märkte
+
+00:27:23.060 --> 00:27:23.680
+raus,
+
+00:27:23.760 --> 00:27:24.360
+was haben wir
+
+00:27:24.360 --> 00:27:24.900
+da gemacht?
+
+00:27:24.900 --> 00:27:26.520
+Doppelklick drauf.
+
+00:27:27.700 --> 00:27:28.660
+Haben auch wieder
+
+00:27:28.660 --> 00:27:30.080
+verschiedene Einstellungen,
+
+00:27:30.240 --> 00:27:31.200
+die wir mit der Zeit
+
+00:27:31.200 --> 00:27:32.300
+kennenlernen müssen
+
+00:27:32.300 --> 00:27:33.820
+und wenn man dann
+
+00:27:33.820 --> 00:27:35.120
+auf Quellensteuersätze
+
+00:27:35.120 --> 00:27:35.540
+klickt,
+
+00:27:35.640 --> 00:27:36.240
+das will ich euch
+
+00:27:36.240 --> 00:27:36.960
+kurz zeigen,
+
+00:27:37.620 --> 00:27:38.360
+dann sieht man
+
+00:27:38.360 --> 00:27:39.200
+schon ziemlich
+
+00:27:39.200 --> 00:27:40.140
+präzise,
+
+00:27:40.560 --> 00:27:41.920
+wie viel Quellensteuer
+
+00:27:41.920 --> 00:27:42.700
+fällt denn
+
+00:27:42.700 --> 00:27:43.760
+in Frankreich an?
+
+00:27:44.720 --> 00:27:45.940
+26,5
+
+00:27:45.940 --> 00:27:46.840
+für Aktien.
+
+00:27:48.640 --> 00:27:49.200
+Okay,
+
+00:27:49.960 --> 00:27:50.560
+aber wie viel
+
+00:27:50.560 --> 00:27:51.300
+soll denn am Ende
+
+00:27:51.300 --> 00:27:52.000
+des Prozesses
+
+00:27:52.000 --> 00:27:52.760
+in Rackwist bleiben?
+
+00:27:54.200 --> 00:27:54.720
+15.
+
+00:27:54.900 --> 00:27:56.960
+Das würde ja bedeuten,
+
+00:27:57.060 --> 00:27:57.700
+rechne ich mir
+
+00:27:57.700 --> 00:27:58.600
+im Kopf aus,
+
+00:27:58.860 --> 00:28:00.240
+26,5
+
+00:28:00.240 --> 00:28:01.080
+minus 15
+
+00:28:01.080 --> 00:28:02.020
+sind dann
+
+00:28:02.020 --> 00:28:03.120
+11,5.
+
+00:28:03.700 --> 00:28:04.540
+Dann darf ich ja
+
+00:28:04.540 --> 00:28:05.580
+11,5
+
+00:28:05.580 --> 00:28:06.340
+zurückfordern.
+
+00:28:07.200 --> 00:28:07.820
+Ihr müsst euch das
+
+00:28:07.820 --> 00:28:08.260
+immer in so einem
+
+00:28:08.260 --> 00:28:09.340
+Dreiklang vorstellen.
+
+00:28:11.080 --> 00:28:11.660
+Und das so rechnet
+
+00:28:11.660 --> 00:28:12.360
+auch Rackwist.
+
+00:28:13.040 --> 00:28:13.760
+Stellt euch mal vor,
+
+00:28:13.840 --> 00:28:13.980
+so ein
+
+00:28:13.980 --> 00:28:15.540
+Schweizer Anspruch,
+
+00:28:15.740 --> 00:28:16.340
+jetzt haben wir leider
+
+00:28:16.340 --> 00:28:17.340
+den Markt Frankreich,
+
+00:28:17.600 --> 00:28:18.020
+wenn wir mal
+
+00:28:18.020 --> 00:28:18.460
+nach Schweiz
+
+00:28:18.460 --> 00:28:18.920
+rüber gehen.
+
+00:28:20.320 --> 00:28:21.020
+Ich gehe mal
+
+00:28:21.020 --> 00:28:21.480
+in den Markt
+
+00:28:21.480 --> 00:28:21.980
+Schweiz.
+
+00:28:23.640 --> 00:28:24.580
+Ich versuche das
+
+00:28:24.580 --> 00:28:24.900
+ein bisschen
+
+00:28:24.900 --> 00:28:26.420
+lebhafter
+
+00:28:26.420 --> 00:28:27.220
+darzustellen.
+
+00:28:28.360 --> 00:28:29.740
+35,15
+
+00:28:29.740 --> 00:28:30.620
+für Aktien.
+
+00:28:30.940 --> 00:28:31.080
+Okay.
+
+00:28:31.980 --> 00:28:32.580
+Wenn man jetzt
+
+00:28:32.580 --> 00:28:32.860
+sagt,
+
+00:28:33.040 --> 00:28:33.520
+da kommt ein
+
+00:28:33.520 --> 00:28:34.000
+Anspruch
+
+00:28:34.000 --> 00:28:35.520
+in RaQuest
+
+00:28:35.520 --> 00:28:35.940
+rein,
+
+00:28:36.820 --> 00:28:37.500
+da wird das,
+
+00:28:37.960 --> 00:28:38.280
+da wird der
+
+00:28:38.280 --> 00:28:38.700
+Anspruch
+
+00:28:38.700 --> 00:28:40.200
+geprüft
+
+00:28:40.200 --> 00:28:40.980
+gegen diese
+
+00:28:40.980 --> 00:28:41.600
+Einstellung,
+
+00:28:41.760 --> 00:28:42.380
+die wir haben.
+
+00:28:42.920 --> 00:28:43.620
+Da wird geprüft,
+
+00:28:43.820 --> 00:28:44.260
+okay,
+
+00:28:44.940 --> 00:28:45.720
+das ist jetzt
+
+00:28:45.720 --> 00:28:46.240
+ein Schweizer
+
+00:28:46.240 --> 00:28:46.800
+Anspruch,
+
+00:28:47.100 --> 00:28:48.020
+da fallen 35
+
+00:28:48.020 --> 00:28:48.460
+Prozent
+
+00:28:48.460 --> 00:28:49.040
+Quellensteuer
+
+00:28:49.040 --> 00:28:49.220
+an.
+
+00:28:49.340 --> 00:28:49.740
+Stimmt das,
+
+00:28:49.820 --> 00:28:50.440
+was importiert
+
+00:28:50.440 --> 00:28:51.000
+worden ist?
+
+00:28:51.080 --> 00:28:51.940
+Da wird abgeglichen,
+
+00:28:52.300 --> 00:28:52.820
+ja, es wurden
+
+00:28:52.820 --> 00:28:53.960
+35 importiert,
+
+00:28:54.060 --> 00:28:55.000
+35 sind in
+
+00:28:55.000 --> 00:28:55.420
+RaQuest,
+
+00:28:55.520 --> 00:28:55.720
+passt.
+
+00:28:56.900 --> 00:28:57.940
+Dann sagt man,
+
+00:28:59.060 --> 00:28:59.480
+ja, aber
+
+00:28:59.480 --> 00:29:00.540
+anrechenbar sind
+
+00:29:00.540 --> 00:29:01.060
+15,
+
+00:29:01.200 --> 00:29:01.920
+das heißt ja,
+
+00:29:02.020 --> 00:29:02.800
+15 bleiben bei
+
+00:29:02.800 --> 00:29:03.260
+der Quelle,
+
+00:29:03.420 --> 00:29:04.540
+also 15 bleiben
+
+00:29:04.540 --> 00:29:05.400
+im Ausland,
+
+00:29:05.840 --> 00:29:06.540
+für mondewig.
+
+00:29:06.880 --> 00:29:08.020
+Kannst vergessen,
+
+00:29:08.140 --> 00:29:08.820
+kannst abschreiben.
+
+00:29:09.680 --> 00:29:10.960
+15 von 35
+
+00:29:10.960 --> 00:29:11.740
+bleiben also
+
+00:29:11.740 --> 00:29:12.360
+bei der Quelle.
+
+00:29:13.180 --> 00:29:13.880
+Dann sagt
+
+00:29:13.880 --> 00:29:14.480
+ein RaQuest
+
+00:29:14.480 --> 00:29:15.160
+und rechnet das
+
+00:29:15.160 --> 00:29:16.320
+dir wieder aus.
+
+00:29:16.620 --> 00:29:17.280
+Das heißt ja,
+
+00:29:17.600 --> 00:29:18.020
+dann darf ich
+
+00:29:18.020 --> 00:29:19.720
+20 zurückfordern.
+
+00:29:20.860 --> 00:29:21.360
+Und dann bekomme
+
+00:29:21.360 --> 00:29:22.100
+ich einen Anspruch
+
+00:29:22.100 --> 00:29:23.000
+mit den richtigen
+
+00:29:23.000 --> 00:29:24.040
+rückforderbaren
+
+00:29:24.040 --> 00:29:25.360
+Beträgen
+
+00:29:25.360 --> 00:29:27.640
+rein importiert.
+
+00:29:29.620 --> 00:29:30.840
+Und das ist
+
+00:29:30.840 --> 00:29:31.240
+nur ein
+
+00:29:31.240 --> 00:29:32.740
+zum Gegengleichen,
+
+00:29:32.820 --> 00:29:33.460
+ob alles passt
+
+00:29:33.460 --> 00:29:33.920
+und richtig
+
+00:29:33.920 --> 00:29:34.940
+und konform ist.
+
+00:29:35.620 --> 00:29:36.560
+Wie funktioniert
+
+00:29:36.560 --> 00:29:37.080
+das Ganze?
+
+00:29:37.180 --> 00:29:37.640
+Wir sammeln
+
+00:29:37.640 --> 00:29:38.900
+die Daten
+
+00:29:38.900 --> 00:29:39.700
+natürlich auf,
+
+00:29:40.020 --> 00:29:40.700
+ein bisschen schauen
+
+00:29:40.700 --> 00:29:41.000
+wir ins
+
+00:29:41.000 --> 00:29:42.360
+Doppelbesteuerungsabkommen,
+
+00:29:43.060 --> 00:29:43.340
+wir
+
+00:29:43.340 --> 00:29:44.940
+reden mit
+
+00:29:44.940 --> 00:29:45.540
+den Kunden,
+
+00:29:45.820 --> 00:29:46.240
+dass sie uns
+
+00:29:46.240 --> 00:29:46.740
+die richtigen
+
+00:29:46.740 --> 00:29:47.440
+Quellen nennen
+
+00:29:47.440 --> 00:29:48.740
+und dann wird bekannt
+
+00:29:48.740 --> 00:29:49.660
+für einen Markt
+
+00:29:49.660 --> 00:29:50.520
+sind es 35
+
+00:29:50.520 --> 00:29:51.620
+und 15
+
+00:29:51.620 --> 00:29:53.440
+und die
+
+00:29:53.440 --> 00:29:53.940
+tragen den
+
+00:29:53.940 --> 00:29:54.700
+RaQuest ein
+
+00:29:54.700 --> 00:29:55.380
+und von daher
+
+00:29:55.380 --> 00:29:56.100
+ist das erstmal
+
+00:29:56.100 --> 00:29:57.700
+fixiert.
+
+00:29:58.700 --> 00:29:59.280
+Könnte sich
+
+00:29:59.280 --> 00:29:59.740
+auch ändern,
+
+00:29:59.860 --> 00:30:00.220
+wenn jetzt
+
+00:30:00.220 --> 00:30:00.800
+die Schweizer
+
+00:30:00.800 --> 00:30:01.660
+Steuerbehörde
+
+00:30:01.660 --> 00:30:02.180
+auf die Idee
+
+00:30:02.180 --> 00:30:02.800
+kommen würde,
+
+00:30:02.880 --> 00:30:03.420
+wir erhöhen
+
+00:30:03.420 --> 00:30:04.000
+auf 40,
+
+00:30:04.560 --> 00:30:05.240
+dann müsste man
+
+00:30:05.240 --> 00:30:05.860
+das ändern.
+
+00:30:05.860 --> 00:30:06.660
+Können wir
+
+00:30:06.660 --> 00:30:07.820
+alles ändern.
+
+00:30:07.820 --> 00:30:10.380
+Ich hoffe,
+
+00:30:10.460 --> 00:30:11.120
+ich erschlag euch
+
+00:30:11.120 --> 00:30:11.580
+jetzt nicht,
+
+00:30:11.700 --> 00:30:12.680
+aber dieses
+
+00:30:12.680 --> 00:30:14.640
+Quellensteuersatzthema
+
+00:30:14.640 --> 00:30:15.420
+ist der Dreh- und
+
+00:30:15.420 --> 00:30:15.940
+Angelpunkt,
+
+00:30:16.080 --> 00:30:16.560
+deswegen gehe ich
+
+00:30:16.560 --> 00:30:17.160
+da jetzt schon mal
+
+00:30:17.160 --> 00:30:18.000
+näher drauf ein.
+
+00:30:18.560 --> 00:30:19.100
+Hier unten
+
+00:30:19.100 --> 00:30:19.840
+findet man noch
+
+00:30:19.840 --> 00:30:20.420
+eine weitere
+
+00:30:20.420 --> 00:30:20.980
+Linie,
+
+00:30:21.580 --> 00:30:21.940
+so hier
+
+00:30:21.940 --> 00:30:22.840
+die mittlere
+
+00:30:22.840 --> 00:30:23.840
+Linie oder
+
+00:30:23.840 --> 00:30:24.460
+der mittlere
+
+00:30:24.460 --> 00:30:24.800
+Grid
+
+00:30:24.800 --> 00:30:25.800
+besagt eigentlich,
+
+00:30:26.020 --> 00:30:26.160
+oh,
+
+00:30:26.480 --> 00:30:27.240
+das sind alles
+
+00:30:27.240 --> 00:30:28.040
+Quellensteuersätze,
+
+00:30:28.040 --> 00:30:28.400
+die nach
+
+00:30:28.400 --> 00:30:29.540
+DBA
+
+00:30:29.540 --> 00:30:30.420
+steht für
+
+00:30:30.420 --> 00:30:31.580
+Doppelbestauungsabkommen,
+
+00:30:32.380 --> 00:30:33.020
+das ist die
+
+00:30:33.020 --> 00:30:33.600
+Abkürzung,
+
+00:30:41.560 --> 00:30:43.200
+das wird nach
+
+00:30:43.200 --> 00:30:44.700
+DBA,
+
+00:30:45.060 --> 00:30:46.340
+nach Doppelbestauungsabkommen,
+
+00:30:46.660 --> 00:30:47.160
+bei der Quelle
+
+00:30:47.160 --> 00:30:47.580
+bleiben,
+
+00:30:47.820 --> 00:30:48.560
+15 Prozent.
+
+00:30:49.600 --> 00:30:50.360
+Dann sagt man,
+
+00:30:51.220 --> 00:30:51.840
+es gibt ja noch
+
+00:30:51.840 --> 00:30:52.660
+einen anrechenbaren
+
+00:30:52.660 --> 00:30:53.400
+Domestic Law
+
+00:30:53.400 --> 00:30:54.460
+Quellensteuersatz,
+
+00:30:56.460 --> 00:30:57.600
+Domestic Law,
+
+00:30:57.720 --> 00:30:59.000
+Domestic Law
+
+00:30:59.000 --> 00:31:00.420
+würde bedeuten,
+
+00:31:01.220 --> 00:31:01.840
+es gibt noch
+
+00:31:01.840 --> 00:31:02.940
+Regeln außerhalb
+
+00:31:02.940 --> 00:31:04.080
+des DBAs
+
+00:31:04.080 --> 00:31:04.580
+und die
+
+00:31:04.580 --> 00:31:05.280
+überrulen
+
+00:31:05.280 --> 00:31:06.020
+das DBA
+
+00:31:06.020 --> 00:31:06.540
+und sind
+
+00:31:06.540 --> 00:31:07.620
+mächtiger
+
+00:31:07.620 --> 00:31:10.380
+und die
+
+00:31:10.380 --> 00:31:10.900
+gelten nur
+
+00:31:10.900 --> 00:31:11.560
+in dem Land,
+
+00:31:12.060 --> 00:31:12.420
+in diesem
+
+00:31:12.420 --> 00:31:13.040
+Marktland,
+
+00:31:13.200 --> 00:31:13.540
+also in der
+
+00:31:13.540 --> 00:31:13.800
+Schweiz.
+
+00:31:16.980 --> 00:31:17.740
+Würde hier
+
+00:31:17.740 --> 00:31:18.400
+zum Beispiel
+
+00:31:18.400 --> 00:31:19.300
+für Stiftungen
+
+00:31:19.300 --> 00:31:20.280
+20 Prozent
+
+00:31:20.280 --> 00:31:21.100
+bleiben bei der
+
+00:31:21.100 --> 00:31:21.380
+Quelle,
+
+00:31:21.500 --> 00:31:22.160
+das heißt ja,
+
+00:31:22.440 --> 00:31:22.620
+ah,
+
+00:31:22.640 --> 00:31:22.920
+der darf
+
+00:31:22.920 --> 00:31:23.220
+weniger
+
+00:31:23.220 --> 00:31:24.000
+zurückfordern,
+
+00:31:24.800 --> 00:31:25.140
+der kriegt
+
+00:31:25.140 --> 00:31:26.060
+15 zurück
+
+00:31:26.060 --> 00:31:27.020
+von 35
+
+00:31:27.020 --> 00:31:29.680
+und auch
+
+00:31:29.680 --> 00:31:30.100
+hier wird
+
+00:31:30.100 --> 00:31:31.160
+gegengeprüft,
+
+00:31:31.280 --> 00:31:32.140
+wäre zum Beispiel
+
+00:31:32.140 --> 00:31:32.720
+jemand so
+
+00:31:32.720 --> 00:31:33.680
+eine transparente
+
+00:31:33.680 --> 00:31:34.180
+Stiftung,
+
+00:31:34.440 --> 00:31:34.900
+ein Kunde,
+
+00:31:35.280 --> 00:31:35.720
+dann bekommt
+
+00:31:35.720 --> 00:31:36.140
+er diesen
+
+00:31:36.140 --> 00:31:37.120
+Quellensteuersatz.
+
+00:31:37.760 --> 00:31:38.180
+Alle anderen
+
+00:31:38.180 --> 00:31:38.780
+Kunden bekommen
+
+00:31:38.780 --> 00:31:39.180
+diesen
+
+00:31:39.180 --> 00:31:40.080
+Quellensteuersatz
+
+00:31:40.080 --> 00:31:40.820
+für Aktien.
+
+00:31:43.120 --> 00:31:43.700
+So ein bisschen,
+
+00:31:43.880 --> 00:31:44.540
+das spielt sich
+
+00:31:44.540 --> 00:31:45.240
+alles immer so
+
+00:31:45.240 --> 00:31:46.340
+gegeneinander aus.
+
+00:31:47.700 --> 00:31:48.400
+Es gibt noch
+
+00:31:48.400 --> 00:31:49.000
+viele weitere
+
+00:31:49.000 --> 00:31:49.660
+Spalten und
+
+00:31:49.660 --> 00:31:50.260
+Einstellungen,
+
+00:31:50.360 --> 00:31:50.780
+die man sich
+
+00:31:50.780 --> 00:31:52.200
+einbringen kann
+
+00:31:52.200 --> 00:31:52.920
+und die man
+
+00:31:52.920 --> 00:31:53.540
+mit der Zeit
+
+00:31:53.540 --> 00:31:54.160
+dann kennenlernen
+
+00:31:54.160 --> 00:31:54.500
+wird.
+
+00:31:54.500 --> 00:32:24.500
+
+
+00:32:24.500 --> 00:32:25.320
+wenn man
+
+00:32:25.320 --> 00:32:26.140
+jetzt sozusagen
+
+00:32:26.140 --> 00:32:28.680
+jemanden,
+
+00:32:29.040 --> 00:32:29.780
+eine natürliche
+
+00:32:29.780 --> 00:32:30.640
+Person importiert,
+
+00:32:31.200 --> 00:32:31.640
+dass diese
+
+00:32:31.640 --> 00:32:32.680
+Person her
+
+00:32:32.680 --> 00:32:33.260
+oder auch
+
+00:32:33.260 --> 00:32:34.240
+eine Briefanrede,
+
+00:32:34.280 --> 00:32:34.980
+wie sehr geehrter,
+
+00:32:35.100 --> 00:32:35.340
+her
+
+00:32:35.340 --> 00:32:36.380
+zugeordnet wird.
+
+00:32:36.460 --> 00:32:36.880
+Das sind so
+
+00:32:36.880 --> 00:32:37.940
+Tabellen eigentlich.
+
+00:32:38.940 --> 00:32:39.440
+Das sind keine
+
+00:32:39.440 --> 00:32:39.940
+komplizierten
+
+00:32:39.940 --> 00:32:40.340
+Einstellungen,
+
+00:32:40.460 --> 00:32:40.800
+einfach nur
+
+00:32:40.800 --> 00:32:41.580
+Matching-Tabellen,
+
+00:32:42.240 --> 00:32:43.520
+die man hier
+
+00:32:43.520 --> 00:32:44.520
+beliebig nach
+
+00:32:44.520 --> 00:32:45.740
+verschiedenen Sprachen
+
+00:32:45.740 --> 00:32:46.860
+konfigurieren kann.
+
+00:32:46.980 --> 00:32:47.080
+Nach
+
+00:32:47.080 --> 00:32:47.480
+Deutsch,
+
+00:32:47.580 --> 00:32:47.880
+Englisch,
+
+00:32:47.960 --> 00:32:48.460
+Französisch,
+
+00:32:48.540 --> 00:32:49.000
+braucht man ja
+
+00:32:49.000 --> 00:32:49.800
+alle Sprachen,
+
+00:32:50.280 --> 00:32:51.580
+alle Anredeformen,
+
+00:32:52.060 --> 00:32:52.940
+alle Anreden,
+
+00:32:52.940 --> 00:32:54.060
+Geschlechter
+
+00:32:54.060 --> 00:32:55.880
+und auch die
+
+00:32:55.880 --> 00:32:56.880
+Bezeichnungen dazu.
+
+00:32:59.120 --> 00:33:00.240
+Dann findet man
+
+00:33:00.240 --> 00:33:00.600
+hier auch
+
+00:33:00.600 --> 00:33:01.560
+Rechtsformen.
+
+00:33:02.620 --> 00:33:03.140
+Das ist sehr
+
+00:33:03.140 --> 00:33:03.540
+spannend,
+
+00:33:03.900 --> 00:33:04.300
+weil
+
+00:33:04.300 --> 00:33:05.100
+OK,
+
+00:33:05.260 --> 00:33:05.600
+AG,
+
+00:33:06.020 --> 00:33:06.840
+OHG oder
+
+00:33:06.840 --> 00:33:07.700
+KG kennt ja
+
+00:33:07.700 --> 00:33:08.000
+jeder,
+
+00:33:08.540 --> 00:33:08.940
+aber wer
+
+00:33:08.940 --> 00:33:09.620
+nicht Französisch
+
+00:33:09.620 --> 00:33:09.960
+spricht,
+
+00:33:10.380 --> 00:33:10.740
+Suchi,
+
+00:33:10.760 --> 00:33:11.760
+die Anonym
+
+00:33:11.760 --> 00:33:13.600
+würde dann
+
+00:33:13.600 --> 00:33:14.120
+eben etwas
+
+00:33:14.120 --> 00:33:15.040
+an Rechtsform
+
+00:33:15.040 --> 00:33:15.420
+bedeuten,
+
+00:33:15.560 --> 00:33:15.900
+und zwar eine
+
+00:33:15.900 --> 00:33:16.540
+französische
+
+00:33:16.540 --> 00:33:17.120
+Rechtsform.
+
+00:33:18.220 --> 00:33:18.540
+Also
+
+00:33:18.540 --> 00:33:19.640
+pflegen und
+
+00:33:19.640 --> 00:33:20.380
+hegen wir hier
+
+00:33:20.380 --> 00:33:21.440
+auch Rechtsformen,
+
+00:33:22.060 --> 00:33:22.840
+verschiedene
+
+00:33:22.840 --> 00:33:23.740
+Kunden haben
+
+00:33:23.740 --> 00:33:24.180
+hier vielleicht
+
+00:33:24.180 --> 00:33:24.820
+auch verschiedene
+
+00:33:24.820 --> 00:33:25.640
+Datensets,
+
+00:33:26.720 --> 00:33:27.180
+und diese
+
+00:33:27.180 --> 00:33:27.660
+Rechtsformen
+
+00:33:27.660 --> 00:33:28.000
+werden dann
+
+00:33:28.000 --> 00:33:28.400
+auch wieder
+
+00:33:28.400 --> 00:33:28.740
+wie eine
+
+00:33:28.740 --> 00:33:29.160
+Tabelle
+
+00:33:29.160 --> 00:33:29.580
+dann zu
+
+00:33:29.580 --> 00:33:29.880
+diesen
+
+00:33:29.880 --> 00:33:30.900
+Kundendaten
+
+00:33:30.900 --> 00:33:31.700
+gematcht.
+
+00:33:35.680 --> 00:33:36.200
+Unabhängig
+
+00:33:36.200 --> 00:33:36.760
+oder fast
+
+00:33:36.760 --> 00:33:37.020
+schon
+
+00:33:37.020 --> 00:33:37.840
+indirekt
+
+00:33:37.840 --> 00:33:38.320
+abhängig
+
+00:33:38.320 --> 00:33:38.620
+von den
+
+00:33:38.620 --> 00:33:39.100
+Rechtsformen
+
+00:33:39.100 --> 00:33:39.360
+gibt es
+
+00:33:39.360 --> 00:33:41.380
+Kundentypisierungen.
+
+00:33:41.720 --> 00:33:42.020
+Was ist
+
+00:33:42.020 --> 00:33:42.540
+das denn?
+
+00:33:44.240 --> 00:33:44.660
+Jetzt könnt
+
+00:33:44.660 --> 00:33:45.020
+ihr euch ja
+
+00:33:45.020 --> 00:33:45.340
+vorstellen,
+
+00:33:45.580 --> 00:33:45.660
+dass
+
+00:33:45.660 --> 00:33:46.960
+europaweit
+
+00:33:46.960 --> 00:33:47.820
+oder weltweit
+
+00:33:47.820 --> 00:33:48.480
+verschiedene
+
+00:33:48.480 --> 00:33:49.040
+Begriffe
+
+00:33:49.040 --> 00:33:49.500
+so durch
+
+00:33:49.500 --> 00:33:49.700
+die
+
+00:33:49.700 --> 00:33:50.200
+Gegend
+
+00:33:50.200 --> 00:33:51.300
+flattern.
+
+00:33:51.300 --> 00:33:52.020
+diese
+
+00:33:52.020 --> 00:33:52.360
+ganzen
+
+00:33:52.360 --> 00:33:52.980
+Begriffe
+
+00:33:52.980 --> 00:33:53.480
+sind
+
+00:33:53.480 --> 00:33:53.860
+immer
+
+00:33:53.860 --> 00:33:54.140
+nicht
+
+00:33:54.140 --> 00:33:54.960
+hundertprozentig
+
+00:33:54.960 --> 00:33:55.580
+eindeutig
+
+00:33:55.580 --> 00:33:55.780
+einer
+
+00:33:55.780 --> 00:33:56.400
+Rechtsform
+
+00:33:56.400 --> 00:33:57.280
+zuzuordnen,
+
+00:33:57.640 --> 00:33:57.980
+weil man
+
+00:33:57.980 --> 00:33:58.360
+kann ja
+
+00:33:58.360 --> 00:33:58.520
+nicht
+
+00:33:58.520 --> 00:33:58.840
+alles
+
+00:33:58.840 --> 00:33:59.140
+eins
+
+00:33:59.140 --> 00:33:59.300
+zu
+
+00:33:59.300 --> 00:33:59.520
+eins
+
+00:33:59.520 --> 00:33:59.800
+einer
+
+00:33:59.800 --> 00:34:01.920
+GmbH
+
+00:34:01.920 --> 00:34:02.880
+zuordnen.
+
+00:34:03.540 --> 00:34:03.760
+Und
+
+00:34:03.760 --> 00:34:03.960
+diese
+
+00:34:03.960 --> 00:34:04.420
+verschiedenen
+
+00:34:04.420 --> 00:34:04.960
+Begriffe,
+
+00:34:05.140 --> 00:34:05.400
+die hier
+
+00:34:05.400 --> 00:34:06.000
+stehen,
+
+00:34:06.560 --> 00:34:07.200
+werden
+
+00:34:07.200 --> 00:34:07.460
+auch
+
+00:34:07.460 --> 00:34:07.780
+auf den
+
+00:34:07.780 --> 00:34:08.960
+Antragsformularen
+
+00:34:08.960 --> 00:34:09.920
+verwendet.
+
+00:34:10.680 --> 00:34:11.200
+Beispiel
+
+00:34:11.200 --> 00:34:11.820
+hat man
+
+00:34:11.820 --> 00:34:12.120
+so ein
+
+00:34:12.120 --> 00:34:12.500
+Schweizer
+
+00:34:12.500 --> 00:34:13.480
+Antragsformular,
+
+00:34:14.820 --> 00:34:15.960
+dann ist da
+
+00:34:15.960 --> 00:34:16.380
+irgendwo
+
+00:34:16.380 --> 00:34:17.080
+ein Feld,
+
+00:34:17.360 --> 00:34:17.820
+ein ganz
+
+00:34:17.820 --> 00:34:18.280
+kleines
+
+00:34:18.280 --> 00:34:18.580
+Feld,
+
+00:34:18.700 --> 00:34:19.360
+das verlangt,
+
+00:34:19.360 --> 00:34:19.760
+dass da
+
+00:34:19.760 --> 00:34:20.340
+vielleicht
+
+00:34:20.340 --> 00:34:20.980
+Pooled
+
+00:34:20.980 --> 00:34:21.220
+Fund
+
+00:34:21.220 --> 00:34:21.620
+Trust
+
+00:34:21.620 --> 00:34:22.020
+stehen
+
+00:34:22.020 --> 00:34:22.360
+muss.
+
+00:34:23.780 --> 00:34:24.220
+Und
+
+00:34:24.220 --> 00:34:24.520
+woher
+
+00:34:24.520 --> 00:34:24.980
+kriegen wir
+
+00:34:24.980 --> 00:34:25.180
+den
+
+00:34:25.180 --> 00:34:25.500
+Begriff?
+
+00:34:25.600 --> 00:34:25.700
+Der
+
+00:34:25.700 --> 00:34:25.920
+muss
+
+00:34:25.920 --> 00:34:26.100
+ja
+
+00:34:26.100 --> 00:34:26.460
+irgendwie
+
+00:34:26.460 --> 00:34:26.640
+ein
+
+00:34:26.640 --> 00:34:27.180
+RaQuest
+
+00:34:27.180 --> 00:34:27.600
+sein.
+
+00:34:27.940 --> 00:34:28.180
+Und
+
+00:34:28.180 --> 00:34:28.340
+das
+
+00:34:28.340 --> 00:34:28.680
+ist eben
+
+00:34:28.680 --> 00:34:28.840
+auch
+
+00:34:28.840 --> 00:34:29.040
+wieder
+
+00:34:29.040 --> 00:34:29.280
+eine
+
+00:34:29.280 --> 00:34:29.720
+Tabelle,
+
+00:34:30.020 --> 00:34:30.140
+wo
+
+00:34:30.140 --> 00:34:30.280
+wir
+
+00:34:30.280 --> 00:34:30.520
+diese
+
+00:34:30.520 --> 00:34:30.860
+Begriffe
+
+00:34:30.860 --> 00:34:31.340
+pflegen.
+
+00:34:32.640 --> 00:34:32.840
+Aber
+
+00:34:32.840 --> 00:34:32.960
+die
+
+00:34:32.960 --> 00:34:33.520
+Begriffe
+
+00:34:33.520 --> 00:34:33.760
+sind
+
+00:34:33.760 --> 00:34:34.100
+auch noch
+
+00:34:34.100 --> 00:34:34.700
+mächtiger,
+
+00:34:34.980 --> 00:34:35.800
+da ist
+
+00:34:35.800 --> 00:34:36.120
+noch viel
+
+00:34:36.120 --> 00:34:36.520
+Magie
+
+00:34:36.520 --> 00:34:37.040
+dahinter,
+
+00:34:37.440 --> 00:34:37.740
+was die
+
+00:34:37.740 --> 00:34:38.080
+noch alles
+
+00:34:38.080 --> 00:34:38.560
+bewirken
+
+00:34:38.560 --> 00:34:38.960
+können.
+
+00:34:41.140 --> 00:34:41.340
+Aber
+
+00:34:41.340 --> 00:34:41.520
+auch
+
+00:34:41.520 --> 00:34:41.800
+da
+
+00:34:41.800 --> 00:34:42.500
+steigt
+
+00:34:42.500 --> 00:34:42.660
+man
+
+00:34:42.660 --> 00:34:43.260
+sukzessive
+
+00:34:43.260 --> 00:34:43.620
+drauf
+
+00:34:43.620 --> 00:34:43.920
+ein.
+
+00:34:44.200 --> 00:34:44.720
+Wir gehen
+
+00:34:44.720 --> 00:34:44.900
+vom
+
+00:34:44.900 --> 00:34:45.520
+Einfachen
+
+00:34:45.520 --> 00:34:45.720
+zum
+
+00:34:45.720 --> 00:34:46.280
+Schweren.
+
+00:34:46.280 --> 00:34:48.000
+Ich bin
+
+00:34:48.000 --> 00:34:48.220
+wieder
+
+00:34:48.220 --> 00:34:48.540
+auf der
+
+00:34:48.540 --> 00:34:49.140
+Haupt-App-Seite
+
+00:34:49.140 --> 00:34:49.360
+von
+
+00:34:49.360 --> 00:34:49.760
+RaQuest.
+
+00:34:51.020 --> 00:34:51.620
+Haben wir
+
+00:34:51.620 --> 00:34:52.360
+mal ganz kurz
+
+00:34:52.360 --> 00:34:52.920
+Stammdaten,
+
+00:34:53.000 --> 00:34:53.460
+Mailpapier und
+
+00:34:53.460 --> 00:34:54.660
+Applikationseinstellungen
+
+00:34:54.660 --> 00:34:55.580
+angerissen und
+
+00:34:55.580 --> 00:34:56.120
+sind immer noch
+
+00:34:56.120 --> 00:34:56.920
+bei Menüs.
+
+00:34:58.740 --> 00:34:59.040
+Es gibt
+
+00:34:59.040 --> 00:34:59.720
+Konflikte,
+
+00:35:00.220 --> 00:35:00.920
+Konflikte,
+
+00:35:01.840 --> 00:35:03.640
+nicht was ihr
+
+00:35:03.640 --> 00:35:04.100
+jetzt denkt,
+
+00:35:04.200 --> 00:35:04.860
+sind Konflikte,
+
+00:35:05.040 --> 00:35:05.360
+sondern
+
+00:35:05.360 --> 00:35:06.200
+wenn man
+
+00:35:06.200 --> 00:35:07.100
+nichts mehr geht
+
+00:35:07.100 --> 00:35:08.000
+und sagt,
+
+00:35:08.680 --> 00:35:09.660
+man importiert
+
+00:35:09.660 --> 00:35:10.000
+Daten,
+
+00:35:11.700 --> 00:35:12.380
+dann prüft
+
+00:35:12.380 --> 00:35:12.980
+ja RaQuest
+
+00:35:12.980 --> 00:35:13.700
+diese Daten
+
+00:35:13.700 --> 00:35:14.040
+ab.
+
+00:35:14.420 --> 00:35:14.820
+RaQuest
+
+00:35:14.820 --> 00:35:15.260
+hat eben
+
+00:35:15.260 --> 00:35:15.620
+ein ganz
+
+00:35:15.620 --> 00:35:15.960
+genaues
+
+00:35:15.960 --> 00:35:16.820
+Prüfsystem
+
+00:35:16.820 --> 00:35:17.600
+und sagt
+
+00:35:17.600 --> 00:35:17.880
+dann,
+
+00:35:18.640 --> 00:35:18.980
+nee,
+
+00:35:19.080 --> 00:35:19.440
+die Daten
+
+00:35:19.440 --> 00:35:19.840
+sind nicht
+
+00:35:19.840 --> 00:35:20.320
+korrekt.
+
+00:35:20.720 --> 00:35:21.100
+Ich brauche
+
+00:35:21.100 --> 00:35:21.580
+noch ein paar
+
+00:35:21.580 --> 00:35:22.260
+Informationen.
+
+00:35:23.320 --> 00:35:23.640
+Dann nennen
+
+00:35:23.640 --> 00:35:23.960
+wir es
+
+00:35:23.960 --> 00:35:24.540
+Konflikte
+
+00:35:24.540 --> 00:35:25.240
+und spielen
+
+00:35:25.240 --> 00:35:26.000
+diese Daten
+
+00:35:26.000 --> 00:35:26.640
+in einen
+
+00:35:26.640 --> 00:35:27.160
+Container
+
+00:35:27.160 --> 00:35:27.380
+rein,
+
+00:35:27.440 --> 00:35:27.620
+der heißt
+
+00:35:27.620 --> 00:35:28.140
+Konflikte.
+
+00:35:32.560 --> 00:35:33.120
+Oder
+
+00:35:33.120 --> 00:35:33.480
+einfach
+
+00:35:33.480 --> 00:35:35.200
+fehlerhafte
+
+00:35:35.200 --> 00:35:35.660
+Daten
+
+00:35:35.660 --> 00:35:36.320
+oder
+
+00:35:36.320 --> 00:35:37.160
+besser gesagt
+
+00:35:37.160 --> 00:35:37.880
+Daten
+
+00:35:37.880 --> 00:35:38.080
+mit
+
+00:35:38.080 --> 00:35:38.500
+fehlenden
+
+00:35:38.500 --> 00:35:39.480
+Informationen
+
+00:35:39.480 --> 00:35:42.540
+können
+
+00:35:42.540 --> 00:35:43.260
+Konflikte
+
+00:35:43.260 --> 00:35:43.680
+sein.
+
+00:35:43.680 --> 00:35:46.720
+hier oben
+
+00:35:46.720 --> 00:35:46.860
+im
+
+00:35:46.860 --> 00:35:47.380
+Menüband
+
+00:35:47.380 --> 00:35:47.880
+ist zwar
+
+00:35:47.880 --> 00:35:48.340
+Konflikte
+
+00:35:48.340 --> 00:35:48.580
+auch
+
+00:35:48.580 --> 00:35:49.080
+erwähnt,
+
+00:35:49.180 --> 00:35:49.380
+aber
+
+00:35:49.380 --> 00:35:49.820
+hier unten
+
+00:35:49.820 --> 00:35:50.060
+links
+
+00:35:50.060 --> 00:35:50.420
+sieht man
+
+00:35:50.420 --> 00:35:50.660
+auch
+
+00:35:50.660 --> 00:35:51.040
+ein
+
+00:35:51.040 --> 00:35:52.780
+Webpart,
+
+00:35:52.880 --> 00:35:53.080
+das heißt
+
+00:35:53.080 --> 00:35:53.760
+Quarantäne
+
+00:35:53.760 --> 00:35:54.460
+und da
+
+00:35:54.460 --> 00:35:54.780
+findet man
+
+00:35:54.780 --> 00:35:54.920
+auch
+
+00:35:54.920 --> 00:35:55.100
+wieder
+
+00:35:55.100 --> 00:35:55.740
+Konflikte.
+
+00:35:57.640 --> 00:35:57.840
+Jetzt
+
+00:35:57.840 --> 00:35:58.220
+sieht man
+
+00:35:58.220 --> 00:35:58.640
+sogar,
+
+00:35:58.780 --> 00:35:58.980
+wenn ich
+
+00:35:58.980 --> 00:35:59.200
+mit dem
+
+00:35:59.200 --> 00:36:00.080
+Mous-Over-Prinzip
+
+00:36:00.080 --> 00:36:00.740
+drübergehe,
+
+00:36:00.860 --> 00:36:01.160
+oh,
+
+00:36:01.400 --> 00:36:01.680
+da sind
+
+00:36:01.680 --> 00:36:01.880
+ja
+
+00:36:01.880 --> 00:36:02.800
+61
+
+00:36:02.800 --> 00:36:03.760
+Konflikte
+
+00:36:03.760 --> 00:36:04.200
+in
+
+00:36:04.200 --> 00:36:05.860
+abweichende
+
+00:36:05.860 --> 00:36:06.860
+Quellensteuersätze.
+
+00:36:07.600 --> 00:36:08.180
+47
+
+00:36:08.180 --> 00:36:08.480
+in
+
+00:36:08.480 --> 00:36:08.880
+fehlenden
+
+00:36:08.880 --> 00:36:09.640
+Devisenkurs,
+
+00:36:09.740 --> 00:36:10.280
+31
+
+00:36:10.280 --> 00:36:10.680
+in
+
+00:36:10.680 --> 00:36:12.040
+Lagerstellennummern.
+
+00:36:13.680 --> 00:36:15.020
+finde ich
+
+00:36:15.020 --> 00:36:15.240
+jetzt
+
+00:36:15.240 --> 00:36:15.540
+ziemlich
+
+00:36:15.540 --> 00:36:16.180
+einfach
+
+00:36:16.180 --> 00:36:17.480
+Lagerstellennummern.
+
+00:36:17.520 --> 00:36:17.860
+Da gehe ich
+
+00:36:17.860 --> 00:36:18.520
+mal rein,
+
+00:36:18.720 --> 00:36:19.320
+ich klicke mal
+
+00:36:19.320 --> 00:36:20.080
+auf Konflikte,
+
+00:36:20.540 --> 00:36:20.980
+dann geht ja
+
+00:36:20.980 --> 00:36:21.360
+wieder ein
+
+00:36:21.360 --> 00:36:22.100
+eigenes Fenster
+
+00:36:22.100 --> 00:36:22.540
+auf,
+
+00:36:23.060 --> 00:36:23.440
+hier oben
+
+00:36:23.440 --> 00:36:24.080
+rechts hat man
+
+00:36:24.080 --> 00:36:24.560
+wieder so
+
+00:36:24.560 --> 00:36:25.620
+eine globale
+
+00:36:25.620 --> 00:36:26.240
+Auswahl,
+
+00:36:26.600 --> 00:36:26.920
+was man
+
+00:36:26.920 --> 00:36:27.580
+haben möchte
+
+00:36:27.580 --> 00:36:28.440
+und gehe
+
+00:36:28.440 --> 00:36:28.700
+dann auf
+
+00:36:28.700 --> 00:36:29.560
+Lagerstellennummer.
+
+00:36:30.840 --> 00:36:31.180
+Suche
+
+00:36:31.180 --> 00:36:31.620
+starten.
+
+00:36:32.640 --> 00:36:32.980
+Welche
+
+00:36:32.980 --> 00:36:33.420
+Daten
+
+00:36:33.420 --> 00:36:35.380
+haben
+
+00:36:35.380 --> 00:36:35.820
+denn eine
+
+00:36:35.820 --> 00:36:36.420
+fehlende
+
+00:36:36.420 --> 00:36:37.300
+Lagerstellennummer?
+
+00:36:37.420 --> 00:36:37.700
+Das ist
+
+00:36:37.700 --> 00:36:37.980
+hier die
+
+00:36:37.980 --> 00:36:38.340
+Frage.
+
+00:36:38.980 --> 00:36:39.260
+Dann kann
+
+00:36:39.260 --> 00:36:39.420
+man
+
+00:36:39.420 --> 00:36:39.760
+sagen,
+
+00:36:40.020 --> 00:36:40.240
+ah,
+
+00:36:40.340 --> 00:36:40.440
+der
+
+00:36:40.440 --> 00:36:41.240
+Anspruch
+
+00:36:41.240 --> 00:36:41.620
+mit der
+
+00:36:41.620 --> 00:36:42.640
+US-ISIN,
+
+00:36:42.900 --> 00:36:43.140
+also
+
+00:36:43.140 --> 00:36:44.300
+Wertpapier,
+
+00:36:46.140 --> 00:36:46.400
+damit
+
+00:36:46.400 --> 00:36:46.660
+jemand
+
+00:36:46.660 --> 00:36:46.960
+dem
+
+00:36:46.960 --> 00:36:47.820
+Deponummer
+
+00:36:47.820 --> 00:36:48.760
+vom
+
+00:36:48.760 --> 00:36:50.060
+2013
+
+00:36:50.060 --> 00:36:50.660
+schon lange
+
+00:36:50.660 --> 00:36:50.980
+her
+
+00:36:50.980 --> 00:36:51.600
+hat keine
+
+00:36:51.600 --> 00:36:52.480
+Lagerstellennummer.
+
+00:36:52.860 --> 00:36:53.220
+Dann könnte
+
+00:36:53.220 --> 00:36:53.500
+ich die
+
+00:36:53.500 --> 00:36:54.220
+Lagerstellennummer
+
+00:36:54.220 --> 00:36:54.840
+zuordnen.
+
+00:36:55.080 --> 00:36:55.360
+Also ich
+
+00:36:55.360 --> 00:36:55.720
+kann die
+
+00:36:55.720 --> 00:36:56.060
+Daten
+
+00:36:56.060 --> 00:36:56.400
+hier
+
+00:36:56.400 --> 00:36:57.140
+pflegen,
+
+00:36:58.080 --> 00:36:58.640
+auch als
+
+00:36:58.640 --> 00:36:59.500
+Sachbearbeiter
+
+00:36:59.500 --> 00:36:59.500
+
+
+00:37:11.240 --> 00:37:11.840
+darf
+
+00:37:11.840 --> 00:37:12.180
+er
+
+00:37:12.180 --> 00:37:12.620
+die
+
+00:37:12.620 --> 00:37:13.040
+Ansprüche
+
+00:37:13.040 --> 00:37:13.300
+weiter
+
+00:37:13.300 --> 00:37:14.000
+beantragen,
+
+00:37:14.100 --> 00:37:14.280
+in den
+
+00:37:14.280 --> 00:37:14.680
+Prozesse
+
+00:37:14.680 --> 00:37:15.260
+überführen.
+
+00:37:15.720 --> 00:37:16.100
+Es ist so
+
+00:37:16.100 --> 00:37:16.260
+ein
+
+00:37:16.260 --> 00:37:17.600
+Konflikte,
+
+00:37:17.720 --> 00:37:18.340
+ist eine
+
+00:37:18.340 --> 00:37:19.100
+Vorstufe.
+
+00:37:19.960 --> 00:37:20.160
+Eine
+
+00:37:20.160 --> 00:37:20.800
+Vorstufe,
+
+00:37:20.920 --> 00:37:21.200
+Daten
+
+00:37:21.200 --> 00:37:21.880
+zu prüfen,
+
+00:37:22.480 --> 00:37:23.420
+bevor man
+
+00:37:23.420 --> 00:37:23.920
+sie überhaupt
+
+00:37:23.920 --> 00:37:24.700
+beanträgt.
+
+00:37:25.780 --> 00:37:26.120
+Wenn die
+
+00:37:26.120 --> 00:37:26.400
+Daten
+
+00:37:26.400 --> 00:37:26.820
+fehlen,
+
+00:37:26.880 --> 00:37:27.140
+kann man
+
+00:37:27.140 --> 00:37:27.420
+vielleicht
+
+00:37:27.420 --> 00:37:27.600
+nicht
+
+00:37:27.600 --> 00:37:28.140
+beantragen,
+
+00:37:28.240 --> 00:37:28.460
+weil die
+
+00:37:28.460 --> 00:37:29.040
+Lagerstellennummer
+
+00:37:29.040 --> 00:37:29.340
+fehlt.
+
+00:37:32.660 --> 00:37:33.220
+Ja,
+
+00:37:33.600 --> 00:37:35.220
+was ist
+
+00:37:35.220 --> 00:37:35.380
+eine
+
+00:37:35.380 --> 00:37:36.320
+Lagerstellennummer?
+
+00:37:36.320 --> 00:37:42.140
+Ansprüche
+
+00:37:42.140 --> 00:37:43.000
+ihrerseits
+
+00:37:43.000 --> 00:37:43.680
+verweisen
+
+00:37:43.680 --> 00:37:44.060
+ja immer
+
+00:37:44.060 --> 00:37:44.860
+irgendwo hin.
+
+00:37:45.780 --> 00:37:46.260
+Verweisen
+
+00:37:46.260 --> 00:37:46.580
+die
+
+00:37:46.580 --> 00:37:46.840
+zur
+
+00:37:46.840 --> 00:37:47.380
+ausländischen
+
+00:37:47.380 --> 00:37:48.020
+Behörde
+
+00:37:48.020 --> 00:37:48.240
+oder
+
+00:37:48.240 --> 00:37:48.720
+verweisen
+
+00:37:48.720 --> 00:37:48.960
+die
+
+00:37:48.960 --> 00:37:49.260
+zu
+
+00:37:49.260 --> 00:37:49.880
+einer
+
+00:37:49.880 --> 00:37:50.200
+Bank,
+
+00:37:50.300 --> 00:37:50.500
+wo ich
+
+00:37:50.500 --> 00:37:51.180
+beantrage.
+
+00:37:51.540 --> 00:37:51.860
+Wir nennen
+
+00:37:51.860 --> 00:37:52.080
+es
+
+00:37:52.080 --> 00:37:52.740
+Lagerstellen,
+
+00:37:53.920 --> 00:37:54.260
+wo die
+
+00:37:54.260 --> 00:37:54.880
+Wertpapiere
+
+00:37:54.880 --> 00:37:55.600
+verwahrt
+
+00:37:55.600 --> 00:37:55.980
+werden.
+
+00:37:56.920 --> 00:37:57.240
+Das sind
+
+00:37:57.240 --> 00:37:58.060
+Lagerstellen.
+
+00:37:58.880 --> 00:37:59.200
+Es sind
+
+00:37:59.200 --> 00:37:59.480
+eigentlich
+
+00:37:59.480 --> 00:37:59.680
+nur
+
+00:37:59.680 --> 00:38:00.120
+Banken.
+
+00:38:01.480 --> 00:38:01.600
+Und
+
+00:38:01.600 --> 00:38:01.840
+diese
+
+00:38:01.840 --> 00:38:02.240
+Banken
+
+00:38:02.240 --> 00:38:02.500
+schreibt
+
+00:38:02.500 --> 00:38:02.660
+man
+
+00:38:02.660 --> 00:38:02.940
+an.
+
+00:38:04.220 --> 00:38:04.440
+Und
+
+00:38:04.440 --> 00:38:05.460
+natürlich
+
+00:38:05.460 --> 00:38:05.840
+hat man
+
+00:38:05.840 --> 00:38:06.000
+bei
+
+00:38:06.000 --> 00:38:06.220
+diesen
+
+00:38:06.220 --> 00:38:06.640
+Banken
+
+00:38:06.640 --> 00:38:07.480
+Accounts.
+
+00:38:08.080 --> 00:38:08.200
+Und
+
+00:38:08.200 --> 00:38:09.060
+zugeordnet
+
+00:38:09.060 --> 00:38:09.200
+zu
+
+00:38:09.200 --> 00:38:09.420
+diesen
+
+00:38:09.420 --> 00:38:10.280
+Accounts
+
+00:38:10.280 --> 00:38:10.820
+gibt es
+
+00:38:10.820 --> 00:38:12.360
+Lagerstellennummern.
+
+00:38:15.740 --> 00:38:16.260
+Und
+
+00:38:16.260 --> 00:38:16.500
+mit
+
+00:38:16.500 --> 00:38:16.720
+dieser
+
+00:38:16.720 --> 00:38:17.380
+Lagerstellennummer
+
+00:38:17.380 --> 00:38:18.080
+verweist man
+
+00:38:18.080 --> 00:38:18.480
+auf diesen
+
+00:38:18.480 --> 00:38:18.900
+Account
+
+00:38:18.900 --> 00:38:20.140
+und indirekt
+
+00:38:20.140 --> 00:38:20.700
+natürlich auch
+
+00:38:20.700 --> 00:38:21.460
+auf diese
+
+00:38:21.460 --> 00:38:22.380
+Bank,
+
+00:38:22.920 --> 00:38:23.200
+wo man
+
+00:38:23.200 --> 00:38:23.800
+hin möchte.
+
+00:38:24.540 --> 00:38:24.900
+Irgendwie
+
+00:38:24.900 --> 00:38:25.260
+muss es
+
+00:38:25.260 --> 00:38:25.620
+da eine
+
+00:38:25.620 --> 00:38:26.000
+Verbindung
+
+00:38:26.000 --> 00:38:26.360
+geben.
+
+00:38:27.360 --> 00:38:27.480
+Und
+
+00:38:27.480 --> 00:38:27.740
+wenn es
+
+00:38:27.740 --> 00:38:27.980
+keine
+
+00:38:27.980 --> 00:38:28.320
+Verbindung
+
+00:38:28.320 --> 00:38:28.660
+gibt,
+
+00:38:28.780 --> 00:38:29.020
+gibt es
+
+00:38:29.020 --> 00:38:29.140
+einen
+
+00:38:29.140 --> 00:38:29.640
+Konflikt
+
+00:38:29.640 --> 00:38:29.800
+und
+
+00:38:29.800 --> 00:38:30.060
+wenn es
+
+00:38:30.060 --> 00:38:30.840
+einen
+
+00:38:30.840 --> 00:38:31.140
+Konflikt
+
+00:38:31.140 --> 00:38:31.320
+gibt,
+
+00:38:31.400 --> 00:38:31.680
+kann man
+
+00:38:31.680 --> 00:38:31.980
+nicht
+
+00:38:31.980 --> 00:38:32.840
+beantragen.
+
+00:38:33.980 --> 00:38:34.240
+Ich glaube,
+
+00:38:34.540 --> 00:38:34.780
+habe ich
+
+00:38:34.780 --> 00:38:35.460
+genug
+
+00:38:35.460 --> 00:38:36.120
+drumherum
+
+00:38:36.120 --> 00:38:37.340
+erklärt.
+
+00:38:38.220 --> 00:38:38.600
+Kann man das
+
+00:38:38.600 --> 00:38:39.220
+nachvollziehen?
+
+00:38:41.940 --> 00:38:42.540
+Datenkonflikte?
+
+00:38:43.380 --> 00:38:43.720
+Also
+
+00:38:43.720 --> 00:38:44.580
+ist es ja so,
+
+00:38:44.720 --> 00:38:45.580
+ich bin jetzt bei
+
+00:38:45.580 --> 00:38:46.220
+der HSBC,
+
+00:38:47.420 --> 00:38:48.320
+mein Kunde hat
+
+00:38:48.320 --> 00:38:48.620
+zum Beispiel
+
+00:38:48.620 --> 00:38:49.620
+Aktien in der
+
+00:38:49.620 --> 00:38:49.960
+Schweiz,
+
+00:38:50.040 --> 00:38:50.460
+die werden aber nur
+
+00:38:50.460 --> 00:38:50.740
+bei einer
+
+00:38:50.740 --> 00:38:51.460
+Schweizer Bank
+
+00:38:51.460 --> 00:38:52.000
+gehandelt
+
+00:38:52.000 --> 00:38:52.180
+oder
+
+00:38:52.180 --> 00:38:52.680
+einer Schweizer
+
+00:38:52.680 --> 00:38:53.220
+Börse.
+
+00:38:54.160 --> 00:38:54.660
+Dann
+
+00:38:54.660 --> 00:38:56.640
+lege ich
+
+00:38:56.640 --> 00:38:57.060
+quasi
+
+00:38:57.060 --> 00:38:57.420
+die
+
+00:38:57.420 --> 00:38:58.380
+Lagerstellennummer
+
+00:38:58.380 --> 00:39:00.120
+der Ort
+
+00:39:00.120 --> 00:39:00.400
+in der
+
+00:39:00.400 --> 00:39:00.860
+Schweiz
+
+00:39:00.860 --> 00:39:01.260
+bei der
+
+00:39:01.260 --> 00:39:01.660
+Bank,
+
+00:39:01.880 --> 00:39:02.580
+wo meine
+
+00:39:02.580 --> 00:39:03.500
+Aktie
+
+00:39:03.500 --> 00:39:04.060
+gehandelt wird.
+
+00:39:05.120 --> 00:39:05.520
+Oder?
+
+00:39:07.340 --> 00:39:07.860
+Ja,
+
+00:39:08.240 --> 00:39:08.780
+ich würde es
+
+00:39:08.780 --> 00:39:09.060
+ein bisschen
+
+00:39:09.060 --> 00:39:09.580
+anders
+
+00:39:09.580 --> 00:39:10.560
+formulieren.
+
+00:39:11.600 --> 00:39:11.980
+Ich würde es
+
+00:39:11.980 --> 00:39:12.880
+so formulieren,
+
+00:39:12.980 --> 00:39:13.400
+du bist
+
+00:39:13.400 --> 00:39:14.520
+Kundin der
+
+00:39:14.520 --> 00:39:15.060
+HSBC.
+
+00:39:16.060 --> 00:39:16.500
+Du hast
+
+00:39:16.500 --> 00:39:16.980
+Ansprüche.
+
+00:39:16.980 --> 00:39:18.660
+diese
+
+00:39:18.660 --> 00:39:19.560
+Ansprüche,
+
+00:39:19.740 --> 00:39:19.920
+das
+
+00:39:19.920 --> 00:39:21.460
+interessiert
+
+00:39:21.460 --> 00:39:22.200
+dich selten,
+
+00:39:22.820 --> 00:39:23.500
+liegen jetzt
+
+00:39:23.500 --> 00:39:24.240
+bei
+
+00:39:24.240 --> 00:39:25.400
+Clearstream.
+
+00:39:25.940 --> 00:39:26.440
+Clearstream
+
+00:39:26.440 --> 00:39:27.080
+ist der Name
+
+00:39:27.080 --> 00:39:27.640
+einer Bank.
+
+00:39:29.380 --> 00:39:29.940
+Clearstream
+
+00:39:29.940 --> 00:39:30.360
+ist sogar
+
+00:39:30.360 --> 00:39:30.840
+eine ziemlich
+
+00:39:30.840 --> 00:39:31.700
+große
+
+00:39:31.700 --> 00:39:33.140
+Lagerstellenbank,
+
+00:39:33.360 --> 00:39:33.700
+wo diese
+
+00:39:33.700 --> 00:39:34.420
+Wertpapiere
+
+00:39:34.420 --> 00:39:35.100
+physisch,
+
+00:39:35.260 --> 00:39:35.940
+nicht physisch,
+
+00:39:36.000 --> 00:39:36.840
+aber auf jeden Fall
+
+00:39:36.840 --> 00:39:37.560
+mal digital
+
+00:39:37.560 --> 00:39:38.400
+aufbewahrt
+
+00:39:38.400 --> 00:39:38.680
+werden.
+
+00:39:38.680 --> 00:39:41.920
+Ich könnte es
+
+00:39:41.920 --> 00:39:42.360
+so vorstellen,
+
+00:39:42.440 --> 00:39:42.700
+wenn ihr ein
+
+00:39:42.700 --> 00:39:43.160
+Wertpapier
+
+00:39:43.160 --> 00:39:43.760
+haltet,
+
+00:39:44.640 --> 00:39:45.100
+dann ist das
+
+00:39:45.100 --> 00:39:45.740
+Wertpapier
+
+00:39:45.740 --> 00:39:46.340
+zwar in eurem
+
+00:39:46.340 --> 00:39:46.700
+Depot
+
+00:39:46.700 --> 00:39:47.440
+verbucht,
+
+00:39:48.620 --> 00:39:49.120
+aber
+
+00:39:49.120 --> 00:39:50.620
+datentechnisch
+
+00:39:50.620 --> 00:39:51.060
+ist das
+
+00:39:51.060 --> 00:39:51.380
+noch
+
+00:39:51.380 --> 00:39:52.280
+gespiegelt
+
+00:39:52.280 --> 00:39:52.680
+oder besser
+
+00:39:52.680 --> 00:39:52.960
+gesagt,
+
+00:39:53.080 --> 00:39:53.960
+das Original
+
+00:39:53.960 --> 00:39:54.900
+ist bei
+
+00:39:54.900 --> 00:39:55.080
+der
+
+00:39:55.080 --> 00:39:55.820
+Lagerstelle,
+
+00:39:56.060 --> 00:39:56.720
+also bei
+
+00:39:56.720 --> 00:39:57.140
+Clearstream.
+
+00:39:58.720 --> 00:39:59.200
+Ja,
+
+00:39:59.320 --> 00:39:59.800
+ich weiß,
+
+00:39:59.900 --> 00:40:00.260
+ich wollte es
+
+00:40:00.260 --> 00:40:01.660
+verkaufen
+
+00:40:01.660 --> 00:40:02.060
+und
+
+00:40:02.060 --> 00:40:03.700
+unglücklicherweise
+
+00:40:03.700 --> 00:40:04.360
+haben sie meine
+
+00:40:04.360 --> 00:40:05.180
+Bank nicht mehr
+
+00:40:05.180 --> 00:40:05.480
+mit der
+
+00:40:05.480 --> 00:40:06.040
+anderen Bank.
+
+00:40:06.180 --> 00:40:06.440
+Mir ist
+
+00:40:06.440 --> 00:40:06.760
+die
+
+00:40:06.760 --> 00:40:06.980
+Firma
+
+00:40:06.980 --> 00:40:07.540
+durchaus
+
+00:40:07.540 --> 00:40:07.900
+bekannt,
+
+00:40:08.020 --> 00:40:08.120
+ja.
+
+00:40:08.680 --> 00:40:09.160
+Okay,
+
+00:40:09.440 --> 00:40:09.880
+seltsam.
+
+00:40:10.500 --> 00:40:10.640
+Ja,
+
+00:40:10.720 --> 00:40:11.520
+soziale Aktien,
+
+00:40:11.700 --> 00:40:11.700
+
+
+00:40:11.700 --> 00:40:16.160
+Wenn man
+
+00:40:16.160 --> 00:40:17.360
+jetzt,
+
+00:40:17.540 --> 00:40:17.940
+sag ich mal,
+
+00:40:18.000 --> 00:40:18.500
+in seine
+
+00:40:18.500 --> 00:40:19.140
+Unterlagen
+
+00:40:19.140 --> 00:40:19.500
+schaut,
+
+00:40:19.660 --> 00:40:20.180
+nach dem
+
+00:40:20.180 --> 00:40:20.820
+Kauf bekommt man
+
+00:40:20.820 --> 00:40:21.100
+ein paar
+
+00:40:21.100 --> 00:40:21.680
+Unterlagen
+
+00:40:21.680 --> 00:40:22.900
+in sein Depot
+
+00:40:22.900 --> 00:40:23.360
+gespült,
+
+00:40:23.420 --> 00:40:23.940
+dann kann man
+
+00:40:23.940 --> 00:40:24.760
+ja auch
+
+00:40:24.760 --> 00:40:25.480
+mal lesen,
+
+00:40:25.540 --> 00:40:25.840
+wo sind
+
+00:40:25.840 --> 00:40:26.740
+meine
+
+00:40:26.740 --> 00:40:27.140
+Wertpapiere
+
+00:40:27.140 --> 00:40:27.340
+eigentlich
+
+00:40:27.340 --> 00:40:28.080
+gelagert?
+
+00:40:28.540 --> 00:40:28.880
+Wo steht
+
+00:40:28.880 --> 00:40:29.120
+dann?
+
+00:40:29.460 --> 00:40:29.900
+Lagerstelle
+
+00:40:29.900 --> 00:40:30.080
+oder
+
+00:40:30.080 --> 00:40:30.920
+Verwahrstelle?
+
+00:40:32.000 --> 00:40:32.760
+Ist alles
+
+00:40:32.760 --> 00:40:33.480
+super
+
+00:40:33.480 --> 00:40:34.200
+aufgeführt,
+
+00:40:34.380 --> 00:40:34.620
+wenn man
+
+00:40:34.620 --> 00:40:35.060
+das wissen
+
+00:40:35.060 --> 00:40:35.260
+will.
+
+00:40:38.020 --> 00:40:38.240
+Ja,
+
+00:40:38.680 --> 00:40:39.500
+Konflikte,
+
+00:40:39.640 --> 00:40:40.000
+genau.
+
+00:40:43.000 --> 00:40:43.620
+Konflikte
+
+00:40:43.620 --> 00:40:44.780
+entstehen
+
+00:40:44.780 --> 00:40:45.660
+halt eben,
+
+00:40:46.360 --> 00:40:46.520
+wenn
+
+00:40:46.520 --> 00:40:47.160
+einfach
+
+00:40:47.160 --> 00:40:48.020
+Daten
+
+00:40:48.020 --> 00:40:48.900
+nicht
+
+00:40:48.900 --> 00:40:49.500
+bereinigt
+
+00:40:49.500 --> 00:40:49.800
+sind.
+
+00:40:52.300 --> 00:40:52.940
+Okay,
+
+00:40:53.340 --> 00:40:53.780
+das heißt,
+
+00:40:53.900 --> 00:40:54.760
+also ein Sachbearbeiter
+
+00:40:54.760 --> 00:40:56.180
+sitzt da jetzt so bei der Bank
+
+00:40:56.180 --> 00:40:56.900
+und da macht er
+
+00:40:56.900 --> 00:40:57.900
+RaQuest in der Früh an
+
+00:40:57.900 --> 00:40:58.780
+und dann sagt er,
+
+00:40:59.520 --> 00:41:00.160
+oh,
+
+00:41:00.320 --> 00:41:01.000
+ich sehe,
+
+00:41:01.220 --> 00:41:01.620
+in meinem
+
+00:41:01.620 --> 00:41:02.220
+Webpart
+
+00:41:02.220 --> 00:41:02.740
+wurde mir
+
+00:41:02.740 --> 00:41:03.300
+reported
+
+00:41:03.300 --> 00:41:04.300
+139
+
+00:41:04.300 --> 00:41:05.020
+Konflikte.
+
+00:41:05.020 --> 00:41:06.380
+die muss
+
+00:41:06.380 --> 00:41:06.720
+ich ja
+
+00:41:06.720 --> 00:41:07.200
+jetzt mal
+
+00:41:07.200 --> 00:41:08.140
+auflösen,
+
+00:41:08.520 --> 00:41:08.920
+da muss ich
+
+00:41:08.920 --> 00:41:09.520
+reingehen,
+
+00:41:09.620 --> 00:41:09.880
+zack,
+
+00:41:09.960 --> 00:41:10.480
+gehe ich rein
+
+00:41:10.480 --> 00:41:11.180
+und dann arbeitet
+
+00:41:11.180 --> 00:41:11.480
+sie,
+
+00:41:11.600 --> 00:41:11.900
+macht den
+
+00:41:11.900 --> 00:41:12.400
+Konflikt,
+
+00:41:12.580 --> 00:41:13.100
+recherchiert
+
+00:41:13.100 --> 00:41:13.420
+was,
+
+00:41:13.840 --> 00:41:14.000
+ja,
+
+00:41:14.240 --> 00:41:14.320
+ach,
+
+00:41:14.380 --> 00:41:15.200
+die Lagerstellennummer
+
+00:41:15.200 --> 00:41:16.000
+ist 123,
+
+00:41:16.600 --> 00:41:17.180
+eingeben,
+
+00:41:17.340 --> 00:41:17.460
+tag,
+
+00:41:17.520 --> 00:41:17.640
+tag,
+
+00:41:17.700 --> 00:41:17.860
+tag,
+
+00:41:17.920 --> 00:41:18.220
+weiter,
+
+00:41:18.340 --> 00:41:19.240
+löst
+
+00:41:19.240 --> 00:41:19.840
+einen Konflikt
+
+00:41:19.840 --> 00:41:20.140
+nach dem
+
+00:41:20.140 --> 00:41:20.620
+anderen auf,
+
+00:41:20.680 --> 00:41:21.020
+erst dann
+
+00:41:21.020 --> 00:41:21.300
+sind die
+
+00:41:21.300 --> 00:41:21.560
+Daten
+
+00:41:21.560 --> 00:41:22.200
+bereinigt.
+
+00:41:22.200 --> 00:41:24.460
+Das wäre dann
+
+00:41:24.460 --> 00:41:24.920
+ihr Job,
+
+00:41:25.440 --> 00:41:26.120
+weil sie diesen
+
+00:41:26.120 --> 00:41:26.860
+Webpart sieht,
+
+00:41:27.100 --> 00:41:27.840
+wo Konflikte
+
+00:41:27.840 --> 00:41:29.240
+angezeigt werden.
+
+00:41:30.940 --> 00:41:31.340
+Administration,
+
+00:41:31.700 --> 00:41:32.440
+das ist etwas,
+
+00:41:32.820 --> 00:41:33.660
+was nur ich sehe.
+
+00:41:34.320 --> 00:41:35.580
+Wenn ich gewisse
+
+00:41:35.580 --> 00:41:36.420
+Rechte habe,
+
+00:41:36.780 --> 00:41:37.440
+dann könnte ich hier
+
+00:41:37.440 --> 00:41:38.300
+Benutzer verwalten,
+
+00:41:38.480 --> 00:41:39.140
+also ich könnte zum
+
+00:41:39.140 --> 00:41:40.080
+Benutzer anlegen,
+
+00:41:40.540 --> 00:41:41.280
+Anna Krause,
+
+00:41:41.600 --> 00:41:42.200
+Bogdan,
+
+00:41:42.640 --> 00:41:43.080
+Ursu,
+
+00:41:43.460 --> 00:41:44.580
+könnte ich anlegen
+
+00:41:44.580 --> 00:41:45.380
+und ich könnte dem
+
+00:41:45.380 --> 00:41:46.320
+Benutzer auch Rollen
+
+00:41:46.320 --> 00:41:46.640
+geben,
+
+00:41:46.780 --> 00:41:47.740
+dass der zum Beispiel
+
+00:41:47.740 --> 00:41:48.880
+beantragen darf,
+
+00:41:49.480 --> 00:41:50.840
+aber er darf zum Beispiel
+
+00:41:50.840 --> 00:41:52.480
+keine Massenverarbeitung
+
+00:41:52.480 --> 00:41:52.880
+machen,
+
+00:41:53.580 --> 00:41:54.720
+aber er darf auf jeden Fall
+
+00:41:54.720 --> 00:41:55.860
+nicht die Rechte haben
+
+00:41:55.860 --> 00:41:57.820
+eines Applikationsadministrators,
+
+00:41:58.200 --> 00:41:58.600
+das ist einfach
+
+00:41:58.600 --> 00:41:59.400
+Sachverarbeiter.
+
+00:42:02.460 --> 00:42:03.340
+Also haben wir hier
+
+00:42:03.340 --> 00:42:05.000
+ein sehr ausgeglügeltes
+
+00:42:05.000 --> 00:42:06.080
+Rollenkonzept,
+
+00:42:06.300 --> 00:42:07.200
+die den Benutzern
+
+00:42:07.200 --> 00:42:08.000
+zugeordnet werden.
+
+00:42:08.900 --> 00:42:09.640
+Benutzer sind immer,
+
+00:42:09.860 --> 00:42:10.740
+in der Regel sind das
+
+00:42:10.740 --> 00:42:11.960
+immer die Leute in der Bank,
+
+00:42:12.080 --> 00:42:12.420
+die mit der
+
+00:42:12.420 --> 00:42:12.900
+Rack-Zuft
+
+00:42:12.900 --> 00:42:13.360
+arbeiten.
+
+00:42:16.560 --> 00:42:17.040
+Auswertungen.
+
+00:42:18.740 --> 00:42:19.220
+Auswertungen
+
+00:42:19.220 --> 00:42:20.420
+stellt euch also mal
+
+00:42:20.420 --> 00:42:22.740
+zu 90% Excel-Listen vor.
+
+00:42:24.400 --> 00:42:25.180
+Wenn ich auf
+
+00:42:25.180 --> 00:42:25.800
+Auswertungen
+
+00:42:25.800 --> 00:42:26.720
+Berichte klicke,
+
+00:42:27.180 --> 00:42:28.060
+dann werde ich
+
+00:42:28.060 --> 00:42:38.200
+immer zu den Berichten
+
+00:42:38.200 --> 00:42:38.880
+geleitet
+
+00:42:38.880 --> 00:42:40.100
+und dann klicke ich
+
+00:42:40.100 --> 00:42:41.280
+auf Berichte drauf
+
+00:42:41.280 --> 00:42:45.540
+und dann sehe ich auch schon,
+
+00:42:45.960 --> 00:42:47.260
+okay, ich habe hier wieder
+
+00:42:47.260 --> 00:42:48.540
+zu Filtermasken,
+
+00:42:48.540 --> 00:42:50.440
+da könnte ich doch
+
+00:42:50.440 --> 00:42:51.260
+einmal hier
+
+00:42:51.260 --> 00:42:52.260
+ein paar Auswertungen
+
+00:42:52.260 --> 00:42:52.940
+angucken.
+
+00:42:53.720 --> 00:42:54.280
+Ich will
+
+00:42:54.280 --> 00:42:55.400
+einen Kundenreport
+
+00:42:55.400 --> 00:42:55.980
+sehen
+
+00:42:55.980 --> 00:42:57.100
+und dann müsste ich
+
+00:42:57.100 --> 00:42:58.260
+eventuell hier so ein paar
+
+00:42:58.260 --> 00:42:59.280
+Daten eingeben
+
+00:42:59.280 --> 00:43:00.080
+oder auch nicht.
+
+00:43:00.240 --> 00:43:01.000
+Manchmal funktionieren
+
+00:43:01.000 --> 00:43:01.980
+die Reports auch ohne
+
+00:43:01.980 --> 00:43:02.380
+Filter
+
+00:43:02.380 --> 00:43:03.640
+und gehe dann auf
+
+00:43:03.640 --> 00:43:04.080
+Weiter
+
+00:43:04.080 --> 00:43:05.520
+und schauen,
+
+00:43:05.660 --> 00:43:06.400
+ob er mir was gibt.
+
+00:43:06.680 --> 00:43:07.260
+Nein, er braucht
+
+00:43:07.260 --> 00:43:08.040
+einen Parameter.
+
+00:43:09.500 --> 00:43:10.020
+Dann müsste ich mir
+
+00:43:10.020 --> 00:43:10.760
+jetzt einen Parameter
+
+00:43:10.760 --> 00:43:11.360
+ausdenken
+
+00:43:11.360 --> 00:43:12.100
+und ihn kennen.
+
+00:43:12.100 --> 00:43:14.560
+Gibt es noch
+
+00:43:14.560 --> 00:43:15.160
+was anderes?
+
+00:43:15.160 --> 00:43:15.380
+das?
+
+00:43:15.380 --> 00:43:31.500
+Ich habe nicht angezeigt,
+
+00:43:31.600 --> 00:43:32.440
+welche Fälle
+
+00:43:32.440 --> 00:43:33.180
+sind Licht
+
+00:43:33.180 --> 00:43:33.460
+oder?
+
+00:43:34.880 --> 00:43:35.360
+Manchmal,
+
+00:43:35.560 --> 00:43:35.840
+nein,
+
+00:43:35.980 --> 00:43:36.200
+nein,
+
+00:43:36.200 --> 00:43:36.980
+leider noch nicht.
+
+00:43:38.480 --> 00:43:39.240
+Ich kann dir
+
+00:43:39.240 --> 00:43:39.760
+ein Beispiel
+
+00:43:39.760 --> 00:43:40.320
+geben.
+
+00:43:41.380 --> 00:43:41.860
+Das ist eine sehr
+
+00:43:41.860 --> 00:43:42.580
+gute Frage,
+
+00:43:43.300 --> 00:43:43.960
+aber das ist noch
+
+00:43:43.960 --> 00:43:45.160
+nicht so ausgeklügelt.
+
+00:43:45.640 --> 00:43:46.460
+Wenn man jetzt hergeht
+
+00:43:46.460 --> 00:43:46.840
+und sagt,
+
+00:43:46.940 --> 00:43:47.480
+ah, okay,
+
+00:43:47.580 --> 00:43:48.180
+hier sind Felder
+
+00:43:48.180 --> 00:43:48.880
+vorbelegt,
+
+00:43:49.500 --> 00:43:50.640
+gibt es darüber hinaus
+
+00:43:50.640 --> 00:43:50.880
+Felder,
+
+00:43:50.960 --> 00:43:51.900
+die Pflichtfelder sind,
+
+00:43:52.080 --> 00:43:52.780
+weiß man nicht.
+
+00:43:52.880 --> 00:43:53.700
+Das findet man dann
+
+00:43:53.700 --> 00:43:54.100
+raus.
+
+00:43:55.100 --> 00:43:55.840
+Und ich würde mir
+
+00:43:55.840 --> 00:43:56.500
+halt wünschen,
+
+00:43:56.620 --> 00:43:57.620
+als Business Analyst,
+
+00:43:57.980 --> 00:43:58.240
+hey,
+
+00:43:58.540 --> 00:43:59.660
+dann tu mir doch
+
+00:43:59.660 --> 00:44:00.320
+dieses Feld
+
+00:44:00.320 --> 00:44:01.280
+rot einfärben
+
+00:44:01.280 --> 00:44:02.120
+oder irgendwie
+
+00:44:02.120 --> 00:44:02.780
+was machen,
+
+00:44:02.840 --> 00:44:03.760
+damit ich es verstehe.
+
+00:44:05.240 --> 00:44:05.960
+Ich will ja nicht
+
+00:44:05.960 --> 00:44:06.480
+jedes Feld
+
+00:44:06.480 --> 00:44:07.560
+ausfüllen müssen.
+
+00:44:09.900 --> 00:44:10.720
+Da werden wir
+
+00:44:10.720 --> 00:44:12.240
+jetzt Pech haben.
+
+00:44:12.240 --> 00:44:13.800
+was rauskommt,
+
+00:44:13.880 --> 00:44:14.560
+ist eine Excel-Liste.
+
+00:44:14.960 --> 00:44:15.540
+Einfach mit
+
+00:44:15.540 --> 00:44:16.140
+Weiter,
+
+00:44:16.440 --> 00:44:16.960
+unten rechts
+
+00:44:16.960 --> 00:44:17.520
+auf Weiter
+
+00:44:17.520 --> 00:44:18.500
+oder hier oben
+
+00:44:18.500 --> 00:44:18.960
+links auf
+
+00:44:18.960 --> 00:44:19.960
+Vorschau,
+
+00:44:20.460 --> 00:44:20.920
+dann kommt
+
+00:44:20.920 --> 00:44:21.940
+die kurze Vorschau
+
+00:44:21.940 --> 00:44:22.520
+und dann kann man
+
+00:44:22.520 --> 00:44:23.520
+den Excel downloaden.
+
+00:44:26.480 --> 00:44:27.240
+Vielleicht haben wir
+
+00:44:27.240 --> 00:44:28.180
+noch ein gutes Beispiel.
+
+00:44:32.080 --> 00:44:33.040
+Aber ich werde mich
+
+00:44:33.040 --> 00:44:33.800
+nicht lange damit
+
+00:44:33.800 --> 00:44:34.300
+aufhalten,
+
+00:44:34.380 --> 00:44:35.360
+wenn ich kein Beispiel
+
+00:44:35.360 --> 00:44:35.860
+finde.
+
+00:44:35.860 --> 00:44:37.440
+ein paar Mal
+
+00:44:37.440 --> 00:44:37.860
+haben.
+
+00:44:37.860 --> 00:44:38.380
+Habt ihr sowas
+
+00:44:38.380 --> 00:44:38.940
+schon irgendwie
+
+00:44:38.940 --> 00:44:40.600
+in eine Liste
+
+00:44:40.600 --> 00:44:41.620
+kommuniziert
+
+00:44:41.620 --> 00:44:42.820
+oder habt ihr
+
+00:44:42.820 --> 00:44:43.660
+denn in der BA
+
+00:44:43.660 --> 00:44:45.120
+irgendeine Taskliste
+
+00:44:45.120 --> 00:44:45.540
+wo ihr sagt,
+
+00:44:46.080 --> 00:44:46.980
+das muss irgendwann
+
+00:44:46.980 --> 00:44:47.580
+in den Sprint
+
+00:44:47.580 --> 00:44:48.600
+eingebaut werden?
+
+00:44:49.600 --> 00:44:49.900
+Ja,
+
+00:44:50.400 --> 00:44:50.860
+es gibt
+
+00:44:50.860 --> 00:44:52.720
+immer wenn eine Idee
+
+00:44:52.720 --> 00:44:53.280
+aufpoppt
+
+00:44:53.280 --> 00:44:53.880
+und wenn man sie
+
+00:44:53.880 --> 00:44:54.360
+aufschreibt,
+
+00:44:54.540 --> 00:44:55.300
+dann nutzt das
+
+00:44:55.300 --> 00:44:56.040
+ins TFS
+
+00:44:56.040 --> 00:44:58.660
+und zwar
+
+00:44:58.660 --> 00:44:59.900
+ins Backlog.
+
+00:45:00.100 --> 00:45:01.140
+Backlog-Items
+
+00:45:01.140 --> 00:45:01.620
+heißt das.
+
+00:45:02.140 --> 00:45:02.880
+Das ist Backlog.
+
+00:45:04.700 --> 00:45:05.460
+Da wird
+
+00:45:05.460 --> 00:45:06.060
+das mal alles
+
+00:45:06.060 --> 00:45:06.640
+gesammelt,
+
+00:45:06.800 --> 00:45:07.360
+was gemacht
+
+00:45:07.360 --> 00:45:08.120
+werden müsste.
+
+00:45:10.260 --> 00:45:10.820
+Meistens,
+
+00:45:10.860 --> 00:45:11.740
+also ich persönlich
+
+00:45:11.740 --> 00:45:12.700
+gehe meistens
+
+00:45:12.700 --> 00:45:13.260
+so weit,
+
+00:45:13.380 --> 00:45:14.000
+dass ich sage,
+
+00:45:14.180 --> 00:45:14.320
+ja,
+
+00:45:14.400 --> 00:45:14.960
+das muss aber
+
+00:45:14.960 --> 00:45:15.800
+eigentlich relativ
+
+00:45:15.800 --> 00:45:16.880
+bald erledigt werden,
+
+00:45:17.360 --> 00:45:18.280
+Mai, Juni, Juli
+
+00:45:18.280 --> 00:45:20.260
+und tue es
+
+00:45:20.260 --> 00:45:21.400
+dann schon zuordnen.
+
+00:45:22.500 --> 00:45:22.760
+Aber
+
+00:45:22.760 --> 00:45:23.840
+es gibt
+
+00:45:23.840 --> 00:45:24.560
+viele
+
+00:45:24.560 --> 00:45:25.880
+Anforderungen,
+
+00:45:26.040 --> 00:45:26.920
+die sind so
+
+00:45:26.920 --> 00:45:28.140
+trivial unwichtig,
+
+00:45:28.800 --> 00:45:29.460
+dass sie auch
+
+00:45:29.460 --> 00:45:29.960
+einfach mal
+
+00:45:29.960 --> 00:45:30.640
+liegen bleiben.
+
+00:45:32.000 --> 00:45:32.700
+Natürlich wird
+
+00:45:32.700 --> 00:45:33.800
+einiges priorisiert,
+
+00:45:33.900 --> 00:45:34.420
+das machen die
+
+00:45:34.420 --> 00:45:35.040
+Entwickler und dann
+
+00:45:35.040 --> 00:45:35.800
+zuerst und andere
+
+00:45:35.800 --> 00:45:36.660
+Dinge bleiben liegen.
+
+00:45:37.080 --> 00:45:37.660
+Das wäre jetzt
+
+00:45:37.660 --> 00:45:38.560
+so eine Anforderung,
+
+00:45:39.220 --> 00:45:40.460
+baue mir
+
+00:45:40.460 --> 00:45:41.380
+die Felder so,
+
+00:45:41.480 --> 00:45:42.060
+dass ich weiß,
+
+00:45:42.160 --> 00:45:43.240
+was Pflichtfelder sind.
+
+00:45:43.800 --> 00:45:43.920
+Ja,
+
+00:45:43.940 --> 00:45:44.960
+die Anforderung
+
+00:45:44.960 --> 00:45:46.580
+könnte man
+
+00:45:46.580 --> 00:45:47.080
+als
+
+00:45:47.080 --> 00:45:48.480
+nicht wichtig
+
+00:45:48.480 --> 00:45:49.520
+einstufen,
+
+00:45:50.140 --> 00:45:50.960
+weil es der Kunde
+
+00:45:50.960 --> 00:45:51.540
+gerade irgendwie
+
+00:45:51.540 --> 00:45:52.520
+nicht danach schreit.
+
+00:45:53.740 --> 00:45:54.400
+Der Kunde
+
+00:45:54.400 --> 00:45:54.600
+hat,
+
+00:45:54.720 --> 00:45:55.380
+dem ist das schon mal
+
+00:45:55.380 --> 00:45:56.020
+aufgefallen,
+
+00:45:56.040 --> 00:45:56.920
+aber es hat sich
+
+00:45:56.920 --> 00:45:57.580
+daran gewöhnt.
+
+00:45:59.060 --> 00:45:59.580
+Mit der Zeit
+
+00:45:59.580 --> 00:46:00.320
+hat das auch raus,
+
+00:46:00.400 --> 00:46:01.160
+welche Pflichtfelder
+
+00:46:01.160 --> 00:46:01.420
+waren.
+
+00:46:01.620 --> 00:46:02.140
+Also irgendwie
+
+00:46:02.140 --> 00:46:02.600
+könnte man
+
+00:46:02.600 --> 00:46:03.280
+argumentieren,
+
+00:46:03.760 --> 00:46:04.480
+bleibt im Backlog
+
+00:46:04.480 --> 00:46:06.460
+erstmal.
+
+00:46:07.100 --> 00:46:07.720
+Und irgendwann
+
+00:46:07.720 --> 00:46:08.600
+kommt vielleicht
+
+00:46:08.600 --> 00:46:09.000
+ein junger
+
+00:46:09.000 --> 00:46:09.460
+Entwickler,
+
+00:46:09.540 --> 00:46:09.880
+der sich
+
+00:46:09.880 --> 00:46:10.900
+üben möchte
+
+00:46:10.900 --> 00:46:11.580
+oder lernen
+
+00:46:11.580 --> 00:46:11.980
+möchte,
+
+00:46:11.980 --> 00:46:12.780
+der kriegt dann
+
+00:46:12.780 --> 00:46:13.200
+die leichten
+
+00:46:13.200 --> 00:46:13.800
+Aufgaben.
+
+00:46:15.880 --> 00:46:17.080
+Eine Möglichkeit.
+
+00:46:17.080 --> 00:46:47.080
+
+
+00:46:47.080 --> 00:46:48.080
+die
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.080
+
+
+00:46:48.080 --> 00:46:48.580
+die
+
+00:46:48.580 --> 00:46:48.580
+
+
+00:46:48.580 --> 00:46:49.080
+die
+
+00:46:49.080 --> 00:46:50.080
+die
+
+00:46:50.080 --> 00:46:50.080
+
+
+00:46:50.080 --> 00:46:50.080
+
+
+00:46:50.080 --> 00:46:50.480
+!
+
+00:46:50.480 --> 00:46:50.480
+
+
+00:46:50.480 --> 00:46:51.480
+die
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.480
+
+
+00:46:51.480 --> 00:46:51.940
+die
+
+00:46:51.940 --> 00:46:51.940
+
+
+00:46:51.940 --> 00:46:52.940
+die
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:52.940
+
+
+00:46:52.940 --> 00:46:53.400
+die
+
+00:46:53.400 --> 00:46:53.400
+
+
+00:46:53.400 --> 00:46:53.400
+
+
+00:46:53.400 --> 00:46:53.940
+die
+
+00:46:53.940 --> 00:46:54.940
+die
+
+00:46:54.940 --> 00:46:54.940
+
+
+00:46:54.940 --> 00:46:55.480
+die
+
+00:46:55.480 --> 00:46:55.480
+
+
+00:46:55.480 --> 00:46:55.480
+
+
+00:46:55.480 --> 00:46:56.480
+die
+
+00:46:56.480 --> 00:46:56.480
+
+
+00:46:56.480 --> 00:46:56.480
+
+
+00:46:56.480 --> 00:46:56.480
+
+
+00:46:56.480 --> 00:46:56.480
+
+
+00:46:56.480 --> 00:46:56.480
+
+
+00:46:56.480 --> 00:46:56.480
+
+
+00:46:56.480 --> 00:46:56.480
+
+
+00:46:56.480 --> 00:46:56.480
+
+
+00:46:56.480 --> 00:46:56.480
+
+
+00:46:56.480 --> 00:46:56.480
+
+
+00:46:56.480 --> 00:46:57.020
+!
+
+00:46:57.020 --> 00:46:57.020
+
+
+00:46:57.020 --> 00:46:58.020
+!
+
+00:46:58.020 --> 00:46:58.020
+
+
+00:46:58.020 --> 00:46:58.020
+
+
+00:46:58.020 --> 00:46:59.020
+die
+
+00:46:59.020 --> 00:46:59.020
+
+
+00:46:59.020 --> 00:47:00.020
+die
+
+00:47:00.020 --> 00:47:00.020
+
+
+00:47:00.020 --> 00:47:00.020
+
+
+00:47:00.020 --> 00:47:00.020
+
+
+00:47:00.020 --> 00:47:00.020
+
+
+00:47:00.020 --> 00:47:00.400
+!
+
+00:47:00.400 --> 00:47:00.560
+!
+
+00:47:00.560 --> 00:47:00.560
+
+
+00:47:00.560 --> 00:47:01.020
+!
+
+00:47:01.020 --> 00:47:01.020
+
+
+00:47:01.100 --> 00:47:01.560
+!
+
+00:47:01.560 --> 00:47:02.020
+!
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:02.020
+
+
+00:47:02.020 --> 00:47:03.020
+!
+
+00:47:03.020 --> 00:47:02.020
+!
+
+00:47:02.020 --> 00:47:03.020
+!
+
+00:47:03.020 --> 00:47:03.020
+
+
+00:47:03.020 --> 00:47:04.020
+!
+
+00:47:04.020 --> 00:47:04.020
+
+
+00:47:04.020 --> 00:47:04.020
+
+
+00:47:04.020 --> 00:47:04.020
+
+
+00:47:04.020 --> 00:47:04.020
+
+
+00:47:04.020 --> 00:47:04.020
+
+
+00:47:04.020 --> 00:47:04.020
+
+
+00:47:04.020 --> 00:47:06.020
+!
+
+00:47:06.020 --> 00:47:06.020
+
+
+00:47:27.020 --> 00:47:28.020
+!
+
+00:47:28.020 --> 00:47:28.020
+
+
+00:47:28.020 --> 00:47:28.480
+!
+
+00:47:28.480 --> 00:47:28.480
+
+
+00:47:28.480 --> 00:47:29.020
+!
+
+00:47:29.020 --> 00:47:29.020
+
+
+00:47:57.020 --> 00:47:58.020
+!
+
+00:47:58.020 --> 00:47:58.020
+
+
+00:47:58.020 --> 00:47:58.020
+
+
+00:47:58.020 --> 00:47:58.020
+
+
+00:47:58.020 --> 00:47:58.020
+
+
+00:47:58.020 --> 00:47:58.020
+
+
+00:47:58.020 --> 00:47:58.020
+
+
+00:47:58.020 --> 00:47:58.020
+
+
+00:47:58.020 --> 00:47:58.020
+
+
+00:47:58.020 --> 00:47:58.020
+
+
+00:47:58.020 --> 00:47:58.020
+
+
+00:47:58.020 --> 00:47:58.020
+
+
+00:47:58.020 --> 00:47:58.020
+
+
+00:47:58.020 --> 00:47:58.020
+
+
+00:47:58.020 --> 00:47:58.020
+
+
+00:47:58.020 --> 00:47:58.020
+
+
+00:47:58.020 --> 00:47:59.020
+!
+
+00:47:59.020 --> 00:47:59.020
+
+
+00:47:59.020 --> 00:48:00.020
+!
+
+00:48:00.020 --> 00:48:01.020
+!
+
+00:48:01.020 --> 00:48:01.020
+
+
+00:48:01.020 --> 00:48:02.020
+Ja!
+
+00:48:02.020 --> 00:48:02.400
+Wir werden immer wieder
+
+00:48:02.400 --> 00:48:04.020
+probieren wir was aus,
+
+00:48:04.020 --> 00:48:06.020
+dann wird das auch wieder verworfen,
+
+00:48:06.020 --> 00:48:07.520
+das heißt da ist viel
+
+00:48:07.520 --> 00:48:10.140
+Bewegung.
+
+00:48:10.140 --> 00:48:15.260
+Administration, das ist sehr wichtig für
+
+00:48:15.260 --> 00:48:17.140
+Benutzer, für Rollen,
+
+00:48:17.140 --> 00:48:24.220
+Rechtigung etc. etc. und Auswertung und Berichte wäre halt so etwas, naja wie kann der
+
+00:48:24.220 --> 00:48:24.220
+
+
+00:48:24.220 --> 00:48:28.640
+Christopher euch jetzt vorführen, dass da eine Excelliste rauskommt, das muss ich euch erstmal
+
+00:48:28.640 --> 00:48:29.640
+!
+
+00:48:29.640 --> 00:48:33.640
+Das ist ganz interessant.
+
+00:48:33.640 --> 00:48:40.140
+B-Depot, wo sie jetzt nicht näher drauf eingehen, Dokumente,
+
+00:48:40.140 --> 00:48:43.140
+Fachdokumente verwalten, sehr interessant.
+
+00:48:47.140 --> 00:48:48.140
+Kurz angerissen,
+
+00:48:48.140 --> 00:48:54.140
+früher haben wir immer nur Standard Relief, jetzt was oder Standard Refund
+
+00:48:54.140 --> 00:48:56.140
+unterstützt und dafür Software gebaut.
+
+00:48:56.140 --> 00:49:00.140
+Jetzt mittlerweile, seit ein paar Jahren, können wir auch
+
+00:49:00.140 --> 00:49:06.140
+vor Abbefreiung, es gibt, sage ich mal drei Hauptprozesse wie man rückfordernd
+
+00:49:06.140 --> 00:49:10.140
+oder Geld aus dem Ausland holen kann.
+
+00:49:10.140 --> 00:49:14.140
+Der erste heißt Fortbefreiung, schon mal gehört?
+
+00:49:14.140 --> 00:49:15.140
+Okay.
+
+00:49:15.140 --> 00:49:20.140
+Der zweite heißt Quick Refund, also eine schnelle Rückforderung und der dritte heißt Standard Refund.
+
+00:49:20.140 --> 00:49:24.140
+Und das kann man sich mal so überlegen.
+
+00:49:24.140 --> 00:49:30.140
+RaQuest hat erst immer nur Standard Refund gekommen, da geht ihr auf Beantragen, Ansprüche beantragen.
+
+00:49:30.140 --> 00:49:35.140
+Wenn es aber zu Vorabbefreiung kommt, dann sammeln wir nur Dokumente.
+
+00:49:35.140 --> 00:49:38.140
+Dann kommt man hier in diesen Prozess rein.
+
+00:49:38.140 --> 00:49:40.140
+Dokumente, Fachdokumente verwalten.
+
+00:49:40.140 --> 00:49:44.140
+Vielleicht zukünftig werden wir da auch noch andere Dokumente rein tun, aber
+
+00:49:45.140 --> 00:49:48.140
+darin werden wir Linien sammeln für Dokumente.
+
+00:49:48.140 --> 00:49:50.140
+Das ist eine Testdatenbank.
+
+00:49:50.140 --> 00:49:52.140
+Es kann sein, dass da noch nichts drin ist.
+
+00:49:52.140 --> 00:49:53.140
+Doch, schon.
+
+00:49:53.140 --> 00:49:57.140
+Dann hätte man hier so Linien für Dokumente.
+
+00:49:57.140 --> 00:49:59.140
+Jede Linie ist ein Dokument.
+
+00:49:59.140 --> 00:50:02.140
+Das wäre zum Beispiel eine Wohnsitzbestätigung.
+
+00:50:05.140 --> 00:50:13.140
+Und diese Dokumente werden gesammelt und werden dann in einem Paket irgendwann an die Lagerstelle gegeben.
+
+00:50:13.140 --> 00:50:17.140
+Und die Lagerstelle weiß dann Bescheid, die Dokumente sind da.
+
+00:50:17.140 --> 00:50:20.140
+Jetzt kann ich dann dir das Geld überweisen.
+
+00:50:23.140 --> 00:50:33.140
+So, deswegen ist es ein sehr, sehr spannender, sehr wichtiger Programmteil, mit dem wir auch in Zukunft an unsere Kunden noch mehr herantreten werden.
+
+00:50:34.140 --> 00:50:37.140
+Ich gönne jetzt drei Kunden, die das einsetzen werden.
+
+00:50:37.140 --> 00:50:39.140
+Weiß aber, es werden noch andere nehmen.
+
+00:50:39.140 --> 00:50:46.140
+Das ist sozusagen so ein Produkt, das jetzt langsam richtig fahrt auf den Produktteil.
+
+00:50:46.140 --> 00:50:52.140
+Ja, Dokumente-Produktteil.
+
+00:50:52.140 --> 00:50:54.140
+So, der Menüband.
+
+00:50:54.140 --> 00:50:58.140
+Jetzt haben wir das Menüband so ein bisschen so angesprochen.
+
+00:50:58.140 --> 00:51:00.140
+Jetzt kann man sich schon mal orientieren.
+
+00:51:00.140 --> 00:51:08.140
+Und dann gehen wir noch mal ein bisschen auf diese Web-Parts hier ein, diese schwarzen Balken mit den Kasten.
+
+00:51:08.140 --> 00:51:10.140
+Hier geht es um Systemanmeldung.
+
+00:51:10.140 --> 00:51:12.140
+Wer ist angemeldet, ist der SV2.
+
+00:51:12.140 --> 00:51:16.140
+Also der Benutzername ist SV2.
+
+00:51:16.140 --> 00:51:21.140
+Und der Sachbearbeiter, der dem Benutzernamen zugeordnet ist Sabrina Josefina Klatterbrock.
+
+00:51:21.140 --> 00:51:22.140
+Also ich.
+
+00:51:22.140 --> 00:51:28.140
+Ich habe mich mit diesem Namen eingeloggt, mit diesem Benutzernamen eingeloggt.
+
+00:51:28.140 --> 00:51:34.140
+Und dieser Benutzername hat eben halt zufällig Sabrina Josefina Klatterbrock Sachbearbeiter zugeordnet.
+
+00:51:36.140 --> 00:51:39.140
+Und dieser Benutzername hat Rollen zugeordnet.
+
+00:51:39.140 --> 00:51:40.140
+Ich lese sie vor.
+
+00:51:40.140 --> 00:51:49.140
+Sachverständige, Sachbearbeiter, Massenverarbeitung, Datensystemadministratur und Applikationsstammdatenverwalter.
+
+00:51:49.140 --> 00:51:51.140
+Es gibt noch viele andere Rollen.
+
+00:51:51.140 --> 00:51:53.140
+Ich kann sie auch mal aufblättern.
+
+00:51:53.140 --> 00:51:56.140
+Hier sieht man noch andere Rollen.
+
+00:51:56.140 --> 00:52:00.140
+1, 2, 3, 4, 5, 6, 7, 8, 9.
+
+00:52:00.140 --> 00:52:03.140
+Das ist nur eine sehr einfache Übersicht.
+
+00:52:03.140 --> 00:52:05.140
+Was darf und kann welche Rolle?
+
+00:52:05.140 --> 00:52:10.140
+Ich kriege diese Präsentation auch noch mal gerne danach im Nachgang.
+
+00:52:10.140 --> 00:52:17.140
+Sachbearbeiter und Sachverständige sind die üblichen Sachbearbeiter, die diese ganzen Prozesse ins Rollen bringen.
+
+00:52:17.140 --> 00:52:26.140
+Die dürfen zum Beispiel Anwendungsfälle in der Anwendung durchführen.
+
+00:52:26.140 --> 00:52:29.140
+Also so Ansprüche beantragen.
+
+00:52:29.140 --> 00:52:31.140
+In die Schweiz dürfen die machen.
+
+00:52:31.140 --> 00:52:32.140
+Zahlungseingänge sind gematcht.
+
+00:52:32.140 --> 00:52:35.140
+Einbuchen, ausbuchen dürfen die eventuell.
+
+00:52:35.140 --> 00:52:39.140
+Sachverständige sind so ein bisschen die Supervisor.
+
+00:52:39.140 --> 00:52:43.140
+Die meistens die Abteilungsleiter oder so.
+
+00:52:43.140 --> 00:52:46.140
+Das sind Personen, die ein bisschen mehr Rechte bekommen.
+
+00:52:46.140 --> 00:52:51.140
+Die dürfen auch mal ein Vier-Augen-Prinzip freigeben oder löschen.
+
+00:52:51.140 --> 00:52:58.140
+Und haben eben halt einfach da ein bisschen mehr Power.
+
+00:52:58.140 --> 00:52:59.140
+Es gibt Revisionen.
+
+00:52:59.140 --> 00:53:05.140
+Dann gibt es noch Applikationsadministrator, Datenkorrektur und so weiter und so fort.
+
+00:53:05.140 --> 00:53:09.140
+Da können wir auch mal, wenn ihr soweit seid, näher drauf eingehen.
+
+00:53:09.140 --> 00:53:16.140
+Also ein Sachbearbeiter hat meistens diese beiden Rollen, Sachverständige und oder Sachbearbeiter.
+
+00:53:16.140 --> 00:53:22.140
+Und wenn da jemand kommt, der sogar in Masse was machen muss, der kriegt dann noch die Massenverarbeitung.
+
+00:53:23.140 --> 00:53:27.140
+Wer Datenkorrektur machen muss, weil Daten falsch sind, kriegt auch noch diese Rolle.
+
+00:53:27.140 --> 00:53:31.140
+Systemadministrator ist sehr, sehr mächtig, der Systeme aufsetzt.
+
+00:53:31.140 --> 00:53:35.140
+RaQuest halt wirklich von vorne bis hinten aufsetzen kann.
+
+00:53:35.140 --> 00:53:39.140
+Der Applikation Stammdatenverwalter macht halt Stammdaten.
+
+00:53:43.140 --> 00:53:45.140
+So und ich habe mir alle diese Rechte gegeben.
+
+00:53:45.140 --> 00:53:47.140
+Ich kann also recht viel.
+
+00:53:47.140 --> 00:53:50.140
+Und ihr dürft euch ja auch den RaQuest abmelden.
+
+00:53:50.140 --> 00:53:51.140
+Kann man ja mal machen.
+
+00:53:51.140 --> 00:53:52.140
+Abmelden.
+
+00:53:52.140 --> 00:53:57.140
+Wir machen bewusst Basics heute so ein bisschen.
+
+00:53:57.140 --> 00:53:59.140
+Dann kann man sich auch wieder anmelden.
+
+00:54:02.140 --> 00:54:04.140
+Also abmelden, warten wir hier.
+
+00:54:04.140 --> 00:54:08.140
+Wenn ihr aus RaQuest raus wollt, könntet ihr euch Passwort auch ändern.
+
+00:54:08.140 --> 00:54:11.140
+Okay, ist alles relativ easy in diesem Webpart.
+
+00:54:12.140 --> 00:54:15.140
+Dann kommen wir zu Quarantäne.
+
+00:54:15.140 --> 00:54:19.140
+Hatten wir schon sehr aktuelles Wort in letzter Zeit.
+
+00:54:19.140 --> 00:54:24.140
+Ich habe gestern mal nachgelesen, woher kommt dieses Wort Quarantäne?
+
+00:54:24.140 --> 00:54:27.140
+Es kommt aus der Gegend rund um Venedig.
+
+00:54:28.140 --> 00:54:33.140
+Sehr faszinierend, weil die haben damals in der Zeit der Pest gesagt,
+
+00:54:34.140 --> 00:54:37.140
+Schiffe, die ankommen, müssen 40 Tage in Quarantäne.
+
+00:54:37.140 --> 00:54:40.140
+Also ich weiß nicht, ob es eine benachbarte Insel oder so,
+
+00:54:40.140 --> 00:54:43.140
+wo sie dann parken mussten, 40 Tage lang.
+
+00:54:44.140 --> 00:54:48.140
+Das ist auch das Wort, auf das Wort Quarantäne zurückzuführen.
+
+00:54:48.140 --> 00:54:52.140
+Obwohl die Pest wusste man ja auch nicht genau,
+
+00:54:52.140 --> 00:54:56.140
+wie lange die dann sozusagen Inkubationszeit hat und so.
+
+00:54:56.140 --> 00:54:59.140
+Aber man hat einfach mal pauschal 40 Tage genommen
+
+00:54:59.140 --> 00:55:02.140
+und erst dann durfte man in die Stadt.
+
+00:55:02.140 --> 00:55:06.140
+Und man durfte auch dann in die Stadt, wenn man sehr zahlungskräftig war.
+
+00:55:10.140 --> 00:55:12.140
+Spannend, kriegt man auf Wikipedia.
+
+00:55:12.140 --> 00:55:16.140
+Aber in dem Fall ist die Quarantäne halt eben Daten.
+
+00:55:16.140 --> 00:55:18.140
+Die sind fehlerhaft, haben wir ja schon.
+
+00:55:18.140 --> 00:55:20.140
+Und die muss man bereinigen.
+
+00:55:20.140 --> 00:55:22.140
+Dann gibt es noch die Antragsquarantäne.
+
+00:55:22.140 --> 00:55:24.140
+Das ist wie Konflikte.
+
+00:55:24.140 --> 00:55:26.140
+Aber hier ist man ja schon im Prozess weiter.
+
+00:55:26.140 --> 00:55:28.140
+Hier hat man ja schon hier oben Anträge.
+
+00:55:28.140 --> 00:55:34.140
+Also im Menüband im zweiten Aufzählungspunkt ist man dann schon weiter.
+
+00:55:34.140 --> 00:55:36.140
+Man hat Anträge erstellt.
+
+00:55:36.140 --> 00:55:42.140
+Und es könnte ja sein, dass irgendein Sachbearbeiter hat Steuerdaten oder so gelöscht.
+
+00:55:42.140 --> 00:55:49.140
+Oder irgendwelche Informationen vom Kunden gelöscht, die den Antrag in Quarantäne schicken.
+
+00:55:49.140 --> 00:55:54.140
+Weil ihr müsst euch mal vorstellen, Anna Krause zieht um.
+
+00:55:54.140 --> 00:55:57.140
+Anna Krause hat ihre neue Adresse nicht mitgeteilt.
+
+00:55:57.140 --> 00:55:59.140
+Die Bank weiß nur, dass sie umgezogen ist.
+
+00:55:59.140 --> 00:56:03.140
+Anna Krause hat vielleicht auch noch eine neue Steuernummer, sofern es möglich ist.
+
+00:56:03.140 --> 00:56:08.140
+Und jetzt hat man die entfernt aus Raqqvist.
+
+00:56:08.140 --> 00:56:15.140
+Dann durchwandert der bestehende Antrag, den sie in der Schweiz hat, der noch nicht rückerstattet ist,
+
+00:56:15.140 --> 00:56:17.140
+in Antragsquarantäne.
+
+00:56:17.140 --> 00:56:19.140
+Weil darf ja nicht beantragt werden.
+
+00:56:19.140 --> 00:56:21.140
+Weil sie hat ja neuen Wohnsitz.
+
+00:56:21.140 --> 00:56:23.140
+Das ist ja nicht geprüft.
+
+00:56:23.140 --> 00:56:26.140
+Und dann müsste man sagen,
+
+00:56:26.140 --> 00:56:32.140
+kommt in die Quarantäne, dann kann der Sachbearbeiter das hier aufrufen und bearbeiten.
+
+00:56:32.140 --> 00:56:37.140
+Vielleicht muss er auch mit Anna Krause dann korrespondieren.
+
+00:56:37.140 --> 00:56:42.140
+Oder dann die Kundenberater korrespondieren mit ihr, holen dann die Daten rein.
+
+00:56:42.140 --> 00:56:46.140
+Ja, dann haben wir kritische Rückforderungen.
+
+00:56:46.140 --> 00:56:53.140
+Wir haben ja vorhin unter Stammdatenapplicationseinstellungen die Ablauffristen kurz gesehen.
+
+00:56:53.140 --> 00:56:56.140
+Das hier in jedem Land gibt es verschiedene Fristen.
+
+00:56:56.140 --> 00:57:00.140
+Ich rede jetzt einfach mal darauf los, weil ich es nicht im Kopf habe.
+
+00:57:00.140 --> 00:57:04.140
+In Frankreich drei Jahre, in der Schweiz vier Jahre und so weiter.
+
+00:57:04.140 --> 00:57:09.140
+Dann hat man hier noch einen Webpart, wo etwas angezeigt wird.
+
+00:57:09.140 --> 00:57:10.140
+Vorsicht!
+
+00:57:10.140 --> 00:57:15.140
+In ein paar Wochen, Tagen, Monaten läuft die Frist aus.
+
+00:57:15.140 --> 00:57:19.140
+Lieber Sachbearbeiter, stelle jetzt schnell deine Anträge.
+
+00:57:19.140 --> 00:57:22.140
+Das ist ein Reporting.
+
+00:57:22.140 --> 00:57:29.140
+Wir nennen es kritische Rückforderungen.
+
+00:57:29.140 --> 00:57:39.140
+Und auch mit dem Maus-Au-Ober-Prinzip würde man dann hier wieder weitere Daten reingespült bekommen.
+
+00:57:39.140 --> 00:57:43.140
+Ich gehe mal hier auf aktuell 1, 1, 1.
+
+00:57:43.140 --> 00:57:47.140
+Und dann sagt man, oh, ich habe kritische Rückforderungen in Frankreich 33.
+
+00:57:47.140 --> 00:57:59.140
+Dann könnte ich doch hier mal auf aktuell klicken und erhalte eine neue Webseite, wo ich dann eben sehe, welche dieser Ansprüche sind kritisch.
+
+00:57:59.140 --> 00:58:01.140
+Da ist dann so ein Fleck drin.
+
+00:58:01.140 --> 00:58:05.140
+Das Fleck signalisiert mir dann, ah, läuft bald aus.
+
+00:58:05.140 --> 00:58:07.140
+Ich müsste die jetzt mal langsam beantragen.
+
+00:58:07.140 --> 00:58:11.140
+Dann könnte ich hier in dem Prozess auch direkt starten, beantragen.
+
+00:58:11.140 --> 00:58:18.140
+Zack, alle Unterlagen fertig machen, Sachen verschicken, weil wir haben nicht mehr viel Zeit.
+
+00:58:18.140 --> 00:58:22.140
+Wechsel ich mal in die Powerp-Präsentation.
+
+00:58:22.140 --> 00:58:25.140
+Man kann das auch mal visuell darstellen.
+
+00:58:25.140 --> 00:58:31.140
+Request hat sein Datenmodell dahinter, aber es ist ganz einfach.
+
+00:58:31.140 --> 00:58:34.140
+Nehmen wir mal Beispiel Frankreich.
+
+00:58:34.140 --> 00:58:38.140
+Jetzt hätten wir da 60 Monate Verjährung, was sind das, 5 Jahre?
+
+00:58:38.140 --> 00:58:42.140
+Hat man ja eine Menge Zeit, blauer Streifen.
+
+00:58:42.140 --> 00:58:46.140
+Man hat jetzt einen Zahltag.
+
+00:58:46.140 --> 00:58:49.140
+Also ein Zahltag ist halt immer, wenn die Dividende ausgeschüttet wird.
+
+00:58:49.140 --> 00:58:53.140
+Von diesem Zeitpunkt geht die Zeit los.
+
+00:58:53.140 --> 00:58:55.140
+Bis 5 Jahre in die Zukunft.
+
+00:58:55.140 --> 00:58:59.140
+Und dann, wenn die 5 Jahre vorbei sind, verjährt das.
+
+00:58:59.140 --> 00:59:02.140
+Deswegen habe ich hier hinten verjährt drauf geschrieben.
+
+00:59:02.140 --> 00:59:07.140
+Und vielleicht hat man das dann noch in der Quarantäne, in dieser Antrags-Quarantäne.
+
+00:59:07.140 --> 00:59:11.140
+Und kann dann nochmal gucken, oh Mist, die Anträge sind verjährt.
+
+00:59:11.140 --> 00:59:13.140
+Der Kunde kriegt sein Geld nicht.
+
+00:59:13.140 --> 00:59:29.140
+Und dann hat man hier noch so Zwischenfristen, so eine Lagerstellenfrist, weil die Lagerstelle sagt ja auch, hey, 180 Tage vor Ablauf der offiziellen Frist in dem Land von 60 Monaten, würde ich gerne bitte, bitte erinnert werden.
+
+00:59:29.140 --> 00:59:33.140
+Oder bitte, bitte nicht erinnert werden, sondern bitte gib mir all deine Anträge.
+
+00:59:33.140 --> 00:59:37.140
+Reiche sie ein in dieser Frist, sonst ist es vorbei.
+
+00:59:37.140 --> 00:59:38.140
+Ist die Lagerstellenfrist.
+
+00:59:38.140 --> 00:59:44.140
+Dann hat man noch in RaQuest so eine Warnfrist eingebaut, wo man sagt, wir will ja noch früher drin sein.
+
+00:59:44.140 --> 00:59:52.140
+Ich zum Beispiel, wenn ich für meine Schularbeiten gelernt habe, habe ich von Anfang an gelernt, aber hinten raus nicht.
+
+00:59:52.140 --> 01:00:01.140
+Und wer halt quasi seine Anträge hier gestellt hat in den ersten Monaten, der muss hier nichts mehr machen, in diesen kritischen Zeiträumen.
+
+01:00:01.140 --> 01:00:05.140
+Dann hat man dann eben so 90 Tage Warnfrist.
+
+01:00:05.140 --> 01:00:09.140
+Und dann ist es dieses helle Fleck.
+
+01:00:09.140 --> 01:00:14.140
+Und wenn man in der Lagerstellenfrist ist, ist es rote Fleck.
+
+01:00:14.140 --> 01:00:17.140
+Das heißt, ich gehe in RaQuest hinein.
+
+01:00:17.140 --> 01:00:21.140
+Und dann sehe ich hier helle Flecks und rote Flecks.
+
+01:00:21.140 --> 01:00:27.140
+Da weiß ich, okay, der rote Fleck war die Lagerstellenfrist, das helle Fleck war die Warnfrist.
+
+01:00:27.140 --> 01:00:30.140
+Und ein Ausrufezeichen, was war das?
+
+01:00:30.140 --> 01:00:33.140
+Oh, ist schon ver... Wie bitte?
+
+01:00:33.140 --> 01:00:35.140
+Ist verjährt, ja.
+
+01:00:35.140 --> 01:00:36.140
+Kann man nichts mehr machen.
+
+01:00:36.140 --> 01:00:39.140
+Ja, also da ist der Sargnagel drauf.
+
+01:00:39.140 --> 01:00:41.140
+Das war's.
+
+01:00:41.140 --> 01:00:44.140
+Hat man versäumt.
+
+01:00:46.140 --> 01:00:48.140
+Schließen.
+
+01:00:48.140 --> 01:00:51.140
+Kritische Rückforderungen haben wir jetzt auch gelernt, so ein bisschen.
+
+01:00:51.140 --> 01:00:59.140
+Das ist so ein Überwachungssystem für die Märkte und ein Reporting System für die Sachverarbeiter.
+
+01:00:59.140 --> 01:01:01.140
+Ja, was haben wir hier für Warndokumente?
+
+01:01:01.140 --> 01:01:07.140
+Ist sehr spannend, weil ich habe euch ja gesagt, da oben gibt es einen Dokumenteprozess,
+
+01:01:07.140 --> 01:01:09.140
+Fachdokumente verwalten.
+
+01:01:09.140 --> 01:01:14.140
+Aber nur weil es ein Menüband ist, heißt ja nicht, dass der Kunde reportet wird.
+
+01:01:14.140 --> 01:01:16.140
+Und hier unten ist ein Report dazu.
+
+01:01:16.140 --> 01:01:23.140
+Also für Warndokumente, hey, lieber Sachbearbeiter der Bank, erstelle doch bitte 39 Dokumente.
+
+01:01:23.140 --> 01:01:30.140
+Wenn du die nicht erstellst, dann läufst du auch in so eine Art Verjährung rein.
+
+01:01:30.140 --> 01:01:33.140
+Da muss das unbedingt stellen.
+
+01:01:33.140 --> 01:01:35.140
+Erstellen.
+
+01:01:35.140 --> 01:01:40.140
+So trivial wie das Wort heißt, ist einfach wirklich Dokumente erstellen.
+
+01:01:40.140 --> 01:01:49.140
+Wir haben da einen sehr komplexen, spannenden, ein spannendes Datenmodell dahinter, wann diese Meldungen entstehen.
+
+01:01:49.140 --> 01:01:51.140
+Wieso, weshalb, warum?
+
+01:01:51.140 --> 01:01:54.140
+Da muss man sehr viel Einstellungen machen.
+
+01:01:54.140 --> 01:02:00.140
+Aber wenn die dann entstehen, dann ist es ein gutes Reporting.
+
+01:02:00.140 --> 01:02:03.140
+Wir gehen nicht durch jeden Webpart, weil einige betreffen uns eine Zeit lang nicht.
+
+01:02:03.140 --> 01:02:09.140
+Und wenn sie dann insbesondere zum Beispiel Bogdan betreffen, dann kann man da tiefer reingehen.
+
+01:02:09.140 --> 01:02:18.140
+Und das werden wir auch in Zukunft tun, dass wir RaQuest, kann man immer wirklich nur in Stücke genießen.
+
+01:02:18.140 --> 01:02:23.140
+Und wenn du dann ein Sachverhalt hast oder so, dann kann man tiefer reingehen.
+
+01:02:23.140 --> 01:02:32.140
+Weil in jedem dieser Webparts dahinter liegt so viel, ja, so viel Masse an Sachverhalten.
+
+01:02:32.140 --> 01:02:36.140
+Ohne Angst machen zu wollen.
+
+01:02:36.140 --> 01:02:38.140
+Jetzt haben wir oben Hintergrundaktivitäten.
+
+01:02:38.140 --> 01:02:40.140
+Das ist extrem spannend.
+
+01:02:40.140 --> 01:02:45.140
+Das passiert eigentlich immer, wenn irgendwas in RaQuest passiert, wenn sich Daten bewegen.
+
+01:02:45.140 --> 01:02:52.140
+Wollen wir mal einen Prozess anstoßen und Hintergrundaktivitäten beobachten.
+
+01:02:52.140 --> 01:02:57.140
+Wir haben ja gelernt, wir können ja hier oben links auf Beantragen, Ansprüche beantragen klicken.
+
+01:02:57.140 --> 01:03:02.140
+Ich gehe jetzt mal ganz mutig rein.
+
+01:03:02.140 --> 01:03:04.140
+Ihr habt jetzt noch kein einziges Dokument gesehen.
+
+01:03:04.140 --> 01:03:09.140
+Ihr kennt den Prozess noch nicht, sondern ihr kennt jetzt nur diese Benutzeroberfläche so ein bisschen vom Sehen.
+
+01:03:09.140 --> 01:03:12.140
+Also muss man jetzt sagen, ich zeige euch mal den Prozess.
+
+01:03:12.140 --> 01:03:15.140
+Und mit dem Prozess entstehen Hintergrundaktivitäten.
+
+01:03:15.140 --> 01:03:18.140
+Die soll man und darf man als Sacharbeiter beobachten.
+
+01:03:18.140 --> 01:03:26.140
+Weil alles, was man macht, dahinter stehen ja auch häufig Kalkulationen.
+
+01:03:26.140 --> 01:03:31.140
+Rechnungen etc. etc.
+
+01:03:31.140 --> 01:03:40.140
+So, damit wir euch ein bisschen in den Prozess einführen, gehen wir jetzt mal direkt in den Prozess rein.
+
+01:03:40.140 --> 01:03:44.140
+Beantragen, Ansprüche beantragen.
+
+01:03:44.140 --> 01:03:49.140
+Hier seht ihr so ganz viele Filter und Suchmasken.
+
+01:03:49.140 --> 01:03:51.140
+Nur einmal einfach mal zu zeigen.
+
+01:03:51.140 --> 01:03:54.140
+Hier gibt es ein Dropdown-Menü mit dem Pfeil.
+
+01:03:54.140 --> 01:03:56.140
+Das ist ein Pfeil Dropdown-Menü.
+
+01:03:56.140 --> 01:03:58.140
+Wählen wir Schweiz.
+
+01:03:58.140 --> 01:04:01.140
+Weil es ein gutes Beispiel ist.
+
+01:04:01.140 --> 01:04:04.140
+Dann kann man sagen, hier hinten ist Kringel.
+
+01:04:04.140 --> 01:04:07.140
+Dieser Kreis bedeutet dieses Suchfeld.
+
+01:04:07.140 --> 01:04:14.140
+Wenn ich das klicke, gelange ich in eine andere Suchmaske und muss jetzt hier einen Kontakt suchen zum Beispiel.
+
+01:04:14.140 --> 01:04:15.140
+Ich will den Kontakt.
+
+01:04:15.140 --> 01:04:16.140
+Kontaktart Finanzinstitut.
+
+01:04:16.140 --> 01:04:20.140
+Also ich will das Institut haben, das RaQuest betreibt.
+
+01:04:20.140 --> 01:04:21.140
+Die Bank EU-MB.
+
+01:04:21.140 --> 01:04:22.140
+Doppelklick drauf.
+
+01:04:22.140 --> 01:04:23.140
+Jetzt habe ich die ausgewählt.
+
+01:04:23.140 --> 01:04:24.140
+Schweiz und dieses Institut.
+
+01:04:24.140 --> 01:04:27.140
+Das sind meine Filter, die ich so vorausgestellt habe.
+
+01:04:27.140 --> 01:04:37.140
+Und ich muss nicht alle Filter betätigen, aber es sind schon sehr, sehr viele, das euch einfach signalisiert.
+
+01:04:37.140 --> 01:04:40.140
+Ah, hier ist auch sowieso viel Komplexität.
+
+01:04:40.140 --> 01:04:43.140
+Jetzt gehe ich mal auf Suche starten.
+
+01:04:43.140 --> 01:05:02.140
+Und dann erhalte ich hier für den Markt Schweiz, den ich eingestellt habe, für das Institut, 117 Schweizer Anträge oder Ansprüche.
+
+01:05:02.140 --> 01:05:17.140
+Diese Daten sind, wenn alles perfekt geklappt hat, die Konflikte gelöst habt, hier perfekt implementiert in RaQuest und sind dann auf diesem Status beantragbar.
+
+01:05:17.140 --> 01:05:19.140
+Was ist ein Status?
+
+01:05:19.140 --> 01:05:22.140
+Wir haben ganz viele verschiedene Status.
+
+01:05:22.140 --> 01:05:26.140
+Status kann man glaube ich nicht sagen, weil Status ist die mehr.
+
+01:05:26.140 --> 01:05:27.140
+Statie?
+
+01:05:27.140 --> 01:05:29.140
+Ja, ja.
+
+01:05:29.140 --> 01:05:31.140
+Statie ist ein schönes Wort.
+
+01:05:31.140 --> 01:05:33.140
+Damit kann ich viel anfangen.
+
+01:05:33.140 --> 01:05:34.140
+Ähm.
+
+01:05:34.140 --> 01:05:36.140
+Ich zeige euch mal ein Status.
+
+01:05:36.140 --> 01:05:38.140
+Unser Status Modell.
+
+01:05:38.140 --> 01:05:41.140
+Hat sich sehr bewährt in den letzten Jahren auch.
+
+01:05:41.140 --> 01:05:43.140
+Bei den Ansprüchen hätte man erstmal Konflikte.
+
+01:05:43.140 --> 01:05:44.140
+Na, das haben wir schon gelernt.
+
+01:05:44.140 --> 01:05:47.140
+Wenn ein Anspruch ein Konflikt ist, muss er aufgelöst werden.
+
+01:05:47.140 --> 01:05:51.140
+Wenn er aufgelöst ist, kalkuliert er entweder nicht beantragbar oder beantragbar.
+
+01:05:51.140 --> 01:05:54.140
+Beantragbar ist das Zielstatus, den wir wollen.
+
+01:05:54.140 --> 01:05:56.140
+Weil dann können wir in den Prozess einsteigen.
+
+01:05:56.140 --> 01:05:59.140
+Dann kann man voranschreiten in storniert.
+
+01:05:59.140 --> 01:06:01.140
+Dann ist es halt storniert, ja.
+
+01:06:01.140 --> 01:06:02.140
+Fehlerhaft.
+
+01:06:02.140 --> 01:06:04.140
+In Bearbeitung oder beantragt.
+
+01:06:04.140 --> 01:06:07.140
+Beantragt ist unser Zielstatus für die Zukunft.
+
+01:06:07.140 --> 01:06:12.140
+Also was wir jetzt gemeinsam machen ist, von beantragbar in beantragt überführen.
+
+01:06:12.140 --> 01:06:18.140
+Diese Status werden euch ganz oft immer wieder begleiten und die wird man in- und auswendig kennen.
+
+01:06:18.140 --> 01:06:24.140
+Es gibt da noch einen Antrags, wenn man dann andere hat, gibt es auch noch ein Modell für Antragsverlauf.
+
+01:06:24.140 --> 01:06:27.140
+Hat andere Status und heißen auch anders.
+
+01:06:27.140 --> 01:06:30.140
+Da schlage ich euch jetzt aber nicht.
+
+01:06:30.140 --> 01:06:33.140
+Ich habe mir diese Schaugrafiken auch mal eine Weile angeschaut.
+
+01:06:33.140 --> 01:06:40.140
+Wenn man aber dann daneben RaQuest legt und dann diese Prozesse auch betätigt, dann versteht man das auch.
+
+01:06:40.140 --> 01:06:42.140
+Den ganzen grünen Pfeilen.
+
+01:06:42.140 --> 01:06:45.140
+Also man macht eine Aktion, dann entsteht ein Status.
+
+01:06:45.140 --> 01:06:48.140
+Eine weitere Aktion entsteht ein weiterer Status.
+
+01:06:48.140 --> 01:06:51.140
+Dann kann man das ganze rückabwickeln, deswegen zwei Pfeile nach oben.
+
+01:06:51.140 --> 01:06:55.140
+Und dann landet man wieder in einen vorherigen Status.
+
+01:06:58.140 --> 01:07:00.140
+So soll das jetzt mal grob.
+
+01:07:00.140 --> 01:07:04.140
+Das bekommt ihr, das könnt ihr euch dann in Ruhe anschauen und reinziehen.
+
+01:07:05.140 --> 01:07:07.140
+Wir steigen den Prozess ein.
+
+01:07:07.140 --> 01:07:08.140
+Hey, der ist beantragbar.
+
+01:07:08.140 --> 01:07:11.140
+Rechtsklick, dann gehe ich auf Beantragen.
+
+01:07:12.140 --> 01:07:20.140
+Was RaQuest jetzt macht, kopiert mir jetzt schon mal diesen Anspruch hier rein und sagt,
+
+01:07:20.140 --> 01:07:24.140
+Du hast einen Schweizer Anspruch, deswegen steht da CH,
+
+01:07:24.140 --> 01:07:30.140
+für das Depot, für diesen Kunden AG2R, das ist ein Testkunde,
+
+01:07:30.140 --> 01:07:36.140
+mit besonderen Namen, einmal verfügbar vorkopiert.
+
+01:07:36.140 --> 01:07:41.140
+Ich hätte ja auch zehn Ansprüche, ich hätte ja auch zehn verschiedene Schweizer Aktien halten können.
+
+01:07:41.140 --> 01:07:43.140
+Hätte ich ja da reingruppieren können.
+
+01:07:43.140 --> 01:07:44.140
+Doppelklick drauf.
+
+01:07:44.140 --> 01:07:51.140
+Dann erhaltet ihr eine weitere Maske und jetzt kommen wir zu Antragsmodulen.
+
+01:07:51.140 --> 01:08:00.140
+Ich würde vorschlagen, wir können ja mal 13 Minuten noch weitermachen und helfen wir noch mal einen Break.
+
+01:08:00.140 --> 01:08:04.140
+Ich bin jetzt für alle rechts für einen Kaffee.
+
+01:08:04.140 --> 01:08:05.140
+Okay.
+
+01:08:05.140 --> 01:08:13.140
+Wir sind jetzt hier sehr spannend in dem Antrag drin.
+
+01:08:13.140 --> 01:08:18.140
+Das heißt, RaQuest hatte uns ja schon jetzt vollautomatisch einen Antragcontainer gebildet.
+
+01:08:18.140 --> 01:08:25.140
+Der Anspruch verweist jetzt auf diesen Antrag mit der Antragsnummer RANDRE20.
+
+01:08:25.140 --> 01:08:31.140
+Das ist jetzt seine eindeutige ID, seine eindeutige Antrags-ID-Nummer.
+
+01:08:31.140 --> 01:08:34.140
+Und hier haben wir so ein Antragsmodul.
+
+01:08:34.140 --> 01:08:36.140
+Diese Module werden uns häufig begegnen.
+
+01:08:36.140 --> 01:08:39.140
+Für jedes Land gibt es verschiedene Module.
+
+01:08:39.140 --> 01:08:41.140
+Für jede ausländische Steuerbehörde gibt es Module.
+
+01:08:41.140 --> 01:08:43.140
+für jede Lagerstelle.
+
+01:08:43.140 --> 01:08:47.140
+Und dieses Modul ist Schweiz bei Finanzamt Schweiz.
+
+01:08:47.140 --> 01:08:50.140
+Also CH bei FA CH.
+
+01:08:50.140 --> 01:08:55.140
+Also Markt Schweiz beim Finanzamt Schweiz.
+
+01:08:55.140 --> 01:08:58.140
+So muss man das lesen.
+
+01:08:58.140 --> 01:09:00.140
+FA Finanzamt Schweiz.
+
+01:09:00.140 --> 01:09:02.140
+Also in der Schweiz das Finanzamt.
+
+01:09:02.140 --> 01:09:05.140
+Und hier ist das Domizil.
+
+01:09:05.140 --> 01:09:08.140
+Ah, der Kunde, der wohnt in Frankreich.
+
+01:09:08.140 --> 01:09:11.140
+Hier sehen wir dann noch die Daten von dem Anspruch und wissen.
+
+01:09:11.140 --> 01:09:12.140
+Ah, okay.
+
+01:09:12.140 --> 01:09:16.140
+Rückforderbare Quellensteuersatz 10.000 Schweizer Franken.
+
+01:09:18.140 --> 01:09:20.140
+Einfach nur um da mal hinzuweisen.
+
+01:09:20.140 --> 01:09:23.140
+Und all die Daten werden jetzt verwendet für den Antrag.
+
+01:09:23.140 --> 01:09:25.140
+Und ich gehe jetzt in den Druckprozess.
+
+01:09:25.140 --> 01:09:28.140
+Da kommen wir in so einen Vordruckprozess.
+
+01:09:28.140 --> 01:09:30.140
+Der hat so graue Balken.
+
+01:09:32.140 --> 01:09:33.140
+Einfach kurz wirken lassen.
+
+01:09:33.140 --> 01:09:36.140
+Hier zum Beispiel ist der Balken für den Antrag.
+
+01:09:36.140 --> 01:09:39.140
+Hier ist Balken für den Kunden.
+
+01:09:39.140 --> 01:09:42.140
+Und dann gibt es noch einen Balken für das Kundenfinanzamt.
+
+01:09:42.140 --> 01:09:45.140
+Und einen Balken für die ausländische Steuerbehörde.
+
+01:09:45.140 --> 01:09:46.140
+In der Schweiz zum Beispiel.
+
+01:09:46.140 --> 01:09:50.140
+Und diese Balken, die gehen immer sukzessive auf.
+
+01:09:50.140 --> 01:09:52.140
+Das heißt, nicht alle sind aktiviert.
+
+01:09:52.140 --> 01:09:54.140
+Sondern jetzt ist nur der erste aktiviert.
+
+01:09:54.140 --> 01:09:56.140
+Und das Kundenfinanzamt aktiviert.
+
+01:09:56.140 --> 01:09:57.140
+Was mache ich denn?
+
+01:09:57.140 --> 01:10:00.140
+Ich will einen Antrag drucken.
+
+01:10:00.140 --> 01:10:03.140
+Ein Schweizer Antrag, den wir gleich sehen.
+
+01:10:03.140 --> 01:10:07.140
+Wenn wir ihn nicht sehen, muss ich noch was einstellen.
+
+01:10:07.140 --> 01:10:09.140
+Ich muss noch was einstellen.
+
+01:10:09.140 --> 01:10:10.140
+Sekunde.
+
+01:10:10.140 --> 01:10:12.140
+Haha.
+
+01:10:12.140 --> 01:10:18.140
+Der war Domizil Frankreich.
+
+01:10:18.140 --> 01:10:33.140
+Die Zeit nehmen wir uns.
+
+01:10:33.140 --> 01:10:36.140
+Nein, hier ist es nicht.
+
+01:10:36.140 --> 01:10:38.140
+Sondern wir in der Schweiz.
+
+01:10:38.140 --> 01:10:45.140
+Da das eine Testversion ist, die ich heute zum ersten Mal benutze.
+
+01:10:45.140 --> 01:10:47.140
+Ah, für Frankreich haben wir es aktiviert.
+
+01:10:47.140 --> 01:10:48.140
+Sehr gut.
+
+01:10:48.140 --> 01:10:49.140
+Also Druckprozess.
+
+01:10:49.140 --> 01:10:54.140
+Wir drucken einen Antrag und hier unten drucken wir ein Anschreiben an das Kundenfinanzamt.
+
+01:10:54.140 --> 01:10:57.140
+Das schaut wirklich aus wie so ein Anschreiben.
+
+01:10:57.140 --> 01:10:58.140
+Hier oben rechts.
+
+01:10:58.140 --> 01:10:59.140
+Post raus oder?
+
+01:10:59.140 --> 01:11:05.140
+Es gibt tatsächlich, also wenn die Anträge drucke für die für Post raus.
+
+01:11:05.140 --> 01:11:07.140
+Nein.
+
+01:11:07.140 --> 01:11:08.140
+Ich gehe kurz.
+
+01:11:08.140 --> 01:11:13.140
+Ich gehe hier oben rechts auf diesem alle ausgewählten Dokumente drucken.
+
+01:11:13.140 --> 01:11:16.140
+Dann erhalte ich ja erst einmal PDFs.
+
+01:11:16.140 --> 01:11:17.140
+Ja.
+
+01:11:17.140 --> 01:11:24.140
+Also der rendert und baut mir jetzt die PDFs zusammen mit allen Daten.
+
+01:11:24.140 --> 01:11:30.140
+Das ist ein sehr aufwändiger Prozess, deswegen dauert es ein bisschen.
+
+01:11:30.140 --> 01:11:37.140
+Und was ihr hier seht, ist ein frisch geschlüpfter Schweizer Antrag voll bedruckt.
+
+01:11:37.140 --> 01:11:44.140
+Da steht da Form 83, da steht da dann Swiss and Blablabla.
+
+01:11:44.140 --> 01:11:52.140
+Das ist also ein Schweizer Antrag beziehend auf den Markt Frankreich, auf das Domizil Frankreich.
+
+01:11:52.140 --> 01:11:59.140
+Ich kann mal ein bisschen rauszoomen, dann seht ihr wie viel Papier dabei ist und wieder reinzoomen.
+
+01:11:59.140 --> 01:12:00.140
+Was sieht man?
+
+01:12:00.140 --> 01:12:03.140
+Da sieht man dann die Adresse vom Institut.
+
+01:12:03.140 --> 01:12:08.140
+Da sieht man dann eventuell schon die Kundendaten.
+
+01:12:08.140 --> 01:12:15.140
+hier AG 2R eine Adresse, die Adresse vom Institut, dass das für euch macht.
+
+01:12:15.140 --> 01:12:20.140
+Man sieht die Bankdaten, also wo das Geld hin überwiesen werden muss.
+
+01:12:20.140 --> 01:12:23.140
+Frankreich, IBAN.
+
+01:12:23.140 --> 01:12:25.140
+Und man sieht hier den Anspruch.
+
+01:12:25.140 --> 01:12:29.140
+Dann sieht man, okay, es gibt hier eine totale Linie.
+
+01:12:29.140 --> 01:12:32.140
+Da könnten ja mehrere Ansprüche drin sein.
+
+01:12:32.140 --> 01:12:36.140
+Und dann wird 10.260 zurückgefordert.
+
+01:12:36.140 --> 01:12:38.140
+Total amount.
+
+01:12:38.140 --> 01:12:40.140
+10.260 wird zurückgefordert.
+
+01:12:40.140 --> 01:12:45.140
+Das ist das, was wir einreichen bei der ausländischen Steuerbehörde, was wir bekommen wollen.
+
+01:12:45.140 --> 01:12:47.140
+Dann sieht man hier Antragsfragen.
+
+01:12:47.140 --> 01:12:48.140
+Was ist das?
+
+01:12:48.140 --> 01:12:49.140
+Ja.
+
+01:12:49.140 --> 01:12:55.140
+Der Schweizer Staat, eigentlich jeder Staat, will ja prüfen, ob der wirklich anspruchsberechtigt ist.
+
+01:12:55.140 --> 01:12:58.140
+Dazu muss man halt Sachverhalte auflösen.
+
+01:12:58.140 --> 01:13:05.140
+Dass der Christoph Huckermann, wenn der jetzt, sage ich mal, ein Unternehmen halten würde in der Schweiz,
+
+01:13:05.140 --> 01:13:12.140
+dann wäre es möglicherweise ein Sachverhalt, das er vielleicht gar nicht zurückfordern darf.
+
+01:13:12.140 --> 01:13:19.140
+Wenn man das nicht mehr anhandeln darf, sage ich jetzt mal so, dann muss man hier verschiedene Kreuze setzen.
+
+01:13:19.140 --> 01:13:22.140
+Und Rackpist kann die Kreuze vollautomatisch setzen.
+
+01:13:22.140 --> 01:13:24.140
+Also wir können das alles beeinflussen.
+
+01:13:24.140 --> 01:13:28.140
+Und wir treffen dann auch die Kreuze ziemlich fast rein.
+
+01:13:28.140 --> 01:13:34.140
+Und dann kann man runter, so gibt es noch eine zweite Kopie, da gibt es noch eine dritte Kopie.
+
+01:13:34.140 --> 01:13:36.140
+Weil wer kriegt denn alles Kopien?
+
+01:13:36.140 --> 01:13:42.140
+Der Kunde kriegt eine Kopie, die ausländische Behörde kriegt eine Kopie und das Finanzamt des Kunden.
+
+01:13:42.140 --> 01:13:43.140
+kriegt eine Kopie.
+
+01:13:43.140 --> 01:13:49.140
+Und hier sehen wir ein Anschreiben, wo man dann eigentlich der französischen Behörde
+
+01:13:49.140 --> 01:13:55.140
+sogar in der französischen Sprache mitteilt, liebe französische ausländische Steuerbehörde,
+
+01:13:55.140 --> 01:13:59.140
+bitte, bitte, bitte, bitte, bitte mal, das ist das Finanzamt anschreiben.
+
+01:13:59.140 --> 01:14:07.140
+Liebe französische Behörde, du bist die Behörde des Kunden, also die Steuerbehörde des Kunden,
+
+01:14:07.140 --> 01:14:17.140
+stell uns eine Ansässigkeit aus, eine Wohnsitzbestätigung, dass der Franzose in Frankreich, in, weiß ich nicht, Paris lebt,
+
+01:14:17.140 --> 01:14:23.140
+dort besteuert wird, dass er dort ansässig ist.
+
+01:14:23.140 --> 01:14:27.140
+Und so holen wir quasi mit diesem Anschreiben die Ansässigkeit rein.
+
+01:14:27.140 --> 01:14:37.140
+Hier steht es auf französisch, Zertifikat der Residenze, dass wir uns darauf beziehen, dass wir eine Ansässigkeit bekommen wollen.
+
+01:14:37.140 --> 01:14:46.140
+Und das war es schon. Dieses Formular und jetzt, Anna, deine Frage, muss gedruckt werden.
+
+01:14:46.140 --> 01:14:50.140
+Entweder, also meistens noch zu 90 Prozent als Papier.
+
+01:14:50.140 --> 01:14:57.140
+Dann wird es von den Sachbearbeitern in der Bank verkurvertiert.
+
+01:14:57.140 --> 01:15:02.140
+Ja, das ist aber nicht, das liegt außerhalb unserem Beeinflussungsprozess so ein bisschen,
+
+01:15:02.140 --> 01:15:10.140
+weil die ausländischen Behörden arbeiten natürlich alle noch sehr wenig digital manchmal und die wollen das dann per Post.
+
+01:15:10.140 --> 01:15:17.140
+Das heißt, wenn es eine Möglichkeit geben würde, das per E-Mail zu versenden und es erlaubt wäre, würden sie es vielleicht machen.
+
+01:15:17.140 --> 01:15:29.140
+Dann würden wir ja in RaQuest sagen können, ja, du hast zwar die PDFs hier, du könntest aber hier speichern, drucken und das Zeug abziehen und als PDF irgendwo hin speichern.
+
+01:15:29.140 --> 01:15:40.140
+Und dann könnte man ja wirklich vielleicht eines Tages mal so weit gehen, das E-Mail-Fach oder so anbinden, E-Mail-Accounts anbinden.
+
+01:15:40.140 --> 01:15:45.140
+Wäre ja mal so eine Denkweise, wo man sagt, alle Dokumente rein in die E-Mail und weg damit.
+
+01:15:45.140 --> 01:15:47.140
+Also nein, das gibt es noch nicht.
+
+01:15:47.140 --> 01:15:55.140
+Die elektronische Unterschrift, ich meine heutzutage kann man ja auch, Herr Färker hat mir die Rechnungen auch noch digital, das dann halt, ja,
+
+01:15:55.140 --> 01:16:01.140
+gibt es ja so Berechnungssysteme, wie gesagt, mit elektronischer Unterschrift und dergleichen.
+
+01:16:01.140 --> 01:16:09.140
+In dem Fall ist es, wenn es die Finanzämter nicht wollen, wir haben in Deutschland 800 Finanzämter, die kriegen das alles noch per Post.
+
+01:16:09.140 --> 01:16:29.140
+Und wenn die das dann wieder digital einscannen vor Ort in einem zentralen Digital-Einscannungscenter, aber das ist alles nicht in meinem Einflussbereich oder Wissen, sondern wir können diese Dokumente und PDFs liefern, speichern das und dann kann er es auf den Drucker schicken und verkulvertieren.
+
+01:16:29.140 --> 01:16:41.960
+90 Prozent der Fälle. Es gibt auch schon einen digitalen Prozess, den nennen wir STTI, den wir parallel großgezogen haben. Parallel zu diesen Druckprozessen hier.
+
+01:16:41.960 --> 01:16:59.280
+Okay, jetzt sagt man, alles ist fein, ich habe den Antrag begrüßt, als Sachbearbeiter geprüft, die Unterschriften sind drauf, super cool, die Kreuze sind drauf und dann kann er sagen, eintragen.
+
+01:17:00.640 --> 01:17:07.720
+Ich habe unten rechts auf eintragen geklickt, den Prozess bestätigt und dann kann er sagen, übernehmen.
+
+01:17:07.720 --> 01:17:15.720
+Das heißt, jetzt mit der zweiten Bestätigung sind diese Daten, der Antrag, wahrhaftig sozusagen fixiert.
+
+01:17:16.580 --> 01:17:20.520
+Jetzt existiert er. Vorher war es so ein Erstellungsprozess.
+
+01:17:21.780 --> 01:17:30.520
+Jetzt existiert er. Hier sehen wir jetzt, hier sehen wir den alten Anspruch, wie er kopiert war und hier sehen wir dann einen Antrag mit Antragsnummer.
+
+01:17:30.520 --> 01:17:37.520
+Jetzt sehen wir auch schon, ah, da gibt es einen neuen Status, der heißt Wohnsitzbestätigung eingefordert.
+
+01:17:38.660 --> 01:17:46.720
+Und genau das ist es. Wir haben das Finanzamt in Frankreich angeschrieben, um die Wohnsitzbestätigung einzufordern und das ist das, was wir getan haben, eingefordert.
+
+01:17:46.720 --> 01:17:51.740
+Jetzt warten wir zwei Wochen, die sind schnell, schicken uns die Wohnsitzbestätigung zur Bank.
+
+01:17:52.280 --> 01:18:02.140
+Die Bank nimmt die Wohnsitzbestätigung, ah, die Wohnsitzbestätigung ist da, geht hier in RaQuest rein, rechtsklick, Empfangsbestätigung, das Finanzamt anschreiben, zack.
+
+01:18:02.900 --> 01:18:06.720
+Ja, ist sie bestätigt? Ja, ist da. Das ist wie so ein Prozessstempel.
+
+01:18:06.720 --> 01:18:16.500
+Dann sagen wir, okay, rechtsklick drauf, wieder in den Druckprozess, weil ich habe ja jetzt alle Unterlagen da.
+
+01:18:16.560 --> 01:18:19.200
+Ich habe den Antrag und ich habe die Wohnsitzbestätigung.
+
+01:18:19.740 --> 01:18:20.920
+Rein entdrucken.
+
+01:18:20.920 --> 01:18:29.500
+Und dann geht hier eine neue Druckkategorie auf. Ich scrolle mal runter, kurz merken.
+
+01:18:30.500 --> 01:18:34.740
+Ah, die Beantragungsstelle ist jetzt offen. Ich kann also die Beantragungsstelle anschreiben.
+
+01:18:35.780 --> 01:18:37.580
+Wohin wollen wir nochmal beantragen? Nach die Schweiz.
+
+01:18:38.940 --> 01:18:47.300
+Und hier werden noch weitere Dokumente mit ausgedruckt, wie eine Antragsliste, Tax-Voucher, Quellensteuer, relevante Erträge.
+
+01:18:47.300 --> 01:18:53.240
+Also nicht erschrecken, RaQuest habe ich mir mal sagen lassen, hat weit über 500 Formulare schon implementiert.
+
+01:18:54.020 --> 01:19:00.880
+Ich kann euch nicht jedes einzelne immer beim Namen nennen, aber die jetzt schon und sofort erklären,
+
+01:19:01.000 --> 01:19:05.680
+sondern man muss über die Formulare gemeinsam sprechen, über jedes einzelne sukzessive.
+
+01:19:07.640 --> 01:19:09.300
+Und dann sagt man, jetzt schicke ich das in den Druckprozess.
+
+01:19:10.060 --> 01:19:15.000
+Und ha, hier sind sogar die Unterschriftsberechtigten drauf, Charles Waldorf und Herbert Stadler,
+
+01:19:15.000 --> 01:19:18.000
+würden jetzt dann auch die Unterschriftsberechtigten sein.
+
+01:19:18.460 --> 01:19:22.660
+Dann schicke ich das in den Druckprozess durch alle ausgewählte Dokumente drucken.
+
+01:19:24.140 --> 01:19:30.400
+Jetzt rendert er wieder und macht jetzt wieder, schickt uns das in den Druckprozess.
+
+01:19:32.320 --> 01:19:34.520
+Das heißt, wir sind am Ende vom ganzen Prozess.
+
+01:19:34.980 --> 01:19:38.720
+Es hat mit Erklären jetzt länger gedauert, aber wenn ich das blickschnell mache,
+
+01:19:38.720 --> 01:19:40.480
+bin ich in zwei Minuten, fünf Minuten durch.
+
+01:19:41.940 --> 01:19:43.740
+Zwei bis fünf Minuten würde ich schätzen.
+
+01:19:43.740 --> 01:19:49.140
+Jetzt haben wir hier ein neues Anschreiben an die ausländische Steuerverwaltung in der Schweiz
+
+01:19:49.140 --> 01:19:56.040
+und bitten hier die Steuerverwaltung, bitte doch an diese IBAN Geld zu überweisen.
+
+01:19:58.220 --> 01:20:00.460
+Und haben wir noch andere Unterlagen?
+
+01:20:00.700 --> 01:20:05.820
+Ja, hier haben wir dann noch weitere Aufstellungen und Auflistungen
+
+01:20:05.820 --> 01:20:11.980
+und Nachweise, die die Steuerbehörde auch vielleicht gerne haben möchte.
+
+01:20:13.380 --> 01:20:16.740
+Hier sind sogar die Unterschriften von Waldorf und Stadler drauf.
+
+01:20:17.200 --> 01:20:23.220
+Da haben wir auch eine komplexe Einstellungsmöglichkeiten,
+
+01:20:23.220 --> 01:20:29.520
+wie wir diese Unterschriften steuern in RaQuest und hätten jetzt die Dokumente.
+
+01:20:29.620 --> 01:20:34.220
+Jetzt muss er sie wieder drucken, in die Kuverts schicken und ab zur ausländischen Steuerbehörde.
+
+01:20:35.080 --> 01:20:36.920
+Jetzt sagt der Sachbearbeiter, passt alles.
+
+01:20:37.340 --> 01:20:38.000
+Habe ich gemacht.
+
+01:20:38.720 --> 01:20:39.680
+Ich gehe auf Eintragen.
+
+01:20:39.680 --> 01:20:43.820
+Jetzt bin ich wieder im Druckprozess.
+
+01:20:43.920 --> 01:20:45.340
+Das bestätige ich für ein zweites Mal.
+
+01:20:45.460 --> 01:20:46.660
+Immer zweimal bestätigen.
+
+01:20:47.360 --> 01:20:48.480
+Wieder auf Eintragen.
+
+01:20:49.180 --> 01:20:51.760
+Jetzt sehen wir, fantastisch.
+
+01:20:52.400 --> 01:20:55.480
+Unser Antrag ist jetzt auf dem Status beantragt.
+
+01:20:55.740 --> 01:20:57.440
+Hier die letzte Spalte.
+
+01:20:57.440 --> 01:21:01.340
+Das heißt, wir haben, und das zeige ich jetzt nochmal,
+
+01:21:03.000 --> 01:21:06.360
+anfänglich einen Anspruch hin beantragbar gehabt.
+
+01:21:06.500 --> 01:21:11.800
+Hier den Anspruch hin dieser Status in der Mitte beantragbar.
+
+01:21:12.260 --> 01:21:14.460
+Haben den überführt in einen Antrag.
+
+01:21:15.060 --> 01:21:16.900
+Und dann sehen wir hier diesen Antrag.
+
+01:21:18.080 --> 01:21:18.680
+Statusverlauf.
+
+01:21:19.100 --> 01:21:22.900
+Da hatten wir wohl gemerkt, Wohnsatzbestätigung eingefordert war ein Status.
+
+01:21:23.940 --> 01:21:25.940
+Und drittens beantragt war der dritte Status.
+
+01:21:25.940 --> 01:21:28.820
+Also nicht jeder tritt, jeder Status tritt immer ein,
+
+01:21:29.320 --> 01:21:30.940
+sondern je nach Prozesskonzipierung.
+
+01:21:32.360 --> 01:21:37.460
+Und jetzt sind wir auf Beantragt und haben sozusagen den Prozess fast geschafft.
+
+01:21:38.480 --> 01:21:43.260
+Weil nämlich, jetzt ruht es erstmal bei der Steuerbehörde.
+
+01:21:43.360 --> 01:21:45.320
+Vielleicht dauert es ein Jahr, bis das Geld kommt.
+
+01:21:46.180 --> 01:21:47.400
+Und jetzt haben wir eine Punktlandung.
+
+01:21:47.460 --> 01:21:50.360
+11 Uhr machen wir mal eine kurze Pause bis 10 nach, oder?
+
+01:21:52.860 --> 01:21:54.300
+Dann sehen wir uns gleich wieder.
+
+01:21:55.940 --> 01:21:57.940
+Okay.
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+
+
+01:21:57.940 --> 01:21:57.940
+

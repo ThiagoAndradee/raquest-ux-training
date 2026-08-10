@@ -1,0 +1,173 @@
+{
+  "_about": "Dubbing / narration script for the RAQUEST Erste Schritte course. One entry per app chapter (0-11). Each line has a speaker so the TTS script can assign a distinct natural voice. Speakers: NARRATOR (guides the learner), TRAINER (the Business Analyst from the videos, explaining the system), OPERATOR (the SV clerk's point of view / practical asides).",
+  "voices": {
+    "en": { "NARRATOR": "en-US-GuyNeural", "TRAINER": "en-GB-RyanNeural", "OPERATOR": "en-US-JennyNeural" },
+    "pt": { "NARRATOR": "pt-BR-AntonioNeural", "TRAINER": "pt-BR-FabioNeural", "OPERATOR": "pt-BR-FranciscaNeural" }
+  },
+  "chapters": [
+    {
+      "id": 0,
+      "en": [
+        { "s": "NARRATOR", "t": "Chapter one — logging in and reading the version. Let's open RAQUEST." },
+        { "s": "TRAINER", "t": "This is the start screen before you log in. You can sign in with Single Sign-On — you log into Windows and you're already in RAQUEST — or manually, with a user and password." },
+        { "s": "OPERATOR", "t": "In practice we log in manually, because we run many client instances in parallel." },
+        { "s": "TRAINER", "t": "The version is named after a volcano — Kumamoto, for example. That long number decodes: twenty-four is Kumamoto, read backwards it's the date, and the last digit is the build of the day. It matters for Support and QA." }
+      ],
+      "pt": [
+        { "s": "NARRATOR", "t": "Capítulo um — fazer login e ler a versão. Vamos abrir o RAQUEST." },
+        { "s": "TRAINER", "t": "Essa é a tela inicial, antes de logar. Você pode entrar por Single Sign-On — loga no Windows e já cai no RAQUEST — ou manualmente, com usuário e senha." },
+        { "s": "OPERATOR", "t": "Na prática a gente loga manual, porque roda várias instâncias de clientes em paralelo." },
+        { "s": "TRAINER", "t": "A versão tem nome de vulcão — Kumamoto, por exemplo. Aquele número comprido decodifica: vinte e quatro é Kumamoto, lendo de trás é a data, e o último dígito é o build do dia. Importa pro Suporte e pra QS." }
+      ]
+    },
+    {
+      "id": 1,
+      "en": [
+        { "s": "NARRATOR", "t": "Chapter two — the home screen." },
+        { "s": "TRAINER", "t": "After you log in, this is the Startseite. At the top you have the Menüleiste, the menu bar. And these black boxes are Webparts — they report to you, the operator: what to do, when, and why." },
+        { "s": "OPERATOR", "t": "You can close, minimize, or drag the Webparts you don't use. Each one eats processing power, so closing them makes the home faster." }
+      ],
+      "pt": [
+        { "s": "NARRATOR", "t": "Capítulo dois — a tela inicial." },
+        { "s": "TRAINER", "t": "Depois de logar, essa é a Startseite. No topo você tem a Menüleiste, a barra de menu. E essas caixas pretas são os Webparts — eles reportam a você, o operador: o que fazer, quando e por quê." },
+        { "s": "OPERATOR", "t": "Dá pra fechar, minimizar ou arrastar os Webparts que você não usa. Cada um consome processamento, então fechar deixa a home mais rápida." }
+      ]
+    },
+    {
+      "id": 2,
+      "en": [
+        { "s": "NARRATOR", "t": "Chapter three — the domain. What does this software actually solve?" },
+        { "s": "TRAINER", "t": "Whoever holds securities earns dividends or interest, and withholding tax is charged on them. That tax becomes an Anspruch — a claim — that you can reclaim from abroad." },
+        { "s": "TRAINER", "t": "Here's the why behind everything. Switzerland withholds thirty-five percent, but a German resident can't be taxed above Germany's twenty-five percent cap. Under the double-taxation treaty, about twenty percent comes back. It's slow and bureaucratic — and that's exactly why RAQUEST exists." }
+      ],
+      "pt": [
+        { "s": "NARRATOR", "t": "Capítulo três — o domínio. O que esse software resolve, na real?" },
+        { "s": "TRAINER", "t": "Quem tem títulos recebe dividendos ou juros, e incide imposto na fonte sobre eles. Esse imposto vira um Anspruch — um claim — que você pode reaver do exterior." },
+        { "s": "TRAINER", "t": "Aqui está o porquê de tudo. A Suíça retém trinta e cinco por cento, mas um residente alemão não pode ser taxado acima do teto de vinte e cinco por cento da Alemanha. Pelo acordo de bitributação, cerca de vinte por cento volta. É lento e burocrático — e é exatamente por isso que o RAQUEST existe." }
+      ]
+    },
+    {
+      "id": 3,
+      "en": [
+        { "s": "NARRATOR", "t": "Chapter four — the three recovery processes." },
+        { "s": "TRAINER", "t": "There are three ways to recover the tax. Standard Refund, the classic reclaim — that's our focus. Quick Refund, the fast one. And Relief-at-source, or Vorabbefreiung, the advance exemption: you gather the documents and send them to the custodian." },
+        { "s": "OPERATOR", "t": "The document-based one is the newer product, and it's growing." }
+      ],
+      "pt": [
+        { "s": "NARRATOR", "t": "Capítulo quatro — os três processos de recuperação." },
+        { "s": "TRAINER", "t": "Existem três formas de recuperar o imposto. Standard Refund, o reembolso clássico — é o nosso foco. Quick Refund, a rápida. E Relief-at-source, ou Vorabbefreiung, a isenção antecipada: você junta os documentos e envia à custodiante." },
+        { "s": "OPERATOR", "t": "O baseado em documentos é o produto mais novo, e está crescendo." }
+      ]
+    },
+    {
+      "id": 4,
+      "en": [
+        { "s": "NARRATOR", "t": "Chapter five — the Standard Refund flow. This is the heart of the system, so follow the steps." },
+        { "s": "TRAINER", "t": "You go to Beantragen, Ansprüche beantragen, filter by a market like Switzerland, and start the search. Each row is one claim, status beantragbar. Right-click, Beantragen, and RAQUEST copies the claim into a container — the Antrag — with a unique RA number." },
+        { "s": "TRAINER", "t": "Then the Druckprozess opens gray bars in sequence and prints the country form — the Swiss Form 83, for example — plus a letter to the client's tax office asking for the residence certificate." },
+        { "s": "TRAINER", "t": "You confirm with Eintragen twice, and the status becomes Wohnsitzbestätigung eingefordert. About two weeks later the residence arrives, you print again, confirm twice, and the status becomes beantragt. Now it rests at the authority — that can take up to a year." },
+        { "s": "OPERATOR", "t": "When the money returns, it enters as a Zahlungseingang and auto-matches the application by its RA number. You enter the exchange rate, and the status goes to erstattet, then vergütet once the client is paid. That's the full cycle." }
+      ],
+      "pt": [
+        { "s": "NARRATOR", "t": "Capítulo cinco — o fluxo Standard Refund. Esse é o coração do sistema, então acompanhe os passos." },
+        { "s": "TRAINER", "t": "Você vai em Beantragen, Ansprüche beantragen, filtra por um mercado como a Suíça e inicia a busca. Cada linha é um claim, status beantragbar. Botão direito, Beantragen, e o RAQUEST copia o claim num container — o Antrag — com um número RA único." },
+        { "s": "TRAINER", "t": "Aí o Druckprozess abre barras cinza em sequência e imprime o formulário do país — o Form 83 suíço, por exemplo — mais uma carta ao Finanzamt do cliente pedindo o certificado de residência." },
+        { "s": "TRAINER", "t": "Você confirma com Eintragen duas vezes, e o status vira Wohnsitzbestätigung eingefordert. Umas duas semanas depois a residência chega, você imprime de novo, confirma duas vezes, e o status vira beantragt. Agora descansa na autoridade — isso pode levar até um ano." },
+        { "s": "OPERATOR", "t": "Quando o dinheiro volta, entra como Zahlungseingang e casa automaticamente com a application pelo número RA. Você informa o câmbio, e o status vai pra erstattet, depois vergütet quando o cliente é pago. Esse é o ciclo completo." }
+      ]
+    },
+    {
+      "id": 5,
+      "en": [
+        { "s": "NARRATOR", "t": "Chapter six — contacts, clients and the Depot." },
+        { "s": "TRAINER", "t": "Kontakte verwalten holds everything, not only clients: foreign authorities, tax offices — six hundred and seventy-one of them implemented — financial institutions, and clients, all filterable by contact type." },
+        { "s": "TRAINER", "t": "Clients come in four types: Person, Group — a couple, for instance — Organisation for any legal form, and Fonds. Their addresses and tax data have a time-validity, because clients move, and the data is imported from the core banking system — nobody types ten thousand addresses by hand. Changing data triggers the four-eyes principle: a second person must approve." },
+        { "s": "OPERATOR", "t": "And watch the Depot. The Vollmacht — the power of attorney — is the flag that inverts everything. With it, the process flows straight through. Without it, the bank sends the documents to the client to sign. One flag changes the whole document process." }
+      ],
+      "pt": [
+        { "s": "NARRATOR", "t": "Capítulo seis — contatos, clientes e o Depot." },
+        { "s": "TRAINER", "t": "Kontakte verwalten guarda tudo, não só clientes: autoridades estrangeiras, Finanzämter — seiscentos e setenta e um implementados — instituições financeiras e clientes, tudo filtrável pelo tipo de contato." },
+        { "s": "TRAINER", "t": "Os clientes vêm em quatro tipos: Pessoa, Grupo — um casal, por exemplo — Organização para qualquer forma jurídica, e Fundos. Os endereços e dados fiscais têm validade no tempo, porque o cliente muda de cidade, e os dados vêm importados do core banking — ninguém digita dez mil endereços na mão. Mudar um dado dispara o princípio dos quatro olhos: um segundo precisa aprovar." },
+        { "s": "OPERATOR", "t": "E preste atenção no Depot. A Vollmacht — a procuração — é o flag que inverte tudo. Com ela, o processo passa direto. Sem ela, o banco manda os documentos pro cliente assinar. Um flag muda todo o processo de documentos." }
+      ]
+    },
+    {
+      "id": 6,
+      "en": [
+        { "s": "NARRATOR", "t": "Chapter seven — master data and tax rates." },
+        { "s": "TRAINER", "t": "Under Stammdaten, Wertpapier verwalten, you have thousands of securities — the ISIN, the name, whether it's a share or a bond, and the country of taxation." },
+        { "s": "TRAINER", "t": "The withholding rates are set per market. France at twenty-six and a half percent drops to fifteen, so you reclaim eleven and a half. Switzerland is thirty-five. RAQUEST checks the imported claim's tax against this config. And Domestic Law can override the treaty — a foundation, a Stiftung, stays at twenty percent." }
+      ],
+      "pt": [
+        { "s": "NARRATOR", "t": "Capítulo sete — master data e as taxas." },
+        { "s": "TRAINER", "t": "Em Stammdaten, Wertpapier verwalten, você tem milhares de títulos — o ISIN, o nome, se é ação ou título de dívida, e o país de tributação." },
+        { "s": "TRAINER", "t": "As alíquotas na fonte são por mercado. A França, a vinte e seis e meio por cento, cai pra quinze, então você reclama onze e meio. A Suíça é trinta e cinco. O RAQUEST confere o imposto do claim importado contra essa config. E a Domestic Law pode sobrepor o acordo — uma fundação, uma Stiftung, fica em vinte por cento." }
+      ]
+    },
+    {
+      "id": 7,
+      "en": [
+        { "s": "NARRATOR", "t": "Chapter eight — conflicts and quarantine." },
+        { "s": "TRAINER", "t": "On import, RAQUEST validates everything. If information is missing, the claim goes to the Konflikte container. For example, a hundred and thirty-nine conflicts: divergent rates, a missing exchange rate, a missing custodian number. You have to resolve them before you can beantragen." },
+        { "s": "OPERATOR", "t": "The Lagerstelle is the custodian bank where the securities actually sit — Clearstream, for instance. The Lagerstellennummer links the claim to that account. Without that link, it's a conflict, and you can't reclaim." }
+      ],
+      "pt": [
+        { "s": "NARRATOR", "t": "Capítulo oito — conflitos e quarentena." },
+        { "s": "TRAINER", "t": "Na importação, o RAQUEST valida tudo. Se falta informação, o claim vai pro container Konflikte. Por exemplo, cento e trinta e nove conflitos: taxas divergentes, câmbio faltando, número da custodiante faltando. Você tem que resolver antes de poder beantragen." },
+        { "s": "OPERATOR", "t": "A Lagerstelle é o banco custodiante onde os títulos ficam de verdade — a Clearstream, por exemplo. A Lagerstellennummer liga o claim àquela conta. Sem esse elo, é conflito, e você não consegue reclamar." }
+      ]
+    },
+    {
+      "id": 8,
+      "en": [
+        { "s": "NARRATOR", "t": "Chapter nine — configuration. This area is very powerful." },
+        { "s": "TRAINER", "t": "The Ablauffristen are the prescription deadlines. Switzerland is thirty-six months after the end of the calendar year the dividend was paid, plus a warning window. Miss it and the claim is verjährt — time-barred, lost." },
+        { "s": "TRAINER", "t": "The global settings change all forms at once: every form needs a signer, use a digital Faksimile signature, always fill the application questions. One yes-or-no touches everything. And each Antragsmodul — per market, authority, and custodian — is a line of revenue, maintained by the team. RAQUEST only runs with the right license keys." }
+      ],
+      "pt": [
+        { "s": "NARRATOR", "t": "Capítulo nove — configuração. Essa área é muito poderosa." },
+        { "s": "TRAINER", "t": "As Ablauffristen são os prazos de prescrição. A Suíça é trinta e seis meses após o fim do ano-calendário em que a dividenda foi paga, mais uma janela de aviso. Se passar, o claim fica verjährt — prescrito, perdido." },
+        { "s": "TRAINER", "t": "As configurações globais mudam todos os formulários de uma vez: todo formulário precisa de assinante, usar assinatura digital Faksimile, sempre preencher as perguntas da application. Um sim-ou-não mexe em tudo. E cada Antragsmodul — por mercado, autoridade e custodiante — é uma linha de receita, mantida pelo time. O RAQUEST só roda com as license keys certas." }
+      ]
+    },
+    {
+      "id": 9,
+      "en": [
+        { "s": "NARRATOR", "t": "Chapter ten — the institute and its authorizations." },
+        { "s": "TRAINER", "t": "Under Finanzinstitut, the first one is the Mandant — the most powerful config. The Bevollmächtigungen decide which markets the bank offers the service for. If a market isn't checked here, even with the module installed, you cannot beantragen under power of attorney." },
+        { "s": "OPERATOR", "t": "The institute also has its Bankverbindungen — the accounts where the foreign money actually arrives." }
+      ],
+      "pt": [
+        { "s": "NARRATOR", "t": "Capítulo dez — o instituto e suas autorizações." },
+        { "s": "TRAINER", "t": "Em Finanzinstitut, o primeiro é o Mandant — a config mais poderosa. As Bevollmächtigungen decidem quais mercados o banco oferece o serviço. Se um mercado não está marcado aqui, mesmo com o módulo instalado, você não consegue beantragen em procuração." },
+        { "s": "OPERATOR", "t": "O instituto também tem as Bankverbindungen — as contas onde o dinheiro estrangeiro realmente chega." }
+      ]
+    },
+    {
+      "id": 10,
+      "en": [
+        { "s": "NARRATOR", "t": "Chapter eleven — roles, rights and access." },
+        { "s": "TRAINER", "t": "Rights are granted per role: who can post, who can reverse, who can run mass processing. The operator doesn't even see the admin area, so they can't misclick into it. Any mistake stays inside the rights they have." },
+        { "s": "OPERATOR", "t": "And about access: RAQUEST runs only in Internet Explorer, for now. Each bank runs its own on-premise instance on its own server — it's not cloud." }
+      ],
+      "pt": [
+        { "s": "NARRATOR", "t": "Capítulo onze — papéis, direitos e acesso." },
+        { "s": "TRAINER", "t": "Os direitos são dados por papel: quem pode buchen, quem pode estornar, quem pode rodar processamento em massa. O operador nem vê a área de admin, então não tem como se verklicken nela. Qualquer erro fica dentro dos direitos que ele tem." },
+        { "s": "OPERATOR", "t": "E sobre o acesso: o RAQUEST roda só no Internet Explorer, por ora. Cada banco roda a própria instância on-premise no servidor dele — não é cloud." }
+      ]
+    },
+    {
+      "id": 11,
+      "en": [
+        { "s": "NARRATOR", "t": "Chapter twelve — the UX findings. This is gold for our work, because the trainer points at the pains himself." },
+        { "s": "TRAINER", "t": "Honestly, I wish the required fields were red. The masks don't show which fields are mandatory — you only find out when you hit the error." },
+        { "s": "NARRATOR", "t": "It's Internet-Explorer-only, table and line heavy, with a lot of hidden config. Right-click hides key actions. Status colors carry critical meaning but aren't obvious. And invisible rules — the four-eyes principle, the Vollmacht flag, time-validity — quietly change the whole flow. That's the UX opportunity: make the consequences visible, and turn this heavy vocabulary into an onboarding wizard and an explaining assistant." }
+      ],
+      "pt": [
+        { "s": "NARRATOR", "t": "Capítulo doze — os achados de UX. Isso é ouro pro nosso trabalho, porque o próprio trainer aponta as dores." },
+        { "s": "TRAINER", "t": "Sinceramente, eu queria que os campos obrigatórios fossem vermelhos. As máscaras não mostram quais campos são obrigatórios — você só descobre quando dá o erro." },
+        { "s": "NARRATOR", "t": "É só Internet Explorer, cheio de tabelas e linhas, com muita config escondida. O botão direito esconde ações-chave. As cores de status carregam significado crítico mas não são óbvias. E as regras invisíveis — o princípio dos quatro olhos, o flag da Vollmacht, a validade temporal — mudam todo o fluxo em silêncio. Essa é a oportunidade de UX: tornar as consequências visíveis, e transformar esse vocabulário pesado num wizard de onboarding e num assistente que explica." }
+      ]
+    }
+  ]
+}

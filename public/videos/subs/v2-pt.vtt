@@ -1,0 +1,832 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.000
+O quê? Então — bem-vindos de volta. Beleza. Ok.
+
+00:00:12.000 --> 00:00:21.000
+Então, paramos tendo enviado um pedido (beantragt).
+
+00:00:21.000 --> 00:00:33.000
+'Solicitado' significa que mandamos pro fisco estrangeiro, que agora tem todos os documentos e precisa decidir se transfere o dinheiro.
+
+00:00:33.000 --> 00:00:45.000
+E alguns meses depois, um ano depois, o dinheiro chega. Chega em algum momento e é importado no RaQuest como um recebimento (Zahlungseingang).
+
+00:00:46.000 --> 00:00:57.000
+Os dados entram, e esse recebimento — que vimos antes em 'Zahlungseingänge verwalten' — seria casado totalmente automático com o pedido.
+
+00:00:57.000 --> 00:01:11.000
+Mas o que a gente poderia fazer é buscar esse pedido separado e criar um recebimento manual. Vamos fazer isso. Clico em fechar.
+
+00:01:13.000 --> 00:01:25.000
+Vou pra página principal do RaQuest, em Anträge → Anträge verwalten. Porque sabemos que já foi criado um pedido a partir do crédito. Então vou em Anträge verwalten.
+
+00:01:25.000 --> 00:01:38.000
+E agora quero o pedido que acabei de criar. Como consigo? Busco por um filtro: data, mudança de status a partir de.
+
+00:01:38.000 --> 00:01:41.000
+Ou seja, um status foi mudado hoje.
+
+00:01:54.000 --> 00:02:04.000
+E aqui temos esse pedido com seu número, no status 'solicitado'. 10.000 francos suíços.
+
+00:02:04.000 --> 00:02:15.000
+E o carimbo de status é 5/5/2021 — de hoje, né? Ótimo. Agora chega um recebimento, alguns meses depois.
+
+00:02:15.000 --> 00:02:29.000
+Vou simular manual agora, porque não tenho os dados à mão. Então botão-direito → 'criar recebimento pro pedido'. Abre uma máscara nova que me sinaliza:
+
+00:02:29.000 --> 00:02:41.000
+talvez ainda falte algo — conta do remetente. Não sei se realmente preciso da conta do remetente. Vamos ver se funciona mesmo assim.
+
+00:02:41.000 --> 00:02:54.000
+Então ele gerou pra mim um recebimento com um número de referência, de novo com os valores. E talvez eu tenha que converter francos suíços. Então agora preciso de um lançamento.
+
+00:02:54.000 --> 00:03:02.000
+Dá pra ver online: quanto é um euro em francos suíços? Um segundo. Um segundo.
+
+00:03:02.000 --> 00:03:14.000
+Os banqueiros claro que conseguem puxar as taxas de câmbio de dentro do banco.
+
+00:03:14.000 --> 00:03:27.000
+Euro, franco suíço. Um euro é 1,1 franco suíço. Então digito 1,1 aqui, como taxa de câmbio atual — vocês me ouvem?
+
+00:03:27.000 --> 00:03:35.000
+[problema de áudio] Na sala eu não me ouço falar. É de propósito. Não consigo ouvir vocês.
+
+00:03:35.000 --> 00:03:49.000
+Anna, dá pra checar suas configurações de dispositivo de novo? Não te ouvimos.
+
+00:03:49.000 --> 00:04:00.000
+[ajuste de áudio] Compartilhamos uma caixa de som externa na sala.
+
+00:04:00.000 --> 00:04:13.000
+E ela roda em paralelo com as caixas da TV. Por isso... Anna, sim, aí. Agora tudo roda pelo dispositivo. Você está mostrando pra gente agora?
+
+00:04:15.000 --> 00:04:28.000
+Pegaram tudo? Sim, sempre te ouvi. Ok, então agora vemos.
+
+00:04:28.000 --> 00:04:42.000
+[ajuste de áudio]
+
+00:04:42.000 --> 00:04:56.000
+Você só tem que cortar o microfone no seu Teams. E corto o meu também. Agora vai funcionar, né?
+
+00:04:56.000 --> 00:05:10.000
+Sim, não me ouço mais. Ok. Então esse recebimento agora tem que ser convertido — francos suíços em euros.
+
+00:05:10.000 --> 00:05:23.000
+Os operadores conhecem suas taxas de câmbio. Eu procurei online. E eles digitam essa taxa aqui. E você vê, ah, tem um valor original, 10.260.
+
+00:05:23.000 --> 00:05:33.000
+Convertido em euros dá provavelmente 9.328. E aí clico em Eintragen (confirmar). Tomara que funcione.
+
+00:05:37.000 --> 00:05:46.000
+Um pouco pra direita aqui. Rola até essa bolinha verde. E Eintragen de novo. Sim, aceitou.
+
+00:05:46.000 --> 00:05:59.000
+Agora vamos observar esse status, a penúltima coluna, 'solicitado'. Se você espera um pouco e os cálculos rodam, aí ao atualizar
+
+00:05:59.000 --> 00:06:13.000
+— sempre faço com Suche starten — deveria ir pra 'erstattet' (restituído). Restituído é o próximo status lógico. Vamos ver. Não veio nada.
+
+00:06:45.000 --> 00:06:58.000
+[sistema ocupado] Fui no menu de contexto. Talvez eu deva resolver esse erro. Mas acho que a conta do remetente pode não ser tão importante.
+
+00:06:58.000 --> 00:07:08.000
+Mas se eu sei que a conta do remetente é o fisco suíço, eu poderia lançar mesmo assim. Não faz mal.
+
+00:07:16.000 --> 00:07:22.000
+Procuro o fisco na Suíça.
+
+00:07:22.000 --> 00:07:35.000
+Deixa eu ir na investigação de causa (Ursachenforschung).
+
+00:08:03.000 --> 00:08:15.000
+[criando conta] Aplicar. Vamos tentar mais uma vez. E senão —
+
+00:08:15.000 --> 00:08:26.000
+— não é dramático. A instância de teste que uso pela primeira vez. Calma.
+
+00:08:27.000 --> 00:08:37.000
+'Criar recebimento pro pedido'. Estamos de volta no pedido. E temos que digitar um lançamento. Lá vem.
+
+00:08:37.000 --> 00:08:49.000
+Vou na direita, na bolinha verde. E aí clico em Eintragen. Bom.
+
+00:08:49.000 --> 00:09:00.000
+Não gosta de mim.
+
+00:09:06.000 --> 00:09:19.000
+Deixa pra lá. O que aconteceria agora seria —
+
+00:09:19.000 --> 00:09:33.000
+— que esses status não estão mais aqui, que ele cria um status novo chamado 'erstattet' (restituído). E isso significa: o dinheiro veio do fisco estrangeiro,
+
+00:09:33.000 --> 00:09:47.000
+pra conta do banco. E depois, quando você paga ao cliente, ganha um status novo chamado 'vergütet' (pago). Lembra assim: restituído = pro banco.
+
+00:09:47.000 --> 00:09:59.000
+Pago = pro cliente. Um status muito importante pro futuro. Esse é basicamente o processo todo. Pegamos um crédito,
+
+00:09:59.000 --> 00:10:11.000
+escrevemos pro fisco na França, deixamos o processo avançar até o posto de solicitação, solicitamos na Suíça ao fisco estrangeiro.
+
+00:10:11.000 --> 00:10:24.000
+E aí esperamos o dinheiro. O dinheiro chegou, no ideal seria casado agora com o pedido, teria disparado um status novo,
+
+00:10:24.000 --> 00:10:33.000
+que então se chamaria 'restituído'. Esse seria o processo todo. E aí você pagaria ao cliente — isso seria 'pago'.
+
+00:10:36.000 --> 00:10:49.000
+No treino não vou entrar mais na análise de causa agora. Senão eu resolveria esse problema aqui — deve ser simples e trivial. Mas pra você aproveitar o máximo hoje,
+
+00:10:49.000 --> 00:11:01.000
+a gente de propósito não faz a análise agora. Então no fim você poderia dizer, ei, meu status-alvo é 'pago'.
+
+00:11:01.000 --> 00:11:13.000
+E aí você tem vários pedidos nesse status 'pago'. E aí acabou — nada mais a fazer com eles. Mas todos esses status intermediários você tem que percorrer.
+
+00:11:13.000 --> 00:11:27.000
+Você tem que deixar o processo avançar. — Dá pra fazer um reporte pra cada status? Se sou operador, quero saber: ok, o que está solicitado?
+
+00:11:27.000 --> 00:11:34.000
+O que está no reporte? E por aí vai. — E os que estão finalizados, dá pra empurrar todos pra um arquivo? — [Não.]
+
+00:39:24.000 --> 00:39:35.000
+Exemplo: o cliente poderia ter mais endereços. Digamos que o endereço registrado dele é aqui, mas ele tem um domicílio — uma casa de férias — na Áustria,
+
+00:39:36.000 --> 00:39:47.000
+aí ele teria um segundo endereço, e na Áustria poderia mandar a correspondência, porque nas férias ele confere os títulos.
+
+00:39:48.000 --> 00:39:59.000
+Aí ele teria um segundo endereço, e no segundo teria um check verde pra 'endereço de envio padrão'. Se quiser editar, duplo-clique, editar.
+
+00:39:59.000 --> 00:40:12.000
+Via de regra, os operadores não precisam editar nada aqui, porque os dados vêm do core banking, foram importados no RaQuest.
+
+00:40:12.000 --> 00:40:19.000
+Então é sempre disparado por um sistema anterior que é muito mais esperto e sabe muito mais.
+
+00:40:19.000 --> 00:40:39.000
+Quando chega uma mudança de endereço — ele se muda de Bad Wörishofen pra Rosenheim — um endereço novo entra no sistema, um registro novo, e aqui você teria um registro antigo e um novo, uma atualização com o endereço novo.
+
+00:40:39.000 --> 00:40:53.000
+E no ideal ele também teria um endereço registrado novo onde agora é tributado em Rosenheim. Isso tudo deve acontecer automático — não o operador mantendo 10.000 endereços.
+
+00:40:53.000 --> 00:41:07.000
+Deus me livre, não. Mas eu faço tudo sozinho quando rodo muitos testes ou uma análise — monto os dados eu mesmo. Aí sou totalmente livre.
+
+00:41:10.000 --> 00:41:18.000
+E você acha tudo isso — endereço etc. — em 'Geral'. Agora tem mais seções assim.
+
+00:41:18.000 --> 00:41:29.000
+Se o cliente fosse meio rico, poderia ter um contador ou alguém como pessoa de contato, que dá pra cadastrar.
+
+00:41:30.000 --> 00:41:36.000
+Tem certos papéis de endereço que dá pra cadastrar — não preciso entrar em detalhe nisso.
+
+00:41:36.000 --> 00:41:52.000
+Mas muito importantes são as conexões bancárias, porque ele pode ter uma conta de compensação do Depot — uma conta onde o dinheiro dele eventualmente aparece se ele mandar calcular.
+
+00:41:53.000 --> 00:42:04.000
+E ele pode ter um Depot — você vê em Visão do Depot, dá pra olhar de novo. E ele pode também ter dados fiscais — não só pode, ele tem.
+
+00:42:06.000 --> 00:42:11.000
+E os dados fiscais dele são válidos a partir de 1/1/2005.
+
+00:42:12.000 --> 00:42:22.000
+Dava pra inferir que ele mora em Bad Wörishofen desde 2005 e é registrado pra imposto lá com um número fiscal, esse número.
+
+00:42:22.000 --> 00:42:36.000
+E, não totalmente rastreável, mas o fisco dele seria Rosenheim com posto Wasserburg. São dados de teste. Então você já tem bastante coisa aqui.
+
+00:42:36.000 --> 00:42:50.000
+Você tem o número fiscal, o e-mail, sabe o fisco — tudo conhecido no contato. Tem também históricos de validade (Gültigkeitsverläufe). Eu poderia dizer, bom, ele se muda três vezes.
+
+00:42:50.000 --> 00:43:04.000
+Aí entraria um novo período de validade cada vez. Pra isso eu faria um novo registro. De 2005 ele estava de fato em Wörishofen. Mas em 5/5/2021 ele está em outro lugar.
+
+00:43:04.000 --> 00:43:11.000
+E vamos fazer isso rapidinho agora, porque depois quero te mostrar algo importante pro treino. Adicionar novo registro.
+
+00:43:12.000 --> 00:43:26.000
+E digo, um endereço registrado não está mais aqui. Tenho que adicionar um novo. De volta ao Basic. Volto pra Geral.
+
+00:43:27.000 --> 00:43:41.000
+Agora digo que entra no sistema. Vamos simular. Alemanha. Rosenheim. CEP.
+
+00:43:48.000 --> 00:44:02.000
+Deve bastar por ora. Rua também. Agora um endereço novo entra aqui. O primeiro é o endereço registrado.
+
+00:44:02.000 --> 00:44:16.000
+Tem um check verde. O segundo ainda não. O que fazemos? Vamos em dados fiscais. E ver se dá pra mexer em algo. Adicionar novo registro. Ah, a Meierstraße é selecionável.
+
+00:44:16.000 --> 00:44:28.000
+Ótimo. Selecionado. Agora tenho que escolher um novo fisco. Aqui o fisco é consultado. Faço Ctrl+S.
+
+00:44:28.000 --> 00:44:41.000
+É só tentando, porque estou buscando um novo fisco. Vamos pegar um em Neukirchen.
+
+00:44:46.000 --> 00:45:00.000
+E a partir de quando? A partir de 5/5/2021. Aí clico em Eintragen. E agora já vemos uma validade. Vemos: até 5/5 ele era registrado em Bad Wörishofen. Ou na verdade 4/5. E a partir de 5/5.
+
+00:45:00.000 --> 00:45:12.000
+Incluindo 5/5 — eu diria que é válido. Deveria dizer: incluindo 5/5 ele é residente e registrado pra imposto nesse novo endereço.
+
+00:45:13.000 --> 00:45:27.000
+Agora clico em Übernehmen (aplicar). E agora algo acontece no RaQuest. Deixa eu ir na página principal. Espero que aconteça também.
+
+00:45:29.000 --> 00:45:43.000
+Ou os serviços estão fora lá embaixo? Que pena? Ah, vem algo. Um princípio de quatro-olhos (Vier-Augen-Prinzip) de repente aparece — diz 'estado em análise'.
+
+00:45:44.000 --> 00:45:58.000
+Hoje às 11h59 pro Oskar Daniel, o cliente que editamos. O que é o princípio de quatro-olhos no meio bancário? Um operador não pode simplesmente mudar dados sem que um superior tenha visto.
+
+00:45:59.000 --> 00:46:12.000
+Ou um colega. Então significa que outro tem que aceitar. Eu agora tenho tanto poder e tantos papéis que posso me aceitar sozinho.
+
+00:46:12.000 --> 00:46:22.000
+Mas se eu fosse o operador, aí a segunda pessoa — que também tem uma aplicação RaQuest — teria que aceitar agora. Então aceito.
+
+00:46:24.000 --> 00:46:34.000
+Só com a aceitação esse novo endereço é válido. Então volto pro contato, clico em Suche starten, e chamo o Oskar Daniel.
+
+00:46:34.000 --> 00:46:46.000
+Então, agora ele tem dois endereços registrados. Como pode? Bom, claro.
+
+00:46:47.000 --> 00:46:59.000
+Ele era residente num período diferente do de lá. Se ele tivesse créditos de 2005, 2006, 2007, teria sido registrado e residente lá.
+
+00:46:59.000 --> 00:47:13.000
+E essa seria a validade fiscal pros anos anteriores. A partir de 5/5, se ele recebesse ações — dividendos — depois de 5/5, o endereço de Rosenheim seria válido.
+
+00:47:13.000 --> 00:47:23.000
+Ou seja, tem dois endereços válidos, existindo em paralelo, separados só por uma validade. Por que expliquei essa coisa de validade agora?
+
+00:47:23.000 --> 00:47:34.000
+No RaQuest temos muitas facetas com essas validades. Então você pode — deveria — memorizar isso.
+
+00:47:35.000 --> 00:47:45.000
+Ei, atrás de muitíssimas coisas pode ter também uma validade no tempo. Porque as coisas simplesmente mudam muito. E o banco de dados guarda isso.
+
+00:47:46.000 --> 00:47:56.000
+Então ele sabe: naquele momento era assim, naquele momento assado. Tem um histórico de status — ou histórico de estado, dá pra dizer.
+
+00:47:59.000 --> 00:48:13.000
+Esses são os dados fiscais no cliente. Importantíssimo. Endereço importantíssimo. Visão do Depot — extremamente importante. Porque todo contato precisa ter um Depot pra sequer negociar.
+
+00:48:13.000 --> 00:48:26.000
+Esse cliente por acaso tem dois Depots. Os números do Depot estão meio cortados. Têm dois números diferentes, porque tem um '1' ali. Bom.
+
+00:48:27.000 --> 00:48:41.000
+Agora dá pra dizer, ok, vamos olhar dentro do Depot — Abrir, Editar. Como está? Que dados tem? Primeiro tem um número de Depot. Um tipo de Depot — um Depot de cliente.
+
+00:48:43.000 --> 00:48:55.000
+Tem vários tipos de Depot do lado do banco. Eles nomeiam os tipos diferente. Aí vemos que talvez tenham taxas atribuídas.
+
+00:48:56.000 --> 00:49:10.000
+Se alguém tem um certo Depot, dá pra atribuir um certo modelo de taxa — que ele paga tanto por pedidos suíços, franceses etc. Ou seja, é controlado no Depot.
+
+00:49:12.000 --> 00:49:25.000
+E controlado em outro lugar também, mas aqui também. E aí tem o processo novo que mencionei antes — isenção antecipada. Se ele participa desse processo novo, tem uma marca (Fleck).
+
+00:49:26.000 --> 00:49:36.000
+Uma marca de grande alcance, mesmo sendo só uma marquinha no Depot. Muito importante. Mas também importante aqui é esse histórico de procuração (Vollmachtsverlauf) no Depot.
+
+00:49:39.000 --> 00:49:52.000
+Um cliente pode conceder ao banco uma procuração (Vollmacht) — que o banco pode reaver tudo por ele. Se ela existe, o cliente quase não precisa se preocupar com nada.
+
+00:49:53.000 --> 00:50:05.000
+Se a procuração não existe — e isso acontece. Tem bancos que não fazem em certos países. E alguns bancos não fazem de jeito nenhum com procuração. Aí o banco fica mandando documentos pro cliente.
+
+00:50:06.000 --> 00:50:15.000
+E o cliente tem que revisar, assinar ele mesmo, e devolver. Dá pra fazer. Mas no Depot uma procuração dessas é configurada.
+
+00:50:16.000 --> 00:50:29.000
+E essa procuração no Depot influencia nossos processos massivamente. É o processo de impressão inteiro que vimos antes — ele se reorienta completamente. Vou em Abrir e editar.
+
+00:50:30.000 --> 00:50:41.000
+Com essa única marca. Se não tenho marca ali, ele não tem procuração. Se ele não tem, a gente escreve pro cliente. Ou seja, nosso processo se direciona pro cliente.
+
+00:50:41.000 --> 00:50:47.000
+Se tenho um check aqui, então o processo contorna o cliente.
+
+00:50:48.000 --> 00:51:00.000
+Ele quase não recebe mais documentos — em vez disso vai direto pro fisco do cliente e depois pra autoridade estrangeira. Ou seja, vai por caminhos diferentes.
+
+00:51:02.000 --> 00:51:15.000
+É isso que essa única marca pode disparar. Tem outros parâmetros que entram também. Mas — procuração é importante no Depot. Isso.
+
+00:51:16.000 --> 00:51:22.000
+E com isso já estamos no Depot. Claro que um Depot também pode ter rendimentos aqui. Então dá pra olhar os dados de rendimento (Ertragsdaten).
+
+00:51:34.000 --> 00:51:44.000
+Agora estamos nos dados de rendimento, no Depot. Antes estávamos em 'Geral' no Depot. Ainda estamos no Depot.
+
+00:51:45.000 --> 00:51:57.000
+Nos dados de rendimento você vê quais rendimentos — melhor dizendo, quais títulos — estão nesse Depot. Mas você também já vê valores reaviáveis.
+
+00:51:57.000 --> 00:52:08.000
+Ou seja, o que é reaviável por título? E esse aqui tem de fato 943 linhas. Alguns podem.
+
+00:52:08.000 --> 00:52:22.000
+E aí tem também uma conexão bancária aqui. Já vimos antes. Está ligada ao Depot. Isso é o mais importante sobre o Depot do cliente por ora.
+
+00:52:22.000 --> 00:52:36.000
+Alguma pergunta sobre isso? Bom. Aí clico em OK pra cancelar.
+
+00:52:36.000 --> 00:52:47.000
+E voltamos pro cliente. Então estávamos no cliente, na Visão do Depot, e abrimos por duplo ou botão-direito. Trabalhamos dentro do Depot.
+
+00:52:48.000 --> 00:53:01.000
+Imagina sempre assim: novos fios ficam se ramificando. E aí dá pra alcançar os dados de rendimento. Agora clico em Cancelar de novo. OK.
+
+00:53:03.000 --> 00:53:13.000
+Voltei pro cliente, na visão do Depot dele. O que mais é importante?
+
+00:53:13.000 --> 00:53:26.000
+Isso deve bastar pro cliente. Agora vamos.
+
+00:53:29.000 --> 00:53:42.000
+Tem muito mais dado de contato. Agora tenho a escolha: mergulhar mais fundo nas configurações da aplicação, ou te mostrar os outros contatos de novo.
+
+00:53:46.000 --> 00:53:59.000
+Eu diria que vamos nas configurações da aplicação. É mais importante pro futuro. Stammdaten → Applikationseinstellungen. Ok.
+
+00:54:00.000 --> 00:54:12.000
+Configurações padrão da aplicação. Aqui de novo tem várias árvores de processo que têm pouco a ver entre si, às vezes se entrelaçam, mas são todas muito poderosas. Vamos ficar nos prazos de prescrição (Ablauffristen).
+
+00:54:13.000 --> 00:54:26.000
+Te mostrei o diagrama. Lembramos disso. Isso aqui basicamente espelha aquilo. Vamos puxar Suíça como antes.
+
+00:54:28.000 --> 00:54:41.000
+Aqui vemos esse termo de novo, Suíça no fisco Suíça. E aí tem uma frase: meses após o fim do ano-calendário em que o juro/dividendo foi pago.
+
+00:54:43.000 --> 00:54:57.000
+Ok. Quando o juro/dividendo foi pago? Digamos 5/5/2020, ano passado. Estou inventando. Aí você conta os meses após o fim do ano-calendário.
+
+00:54:57.000 --> 00:55:11.000
+Então na real, se escolho 5/5/2020, o ano-calendário tem que vencer. 2020 tem que acabar. Então a partir de 1/1/2021 esse prazo começa a correr.
+
+00:55:11.000 --> 00:55:24.000
+E aí esse prazo corre por 36 meses, porque está setado em 36. São três anos.
+
+00:55:25.000 --> 00:55:37.000
+Então corre três anos. Então dá pra reaver em 2021, 2022, 2023. Nessa janela você pode reaver.
+
+00:55:37.000 --> 00:55:47.000
+2024 acabou. Finito. Aí o crédito prescreveu. Então aqui temos reclamações de três anos.
+
+00:55:47.000 --> 00:55:59.000
+Agora isso varia por mercado e módulo. Aquele, por ex., tem 60 — Dinamarca.
+
+00:56:01.000 --> 00:56:11.000
+E a Irlanda, por ex., tem 48. Mas vamos ficar no suíço: 36 meses após o fim do ano-calendário em que o juro/dividendo foi pago,
+
+00:56:11.000 --> 00:56:21.000
+e um prazo de aviso de 180 e um prazo de custodiante. Espera — não, ele não tem prazo de custodiante. Nada foi lançado.
+
+00:56:21.000 --> 00:56:34.000
+Não precisa lançar nada, porque na Suíça não tem Lagerstelle — lá a gente geralmente solicita direto ao fisco estrangeiro. Mas ainda tem uma duração de prazo oficial.
+
+00:56:34.000 --> 00:56:46.000
+Então olhando isso, não teríamos essa barra laranja. Teríamos a barra verde, e esse prazo, e a azul. 36 seria a azul.
+
+00:56:50.000 --> 00:57:04.000
+180 é o prazo de aviso, a verde. E duração oficial 14 seria os últimos 14 dias após a prescrição,
+
+00:57:04.000 --> 00:57:18.000
+pro operador receber um aviso de que prescreveu e ter ciência. Esses são os prazos. Aí, antes tocamos no prazo de recebimento.
+
+00:57:19.000 --> 00:57:28.000
+Não vou entrar nesse em detalhe também, mas sabemos que existe. É configurável aqui separado das reclamações.
+
+00:57:28.000 --> 00:57:42.000
+Agora vamos nas configurações de comportamento (Anwendungseinstellungen). E como são muitas, vamos puxar duas — pra você ter uma ideia de quão poderoso é.
+
+00:57:43.000 --> 00:57:57.000
+Aqui a primeira configuração diz: todos os formulários de pedido precisam de signatários autorizados. É isso que significa — todos os formulários de todos os países, seja Dinamarca, Irlanda, Suíça, França, tanto faz.
+
+00:57:58.000 --> 00:58:12.000
+Signatários autorizados têm que estar nele, do operador. Sob procuração claro, se houver. E se eu ponho Sim aqui, então pra todos os formulários fica decidido:
+
+00:58:13.000 --> 00:58:24.000
+signatários autorizados são impressos. É uma configuração padrão de grande alcance. Se ponho Não, claro que não. O que mais temos?
+
+00:58:32.000 --> 00:58:45.000
+Usar fac-símile (Faksimile) no processo de pedido. O que é fac-símile? São sempre assinaturas digitais. A gente escaneia. Dos nossos operadores, se eles quiserem
+
+00:58:45.000 --> 00:58:57.000
+e apoiarem o processo, até a assinatura deles. Ela é carregada no RaQuest e pode ser impressa nos pedidos. Vimos assinaturas digitais antes também.
+
+00:59:00.000 --> 00:59:14.000
+No pedido, se você lembra, tinha assinaturas. E aí podemos dizer, sim, usamos por padrão, ou não, não usamos. Então, ligar/desligar pra todos os pedidos. Muito abrangente.
+
+00:59:18.000 --> 00:59:30.000
+Já são duas. Mas temos mais uma? Sim, vou dar mais uma: 'sempre preencher as perguntas do pedido' (Antragsfragen).
+
+00:59:30.000 --> 00:59:43.000
+Viu aquelas cruzinhas no suíço antes? Eram perguntas do pedido, sempre respondidas Sim/Não. E podemos decidir se elas podem, devem, ou não devem ser preenchidas por padrão.
+
+00:59:45.000 --> 00:59:58.000
+E daí com um Sim/Não. Se você põe Não, então o pedido suíço — e todos os pedidos — simplesmente não recebem cruzes. Isso tudo tem motivos técnicos
+
+00:59:58.000 --> 01:00:11.000
+que discutimos com nossos clientes. Uns querem de um jeito, outros de outro. Agora vamos um pouco mais fundo nas configurações.
+
+01:00:13.000 --> 01:00:26.000
+Gebühren (taxas). Vamos primeiro nos perfis de taxa (Gebührenprofile). Você pode imaginar, nos bancos que usam o RaQuest,
+
+01:00:26.000 --> 01:00:40.000
+tem taxas bem diferentes que cobram dos clientes, e sobretudo modelos de taxa bem complexos. Nem sei
+
+01:00:41.000 --> 01:00:55.000
+se dá pra ir bem fundo hoje, mas aqui por ex. tem um modelo/perfil de taxa padrão. Duplo-clique. Botão-direito, abrir, editar — esse era o errado.
+
+01:01:01.000 --> 01:01:10.000
+Botão-direito, abrir, editar. Agora você de repente vê, ó, tem várias linhas. Cada linha significa um perfil.
+
+01:01:11.000 --> 01:01:24.000
+E pro mercado França, 'CBL/CBF' significa que é um banco. O banco é a Clearstream, como mencionei. Então isso aqui é um módulo.
+
+01:01:24.000 --> 01:01:38.000
+As taxas dizem respeito a um módulo: mercado França, pra essa Lagerstelle chamada Clearstream. E essas taxas são 60 euros nesse caso.
+
+01:01:39.000 --> 01:01:50.000
+60 euros. Essas taxas são cobradas no crédito — os créditos onde demos botão-direito → beantragen antes, disparando o processo.
+
+01:01:51.000 --> 01:02:04.000
+Nesses créditos 60 euros são cobrados imediatamente, se for esse módulo, se for no mercado França. Ainda é um construto relativamente simples, e tem muitos outros.
+
+01:02:05.000 --> 01:02:18.000
+Se você dá duplo-clique numa dessas linhas, vê que está tudo cinza agora, porque não posso mais mudar. Muitos parâmetros pra lançar aqui. Então recomendo: A, passar pelo manual uma vez,
+
+01:02:18.000 --> 01:02:31.000
+B, estudar em detalhe assim que você bater nesse tema profissionalmente — porque vai ter que bater, quando pegar uma tarefa disso. Também dá pra aprofundar num treino separado.
+
+01:02:33.000 --> 01:02:45.000
+Só no nível de entrada. Então você sabe: ok, bancos diferentes têm perfis de taxa diferentes. Dividimos entre taxas padrão
+
+01:02:45.000 --> 01:02:59.000
+e taxas específicas por país. Mas quando você entra nas taxas padrão — esse termo reflete um perfil,
+
+01:02:59.000 --> 01:03:13.000
+específico por país é outro perfil. E entrando nas taxas padrão você vê, ok, nesse perfil 'taxas padrão' várias taxas estão setadas, vários mercados, custodiantes,
+
+01:03:14.000 --> 01:03:28.000
+parâmetros etc. Dá pra fazer até por instituição. Aqui, por ex., a instituição com que trabalhamos cobra. Aqui outra instituição parceira na Alemanha, uma em Luxemburgo, com taxas diferentes
+
+01:03:28.000 --> 01:03:42.000
+ou talvez algo mais complexo. Só pra te apontar — você acha tudo isso em Applikationseinstellungen. Agora tem também um modelo de taxa (Gebührenmodell).
+
+01:03:44.000 --> 01:03:58.000
+É algo que pelo menos um cliente nosso usa. Eles simplesmente dizem, bom, temos clientes que podem pagar e querem uma flat rate, uma all-in fee.
+
+01:03:58.000 --> 01:04:12.000
+Então pagam um valor X por ano e recebem tudo all-inclusive. Fácil. Aí tem uns onde a gente diz, em cada crédito cobramos
+
+01:04:12.000 --> 01:04:26.000
+uma certa taxa de 5 ou 7 euros. Outros são totalmente excluídos do serviço de imposto na fonte. Então o que fazemos com o RaQuest — também chamado serviço de imposto na fonte, reaver
+
+01:04:26.000 --> 01:04:38.000
+o imposto na fonte — é excluído, e eles não recebem nada. Sem taxas, mas também sem serviço. Não se faz nada por eles. Ficam congelados, por assim dizer.
+
+01:04:38.000 --> 01:04:50.000
+Tem específico por país e padrão também. Então dá pra lidar bem com essas taxas, modelos e perfis aqui.
+
+01:04:54.000 --> 01:05:08.000
+Vamos avançar pras classificações de instrumento (Instrumentklassifizierung). O que é? É importantíssimo porque importamos títulos o tempo todo, e esses títulos também são
+
+01:05:08.000 --> 01:05:22.000
+agrupados, por assim dizer. Nesses mercados financeiros tem um monte de construtos de tipos de título bem doidos ou fascinantes. Digamos que é um
+
+01:05:22.000 --> 01:05:36.000
+REIT — imobiliário algo. Ou tem a ver com pensões, ou é um Genussschein (certificado de participação), um título conversível. Dá pra ler tranquilo na Wikipedia,
+
+01:05:37.000 --> 01:05:51.000
+o que tem por aí. Título público — são todos nomes de tipos de instrumento que existem. Essa lista pode ficar muito, muito longa em muitos clientes. Mas quase todos têm em comum,
+
+01:05:51.000 --> 01:06:05.000
+eles se reduzem a ser ou ações ou títulos de dívida. Então aqui temos uma ligação a um grupo de produto, que chamamos de ação ou título. E aí subimos um nível na árvore, pro grupo de produto, onde
+
+01:06:05.000 --> 01:06:19.000
+ações/títulos são casados a tipos de título, e no fim são todos títulos (Wertpapiere). Lá em cima é tudo título. Essa árvore ou esses grids podem ser estendidos à vontade, dependendo
+
+01:06:19.000 --> 01:06:33.000
+da necessidade. Mas esse é o padrão geralmente reconhecido e praticado. Então quando um
+
+01:06:33.000 --> 01:06:47.000
+título público entra, o termo 'título público' aparece primeiro, mas identificamos como título de dívida. Se identificamos como título de dívida, não é calculado igual a ação. Ações geralmente são calculadas em unidades,
+
+01:06:47.000 --> 01:07:01.000
+e pra títulos eu não sei o termo técnico exato. É simplesmente uma tabela de correspondência — imagina — que também fica muito importante.
+
+01:07:01.000 --> 01:07:13.000
+Já estávamos nas tipificações base antes, e nas formas jurídicas. Só pra refrescar a memória.
+
+01:07:19.000 --> 01:07:33.000
+Isso. Agora vamos montar uma teoriazinha. Poderíamos dizer que tipificações de cliente tem como areia na praia por aí — todos esses muitos termos técnicos em muitos mercados e países.
+
+01:07:34.000 --> 01:07:48.000
+É simplesmente uma tabela onde são coletados. Só alguns deles, digamos três, são só pro mercado França. Não é bem assim, mas só quero
+
+01:07:48.000 --> 01:08:01.000
+ilustrar de forma vívida. Alguns são pro mercado Suíça, alguns pro mercado Alemanha. Ainda não temos matching, nenhuma atribuição. Como fazemos? Vamos em cima à esquerda em
+
+01:08:01.000 --> 01:08:15.000
+mercados de investimento, pega qualquer mercado, digamos França, e ali temos 'tipificações de cliente permitidas' — lá estão de novo,
+
+01:08:16.000 --> 01:08:30.000
+mas bem menos agora. Ou seja, esse mercado França recebeu 35 tipificações de cliente. Então essas tipificações foram casadas ao mercado França, e esses termos são usados pra França, ou melhor
+
+01:08:30.000 --> 01:08:44.000
+pros formulários no fim das contas. Se você imagina um formulário impresso e de repente diz 'Foundation', então
+
+01:08:44.000 --> 01:08:58.000
+esse termo vem do banco de dados, dessa ligação. Aqui os prazos se refletem de novo — você já conhece esses —
+
+01:08:58.000 --> 01:09:12.000
+e aí simplesmente voltamos pras alíquotas na fonte que já vimos e aprendemos. Clico em Cancelar. Cancelar de novo.
+
+01:09:13.000 --> 01:09:27.000
+Deixa eu olhar rápido. Quatro-olhos já fizemos, Webparts já fizemos, menu já fizemos, passamos por um processo de pedido duas vezes
+
+01:09:27.000 --> 01:09:41.000
+e vimos outros. Recebimentos agora é um conceito. Configurações, títulos são conceitos. Quarentena, reclamações críticas, documentos de aviso são conceitos. Está tudo muito bom.
+
+01:09:41.000 --> 01:09:55.000
+Excelente. Aí a gente poderia dar uma volta rápida. Deixa assentar — com as
+
+01:09:55.000 --> 01:10:09.000
+configurações, tem muito mais. Não vamos dar conta de tudo hoje. Nem precisamos. Agora, um panorama do que temos em termos de módulos. Se você
+
+01:10:09.000 --> 01:10:23.000
+clicasse nessa linha — eu faço — abre uma janela bem discreta; fecho de novo. Ou se você clica em cima à direita
+
+01:10:23.000 --> 01:10:36.000
+no '?' Info, você recebe primeiro info do sistema. Recebe o número da versão — lembrando de novo a versão de 18 de março.
+
+01:10:39.000 --> 01:10:52.000
+O Flavor é KPMG, então trabalhamos num flavor da KPMG, que também faz serviço de imposto na fonte com RaQuest pra um, dois ou três bancos
+
+01:10:54.000 --> 01:11:06.000
+usando o RaQuest. Aí vemos que o sistema operacional é Microsoft Windows, e tem relatórios locais — o que significa?
+
+01:11:06.000 --> 01:11:19.000
+Todos os formulários, todos os pedidos são gerenciados localmente na minha máquina, ou localmente onde a instância está instalada.
+
+01:11:21.000 --> 01:11:35.000
+Aí vamos em Banco de dados — se chama RQ Demo, no SQL '...Ferry'. Esse provavelmente é
+
+01:11:35.000 --> 01:11:49.000
+o servidor, não tenho certeza, mas é o nome do banco. Muito bom — faço muito isso quando tenho um caso de suporte: peço, por favor olhe em
+
+01:11:49.000 --> 01:12:03.000
+Info, me diga o número da versão atual — procedimento padrão se ainda não sabemos. Em cima tem abas, tem as chaves de licença.
+
+01:12:03.000 --> 01:12:17.000
+Aqui embaixo tem várias páginas pra folhear, e você já vê quantas chaves de licença tem aqui. Ainda não são
+
+01:12:17.000 --> 01:12:31.000
+todas que existem, mas se dividem em domicílios fiscais (Steuerdomizile) e mercados (Märkte). Então o RaQuest não funciona se
+
+01:12:31.000 --> 01:12:45.000
+não tem nenhuma chave de licença. E se você tem domicílios fiscais — Bélgica, Luxemburgo, França, Suíça — então os domicílios estão pelo menos cobertos. Domicílio significa:
+
+01:12:45.000 --> 01:12:59.000
+eu, Christoph, morando na Alemanha, registrado no fisco de Rosenheim, preciso do domicílio Alemanha. O que significam mercados? Mercados, bem geral, é uma
+
+01:12:59.000 --> 01:13:13.000
+chave de licença separada pra liberar um mercado em geral. Acho que os prazos que ouvimos antes dependem disso. E assim por diante. Mas muito mais interessantes
+
+01:13:13.000 --> 01:13:27.000
+são os módulos de pedido (Antragsmodule). Aqui de novo você vê essas abreviações, combinações de abreviações, e lendo: SE é Suécia. Suécia no fisco
+
+01:13:27.000 --> 01:13:41.000
+Suécia, Noruega no fisco Noruega, Itália no CBL/CBF — sei de cor, Clearstream. Clearstream é um banco e uma Lagerstelle. Vou repetir sempre pra fixar.
+
+01:13:42.000 --> 01:13:56.000
+Ou Dinamarca no fisco Dinamarca. Ou seja, só com esses módulos e mercados os clientes podem solicitar. Ganhamos dinheiro em cada módulo, e mantemos cada módulo. De repente um
+
+01:13:56.000 --> 01:14:09.000
+mercado decide que vai ter um formulário novo com três campos novos — aí temos que construí-los. O mercado é mantido, é entregue, e aí ele pode começar com os documentos novos.
+
+01:14:10.000 --> 01:14:24.000
+Esses são os módulos de pedido. E indo além — nada ali — tem também módulos de isenção antecipada (Vorbefreiungsmodule), provavelmente aqui. Em
+
+01:14:24.000 --> 01:14:38.000
+Módulos, módulos de isenção antecipada — são os módulos pro outro processo, o de isenção antecipada. Então você pode, deve
+
+01:14:38.000 --> 01:14:52.000
+e tem que ficar checando quais licenças estão de fato na aplicação. Só com essas licenças carregadas os processos funcionam.
+
+01:14:52.000 --> 01:15:06.000
+As outras duas coisas não nos interessam. Aí dá pra fechar essa máscara de novo. Ou seja: sempre clique ou no nome 'RaQuest Kumamoto' ou na linha à direita dele,
+
+01:15:06.000 --> 01:15:19.000
+a linha preta, e você chega nessa informação de sistema, dá pra alternar as abas, ou vai no '?' Info. Também entra.
+
+01:15:21.000 --> 01:15:35.000
+O que não vimos — uma pena — as atividades de fundo estão fora. Aqui muito cálculo aconteceria. Sempre que você faz algo no RaQuest, surge uma linha, outra linha, outra
+
+01:15:35.000 --> 01:15:49.000
+linha — centenas, milhares de linhas. Não significa nada além do sistema sinalizando: algo está sendo calculado aqui, regras estão sendo aplicadas, e com essas regras
+
+01:15:49.000 --> 01:16:03.000
+todos os créditos ou dados de cliente — o que for — são movidos pro novo estado, pra tudo ficar conforme as regras. Às vezes cálculos complexos têm que rodar.
+
+01:16:04.000 --> 01:16:17.000
+Eu chamo de rastreabilidade. Aí surgem linhas ali — posso mostrar numa aplicação separada —
+
+01:16:18.000 --> 01:16:32.000
+e aí dá pra ver se tem erro. E se tem erro, acontece o seguinte. Vou te mostrar um diagrama. Aparecem bolinhas — um check verde significa tudo certo; se tem erro, diz que algo está bloqueado
+
+01:16:32.000 --> 01:16:46.000
+ou terminou com erro. E se terminou com erro, você deveria olhar mais de perto e investigar. Aí talvez você consiga ajudar o cliente e resolver. Tem outras
+
+01:16:46.000 --> 01:17:00.000
+bolinhas também. Aqui, quando esse processo de fundo está rodando e rodando e trabalhando, aí você tem o ícone; e tem também a carta,
+
+01:17:00.000 --> 01:17:14.000
+significando que uma ação está sendo pré-calculada e a carta espera — alguma ação está esperando a vez. Então nada preocupante. Essas são as atividades de fundo
+
+01:17:14.000 --> 01:17:28.000
+que você vai conhecer em breve. Agora eu diria que temos
+
+01:17:28.000 --> 01:17:42.000
+a chance de olhar rapidinho a instituição — a instituição financeira de fato que opera o RaQuest — porque tem muitas configurações bem interessantes lá.
+
+01:17:43.000 --> 01:17:57.000
+Eu daria um ponto final por hoje pro treino, e ainda tem muitíssimo a treinar, e temos que ir mais fundo em cada tema pra entender melhor. Mas vamos abrir a instituição de novo. Como? Vou em Kontakte,
+
+01:17:58.000 --> 01:18:12.000
+Kontakte verwalten, e em cima à direita tem Kontaktart, e seleciono Finanzinstitut, Suche starten. Ele me mostra várias
+
+01:18:12.000 --> 01:18:24.000
+instituições — porque um banco poderia ter várias — ou poderiam ser gestoras que por sua vez administram fundos.
+
+01:18:26.000 --> 01:18:40.000
+Mas preciso da primeirinha; a primeira geralmente é o Mandant (tenant), a instituição mais poderosa com as configurações mais poderosas. Duplo-clique. Aqui de novo você vê o endereço, igual a um contato.
+
+01:18:41.000 --> 01:18:55.000
+Mas aqui tem uma palavra: Bevollmächtigungen (autorizações). Só uma instituição pode decidir pra quais mercados ela sequer oferece o
+
+01:18:55.000 --> 01:19:09.000
+serviço de imposto na fonte. E se você diz, pro mercado Bélgica, Canadá, Suíça, blá blá, quero isso, então tenho que
+
+01:19:09.000 --> 01:19:23.000
+ligar os checks verdes. E vale ou pra todos os clientes, ou pra pessoa/grupo/organização/fundo. Dava pra excluir fundos pra Suíça. Se não está ligado, não está. Ou se
+
+01:19:23.000 --> 01:19:37.000
+a instituição não quer suportar, não é suportado. Demora um pouco enquanto calcula. Ou seja, essas configurações de autorização no nível da instituição dizem, fundamentalmente,
+
+01:19:37.000 --> 01:19:51.000
+quais mercados fazemos afinal. Se, por ex., Japão não está marcado aqui, então —
+
+01:19:51.000 --> 01:20:05.000
+mesmo que o módulo esteja carregado (como acabamos de ver nos módulos), mesmo carregado e a autorização aqui não ativa — eu não posso solicitar sob procuração. Os créditos estão lá, mas você
+
+01:20:05.000 --> 01:20:19.000
+não pode fazer muito com eles ainda. Você nem vai achar a função pra fazer algo. Claro que uma instituição tem
+
+01:20:19.000 --> 01:20:33.000
+dados fiscais. O que mais? Também tem conexões bancárias, óbvio. Mas aqui geralmente não é sobre
+
+01:20:33.000 --> 01:20:47.000
+a instituição ter uma conexão bancária — são as contas que configuramos pra quando as instituições ou autoridades estrangeiras — os custodiantes e autoridades — transferem o dinheiro
+
+01:20:47.000 --> 01:21:00.000
+do exterior; ele entra aqui nas várias contas. Então no RaQuest temos que cadastrar as contas na instituição. E essas contas também
+
+01:21:00.000 --> 01:21:14.000
+têm papéis de conta: contas de Clearing, contas de recebimento (Geldeingangskonto). Clearing não significa nada além de: é aqui que o dinheiro vem, pra onde é transferido.
+
+01:21:17.000 --> 01:21:29.000
+Conta de recebimento é um segundo papel que dá pra aprofundar quando for a hora. Vou deixar
+
+01:21:29.000 --> 01:21:43.000
+por aqui. Mas uma perguntinha — quer dizer, um operador poderia teoricamente destruir bastante coisa no sistema também, né? Se a gente só tira uns
+
+01:21:43.000 --> 01:21:57.000
+checks e aí... — Não, ele não vai conseguir, porque um operador tem papéis. — Certo. Mas alguns têm mais papéis, né? Aí ele também está autorizado. E se ele apronta,
+
+01:21:58.000 --> 01:22:12.000
+ele leva bronca não da gente, mas dos chefes dele. Via de regra tem também uma troca ativa via tickets, tickets do Jira. Digamos que alguém quer
+
+01:22:12.000 --> 01:22:25.000
+testar algo. Se testa no ambiente de teste — eles têm ambientes de teste — não é dramático. Ele pode fazer o que quiser lá. Aí talvez receba um aviso do Bogdan do nosso lado.
+
+01:22:26.000 --> 01:22:40.000
+Com tal e tal papel você pode liberar tais direitos, mas cuidado, porque acontece o seguinte. Por favor não faça em produção — seria um aviso. E quem tem os
+
+01:22:40.000 --> 01:22:53.000
+direitos os recebeu porque deve e tem que executá-los. Mas um operador normal não pode fazer essas configurações, não consegue.
+
+01:22:54.000 --> 01:23:08.000
+Ele na real só faz a solicitação dos pedidos, checa se tudo bate, olha a quarentena, edita algo, telefona, imprime. E quando vem o grande
+
+01:23:08.000 --> 01:23:22.000
+vacilo — ou a gente passa pro tema administradores, pra eles configurarem algo. Acontece, mas mesmo que ele — Claudia, você queria dizer algo? — Eu só queria dizer
+
+01:23:22.000 --> 01:23:36.000
+que as áreas de administração nem são exibidas. Então ele nem tem a opção de clicar errado ali. — Ah, entendi. É isso, né Christoph? Um operador
+
+01:23:36.000 --> 01:23:48.000
+não tem a opção de clicar errado, não deveria. Mesmo que seja muito poderoso com muitas configurações — incontáveis — um operador não deveria.
+
+01:23:55.000 --> 01:24:09.000
+Mas ainda estava dentro da autoridade dela, no conceito de direitos dela, tudo certo. Foi simplesmente um erro de usuário (Anwenderfehler). Mas tem um grande
+
+01:24:09.000 --> 01:24:23.000
+conceito de permissões — mostro rápido. Vou na página principal do RaQuest, Administration, Berechtigungen verwalten (gerenciar permissões), e o Jörg também se vira bem nisso, espero.
+
+01:24:23.000 --> 01:24:37.000
+Dá pra clicar pelos processos e dizer: quem pode fazer lançamentos, quem pode estornar lançamentos — duplo-clique, e você vê: o perito
+
+01:24:37.000 --> 01:24:50.000
+pode isso, o operador, auditores podem aquilo. Um pode executar, outro tem acesso total, o próximo tem acesso total, e o próximo só pode escrever e executar. É desenhado de verdade até
+
+01:24:50.000 --> 01:25:04.000
+as funções. Então a tela não muda dependendo do seu papel. É sempre igual — você só não pode executar certas ações.
+
+01:25:04.000 --> 01:25:18.000
+Ou você recebe uma notificação quando tenta, ou nada. Muitas vezes você só não vê a função. Em outros casos ele não consegue executar. Mas uma mensagem, acho, ele raramente recebe —
+
+01:25:18.000 --> 01:25:32.000
+na real nem recebe. O que dá pra acrescentar: os operadores na área de imposto na fonte entendem muito bem do assunto. Então o que
+
+01:25:32.000 --> 01:25:46.000
+eles podem fazer, eles também sabem — eu diria em 80% dos casos — o que fazer com isso. Acho.
+
+01:25:48.000 --> 01:26:02.000
+E pra fechar um pouco — podemos fazer mais um Q&A. De volta à instituição: aqui também, pro processo de isenção antecipada, tem
+
+01:26:02.000 --> 01:26:15.000
+a opção de dizer, fundamentalmente queremos fazer isenção antecipada pra pessoas, grupos, organizações, fundos, esses mercados e esses custodiantes.
+
+01:26:16.000 --> 01:26:30.000
+Então é uma configuração global, geral, e só então tudo funciona. Isso. Tem muito mais no RaQuest, coisas que ainda temos que conhecer,
+
+01:26:30.000 --> 01:26:44.000
+mas pro pontapé, pra começar, deve bastar. Quando alguém realmente entra na aplicação, só posso recomendar: clica, clica, clica, pensa, entende, aprende, pergunta, pergunta, pergunta — só não hesita
+
+01:26:44.000 --> 01:26:57.000
+em ligar pras pessoas. Claudia, eu, Markus, devs também, suporte, gestão de qualidade — quem lida muito bem com o app: Sven, e
+
+01:26:57.000 --> 01:27:11.000
+agora também a Chana, Jörg, são realmente dotados nessas coisas. Eu recomendaria só agarrar as pessoas quando não entender algo, especialmente
+
+01:27:11.000 --> 01:27:24.000
+porque trabalhamos muito remoto no home office agora — não hesita, só liga e pede pra explicarem. — Como chego no RaQuest? Só digito online, RaQuest.de?
+
+01:27:24.000 --> 01:27:38.000
+— Ou me dá um link pra logar. Boa pergunta. Deixa eu deslogar rapidinho. Sempre vou lá e tenho um link, e por favor só no
+
+01:27:38.000 --> 01:27:52.000
+Internet Explorer, esse Internet Explorer azul aqui embaixo. Só nele funciona no momento. Talvez logo façamos outros navegadores. Agora só ele funciona. E se você recebeu um link, digamos que te dou
+
+01:27:52.000 --> 01:28:06.000
+esse link, você abriria e funciona. Segundo, você teria que instalar uma instância local, se quiser. É um processo bem trabalhoso, que a Claudia e o Markus
+
+01:28:06.000 --> 01:28:18.000
+já sabem fazer e podem te mostrar, e depois você conseguiria abrir uma aplicação de novo. Mas eu consigo pelo link.
+
+01:28:20.000 --> 01:28:32.000
+Se você diz instalação — geralmente recomendo fazer a instalação, especialmente no Bogdan, porque você precisa dela sempre, já que fica tendo que subir uma instância nova.
+
+01:28:34.000 --> 01:28:48.000
+De vários clientes. — Claudia, rapidinho, é a demo que usamos pro Sales? — Não sei. É assim. O pano de fundo disso tudo
+
+01:28:48.000 --> 01:29:01.000
+é que cada banco roda a própria instância. Ou seja, o RaQuest não é hospedado numa nuvem — cada banco tem a própria instância instalada no próprio servidor.
+
+01:29:03.000 --> 01:29:17.000
+E como o Christoph disse, subir uma instância local é bem sensato. Tem também instâncias de servidor — é por ex. em que o Christoph está agora. Então instâncias de servidor no RaQuest
+
+01:29:17.000 --> 01:29:30.000
+internamente. Acho que é a que usamos pro Sales. Espero não ter quebrado nada pra você, Claudia. — Pra mim não. Eu só reseto, ou peço pro Jörg resetar.
+
+01:29:31.000 --> 01:29:44.000
+Tenho tantos links agora, né? E essas são minhas instâncias locais. Isso. — O playground (Spielwiese) ainda funciona?
+
+01:29:45.000 --> 01:29:56.000
+— Não sei, não uso. Vamos ver, porque aí você poderia clicar nele; senão a gente teria que te dar uma versão de servidor talvez.
+
+01:30:00.000 --> 01:30:14.000
+— Não, o playground não existe mais. Ah é, está no Erkundvold 3, aquele não funciona. Agora só tenho que ver se essa instância de teste
+
+01:30:14.000 --> 01:30:28.000
+que tenho é local. Senão você pode usar. Senão eu diria, de novo fala com o Jörg, que sobe essas instâncias — todas essas de playground —
+
+01:30:28.000 --> 01:30:42.000
+onde você só diz, vocês dividem entre si. Porque você precisaria mesmo poder brincar nessas coisas sem quebrar nada. Lá você não quebra nada, porque não dá pra quebrar.
+
+01:30:48.000 --> 01:31:02.000
+Isso. Então, da minha parte, obrigado por terem sido tão atentos. Vocês têm o vídeo — a Claudia com certeza pode dar o vídeo — onde dá pra sempre voltar pros pontos. Sempre que quiserem se orientar de novo,
+
+01:31:02.000 --> 01:31:03.000
+o vídeo fica disponível depois.
+
+01:31:03.000 --> 01:31:33.000
+E aí.

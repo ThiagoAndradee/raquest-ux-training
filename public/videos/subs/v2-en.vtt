@@ -1,0 +1,832 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+What? So — welcome back. Good. Okay.
+
+00:00:02.000 --> 00:00:06.000
+So, we left off having filed an application (beantragt).
+
+00:00:06.000 --> 00:00:10.000
+'Applied-for' means we sent it to the foreign tax authority, which now has all the documents and must decide whether to transfer the money.
+
+00:00:10.000 --> 00:00:12.000
+And some months later, a year later, the money comes. It arrives at some point and is imported into RaQuest as a payment receipt (Zahlungseingang).
+
+00:00:12.000 --> 00:00:21.000
+The data comes in, and this payment receipt — which we met earlier under 'Zahlungseingänge verwalten' — would be matched fully automatically to the application.
+
+00:00:21.000 --> 00:00:29.000
+But what we could do is look up this application separately and create a manual payment receipt. Let's do that. I click close.
+
+00:00:29.000 --> 00:00:33.000
+I go to RaQuest's main page, to Anträge → Anträge verwalten. Because we know an application was already created from the claim. So I go to Anträge verwalten.
+
+00:00:33.000 --> 00:00:37.000
+And now I want the application I just created. How do I get it? I search by a filter: date, status change from.
+
+00:00:39.000 --> 00:00:45.000
+So a status was changed today.
+
+00:00:46.000 --> 00:00:53.000
+And here we have this application with its number, on status 'applied-for'. 10,000 Swiss francs.
+
+00:00:53.000 --> 00:00:57.000
+And the status timestamp is 5/5/2021 — today, right? Great. Now a payment receipt comes in, a few months later.
+
+00:00:57.000 --> 00:01:07.000
+I'll simulate it manually now, since I don't have the data handy. So I right-click → 'create payment receipt for application'. A new mask opens that signals to me:
+
+00:01:07.000 --> 00:01:09.000
+maybe something's still missing — sender account. Not sure I really need the sender account. Let's see if it works anyway.
+
+00:01:09.000 --> 00:01:11.000
+So it generated a payment receipt for me with a reference number, again with the amounts. And I may have to convert Swiss francs. So now I need a booking entry.
+
+00:01:13.000 --> 00:01:17.000
+You can check online: what's one euro in Swiss francs? One second. One second.
+
+00:01:17.000 --> 00:01:22.000
+Bankers can of course pull their exchange rates from within the bank themselves.
+
+00:01:22.000 --> 00:01:25.000
+Euro, Swiss franc. One euro is 1.1 Swiss francs. So I enter 1.1 here, as the current exchange rate — can you hear me?
+
+00:01:25.000 --> 00:01:33.000
+[audio issue] In the room I can't hear myself speak. That's on purpose. I can't hear you.
+
+00:01:33.000 --> 00:01:34.000
+Anna, can you check your device settings again? We can't hear you.
+
+00:01:34.000 --> 00:01:36.000
+[audio troubleshooting] We share an external speaker in the room.
+
+00:01:36.000 --> 00:01:38.000
+And it runs in parallel with the TV speakers. That's why... Anna, yes, there. Now everything runs through the device. You're showing us now?
+
+00:01:38.000 --> 00:01:41.000
+Did you catch it all? Yes, I could always hear you. Okay, so now we see.
+
+00:01:41.000 --> 00:01:46.000
+[audio troubleshooting]
+
+00:01:46.000 --> 00:01:51.000
+You just have to cross out the mic on your Teams. And I'll cross mine out too. Now it should work, right?
+
+00:01:51.000 --> 00:01:54.000
+Yes, I don't hear myself anymore. Okay. So this payment receipt now has to be converted — Swiss francs into euros.
+
+00:01:54.000 --> 00:01:59.000
+The case workers know their exchange rates. I looked it up online. And they enter that rate here. And you see, ah, there's an original amount, 10,260.
+
+00:01:59.000 --> 00:02:01.000
+Converted to euros that's probably 9,328. And then I click Eintragen (commit). Hopefully it works.
+
+00:02:01.000 --> 00:02:04.000
+A bit to the right here. Scroll onto this green blob. And Eintragen again. Yes, accepted.
+
+00:02:04.000 --> 00:02:09.000
+Now let's watch this status, the second-to-last column, 'applied-for'. If you wait a bit and the calculations run through, then on refresh
+
+00:02:09.000 --> 00:02:11.000
+— I always do it with Suche starten — it should go to 'erstattet' (refunded). Refunded is the next logical status. Let's see. Nothing came.
+
+00:02:19.000 --> 00:02:23.000
+[system busy] I went to the context menu. Maybe I should resolve this error. But I think the sender account may not be that important.
+
+00:02:23.000 --> 00:02:29.000
+But if I know the sender account is the Swiss tax office, I could enter it anyway. Doesn't hurt.
+
+00:02:29.000 --> 00:02:31.000
+I look up the tax office in Switzerland.
+
+00:02:31.000 --> 00:02:33.000
+Let me go to root-cause investigation (Ursachenforschung).
+
+00:02:41.000 --> 00:02:47.000
+[creating account] Apply. Let's try once more. And otherwise —
+
+00:02:47.000 --> 00:02:52.000
+— it's not dramatic. The test instance I'm using for the first time. Stay calm.
+
+00:02:52.000 --> 00:02:54.000
+'Create payment receipt for application'. We're back at the application. And we have to enter a booking entry. Here it comes.
+
+00:02:54.000 --> 00:02:56.000
+I go right onto the green blob. And then Eintragen. Well.
+
+00:02:56.000 --> 00:02:59.000
+It doesn't like me.
+
+00:02:59.000 --> 00:03:01.000
+Never mind. What would happen now would be —
+
+00:03:01.000 --> 00:03:02.000
+— that these statuses aren't in here anymore, that it creates a new status called 'erstattet' (refunded). And that means: the money came from the foreign tax authority,
+
+00:03:02.000 --> 00:03:14.000
+onto the bank's account. And later, when you pay out to the customer, you get a new status called 'vergütet' (paid-out). Remember it as: refunded = to the bank.
+
+00:03:14.000 --> 00:03:18.000
+Paid-out = to the customer. A very important status for the future. That's basically the whole process. We took a claim,
+
+00:03:18.000 --> 00:03:22.000
+wrote to a tax office in France, let the process advance to the filing office, filed in Switzerland with the foreign tax authority.
+
+00:03:22.000 --> 00:03:27.000
+And then we waited for the money. The money came, would ideally now be matched to the application, would have triggered a new status,
+
+00:03:27.000 --> 00:03:29.000
+which would then be called 'refunded'. That'd be the whole process. And then you'd pay out to the customer — that would be 'paid-out'.
+
+00:03:29.000 --> 00:03:31.000
+In the training I won't go further into root-cause analysis now. Otherwise I'd resolve this problem here — it's surely simple and trivial. But so you can take away as much as possible today,
+
+00:03:31.000 --> 00:03:35.000
+we deliberately won't do the analysis now. So in the end you could say, hey, my target status is 'paid-out'.
+
+00:03:35.000 --> 00:03:49.000
+And then you have lots of applications on that 'paid-out' status. And then it's done — nothing more to do with them. But all these intermediate statuses you have to go through.
+
+00:03:49.000 --> 00:04:00.000
+You have to let the process advance. — Can I actually make a report for each status? If I'm a case worker, I want to know: okay, what's applied-for?
+
+00:04:00.000 --> 00:04:05.000
+What's in the reporting? And so on. — And the ones that are finished, can I push them all into an archive? — [No.]
+
+00:04:05.000 --> 00:04:06.000
+Example: the customer could have more addresses. Say his registered address is here, but he has a domicile — a holiday home — in Austria,
+
+00:04:06.000 --> 00:04:08.000
+then he'd have a second address, and in Austria he could have his mail sent, because he checks his securities on vacation.
+
+00:04:08.000 --> 00:04:09.000
+Then he'd have a second address, and on the second one there'd be a green check for 'default mailing address'. If you want to edit it, double-click, edit.
+
+00:04:09.000 --> 00:04:11.000
+As a rule, case workers don't have to edit anything here, because the data comes from the core banking system, was imported into RaQuest.
+
+00:04:11.000 --> 00:04:13.000
+So it's always triggered by an upstream system that's much smarter and knows much more.
+
+00:04:13.000 --> 00:04:14.000
+When an address change comes — he moves from Bad Wörishofen to Rosenheim — a new address flies into the system, a new record, and here you'd get an old record and a new record, an update with the new address.
+
+00:04:14.000 --> 00:04:15.000
+And ideally he'd also have a new registered address where he's now taxed in Rosenheim. This should all happen automatically — not the case worker maintaining 10,000 addresses.
+
+00:04:15.000 --> 00:04:17.000
+God forbid, no. But I do it entirely myself when I run many tests or a business analysis — I assemble the data myself. So there I'm completely free.
+
+00:04:17.000 --> 00:04:21.000
+And you find all this — address etc. — under 'General'. Now there are more such sections.
+
+00:04:21.000 --> 00:04:28.000
+If the customer were somewhat wealthy, he might have a tax advisor or someone as his contact person, which you could store.
+
+00:04:28.000 --> 00:04:33.000
+There are certain address roles you could store — I don't need to go into that in detail.
+
+00:04:33.000 --> 00:04:34.000
+But very important are the bank connections, because he may have a depot clearing account — an account where his money eventually appears if he has it calculated out.
+
+00:04:34.000 --> 00:04:38.000
+And he may have a depot — you see that under Depot overview, you can look in again. And he may also have tax data — not just may, he has it.
+
+00:04:38.000 --> 00:04:41.000
+And his tax data is valid from 1/1/2005.
+
+00:04:41.000 --> 00:04:42.000
+You could infer he's lived in Bad Wörishofen since 2005 and is registered for tax there with a tax number, this figure.
+
+00:04:42.000 --> 00:04:43.000
+And, not entirely traceable, but his tax office would be Rosenheim with branch office Wasserburg. These are test data. So you already have quite a lot here.
+
+00:04:43.000 --> 00:04:49.000
+You have the tax number, the email, you know the tax office — all known on the contact. There are also validity histories (Gültigkeitsverläufe). I could say, well, he moves three times.
+
+00:04:49.000 --> 00:04:54.000
+Then a new validity period would go in each time. For that I'd make a new entry. From 2005 he was actually in Wörishofen. But on 5/5/2021 he's elsewhere.
+
+00:04:54.000 --> 00:04:56.000
+And let's do that briefly now, because afterwards I want to show you something important for the training. Add new entry.
+
+00:04:56.000 --> 00:04:59.000
+And I say, a registered address is no longer in here. I have to add a new one. Back to Basic. I go back to General.
+
+00:04:59.000 --> 00:05:00.000
+Now I say it flutters into the system. Let's simulate it. Germany. Rosenheim. Postal code.
+
+00:05:00.000 --> 00:05:01.000
+That should do for now. Street too. Now a new address flutters in here. The first is the registered address.
+
+00:05:01.000 --> 00:05:02.000
+It has a green check. The second not yet. What do we do? Let's go to tax data. And see if we can turn something there. Add new entry. Ah, Meierstraße is selectable.
+
+00:05:02.000 --> 00:05:03.000
+Great. Selected. Now I have to pick a new tax office. Here the tax office is queried. I press Ctrl+S.
+
+00:05:03.000 --> 00:05:04.000
+That's just trying, because I'm searching for a new tax office. Let's take one in Neukirchen.
+
+00:05:04.000 --> 00:05:08.000
+And from when? From 5/5/2021. Then I click Eintragen. And now we already see a validity. We see: until 5/5 he was registered for tax in Bad Wörishofen. Or actually 4/5. And from 5/5.
+
+00:05:08.000 --> 00:05:10.000
+Including 5/5 — I'd say it's valid. One should say: including 5/5 he's resident and registered for tax at this new address.
+
+00:05:10.000 --> 00:05:12.000
+Now I click Übernehmen (apply). And now something happens in RaQuest. Let me go to the main page. I hope it happens too.
+
+00:05:12.000 --> 00:05:14.000
+Or are the services down there? What a shame? Ah, something's coming. A four-eyes principle (Vier-Augen-Prinzip) suddenly pops up — it says 'state under review'.
+
+00:05:14.000 --> 00:05:18.000
+Today at 11:59 for Oskar Daniel, the customer we edited. What's the four-eyes principle in banking? A case worker can't just change data without a supervisor seeing it.
+
+00:05:18.000 --> 00:05:23.000
+Or a colleague. So it means someone else has to accept it. I now have so much power and so many roles that I can accept myself.
+
+00:05:23.000 --> 00:05:28.000
+But if I were the case worker, then the second person — who also has a RaQuest application — would have to accept it now. So I accept.
+
+00:05:28.000 --> 00:05:31.000
+Only with acceptance is this new address valid. So I go back into the contact, click Suche starten, and pull up Oskar Daniel.
+
+00:05:31.000 --> 00:05:33.000
+So, now he has two registered addresses. How can that be? Well, of course.
+
+00:05:37.000 --> 00:05:39.000
+He was resident in a different period than there. If he had claims from 2005, 2006, 2007, he'd have been registered for tax and resident there.
+
+00:05:39.000 --> 00:05:42.000
+And that'd be the tax validity for the earlier years. From 5/5, if he got shares — dividends — after 5/5, the Rosenheim address would be valid.
+
+00:05:42.000 --> 00:05:44.000
+So there are two valid, parallel-existing addresses, separated only by a validity. Why did I explain this validity thing now?
+
+00:05:44.000 --> 00:05:46.000
+In RaQuest we have many facets with these validities. So you may — should — memorize this.
+
+00:05:46.000 --> 00:05:52.000
+Hey, behind very many things there may also be a time validity. Because things simply change often. And the database remembers that.
+
+00:05:52.000 --> 00:05:59.000
+So it knows: at that time it was like this, at that time like that. There's a status history — or state history you could say.
+
+00:05:59.000 --> 00:06:05.000
+That's the tax data on the customer. Extremely important. Address extremely important. Depot overview — extremely important. Because every contact must have a depot to trade at all.
+
+00:06:05.000 --> 00:06:08.000
+This customer happens to have two depots. The depot numbers are a bit truncated. They have two different numbers, because there's a '1' in there. Good.
+
+00:06:08.000 --> 00:06:11.000
+Now I can say, okay, let's look into the depot — Open, Edit. What does it look like? What data is there? First there's a depot number. A depot type — a customer depot.
+
+00:06:11.000 --> 00:06:13.000
+There are various depot types on the bank's side. They label depot types differently. Then we see maybe fees are assigned.
+
+00:06:17.000 --> 00:06:19.000
+If someone has a certain depot, you can assign a certain fee model — that he pays so much for Swiss applications, for French applications, etc. So it's controlled at the depot.
+
+00:06:19.000 --> 00:06:21.000
+And controlled elsewhere too, but here as well. And then there's the new process I mentioned earlier — advance exemption. If he takes part in this new process, there's a mark (Fleck).
+
+00:06:22.000 --> 00:06:23.000
+A very far-reaching mark, even if it's just a small mark in the depot. Very important. But also important is this power-of-attorney history (Vollmachtsverlauf) on the depot.
+
+00:06:23.000 --> 00:06:25.000
+A customer can grant the bank a power of attorney (Vollmacht) — that the bank may reclaim everything for him. If this exists, the customer barely has to worry about anything.
+
+00:06:25.000 --> 00:06:26.000
+If the power of attorney doesn't exist — and that happens. Some banks don't do it in certain countries. And some banks don't do it with power of attorney at all. Then the bank constantly sends the customer documents.
+
+00:06:26.000 --> 00:06:27.000
+And the customer has to review, sign himself, and send back. You can do that. But at the depot such a power of attorney is set up.
+
+00:06:27.000 --> 00:06:28.000
+And this power of attorney at the depot massively influences our processes. It's the entire print process we saw earlier — it reorients completely. I go to Open and edit.
+
+00:06:28.000 --> 00:06:29.000
+With this one mark. If I have no mark in there, he has no power of attorney. If he has none, we write to the customer. So our process is directed toward the customer.
+
+00:06:29.000 --> 00:06:30.000
+If I have a check in here, then the process bypasses the customer.
+
+00:06:30.000 --> 00:06:31.000
+He barely gets documents anymore — instead it goes straight to the customer's tax office and then to the foreign authority. So it goes different ways.
+
+00:06:31.000 --> 00:06:32.000
+That's what this one mark can trigger. There are other parameters that play in too. But — power of attorney is important at the depot. Right.
+
+00:06:32.000 --> 00:06:33.000
+And with that we're already at the depot. Of course a depot can also have income here. So you can look into the income data (Ertragsdaten).
+
+00:06:33.000 --> 00:06:34.000
+Now we're in the income data, on the depot. Before we were at 'General' on the depot. We're still in the depot.
+
+00:06:34.000 --> 00:06:35.000
+In the income data you see which income — better said, which securities — are held in this depot. But you also already see reclaimable amounts.
+
+00:06:35.000 --> 00:06:36.000
+So what's reclaimable per security? And this one actually has 943 rows. Some can.
+
+00:06:36.000 --> 00:06:37.000
+And then there's also a bank connection here. We saw that earlier. It's linked to the depot. That's the most important thing about the customer's depot itself for now.
+
+00:06:37.000 --> 00:06:38.000
+Any questions on that? Good. Then I click OK to cancel.
+
+00:06:38.000 --> 00:06:39.000
+And we fall back to the customer. So we were at the customer, at Depot overview, and opened via double- or right-click. We work inside the depot.
+
+00:06:39.000 --> 00:06:40.000
+Picture it always like this: new threads keep branching off. And then you can reach into the income data. Now I click Cancel again. OK.
+
+00:06:40.000 --> 00:06:41.000
+Fell back to the customer, at his depot overview. What else is important?
+
+00:06:41.000 --> 00:06:42.000
+That should do for the customer. Now let's go.
+
+00:06:42.000 --> 00:06:43.000
+There's a lot more contact data. Now I have the choice: dive deeper into the application settings, or show you the other contacts again.
+
+00:06:43.000 --> 00:06:44.000
+I'd say we go into the application settings. That's more important for the future. Stammdaten → Applikationseinstellungen. Okay.
+
+00:06:44.000 --> 00:06:45.000
+Standard application settings. Here again there are various process trees that have little to do with each other, sometimes interlock, but are all very powerful. Let's stay on expiry deadlines (Ablauffristen).
+
+00:06:45.000 --> 00:06:46.000
+I showed you the diagram. We remember this. This here basically mirrors that. Let's pull out Switzerland as before.
+
+00:06:46.000 --> 00:06:47.000
+Here we see this term again, Switzerland at tax office Switzerland. And then there's a sentence: months after the end of the calendar year in which the interest/dividend was paid.
+
+00:06:47.000 --> 00:06:48.000
+Okay. When was the interest/dividend paid? Let's say 5/5/2020, last year. I'm making something up. Then you count the months after the end of the calendar year.
+
+00:06:48.000 --> 00:06:49.000
+So really, if I pick 5/5/2020, the calendar year has to expire. 2020 has to end. So from 1/1/2021 this deadline starts running.
+
+00:06:49.000 --> 00:06:50.000
+And then this deadline runs for 36 months, because it's set to 36 months. That's three years.
+
+00:06:50.000 --> 00:06:53.000
+So it runs three years. So you can still reclaim in 2021, 2022, 2023. In that window you may reclaim.
+
+00:06:53.000 --> 00:06:54.000
+2024 is over. Finito. Then the claim is time-barred. So here we have reclaims of three years.
+
+00:06:54.000 --> 00:06:58.000
+Now this differs for various markets and modules. That one, for example, has 60 — Denmark.
+
+00:06:58.000 --> 00:07:02.000
+And Ireland, for example, has 48. But let's stay with the Swiss one: 36 months after the end of the calendar year in which the interest/dividend was paid,
+
+00:07:02.000 --> 00:07:05.000
+and a warning deadline of 180 and a custodian deadline. Wait — no, it has no custodian deadline. Nothing is entered.
+
+00:07:05.000 --> 00:07:07.000
+You don't have to enter anything, because in Switzerland there's no Lagerstelle — there we mostly file directly with the foreign tax authority. But there's still an official deadline duration.
+
+00:07:07.000 --> 00:07:08.000
+So looking at this, we wouldn't have this orange bar. We'd have the green bar, and this deadline, and the blue one. 36 would be the blue.
+
+00:07:16.000 --> 00:07:22.000
+180 is the warning deadline, the green one. And official deadline duration 14 would be the last 14 days after the limitation,
+
+00:07:22.000 --> 00:07:35.000
+so the case worker gets a notice that it's time-barred and is aware of it. Those are the deadlines. Then, earlier we touched the payment-receipt deadline.
+
+00:07:35.000 --> 00:07:37.000
+I won't go into that in detail either, but we know it exists. It's separately configurable here from the reclaims.
+
+00:07:37.000 --> 00:07:39.000
+Now let's go into the application-behavior settings (Anwendungseinstellungen). And since there are so many, we'll pull out two — so you get an idea how powerful it is.
+
+00:07:39.000 --> 00:07:45.000
+Here the first setting says: all application forms need authorized signatories. That's what it means — all application forms of all countries, whether Denmark, Ireland, Switzerland, France, no matter.
+
+00:07:45.000 --> 00:07:46.000
+Authorized signatories have to be on it, from the case worker. Under power of attorney of course, if one exists. And if I set this to Yes, then for all forms it's decided:
+
+00:07:46.000 --> 00:07:47.000
+authorized signatories get printed on. That's a very far-reaching default setting. If I set No, then of course not. What else do we have?
+
+00:07:47.000 --> 00:07:48.000
+Use facsimile (Faksimile) in the application process. What's facsimile? Always digital signatures. We scan them in. From our case workers, if they want it
+
+00:07:48.000 --> 00:07:49.000
+and support the process, even their signature. It's loaded into RaQuest and can then be printed onto the applications. We saw digital signatures earlier too.
+
+00:07:49.000 --> 00:07:50.000
+On the application, if you remember, there were signatures. And then we can say, yes, we use it by default, or no, we don't. So, turn it off/on for all applications. Very far-reaching.
+
+00:07:50.000 --> 00:07:51.000
+That's two already. But do we have another? Yes, I'll give one more: 'always fill in application questions' (Antragsfragen).
+
+00:07:51.000 --> 00:07:52.000
+Did you see those little crosses on the Swiss one earlier? Those were application questions, always answered Yes/No. And we can decide whether they may, should, or shouldn't be filled in by default.
+
+00:07:52.000 --> 00:07:53.000
+And thereby with a Yes/No. If you set it to No, then the Swiss application — and all applications — simply get no crosses. This all has technical reasons
+
+00:07:53.000 --> 00:07:54.000
+we discuss with our customers. Some want it one way, some the other. Now let's go a bit further into the application settings.
+
+00:07:54.000 --> 00:07:55.000
+Gebühren (fees). Let's go first to fee profiles (Gebührenprofile). You can imagine, at the banks using RaQuest,
+
+00:07:55.000 --> 00:07:56.000
+there are very different fees they charge their customers, and above all very complex fee models. I'm not even sure
+
+00:07:56.000 --> 00:07:57.000
+we can go really deep today, but here for example there's a standard fee model, or profile. Double-click. Right-click, open, edit — that was the wrong one.
+
+00:07:57.000 --> 00:07:58.000
+Right-click, open, edit. Now you suddenly see, oh, there are several rows. Each row means a profile.
+
+00:07:58.000 --> 00:07:59.000
+And for the France market, 'CBL/CBF' means it's a bank. The bank is Clearstream, as I mentioned. So this here is a module.
+
+00:07:59.000 --> 00:08:00.000
+The fees concern a module: France market, for this Lagerstelle called Clearstream. And these fees are 60 euros in this case.
+
+00:08:00.000 --> 00:08:01.000
+60 euros. These fees are charged on the claim — the claims where we right-clicked → apply earlier, kicking off the process.
+
+00:08:01.000 --> 00:08:02.000
+On those claims 60 euros is charged immediately, if it concerns this module, if it's in the France market. That's still a relatively simple construct, and there are many more.
+
+00:08:02.000 --> 00:08:03.000
+If you double-click one of these rows, you see it's all gray now, because I may no longer change it. Many parameters to enter here. So I recommend: A, go through the manual once,
+
+00:08:03.000 --> 00:08:04.000
+B, study it in detail once you actually run into this topic professionally — because you'll have to, when you get a task on it. We can also deepen this in a separate training.
+
+00:08:04.000 --> 00:08:05.000
+Just at the entry level. So you know: okay, different banks have different fee profiles. We split between standard fees
+
+00:08:05.000 --> 00:08:06.000
+and country-specific fees. But when you go into the standard fees — that term reflects a profile,
+
+00:08:06.000 --> 00:08:07.000
+country-specific is another profile. And going into the standard fees you see, okay, in this 'standard fees' profile various fees are set, various markets, custodians,
+
+00:08:07.000 --> 00:08:08.000
+parameters, etc. You can even do it per institution. Here, for example, the institution we've been working with charges. Here's another partner institution in Germany, one in Luxembourg, with different fees
+
+00:08:08.000 --> 00:08:14.000
+or maybe something more complex. Just to point you there — you find all this under Applikationseinstellungen. Now there's also a fee model (Gebührenmodell).
+
+00:08:14.000 --> 00:08:15.000
+It's something at least one of our customers uses. They simply say, well, we have customers who can afford it and want a flat rate, an all-in fee.
+
+00:08:15.000 --> 00:08:19.000
+So they pay amount X per year and get everything all-inclusive. Easy. Then there are some where we say, on each claim we charge
+
+00:08:19.000 --> 00:08:24.000
+a certain fee of 5 or 7 euros. Others are completely excluded from the withholding-tax service. So what we do with RaQuest — also called the withholding-tax service, reclaiming
+
+00:08:24.000 --> 00:08:26.000
+withholding tax — is excluded, and they get nothing. No fees, but also no service. Nothing is done for them. They're frozen, so to speak.
+
+00:08:26.000 --> 00:08:27.000
+There's country-specific and standard too. So you can engage well with these fees, models and profiles here.
+
+00:08:27.000 --> 00:08:31.000
+Let's advance to instrument classifications (Instrumentklassifizierung). What's that? It's so important because we constantly import securities, and these securities are also
+
+00:08:31.000 --> 00:08:33.000
+clustered, so to speak. On these financial markets there are tons of really wild or fascinating security-type constructs. Say it's a
+
+00:08:33.000 --> 00:08:36.000
+REIT — real-estate something. Or it has to do with pensions, or it's a participation certificate (Genussschein), a convertible bond. You can read up on it wonderfully on Wikipedia,
+
+00:08:36.000 --> 00:08:37.000
+what's all out there. Government bond — these are all names of instrument types out there. This list can get very, very long at many customers. But they mostly all have in common,
+
+00:08:37.000 --> 00:08:42.000
+they trace back to being either shares or bonds. So here we have a link to a product group, which we call share or bond. And then we go one tree level up into the product group, where
+
+00:08:42.000 --> 00:08:44.000
+shares/bonds are matched to security types, and in the end they're all securities. Up top it's all securities. This tree or these grids can be extended at will, depending
+
+00:08:44.000 --> 00:08:49.000
+on requirement. But that's the pattern generally recognized and lived. So when a
+
+00:08:49.000 --> 00:09:00.000
+government bond comes in, the term 'government bond' first appears, but we identify it as a bond. If we identify it as a bond, it's not calculated the same as a share. Shares are mostly calculated in units,
+
+00:09:06.000 --> 00:09:07.000
+and for bonds I don't know the exact technical term. It's simply a matching table — picture it — which also becomes very important.
+
+00:09:07.000 --> 00:09:18.000
+We were already at the base typifications earlier, and at the legal forms. Just to jog the memory.
+
+00:09:18.000 --> 00:09:19.000
+Right. Now let's build up a little theory. We could say customer typifications are like sand on the beach out there — all these many different technical terms across many different markets and countries.
+
+00:09:19.000 --> 00:09:21.000
+It's simply a table where they're collected. Only some of them, say three of them, are only for the France market. That's not really how it is, but I just want to
+
+00:09:21.000 --> 00:09:24.000
+illustrate it vividly. Some are for the Switzerland market, some for the Germany market. We have no matching, no assignment yet. How do we do it? We go top-left to
+
+00:09:24.000 --> 00:09:27.000
+investment markets, pick any market, say France, and there we have 'permissible customer typifications' — there they are again,
+
+00:09:27.000 --> 00:09:28.000
+but far fewer now. So this France market has been allotted 35 customer typifications. So these typifications were matched to the France market, and these terms are used for France, or better said
+
+00:09:28.000 --> 00:09:29.000
+for the forms at the end of the day. If you picture such a printed form and it suddenly says 'Foundation', then
+
+00:09:29.000 --> 00:09:33.000
+this term comes from the database, from this link. Here the deadlines are reflected again — you know those already —
+
+00:09:33.000 --> 00:09:35.000
+and then we're simply back in the withholding-tax rates we've already seen and learned. I click Cancel. Cancel again.
+
+00:09:35.000 --> 00:09:37.000
+Let me look briefly. Four-eyes principle we've done, Webparts we've done, menu we've done, we've gone through an application process twice
+
+00:09:37.000 --> 00:09:39.000
+and seen others. Payment receipts are now a concept. Application settings, securities are concepts. Quarantine, critical reclaims, warning documents are concepts. That's all very good.
+
+00:09:39.000 --> 00:09:41.000
+Excellent. Then let's make a short detour. Let it sink in — with the application
+
+00:09:41.000 --> 00:09:42.000
+settings, there's much more. We won't manage it all today. Nor do we need to. Now, some background on what we have in terms of modules. If you
+
+00:09:42.000 --> 00:09:43.000
+clicked this line — I'll do it — a rather inconspicuous window opens; I'll close it again. Or if you click top-right
+
+00:09:43.000 --> 00:09:44.000
+on the '?' Info, you get info about the system first. You get the version number — reminding us again of the March 18th version.
+
+00:09:44.000 --> 00:09:45.000
+The Flavor is KPMG, so we're working on a KPMG flavor, which also does RaQuest withholding-tax service for one, two or three banks
+
+00:09:45.000 --> 00:09:46.000
+using RaQuest. Then we see the operating system is Microsoft Windows, and there are local reports — what does that mean?
+
+00:09:46.000 --> 00:09:47.000
+All forms, all applications are managed locally on my machine, or locally where the instance is installed.
+
+00:09:47.000 --> 00:09:48.000
+Then we go to Database — it's called RQ Demo, on SQL '...Ferry'. That's probably
+
+00:09:48.000 --> 00:09:53.000
+the server, I'm not sure, but it's the database name. Very good — I often do this when I have a support case: I ask, please look into
+
+00:09:53.000 --> 00:09:54.000
+Info, tell me the current version number — standard procedure if we don't already know. Up top are tabs, there are the license
+
+00:09:54.000 --> 00:09:57.000
+keys. Down here there are several pages you can flip through, and you already see how many license keys are in here. It's not yet
+
+00:09:57.000 --> 00:09:59.000
+all that exist, but they split into tax domiciles (Steuerdomizile) and markets (Märkte). So RaQuest doesn't work if
+
+00:09:59.000 --> 00:10:02.000
+there's no license key in it. And if you have tax domiciles in — Belgium, Luxembourg, France, Switzerland — then the domiciles are at least covered. Domicile means:
+
+00:10:02.000 --> 00:10:06.000
+I, Christoph, living in Germany, registered at Rosenheim tax office, need the domicile Germany. What do markets mean? Markets, put very generally, is a
+
+00:10:06.000 --> 00:10:07.000
+separate license key to unlock a market in general. I think the deadlines we heard earlier hang off that. And so on. But much more interesting
+
+00:10:07.000 --> 00:10:09.000
+are the application modules (Antragsmodule). Here again you see these abbreviations, combinations of abbreviations, and reading them: SE stands for Sweden. Sweden at tax office
+
+00:10:09.000 --> 00:10:11.000
+Sweden, Norway at tax office Norway, Italy at CBL/CBF — I know by heart, Clearstream. Clearstream is a bank and a Lagerstelle. I'll keep repeating it so it sticks.
+
+00:10:11.000 --> 00:10:15.000
+Or Denmark at tax office Denmark. So only with these modules and markets can customers file. We earn money on every module, and we maintain every module. Suddenly a
+
+00:10:15.000 --> 00:10:16.000
+market decides there'll be a new application form with three new fields — then we have to build them in. The market is maintained, it's delivered, and then he can start with the new documents.
+
+00:10:16.000 --> 00:10:20.000
+Those are the application modules. And going further — nothing there — there are also advance-exemption modules (Vorbefreiungsmodule), probably in here. Under
+
+00:10:20.000 --> 00:10:24.000
+Modules, advance-exemption modules — those are the modules for the other process, the advance-exemption process. So you can, may
+
+00:10:24.000 --> 00:10:26.000
+and must keep checking which licenses are actually in the application. Only with these licenses loaded do the processes work.
+
+00:10:26.000 --> 00:10:28.000
+The other two things don't interest us. Then we can close this mask again. So: always click either the name 'RaQuest Kumamoto' or the line to the right of it,
+
+00:10:28.000 --> 00:10:31.000
+the black line, and you get into this system information, can switch between the tabs, or you go to '?' Info. That gets you in too.
+
+00:10:31.000 --> 00:10:33.000
+What we haven't seen — a shame — the background activities are down. Here lots of calculation would happen. Whenever you do something in RaQuest, a row appears, another row, another
+
+00:10:36.000 --> 00:10:40.000
+row — hundreds, thousands of rows. It means nothing other than the system signaling: something's being calculated here, rules are being applied, and with these rules
+
+00:10:40.000 --> 00:10:43.000
+all claims or customer data — whatever — are moved into the new state, so everything is rule-compliant. Sometimes complex calculations have to run.
+
+00:10:43.000 --> 00:10:45.000
+I call it traceability. Then rows crop up there — I can also show it in a separate application —
+
+00:10:45.000 --> 00:10:49.000
+and then you can see whether there's an error. And if there's an error, this happens. I'll show you a diagram. Little circles appear — a green check means all good; if there's an error, it says something is blocked
+
+00:10:49.000 --> 00:10:52.000
+or finished with an error. And if it finished with an error, you should look closer and investigate. Then maybe you can help the customer and resolve it. There are other
+
+00:10:52.000 --> 00:10:53.000
+circles too. Here, when this background process is running and running and doing its thing, then you get the icon; and there's also the letter,
+
+00:10:53.000 --> 00:10:54.000
+meaning an action is being pre-calculated and the letter is waiting — some action is waiting its turn. So nothing alarming. Those are the background activities
+
+00:10:54.000 --> 00:10:56.000
+you'll get to know soon. Now I'd say we have
+
+00:10:56.000 --> 00:10:58.000
+the chance to look briefly into the institution — the actual financial institution that operates RaQuest — because there are many very interesting settings there.
+
+00:10:58.000 --> 00:10:59.000
+I'd put a lid on it today for the training, and there's still lots to train, and we have to go deeper into every topic to understand it better. But let's open the institution again. How? I go to Kontakte,
+
+00:10:59.000 --> 00:11:01.000
+Kontakte verwalten, and top-right there's Kontaktart, and I select Finanzinstitut, Suche starten. It shows me various
+
+00:11:01.000 --> 00:11:04.000
+institutions — because a bank could have several institutions — or they could be asset-management companies that in turn manage funds.
+
+00:11:04.000 --> 00:11:06.000
+But I need the very first one; the very first is usually the Mandant (tenant), the most powerful institution with the most powerful configurations and settings. Double-click. Here again you see the address, no different from a contact.
+
+00:11:06.000 --> 00:11:07.000
+But here there's a word: Bevollmächtigungen (authorizations). Only an institution can decide for which markets it even offers the
+
+00:11:07.000 --> 00:11:10.000
+withholding-tax service. And if you say, for the Belgium market, Canada, Switzerland, blah blah, I want that, then I have to
+
+00:11:10.000 --> 00:11:12.000
+switch on the green checks. And it applies either to all customers, or to person/group/organisation/fund. You could also exclude funds for Switzerland. If it's not on, it's not on. Or if
+
+00:11:12.000 --> 00:11:13.000
+the institution doesn't want to support it, it's not supported. Takes a moment while it calculates. So these institution-level authorization settings say, fundamentally,
+
+00:11:13.000 --> 00:11:16.000
+which markets we do at all. If, for example, Japan isn't checked here, then — 
+
+00:11:16.000 --> 00:11:18.000
+even if the module is loaded (as we just saw with modules), even if it's loaded and the authorization here isn't active — I can't file under power of attorney. The claims are there, but you
+
+00:11:18.000 --> 00:11:22.000
+can't do much with them yet. You won't even find the function to do anything. Of course an institution has
+
+00:11:22.000 --> 00:11:23.000
+tax data. What else? It also has bank connections, obviously. But here it's usually not about
+
+00:11:23.000 --> 00:11:24.000
+the institution having a bank connection — rather these are the accounts we set up for when the foreign institutions or authorities — the custodians and authorities — transfer the money
+
+00:11:24.000 --> 00:11:25.000
+from abroad; it comes in here on the various accounts. So in RaQuest we have to store the accounts at the institution. And these accounts too
+
+00:11:25.000 --> 00:11:26.000
+have account roles: Clearing accounts, money-receipt accounts (Geldeingangskonto). Clearing means nothing other than: this is where the money comes, where it's transferred to.
+
+00:11:26.000 --> 00:11:27.000
+Money-receipt account is a second role you can go deeper into when the time comes. I'll leave it
+
+00:11:27.000 --> 00:11:28.000
+at that. But a small question — I mean, a case worker could theoretically destroy quite a lot in the system too, right? If we just remove a few
+
+00:11:28.000 --> 00:11:29.000
+checkmarks and then... — No, he won't be able to, because a case worker has roles. — Right. But some have more roles, don't they? Then he's also authorized to do it. And if he makes mischief,
+
+00:11:29.000 --> 00:11:31.000
+he gets in trouble not from us but from his bosses. As a rule there's also a lively exchange via tickets, Jira tickets. Say someone wants to
+
+00:11:31.000 --> 00:11:33.000
+test something. If he tests in the test environment — they have test environments — it's not dramatic. He can do as he likes there. Then maybe he gets a note from Bogdan on our side.
+
+00:11:33.000 --> 00:11:34.000
+With such-and-such role you can unlock such-and-such rights, but be careful, because this happens. Please don't do it in production — that'd be a hint. And whoever has the
+
+00:11:34.000 --> 00:11:35.000
+rights was assigned them because he should and must carry them out. But a normal case worker may not make these settings, can't make them.
+
+00:11:35.000 --> 00:11:35.000
+He really only does the filing of applications, checks everything fits, looks into the quarantine, edits things, phones around, prints. And when the big blunder
+
+00:11:35.000 --> 00:11:36.000
+comes — or do we move on to the topic of administrators, so they can set something. It happens, but even if he — Claudia, did you want to say something? — I just wanted to say
+
+00:11:36.000 --> 00:11:37.000
+that the administration areas aren't even displayed. So he doesn't even have the option to misclick there. — Ah, I see. That's right, Christoph? A case worker
+
+00:11:37.000 --> 00:11:38.000
+doesn't have the option to misclick, shouldn't. Even if he's very powerful with very many settings — incredibly many — a case worker shouldn't.
+
+00:11:38.000 --> 00:11:39.000
+But that was still within her authority, within her rights concept, all fine. It was simply a user error (Anwenderfehler). But there's a big
+
+00:11:39.000 --> 00:11:40.000
+permissions concept — I'll show briefly. I go to RaQuest's main page, Administration, Berechtigungen verwalten (manage permissions), and Jörg gets through this well too, I hope.
+
+00:11:40.000 --> 00:11:41.000
+You can click through the processes and say: who may make bookings, who may reverse bookings — double-click, and you see: the expert
+
+00:11:41.000 --> 00:11:42.000
+may do this, the case worker, auditors may do that. One may execute, another has full access, the next has full access, and the next may only write and execute. It's really designed down to
+
+00:11:42.000 --> 00:11:43.000
+the functions. So the view doesn't change depending on your role. It's always the same — you just can't perform certain actions.
+
+00:11:43.000 --> 00:11:44.000
+Or you get a notification when you try, or nothing. Often you just don't see the function. In other cases he can't perform it. But a message, I think, he rarely gets —
+
+00:11:44.000 --> 00:11:45.000
+actually not at all. What one might add: case workers in the withholding-tax field really know their stuff. So what
+
+00:11:45.000 --> 00:11:46.000
+they're allowed to do, they also know — I'd say in 80% of cases — what to do with it. I think.
+
+00:11:46.000 --> 00:11:47.000
+And to wrap this up a bit — we can do one more Q&A. Back to the institution: here too, for the advance-exemption process, there's
+
+00:11:47.000 --> 00:11:47.000
+the option to say, fundamentally we want to do advance exemption for persons, groups, organisations, funds, these markets and these custodians.
+
+00:11:47.000 --> 00:11:48.000
+So it's a general, global setting, and only then does it all work. Right. There's a lot more in RaQuest, things we still have to get to know,
+
+00:11:48.000 --> 00:11:49.000
+but for the kickoff, for the start, that should do. When someone really gets into the application, I can only recommend: click, click, click, think, understand, learn, ask, ask, ask — just don't hesitate
+
+00:11:49.000 --> 00:11:50.000
+to call people. Claudia, me, Markus, developers too, support, quality management — who's very good with the app: Sven, and
+
+00:11:50.000 --> 00:11:51.000
+by now Chana, Jörg, are really gifted at these things. I'd just recommend grabbing people when you don't understand something, especially
+
+00:11:51.000 --> 00:11:52.000
+since we work a lot remotely from home office right now — don't hesitate, just call and have it explained. — How do I get to RaQuest? Just type it online, RaQuest.de?
+
+00:11:52.000 --> 00:11:53.000
+— Or give me a link to log in. Good question. Let me log out briefly. I always go there and have a link, and please only in the
+
+00:11:53.000 --> 00:11:54.000
+Internet Explorer, this blue Internet Explorer down here. Only in it does it work at the moment. Maybe soon we'll do other browsers. Right now only that one works. And if you got a link, say I give you
+
+00:11:54.000 --> 00:11:55.000
+this link, you'd open it and it works. Secondly, you'd have to install a local instance if you want. It's a very elaborate process, which Claudia and Markus
+
+00:11:55.000 --> 00:11:55.000
+can now do and show you, and after that you'd be able to open an application again. But I can do it via the link.
+
+00:11:55.000 --> 00:11:56.000
+If you say installation — I generally recommend doing the installation, especially at Bogdan's, because you need it again and again, since you keep having to spin up a new instance.
+
+00:11:56.000 --> 00:11:57.000
+For various customers. — Claudia, briefly, is it the demo we use for Sales? — I don't know. It's like this. The background to all this
+
+00:11:57.000 --> 00:11:58.000
+is that every bank runs its own instance. So RaQuest isn't hosted in some cloud — every bank has its own instance installed on its own server.
+
+00:11:58.000 --> 00:11:59.000
+And as Christoph said, spinning up a local instance is quite sensible. There are also server instances — that's for example what Christoph is on right now. So server instances at RaQuest
+
+00:11:59.000 --> 00:12:00.000
+internally. I think that's the one we use for Sales. I hope I didn't break anything for you, Claudia. — Not for me. I'll just reset it, or have Jörg reset it.
+
+00:12:00.000 --> 00:12:01.000
+I have so many links now, right? And these are my local instances. Right. — Does the sandbox (Spielwiese) still work?
+
+00:12:01.000 --> 00:12:02.000
+— Don't know, I don't use it. Let's see, because then you could click around in it; otherwise we'd have to give you a server version maybe.
+
+00:12:02.000 --> 00:12:03.000
+— No, the sandbox doesn't exist anymore. Oh right, it's on Erkundvold 3, that doesn't work. Now I just have to check whether this one test instance
+
+00:12:03.000 --> 00:12:04.000
+I have is local. Otherwise you can use it. Otherwise I'd say, again check with Jörg, who spins up these instances — all these sandbox instances —
+
+00:12:04.000 --> 00:12:05.000
+where you just say, you divide them among yourselves. Because you'd really need to be able to play around in those things and break nothing. You can't break anything there.
+
+00:12:05.000 --> 00:12:06.000
+Right. Then, on my part, thank you for being so attentive. You have the video — Claudia can surely give you the video — where you can always jump back to the spots. Whenever you want to orient yourself again,
+
+00:12:06.000 --> 00:12:07.000
+the video is available afterwards.
+
+00:12:07.000 --> 00:12:08.000
+And then.

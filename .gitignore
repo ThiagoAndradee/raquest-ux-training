@@ -1,0 +1,11 @@
+node_modules
+build
+.DS_Store
+npm-debug.log*
+.env.local
+.env
+
+# large video assets — too big for git, kept out of repo
+public/videos/segments
+public/videos/v1.mp4
+public/videos/v2.mp4

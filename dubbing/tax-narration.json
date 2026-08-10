@@ -1,0 +1,359 @@
+{
+  "_about": "Karaoke narration for the Tax Withholding 101 explainer. This text is the source of truth — the audio is regenerated from it so the on-screen lyrics always match the spoken narration.",
+  "voices": {
+    "en": "en-US-GuyNeural",
+    "pt": "pt-BR-AntonioNeural"
+  },
+  "entries": [
+    {
+      "id": 1,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "Let's start simple. You're an investor, and you hold shares in companies located in another country — abroad. Those shares don't sit in a drawer at your house; they live in a custody chain that runs through banks and custodians in that foreign country. So when the company pays you, the money crosses a border — and at the border, the foreign country takes its tax. That's the whole reason this story exists: you own something abroad, and abroad wants its cut before the money reaches you.",
+      "out": "public/audio/tax-1-en.mp3"
+    },
+    {
+      "id": 1,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Vamos começar simples. Você é um investidor e tem ações de empresas em outro país — no exterior. Essas ações não ficam numa gaveta em casa; elas vivem numa cadeia de custódia que passa por bancos e custodiantes naquele país estrangeiro. Então quando a empresa te paga, o dinheiro cruza uma fronteira — e na fronteira, o país estrangeiro cobra o imposto dele. É por isso que essa história existe: você tem algo lá fora, e lá fora quer a parte dele antes que o dinheiro chegue a você.",
+      "out": "public/audio/tax-1-pt.mp3"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "Every so often, those companies share their profit with you. That payment is called a dividend. It's not a fee and not interest — it's your slice of the company's earnings, paid out per share you own. So if you hold two hundred shares of Nestlé and it pays eighty cents per share, you get two hundred times eighty cents — a hundred and sixty euros. That's your dividend. Companies usually pay on a schedule — quarterly or annually — and only when they actually made money. So a dividend is the moment the story really starts: it's the cash that will cross the border and trigger the whole reclaim flow.",
+      "out": "public/audio/tax-2-en.mp3"
+    },
+    {
+      "id": 2,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "De tempos em tempos, essas empresas dividem o lucro com você. Esse pagamento se chama dividendo. Não é fee e não é juro — é sua fatia do lucro da empresa, paga por ação que você tem. Então se você tem duzentas ações da Nestlé e ela paga oitenta centavos por ação, você recebe duzentas vezes oitenta centavos — cento e sessenta euros. Esse é o seu dividendo. As empresas costumam pagar num cronograma — trimestral ou anual — e só quando de fato ganham dinheiro. Então o dividendo é o momento em que a história realmente começa: é o dinheiro que vai cruzar a fronteira e disparar o fluxo de reclaim inteiro.",
+      "out": "public/audio/tax-2-pt.mp3"
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "But before the dividend reaches you, the foreign country keeps a slice as tax, right at the source — that's the withholding tax, the Quellensteuer. Switzerland, for example, withholds thirty-five percent. So on your €160 dividend from scene 2, fifty-six euros stay in Switzerland and only a hundred and four reach you. The DE–CH treaty lets Switzerland keep only fifteen percent — so of those fifty-six, about thirty-two euros is reclaimable, and roughly twenty-four euros stays at the source forever.",
+      "out": "public/audio/tax-3-en.mp3"
+    },
+    {
+      "id": 3,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Mas antes do dividendo chegar até você, o país estrangeiro retém uma fatia de imposto, direto na fonte — é o imposto na fonte, a Quellensteuer. A Suíça, por exemplo, retém trinta e cinco por cento. Então no seu dividendo de cento e sessenta euros da cena 2, cinquenta e seis euros ficam na Suíça e só cento e quatro chegam até você. O tratado DE–CH deixa a Suíça guardar só quinze por cento — então desses cinquenta e seis, cerca de trinta e dois euros é reclamável, e uns vinte e quatro euros ficam na fonte pra sempre.",
+      "out": "public/audio/tax-3-pt.mp3"
+    },
+    {
+      "id": 4,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "Here's the catch: your home country may tax that same dividend again. Being taxed twice on the same money is called double taxation.",
+      "out": "public/audio/tax-4-en.mp3"
+    },
+    {
+      "id": 4,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "E tem o problema: o seu país pode taxar esse mesmo dividendo de novo. Ser taxado duas vezes sobre o mesmo dinheiro é a bitributação.",
+      "out": "public/audio/tax-4-pt.mp3"
+    },
+    {
+      "id": 5,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "To prevent double taxation, countries sign a double-taxation treaty — a DBA, Doppelbesteuerungsabkommen. It sets a cap on what the source country may keep. Germany's cap is twenty-five percent, so of Switzerland's thirty-five, about twenty percent can come back to you. But watch out: domestic law can override the treaty. A Stiftung — a foundation — for example, stays at twenty percent even when the treaty would allow more. The system has to calculate the reclaimable amount and check the domestic-law override for every case.",
+      "out": "public/audio/tax-5-en.mp3"
+    },
+    {
+      "id": 5,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Pra evitar a bitributação, os países assinam um acordo de bitributação — o DBA, Doppelbesteuerungsabkommen. Ele define um teto pro que o país de origem pode reter. O teto da Alemanha é vinte e cinco por cento, então dos trinta e cinco da Suíça, cerca de vinte por cento pode voltar pra você. Mas atenção: a lei interna pode sobrepor o tratado. Uma Stiftung — uma fundação —, por exemplo, fica em vinte por cento mesmo quando o tratado permitiria mais. O sistema tem que calcular o valor reclamável e checar a sobreposição da lei interna em cada caso.",
+      "out": "public/audio/tax-5-pt.mp3"
+    },
+    {
+      "id": 6,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "There are three routes to recover it. Standard Refund — the classic reclaim. Quick Refund — a faster one. And Relief-at-source — where the relief is applied up front, before the dividend is even paid.",
+      "out": "public/audio/tax-6-en.mp3"
+    },
+    {
+      "id": 6,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Existem três caminhos pra recuperar. Standard Refund — o reembolso clássico. Quick Refund — um mais rápido. E o Relief-at-source — onde a isenção é aplicada antes, antes mesmo do dividendo ser pago.",
+      "out": "public/audio/tax-6-pt.mp3"
+    },
+    {
+      "id": 103,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "Here's a twist: the shares don't sit directly with you. They travel through a custody chain. It starts at the issuer, then a central securities depository — a CSD, like Clearstream — then a custodian, then your bank, then you. The custodian is the Lagerstelle — literally the place where the securities are stored — and it carries a Lagerstellennummer that links each claim to the right account and bank. And the key point: no single institution sees the whole chain. Each one only knows its direct neighbour. That's exactly why piecing the data together is so hard — and why the Lagerstellennummer matters so much.",
+      "out": "public/audio/tax-103-en.mp3"
+    },
+    {
+      "id": 103,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Tem um detalhe: as ações não ficam direto com você. Elas passam por uma cadeia de custódia. Começa no emissor, depois um depositário central — o CSD, tipo Clearstream —, depois um custodiante, depois seu banco, aí você. O custodiante é a Lagerstelle — literalmente o lugar onde os títulos ficam guardados — e carrega uma Lagerstellennummer que liga cada claim à conta e ao banco certos. E o ponto: nenhuma instituição vê a cadeia inteira. Cada uma só conhece o vizinho direto. É justamente por isso que montar os dados é tão difícil — e por isso a Lagerstellennummer importa tanto.",
+      "out": "public/audio/tax-103-pt.mp3"
+    },
+    {
+      "id": 7,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "Take the Standard Refund. You file an application — an Antrag — for the amount you're owed. Each application gets a unique tracking number, the RA number, the RA-NR. That number is the spine of the whole case: it's how the refund is matched back to this application when the money eventually returns, and how every step of the case is traced. No RA-NR, no match, no money.",
+      "out": "public/audio/tax-7-en.mp3"
+    },
+    {
+      "id": 7,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Pega o Standard Refund. Você abre uma aplicação — um Antrag — pelo valor que tem a receber. Cada aplicação ganha um número único de rastreio, o número RA, o RA-NR. Esse número é a espinha do caso inteiro: é como o reembolso é casado de volta com essa aplicação quando o dinheiro volta, e como cada passo do caso é rastreado. Sem RA-NR, não há casamento, não há dinheiro.",
+      "out": "public/audio/tax-7-pt.mp3"
+    },
+    {
+      "id": 8,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "Now the Druckprozess — the print process. The system prints the country's official form, plus a letter to your local tax office, your Finanzamt, asking for a residence certificate — the Wohnsitzbestätigung. These are real, physical documents: paper that gets printed, signed, stamped and mailed. The status moves to 'Wohnsitzbestätigung eingefordert' — residence certificate requested. About two weeks later the Finanzamt sends the certificate back, and a second Druckprozess sends the whole package to the foreign authority.",
+      "out": "public/audio/tax-8-en.mp3"
+    },
+    {
+      "id": 8,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Agora o Druckprozess — o processo de impressão. O sistema imprime o formulário oficial do país, mais uma carta ao seu fisco local, o Finanzamt, pedindo um certificado de residência — a Wohnsitzbestätigung. Esses são documentos reais, físicos: papel que é impresso, assinado, carimbado e enviado. O status vira 'Wohnsitzbestätigung eingefordert' — certificado de residência solicitado. Cerca de duas semanas depois o Finanzamt devolve o certificado, e um segundo Druckprozess manda o pacote inteiro pra autoridade estrangeira.",
+      "out": "public/audio/tax-8-pt.mp3"
+    },
+    {
+      "id": 104,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "Remember the documents? Here's a rule that changes everything: Vollmacht — power of attorney. With Vollmacht, the bank is authorised to act for the client, so it sends the documents straight to the foreign authority — no client in the loop. Without Vollmacht, the documents have to go to the client first to be signed, and only then onward to the authority. A single flag inverts the entire document process — and it decides who actually does the work and how long the case takes.",
+      "out": "public/audio/tax-104-en.mp3"
+    },
+    {
+      "id": 104,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Lembra dos documentos? Tem uma regra que muda tudo: Vollmacht — procuração. Com Vollmacht, o banco tá autorizado a agir pelo cliente, então manda os documentos direto pra autoridade estrangeira — sem cliente no caminho. Sem Vollmacht, os documentos têm que ir pro cliente assinar primeiro, e só depois pra autoridade. Um único flag inverte o processo inteiro de documentos — e decide quem de fato faz o trabalho e quanto tempo o caso leva.",
+      "out": "public/audio/tax-104-pt.mp3"
+    },
+    {
+      "id": 110,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "You've seen the Druckprozess — two print runs. Now put the documents in the order they're actually printed, signed and mailed.",
+      "out": "public/audio/tax-110-en.mp3"
+    },
+    {
+      "id": 110,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Você viu o Druckprozess — duas rodadas de impressão. Agora coloque os documentos na ordem que de fato são impressos, assinados e enviados.",
+      "out": "public/audio/tax-110-pt.mp3"
+    },
+    {
+      "id": 9,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "Everything has been sent to the foreign tax authority, and now it rests there. The status is beantragt — applied for — and from your side, there's nothing more to do. This part is famously slow: the authority can sit on a case for months, sometimes up to a year, before they process it. There's no button to speed it up, no escalation that helps — the case just sleeps in their queue. So this is where patience and tracking matter: you watch the deadline, you keep the RA-NR, and you wait. The status only moves again when the money actually comes back.",
+      "out": "public/audio/tax-9-en.mp3"
+    },
+    {
+      "id": 9,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Tudo foi enviado pra autoridade fiscal estrangeira, e agora descansa lá. O status é beantragt — solicitado — e do seu lado não há mais nada pra fazer. Essa parte é famosa por ser lenta: a autoridade pode sentar em cima de um caso por meses, às vezes até um ano, antes de processar. Não tem botão pra acelerar, não tem escalonamento que ajude — o caso só dorme na fila deles. Então é aqui que paciência e rastreio importam: você vigia o prazo, guarda o RA-NR, e espera. O status só mexe de novo quando o dinheiro volta de fato.",
+      "out": "public/audio/tax-9-pt.mp3"
+    },
+    {
+      "id": 105,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "Each market has a prescription deadline — the Ablauffrist. Switzerland, thirty-six months. France, three years. Denmark, sixty months. Before it hits, there's also a warning period — the Warnfrist — so the team can act in time. Pass the Ablauffrist and the claim becomes verjährt — prescribed. Once it's verjährt, that money is gone forever; the authority won't refund it. So monitoring deadlines isn't a nice-to-have — it's the difference between recovering the money and writing it off completely.",
+      "out": "public/audio/tax-105-en.mp3"
+    },
+    {
+      "id": 105,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Cada mercado tem um prazo de prescrição — o Ablauffrist. Suíça, trinta e seis meses. França, três anos. Dinamarca, sessenta meses. Antes de bater, tem também um período de aviso — o Warnfrist — pra o time agir a tempo. Passou do Ablauffrist e o claim vira verjährt — prescrito. Virou verjährt, aquele dinheiro acabou; a autoridade não reembolsa mais. Então monitorar prazos não é um luxo — é a diferença entre recuperar o dinheiro ou abater ele por completo.",
+      "out": "public/audio/tax-105-pt.mp3"
+    },
+    {
+      "id": 10,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "Finally the money returns. This is the Zahlungseingang — the payment receipt. When it lands at the bank, the system auto-matches it back to the right case by the RA-NR, and applies the Devisenkurs — the exchange rate — to convert the foreign refund into your currency. At that moment the status becomes erstattet — refunded, the money is at the bank. Then the bank deducts its fee and passes the rest to you, the client; now the status is vergütet — paid out. Two statuses, two different moments: erstattet means the bank has it, vergütet means you have it. The cycle, from beantragbar all the way to vergütet, is complete.",
+      "out": "public/audio/tax-10-en.mp3"
+    },
+    {
+      "id": 10,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Enfim o dinheiro volta. Esse é o Zahlungseingang — o recebimento do pagamento. Quando chega no banco, o sistema casa ele de volta ao caso certo pelo RA-NR, e aplica o Devisenkurs — a taxa de câmbio — pra converter o reembolso estrangeiro na sua moeda. Nesse momento o status vira erstattet — reembolsado, o dinheiro tá no banco. Aí o banco desconta a fee dele e repassa o resto pra você, o cliente; agora o status é vergütet — pago. Dois status, dois momentos diferentes: erstattet quer dizer que o banco tem, vergütet quer dizer que você tem. O ciclo, de beantragbar até vergütet, se fecha.",
+      "out": "public/audio/tax-10-pt.mp3"
+    },
+    {
+      "id": 111,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "Every claim moves through a chain of statuses. Put them in the order a claim actually follows — from the first moment it's claimable until the money is paid out.",
+      "out": "public/audio/tax-111-en.mp3"
+    },
+    {
+      "id": 111,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Cada claim percorre uma cadeia de status. Coloque na ordem que um claim de fato segue — do primeiro momento em que é reclamável até o dinheiro ser pago.",
+      "out": "public/audio/tax-111-pt.mp3"
+    },
+    {
+      "id": 106,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "So who actually runs all this? The bank. It does the reclaim on behalf of the investor and charges for it. The fee is usually structured two ways: a volume-based fee with a minimum, so small cases still pay something; plus a success fee — a slice of the money — paid only when the refund actually comes back. That combination is exactly why reclaim and relief-at-source are the most lucrative products in this space: the bank earns on volume and again on success, on thousands of cases at scale.",
+      "out": "public/audio/tax-106-en.mp3"
+    },
+    {
+      "id": 106,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Então quem roda tudo isso? O banco. Ele faz o reclaim em nome do investidor e cobra por isso. A fee geralmente vem em duas partes: uma fee por volume com um mínimo, pra que casos pequenos ainda paguem algo; mais uma success fee — uma fatia do dinheiro — paga só quando o reembolso volta de fato. Essa combinação é justamente por que reclaim e relief-at-source são os produtos mais lucrativos desse mercado: o banco ganha no volume e de novo no sucesso, em milhares de casos em escala.",
+      "out": "public/audio/tax-106-pt.mp3"
+    },
+    {
+      "id": 100,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "Before we go deeper, let's recap the key ideas we've covered so far — the spine of the whole domain.",
+      "out": "public/audio/tax-100-en.mp3"
+    },
+    {
+      "id": 100,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Antes de ir mais fundo, vamos resumir as ideias-chave que cobrimos até aqui — a espinha do domínio inteiro.",
+      "out": "public/audio/tax-100-pt.mp3"
+    },
+    {
+      "id": 101,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "Now let's see the whole Standard Refund journey at once — every step, every deliverable, and the status that tracks it.",
+      "out": "public/audio/tax-101-en.mp3"
+    },
+    {
+      "id": 101,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Agora vamos ver a jornada inteira do Standard Refund de uma vez — cada passo, cada entregável, e o status que acompanha tudo.",
+      "out": "public/audio/tax-101-pt.mp3"
+    },
+    {
+      "id": 11,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "Notice how many steps, forms and deadlines that took — for a single claim. Multiply it by thousands. That's exactly why software like RAQUEST exists: to run this whole process at scale.",
+      "out": "public/audio/tax-11-en.mp3"
+    },
+    {
+      "id": 11,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Repara quantos passos, formulários e prazos isso levou — pra um único claim. Multiplica por milhares. É exatamente por isso que um software como o RAQUEST existe: pra rodar esse processo todo em escala.",
+      "out": "public/audio/tax-11-pt.mp3"
+    },
+    {
+      "id": 109,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "You've seen the whole journey. Now it's your turn — drag the tiles into the correct order, from the first claim to the final payout.",
+      "out": "public/audio/tax-109-en.mp3"
+    },
+    {
+      "id": 109,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Você viu a jornada inteira. Agora é sua vez — arraste os tiles na ordem correta, do primeiro claim ao pagamento final.",
+      "out": "public/audio/tax-109-pt.mp3"
+    },
+    {
+      "id": 102,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "RAQUEST splits the work across three pillars. Phoenix is the reclaim backbone — party data, import, rule evaluation, assembly, and documents. Horizon handles master data and capital incomes with SLA monitoring. And Reporting — the MiKaDiv report — sends the digital report to the German tax office, the BZSt, via ELMA, with message types MT 11 to 19. Each report gets a UUID. No UUID, no reclaim.",
+      "out": "public/audio/tax-102-en.mp3"
+    },
+    {
+      "id": 102,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "O RAQUEST divide o trabalho em três pilares. O Phoenix é a espinha do reclaim — dados de parte, import, avaliação de regras, montagem e documentos. O Horizon cuida do master data e dos capital incomes, com monitoramento de SLA. E o Reporting — o reporte MiKaDiv — envia o reporte digital pro fisco alemão, o BZSt, via ELMA, com os tipos de mensagem MT 11 a 19. Cada reporte ganha um UUID. Sem UUID, não há reclaim.",
+      "out": "public/audio/tax-102-pt.mp3"
+    },
+    {
+      "id": 112,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "Two products, two jobs. Horizon reports to the German tax office, the BZSt — the MiKaDiv report, the UUID, the ELMA transmission. RAQUEST prepares the reclaim — the Antrag, the Druckprozess, the Wohnsitzbestätigung, the RA-NR. Sort each task under the product that owns it.",
+      "out": "public/audio/tax-112-en.mp3"
+    },
+    {
+      "id": 112,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Dois produtos, dois trabalhos. Horizon reporta pro fisco alemão, o BZSt — o reporte MiKaDiv, o UUID, a transmissão ELMA. RAQUEST prepara o reclaim — o Antrag, o Druckprozess, a Wohnsitzbestätigung, o RA-NR. Separe cada tarefa sob o produto que cuida dela.",
+      "out": "public/audio/tax-112-pt.mp3"
+    },
+    {
+      "id": 107,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "Before we wrap up, let's lock in the key terms. Flip each card to recall what it means.",
+      "out": "public/audio/tax-107-en.mp3"
+    },
+    {
+      "id": 107,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Antes de fechar, vamos fixar os termos-chave. Vire cada card pra recordar o que significa.",
+      "out": "public/audio/tax-107-pt.mp3"
+    },
+    {
+      "id": 108,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "Let's check what stuck. Eighteen quick questions — pick an answer and you'll see why it's right or wrong.",
+      "out": "public/audio/tax-108-en.mp3"
+    },
+    {
+      "id": 108,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "Vamos ver o que ficou. Dezoito perguntas rápidas — escolhe uma resposta e você vê por que tá certa ou errada.",
+      "out": "public/audio/tax-108-pt.mp3"
+    },
+    {
+      "id": 12,
+      "lang": "en",
+      "voice": "en-US-GuyNeural",
+      "text": "And that's it — from a dividend abroad, through withholding, the treaty, the application, and back to your pocket. You now understand the whole withholding-tax reclaim.",
+      "out": "public/audio/tax-12-en.mp3"
+    },
+    {
+      "id": 12,
+      "lang": "pt",
+      "voice": "pt-BR-AntonioNeural",
+      "text": "E é isso — de um dividendo no exterior, passando pela retenção, o acordo, a aplicação, e de volta pro seu bolso. Agora você entende a recuperação do imposto na fonte inteira.",
+      "out": "public/audio/tax-12-pt.mp3"
+    }
+  ]
+}

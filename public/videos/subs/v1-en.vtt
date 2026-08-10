@@ -1,0 +1,1129 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:10.000
+Now.
+
+00:00:10.000 --> 00:00:27.000
+So, what we see here is the RaQuest start screen, before you log in. Generally, customers can now also choose to log in via Single Sign-On.
+
+00:00:27.000 --> 00:00:39.000
+That means they log into their Windows account — boot the PC, sign in — and they're already automatically inside RaQuest. That's been around maybe a year now, I'd say.
+
+00:00:39.000 --> 00:00:47.000
+The tried-and-true way is to log in yourself, with a username and a password.
+
+00:00:47.000 --> 00:00:57.000
+We mostly work without Single Sign-On here, because we run many customers' applications in parallel.
+
+00:00:57.000 --> 00:01:11.000
+So it's better to always log in manually. What you also see here is the version name — this one is Kumamoto.
+
+00:01:11.000 --> 00:01:27.300
+Our versions have always been named after volcanoes. Kumamoto is the newest version. And looking here — ah, this one is still from 2020, Q4.
+
+00:01:27.300 --> 00:01:43.440
+Then you see this long string of numbers. You can always assume that '24' equals Kumamoto. And reading from the right, this is March 18th.
+
+00:01:43.440 --> 00:01:58.020
+So this is a version from March 18th, and the zeroth one — you count from zero. If you build several versions a day, it can go 1, 2, 3, 4, 5, 6, 7.
+
+00:01:58.480 --> 00:02:04.840
+But if you want to know the month and day, you take these numbers: March 18th.
+
+00:02:04.840 --> 00:02:16.260
+So it's not a brand-new version — there are newer ones. But this lets you orient yourself on what you've got. Very important for Support and QA too.
+
+00:02:17.840 --> 00:02:30.460
+Username. We always have a kind of standard username. Very often you'll get 'SV' — it stands for Sachbearbeiter (clerk/case worker). SV2, or SV1.
+
+00:02:30.460 --> 00:02:37.460
+And the password is often 'Halvotec'. Then you get into the standard connection. And you click Anmelden (Log in).
+
+00:02:40.160 --> 00:02:54.840
+A user interface builds up here — the RaQuest start page. First you see the menu bar, which lets you orient yourself quickly and jump into different parts of the program.
+
+00:02:54.840 --> 00:03:01.740
+Then you see these black boxes with borders. We call those Webparts.
+
+00:03:02.300 --> 00:03:09.840
+They're parts of the program that report various things to the user, the case worker.
+
+00:03:11.020 --> 00:03:19.200
+So he immediately gets a full overview of the different parts of RaQuest — and even an overview of what he has to do. Maybe even when, and why he has to do it.
+
+00:03:19.200 --> 00:03:24.340
+That's why we split it into different Webparts — because you really need to be informed from different corners of RaQuest. You can close a Webpart if you don't need it.
+
+00:03:25.000 --> 00:03:32.280
+You can also minimize them, and you can even move them. Some case workers just don't need one Webpart or another.
+
+00:03:33.360 --> 00:03:37.000
+For instance, if they don't do Relief-at-source or Standard exemption, they can close one of these Webparts.
+
+00:03:38.100 --> 00:03:41.740
+Also, these Webparts take a certain amount of processing power. So if you want the start page to be faster, you can of course remove a few. Okay.
+
+00:03:41.740 --> 00:03:43.280
+On the menu bar, going from left to right, you'll notice more options appearing that you can select.
+
+00:03:45.400 --> 00:03:49.520
+If you go left and click Beantragen (Apply), you can jump straight into the claims-application process. What are Ansprüche (claims)?
+
+00:03:50.480 --> 00:03:59.180
+Claims arise whenever someone holds securities. On those securities they get dividends or interest — and unfortunately tax becomes due on that.
+
+00:04:00.980 --> 00:04:05.680
+And that tax is these claims. Meaning you can also reclaim something back from abroad.
+
+00:04:05.820 --> 00:04:09.840
+So based on the securities' claims — the dividends and interest — the tax can be calculated.
+
+00:04:09.840 --> 00:04:11.840
+And from that, the claim you have — what you want to reclaim — can be calculated. That produces these rows.
+
+00:04:14.460 --> 00:04:25.920
+Let me go in briefly: click Beantragen, Ansprüche beantragen. A new screen opens. Now I quickly click Suche starten (Start search). You'll see this 'start search' again and again.
+
+00:04:27.020 --> 00:04:35.080
+And then I get all the claims that exist, based on these taxes. One row is one claim.
+
+00:04:35.080 --> 00:04:36.360
+You could say this row is a Swiss ISIN, a Swiss security. And here it says the word 'beantragbar' (applicable).
+
+00:04:37.360 --> 00:04:42.540
+I don't want to overwhelm you with all the different data and facts you see here. But this one is definitely applicable. With it you can kick off the process.
+
+00:04:43.220 --> 00:04:47.080
+By right-click → Beantragen. It's very simple. That starts the process to write to the various parties involved.
+
+00:04:48.300 --> 00:04:51.300
+To request the signatures they have to provide. And ultimately to also file with the foreign authorities and banks or Lagerstellen (custodians).
+
+00:04:52.240 --> 00:04:54.480
+They then check whether the tax gets refunded. The bank files a claim. Say I hold shares in Switzerland.
+
+00:04:54.480 --> 00:04:59.640
+Then I file the claim with the tax office in Switzerland. Or — who does the German bank send the claim to, for the withholding tax that was levied in Switzerland?
+
+00:05:01.640 --> 00:05:09.220
+Suppose you're at a German bank. You have your securities account. And you already have your Swiss claim. You know you have it.
+
+00:05:09.320 --> 00:05:16.240
+The bank itself would do it on your behalf, under your power of attorney (Vollmacht), because you gave the bank that authorization.
+
+00:05:16.240 --> 00:05:19.620
+Then this bank prints the forms with RaQuest and sends them to the foreign tax authority in Switzerland.
+
+00:05:19.760 --> 00:05:25.100
+It's actually called the Eidgenössische Steuerverwaltung (Swiss Federal Tax Administration). We have its address in RaQuest too.
+
+00:05:25.540 --> 00:05:27.540
+That Swiss tax administration receives a cover letter. It says: Anna Krause has these claims from Switzerland and would like so-and-so many euros back.
+
+00:05:28.140 --> 00:05:31.260
+'Dear foreign tax administration.' Then they transfer it to the bank, and the bank transfers it to you. But wait — my bank has to prove I paid German capital gains tax here.
+
+00:05:31.360 --> 00:05:33.160
+And only because of that do I have a right to reclaim the withholding tax — because I already paid capital gains tax here in Germany.
+
+00:05:34.380 --> 00:05:39.540
+Concretely: you're liable for tax in Germany and in Switzerland. But if you're taxed in Switzerland, you'd pay 35 percent.
+
+00:05:40.720 --> 00:05:43.020
+In Germany you'd pay 25, or 26.375 with church tax and solidarity surcharge.
+
+00:05:43.020 --> 00:05:50.760
+Say 25 and 25 — that's pretty much exactly 60 percent of tax you'd have to pay.
+
+00:05:51.500 --> 00:05:54.780
+If you reclaimed 10,000 euros, you'd pay 60 percent tax, leaving you 4,000. That's not okay.
+
+00:05:55.000 --> 00:05:59.720
+That's why countries like Germany and Switzerland agreed on a Double Taxation Agreement (DBA).
+
+00:06:00.100 --> 00:06:02.320
+It states that a German may not be taxed more than he's taxed in Germany. So it should stay at 25 percent.
+
+00:06:02.460 --> 00:06:05.520
+But Germany and Switzerland split the tax between them. Each gets a bit of that 25 percent. So you'd be taxed a little less in Germany.
+
+00:06:06.300 --> 00:06:10.020
+Say 10 percent or so — that's what's agreed. Or 11.375. Let's use 10, it's simpler. And from Switzerland you reclaim 15 percent.
+
+00:06:10.640 --> 00:06:11.500
+10 plus 15 is 25, and you're not taxed more than you should be in Germany. So we reclaim 15 percent from Switzerland — ideally.
+
+00:06:11.500 --> 00:06:18.400
+20 percent stays in Switzerland, out of the 35. — But then I'm taxed 10 percent more than if I only had German shares? No.
+
+00:06:19.660 --> 00:06:22.820
+On German shares you pay 25, and if you're double-taxed and reclaim it, in the end — once you've received your money — you're back at 25. It's just more complicated and slower.
+
+00:06:23.640 --> 00:06:29.500
+And that's why RaQuest exists. Maybe we can cover this basics topic in another session.
+
+00:06:29.500 --> 00:06:34.900
+Mr. Börn, we can schedule a session with a YouTube video where he explains it again. Perfect. Then I'll move ahead in RaQuest. But it's a good foundation.
+
+00:06:34.900 --> 00:06:39.920
+It definitely helps for understanding the rest. So — you see a claim here, and then you can kick off the process. We'll do that again in a few minutes.
+
+00:06:40.160 --> 00:06:42.120
+But I want to come back to the main interface — that's the main entry point. Really, for a Standard Refund you'd hardly need to do more. It's that simple.
+
+00:06:42.900 --> 00:06:48.120
+When one of these claims is pinned onto an Antrag (application) — what's an Antrag? An Antrag for the Swiss tax authority is a real Swiss tax-authority form. You'll see it often enough.
+
+00:06:48.300 --> 00:06:54.680
+And the claim gets printed onto it. 'Printed onto' in RaQuest means: the claim is moved into a container, printed onto that Antrag. And then we have a new part of the program.
+
+00:06:54.680 --> 00:07:01.380
+Anträge → Anträge verwalten (Manage applications). I'll deliberately hide collective applications. Let's go to Anträge verwalten — because then you're already further along in the process.
+
+00:07:01.580 --> 00:07:02.440
+You'd already have moved a claim into an Antrag. And now I clicked Suche starten again.
+
+00:07:03.240 --> 00:07:05.980
+And there you see, okay, applications have been created. They get application numbers — an RA-NR. 'RA' stands for RaQuest, 'NR' stands for number.
+
+00:07:06.100 --> 00:07:07.180
+Every Antrag gets its own unique number, made up of date, month, day, plus a six- or seven-digit number after it,
+
+00:07:07.180 --> 00:07:14.260
+which is ascending. So every Antrag has its own number. And this row is already an Antrag, even if it's cancelled.
+
+00:07:14.940 --> 00:07:25.760
+Let's not get distracted here. But you'd have applications like these, already further along in the process.
+
+00:07:25.760 --> 00:07:33.980
+Now you could still send them to the tax authority. I'll click close. So, thinking left to right: first you have claims, run them through a process, and immediately get applications.
+
+00:07:34.460 --> 00:07:36.460
+Pretty fast. Then you'd move into the second program area, because that's where the applications live. So, what else do we have? Of course RaQuest has Kontakte (contacts),
+
+00:07:37.100 --> 00:07:43.220
+such as the customer data. Let me quickly open it: Kontakte → Kontakte verwalten.
+
+00:07:43.360 --> 00:07:50.620
+And you can already note this: once you've clicked Kontakte verwalten, there's an inconspicuous 'Kontaktart' (contact type) on the far right.
+
+00:07:51.000 --> 00:07:52.640
+These contact types are actually all the contacts we have in RaQuest, from every side — not just customers. In the middle it says Kunden (customers),
+
+00:07:53.040 --> 00:07:55.700
+but at the very top it also says foreign authority — that could be a Swiss foreign authority.
+
+00:07:55.760 --> 00:07:56.980
+Or really all the foreign authorities out there that we've implemented in RaQuest. Then there's another screen, for example for Finanzämter (tax offices).
+
+00:07:58.080 --> 00:07:58.760
+We of course need countless tax offices from different countries. In Germany there are 600, 700, 800 tax offices. If I click here,
+
+00:07:59.340 --> 00:08:03.480
+let's search for tax offices with Suche starten. We get the addresses of all tax offices implemented in RaQuest. Bottom left, I scrolled all the way down — 671 currently implemented.
+
+00:08:04.760 --> 00:08:12.620
+They needn't be only German ones; they could be from other countries too. Why do we need them? Because for someone like Ms. Krause, if she
+
+00:08:12.900 --> 00:08:13.720
+holds securities and wants to reclaim, at some point in the process her residence has to be confirmed — that she really is resident in Germany,
+
+00:08:14.640 --> 00:08:23.640
+that she's taxed in Germany too. And that consequently the Double Taxation Agreement, e.g. with Switzerland, applies. Germany, Switzerland.
+
+00:08:23.640 --> 00:08:28.380
+That's the proof she's resident and everything's above board. That's why we need the tax offices. Then we need Finanzinstitute (financial institutions). Let's look — Suche starten.
+
+00:08:28.500 --> 00:08:36.020
+This is a rather awkward one (OIMB) — it's test info. A bank would be listed here. Could be KUWA, ASPC, LBBW or so. That's also the Mandant (tenant).
+
+00:08:36.020 --> 00:08:48.620
+So not just the address of the institution using RaQuest, but also many, many settings underneath, below the line,
+
+00:08:48.620 --> 00:08:55.120
+which we'll talk about later. Lots of institution-level settings live there. But you could also search for customers — click Suche starten.
+
+00:08:56.000 --> 00:08:57.680
+And an important note: RaQuest always distinguishes between customer types — Person, Group, Organisation, Fund. Persons are Bogdan, Anna, Claudia, Christoph.
+
+00:08:57.680 --> 00:09:05.860
+Groups are e.g. married couples, or siblings, or people who pool together and invest. There are Organisations — basically all organisations
+
+00:09:06.700 --> 00:09:12.800
+across all legal forms that exist. It's like a drawer. And you can also search for Funds. Many of our customers — the ones using RaQuest —
+
+00:09:12.940 --> 00:09:15.260
+also manage many funds via investment companies. And so those funds may reclaim withholding tax too. Let's go to Persons,
+
+00:09:15.260 --> 00:09:21.240
+click Suche starten again, and you'll find only persons. Here, Mela Rodriguez would be a contact for whom withholding tax might one day be reclaimed. We won't go deeper now.
+
+00:09:21.320 --> 00:09:23.920
+You could double-click to enter the contact and see the various process steps — everything you have to consider and set on the customer. But I'll click Cancel,
+
+00:09:24.560 --> 00:09:29.220
+so as not to give too much away. So: Kontakte verwalten from the main menu — that's your entry point. Just search for contacts, of every kind. Bank case workers too
+
+00:09:29.400 --> 00:09:31.980
+are stored under Kontakt. Zahlungen (Payments). This is quite exciting, because eventually the money comes in — e.g. from Switzerland — and a payment receipt lands,
+
+00:09:32.420 --> 00:09:33.300
+i.e. a piece of data, in RaQuest. And these payment receipts are even matched fully automatically to the existing Antrag. Picture it: we have this Swiss Antrag
+
+00:09:33.480 --> 00:09:34.900
+with this RaQuest number, and — if we've configured everything perfectly — the payment receipt, your 10,000 euros,
+
+00:09:35.900 --> 00:09:37.520
+knows it belongs to that Antrag, and they get matched. So the data comes back together here. The payment receipt comes from outside — it first has to be linked to the record
+
+00:09:37.520 --> 00:09:42.420
+we hold in RaQuest. Our bank — here called HFPC — files an application in Switzerland, and if Switzerland says yes, we'll pay it back, the money first goes to HFPC, and they'd then
+
+00:09:42.980 --> 00:09:47.800
+transfer it to the end customer, right? In 99% of cases I know the process the same way: HFPC wants to manage the money. Picture it —
+
+00:09:50.380 --> 00:09:52.820
+They do it for thousands of customers. And for thousands of customers, maybe one big payment comes in, or many small ones, and then the money
+
+00:09:53.680 --> 00:09:55.880
+basically travels as one big chunk to HSBC's account. That's the goal. That's why the Swiss application form shows not Anna Krause's account, but HSBC's account.
+
+00:09:59.060 --> 00:10:00.760
+HSBC then distributes it properly to the customer with RaQuest's help — and that's where Zahlungsausgänge (outgoing payments) come in, not incoming ones.
+
+00:10:02.220 --> 00:10:03.000
+Money going out. Think of it like a booking entry: money going out to the customer, to the customer's account. You could also picture it as: you get a dividend,
+
+00:10:03.000 --> 00:10:07.600
+and many months or a year later you get the refund from Switzerland — basically the remaining withholding tax still owed to you. Much, much later. Which is a shame, because in the meantime you
+
+00:10:08.100 --> 00:10:08.360
+can't reinvest the money — but that's how it is. Stammdaten (master data). Master data is extremely important, because this is where you first find the securities.
+
+00:10:09.420 --> 00:10:14.560
+All the securities needed for the claims. They're imported. A few thousand or tens of thousands of securities can easily be loaded in.
+
+00:10:14.700 --> 00:10:19.940
+So you go to Stammdaten → Wertpapier verwalten (Manage securities), click it, and hit Suche starten. Now you can say, okay, there are 2,800 rows in here,
+
+00:10:21.700 --> 00:10:23.740
+representing securities with an ISIN, a name, and an Instrumentart (instrument type) — share or bond. Then there's a country of taxation. This one is taxed in Austria, because it's an
+
+00:10:25.320 --> 00:10:27.360
+Austrian security. If you click further into the security, you get additional info, but the records aren't very large in this case.
+
+00:10:28.340 --> 00:10:28.900
+That's actually already enough for the good reclaims we can do with RaQuest. — So RaQuest can only reclaim withholding tax from very specific countries, right? You don't know every
+
+00:10:28.900 --> 00:10:38.260
+tax authority worldwide. So if I have holdings in Brazil, say — you have Denmark, Germany, Austria — so withholding tax can only be reclaimed for shares from these countries?
+
+00:10:38.260 --> 00:10:43.340
+Actually, we keep extending RaQuest. So if a new customer comes and says, we have Indonesia,
+
+00:10:44.640 --> 00:10:45.120
+then — I think we even have Indonesia — but if we didn't have it in RaQuest yet, we'd say, let's look at the process together, see how the withholding tax is levied,
+
+00:10:46.480 --> 00:10:48.760
+and then say: do they need certain forms, which authority do we write to, or is it a Lagerstelle (a bank) we write to, how does the process look,
+
+00:10:48.840 --> 00:10:49.780
+which forms do you need, and so on. And then — especially the business analysts — sit down and try to reconstruct the process, boil it down to essentials
+
+00:10:49.920 --> 00:10:53.680
+and build it. What we don't have yet, we investigate whether we can build. We prioritize countries that have Double Taxation Agreements, of course.
+
+00:10:53.680 --> 00:10:59.040
+So we're definitely in Europe — because concluding double-taxation agreements is common practice there. There's surely a list, an overview, of which countries generally
+
+00:10:59.360 --> 00:11:01.920
+have double taxation or tax agreements with each other. That's already quite a lot. — But in RaQuest, do you have only German banks, or foreign banks too?
+
+00:11:02.360 --> 00:11:06.520
+In RaQuest — our customers who use RaQuest — Liechtenstein, Luxembourg, and lots of Germany. And Austria. Switzerland.
+
+00:11:07.440 --> 00:11:09.580
+And indirectly Switzerland is already included too. Of course there are always language hurdles. So if you say
+
+00:11:09.740 --> 00:11:12.660
+we're going into the Czech Republic or somewhere and want to establish ourselves there, you need people who speak the language, then it's a bit easier. But right now we're in the countries
+
+00:11:13.200 --> 00:11:14.400
+bordering Germany. Which doesn't rule out expanding in the future.
+
+00:11:14.400 --> 00:11:20.740
+Then we have Stammdaten → Applikationseinstellungen (application settings). You might ask, what are application settings doing under master data? Well, that's just how it's implemented.
+
+00:11:20.860 --> 00:11:26.240
+You could have made this Applikationseinstellungen button separate. But these application settings also act on master data and, in a sense, contain master data
+
+00:11:26.960 --> 00:11:28.580
+themselves. You'll see. Let me click Applikationseinstellungen. Here there are various process trees, process steps,
+
+00:11:28.860 --> 00:11:30.660
+and to orient yourself you go from the top: Ablauffristen (expiry deadlines). I'll just touch on it briefly.
+
+00:11:31.600 --> 00:11:36.160
+Of course the Swiss authority — like any authority or Lagerstelle — can say, at some point, maybe after four years, you can no longer reclaim. Just like
+
+00:11:36.260 --> 00:11:38.300
+my tax return, which I can only file for one or a few years. Then these deadlines expire, and after that you can no longer file a claim — and even if you send it in, you get no money.
+
+00:11:38.300 --> 00:11:42.700
+That's it. It's time-barred (verjährt). And that's why we have to set various deadlines, and here we have a deadline model. Can be explained case by case later. But then there's a very
+
+00:11:43.000 --> 00:11:44.400
+powerful tool — the Anwendungseinstellungen (application-behavior settings). You see a few rows again, but these are very powerful tools that influence RaQuest's process, or
+
+00:11:45.520 --> 00:11:48.440
+override it, depending. Over time, as you work with RaQuest, you'll get to know some of these points. Not all of them exactly yet. What's also
+
+00:11:49.060 --> 00:11:51.740
+important, for example, are the Investitionsmärkte (investment markets) — and here too, very interesting: which markets already exist? Here you see the ISO codes, AT for Austria, B for
+
+00:11:52.720 --> 00:11:54.720
+Belgium, Taiwan, Sweden, Russia, Portugal, Norway, Netherlands, KDR I don't know, Japan, Italy, and so on.
+
+00:11:54.860 --> 00:11:59.140
+Suppose I pull out one of these markets — what did we do? Double-click on it. Again there are various settings we'll get to know over time, and when you
+
+00:11:59.140 --> 00:12:04.380
+click on Quellensteuersätze (withholding-tax rates) — I'll show you briefly — you see quite precisely: how much withholding tax is due in France? For shares.
+
+00:12:07.200 --> 00:12:11.600
+Okay, but how much should remain in RaQuest at the end of the process? That would mean, I calculate in my head, minus 15 is then
+
+00:12:11.760 --> 00:12:13.900
+So I may reclaim that. You always have to picture it as a triad (Dreiklang). And that's how RaQuest calculates too. Picture a Swiss claim — right now we're unfortunately on the France market,
+
+00:12:14.240 --> 00:12:15.180
+if we switch over to Switzerland. Let me go into the Switzerland market. I'll try to make it a bit livelier. For shares. Okay.
+
+00:12:16.320 --> 00:12:17.000
+Now, a claim comes into RaQuest, and the claim is checked against these settings we have. It's checked: okay, this is
+
+00:12:17.340 --> 00:12:19.540
+a Swiss claim, so 35 percent withholding tax applies. Does that match what was imported? It's reconciled — yes, 35 was imported, 35 is in RaQuest, matches. Then it says, yes, but
+
+00:12:19.640 --> 00:12:20.700
+creditable is [15]. Meaning 15 stays at source, 15 stays abroad, forever. Forget it, write it off. So 15 of 35 stay at source. Then
+
+00:12:20.700 --> 00:12:26.300
+RaQuest tells you, and calculates it again: so I may reclaim 20. And then I get a claim imported with the correct reclaimable amounts.
+
+00:12:26.420 --> 00:12:32.140
+And that's just a cross-check that everything fits and is correct and compliant. How does it all work? We collect the data, look a bit into the double-taxation agreement, we
+
+00:12:32.700 --> 00:12:37.420
+talk with the customers so they give us the right rates, and then it's known for a market: it's 35 [and 15], enter it into RaQuest, and it's fixed for now.
+
+00:12:38.340 --> 00:12:40.280
+It could change — if the Swiss tax authority decided to raise it to 40, we'd have to change it. We can change everything. I hope I'm not overwhelming you, but this
+
+00:12:40.460 --> 00:12:43.780
+withholding-tax-rate topic is the crux, so I'm going into it in more detail now. Down here there's another row — the middle grid essentially says:
+
+00:12:43.780 --> 00:12:50.800
+these are all withholding-tax rates that, per DBA (Double Taxation Agreement — that's the abbreviation),
+
+00:12:51.900 --> 00:12:56.180
+per the DBA stay at source: 15 percent. Then it says there's also a creditable Domestic Law withholding-tax rate.
+
+00:12:56.320 --> 00:12:59.160
+Domestic Law means there are rules outside the DBA that override the DBA and are more powerful, applying only
+
+00:13:00.000 --> 00:13:01.160
+in that country, that market country — Switzerland. Here, for foundations for example, 20 percent would stay at source — meaning, ah, they may reclaim less,
+
+00:13:01.360 --> 00:13:04.020
+they get 15 back of 35, and here too it's cross-checked: if a customer were, say, a transparent foundation, they get this rate. All other customers get
+
+00:13:04.380 --> 00:13:07.640
+this rate for shares. It all plays off against each other. There are many more columns and settings you can pull in and
+
+00:13:07.640 --> 00:13:10.160
+get to know over time.
+
+00:13:10.560 --> 00:13:11.200
+When you import a natural person, that person gets assigned — like a letter salutation, 'Dear Sir'. These are basically tables.
+
+00:13:11.200 --> 00:13:14.980
+Not complicated settings, just matching tables you can configure freely by language: German, English, French — you need all languages, all salutation forms,
+
+00:13:15.160 --> 00:13:16.920
+genders and their labels. Then here you also find Rechtsformen (legal forms). Interesting, because everyone knows OK (OHG), AG, or
+
+00:13:19.120 --> 00:13:20.240
+KG — but if you don't speak French, 'Société Anonyme' means a legal form, a French one. So we maintain and cultivate
+
+00:13:20.360 --> 00:13:22.600
+legal forms too; different customers may have different data sets, and these legal forms are again matched like a table to the customer data.
+
+00:13:23.180 --> 00:13:25.100
+Independent of — or almost indirectly dependent on — legal forms, there are Kundentypisierungen (customer typifications). What's that? Picture how, across Europe or worldwide, various terms
+
+00:13:26.100 --> 00:13:27.440
+float around. All these terms can't always be assigned 100% clearly to a legal form, because you can't map everything one-to-one to a GmbH. These
+
+00:13:29.920 --> 00:13:31.620
+various terms shown here are also used on the application forms. Example: a Swiss application form has a field somewhere — a very
+
+00:13:35.180 --> 00:13:38.460
+small field — that may require 'Pooled Fund Trust'. Where do we get that term? It has to come from RaQuest somehow. It's again a table where we maintain these terms.
+
+00:13:38.460 --> 00:13:42.800
+But the terms are even more powerful — there's a lot of magic behind what they can do. But you ease into that gradually too. We go from easy to hard.
+
+00:13:43.600 --> 00:13:46.820
+I'm back on RaQuest's main page. We briefly touched Stammdaten, securities and application settings, and we're still on menus. There's Konflikte (conflicts) —
+
+00:13:47.940 --> 00:13:51.240
+not what you're thinking. When you import data, RaQuest checks it. RaQuest has a very precise
+
+00:13:51.380 --> 00:13:53.940
+validation system and says, no, this data isn't correct, I need more info. Then we call it a conflict and put that data into a container called Konflikte.
+
+00:13:54.460 --> 00:13:55.300
+Or simply faulty data — better said, data with missing info — can be conflicts. Up here in the
+
+00:13:55.600 --> 00:13:57.180
+menu bar, Konflikte is mentioned, but down bottom-left there's also a Webpart called Quarantäne, which again holds conflicts. And now, if I hover over with mouse-over,
+
+00:13:57.180 --> 00:14:04.460
+oh, there are conflicts: divergent withholding-tax rates, missing exchange rate (Devisenkurs), missing Lagerstellennummer.
+
+00:14:04.560 --> 00:14:08.920
+I find Lagerstellennummer pretty easy now. Let me go in — click Konflikte, a separate window opens, top-right there's a global selection for what you want,
+
+00:14:09.660 --> 00:14:12.000
+and I go to Lagerstellennummer. Suche starten. Which data has a missing Lagerstellennummer? That's the question. Then you can say, ah, a claim with a
+
+00:14:12.340 --> 00:14:16.540
+US ISIN — a security — with a depot number from long ago has no Lagerstellennummer. Then I could assign the Lagerstellennummer. So I can maintain the
+
+00:14:16.540 --> 00:14:23.980
+data here, as a case worker too.
+
+00:14:24.780 --> 00:14:28.360
+He may keep applying for claims, moving them into the process. A conflict is a preliminary stage — a stage to check data before you even apply.
+
+00:14:28.800 --> 00:14:32.400
+If data is missing, you may not be able to apply, because the Lagerstellennummer is missing. So what's a Lagerstellennummer?
+
+00:14:33.100 --> 00:14:35.120
+Claims always point somewhere. They point to the foreign authority, or to a bank where I
+
+00:14:35.500 --> 00:14:39.320
+apply. We call them Lagerstellen — where the securities are held in custody. They're basically just banks, and you write to these banks.
+
+00:14:39.720 --> 00:14:41.880
+And of course you have accounts at these banks. Assigned to these accounts are Lagerstellennummern. With that number you point to the account,
+
+00:14:42.020 --> 00:14:43.540
+and indirectly to the bank you want to reach. There has to be a connection somehow. If there's no connection, there's a conflict — and if there's a conflict, you can't apply.
+
+00:14:43.540 --> 00:14:46.080
+I think I've explained enough around it. Can you follow? Data conflicts? — So it's like this: I'm at HSBC now,
+
+00:14:46.120 --> 00:14:47.320
+my customer has, say, shares in Switzerland, but they're only traded at a Swiss bank or exchange. So I basically put the Lagerstellennummer — the place in Switzerland at the bank
+
+00:14:47.920 --> 00:14:49.000
+where my share is traded. Right? — I'd phrase it a bit differently. I'd put it: you're an HSBC customer.
+
+00:14:49.860 --> 00:14:51.840
+You have claims. Those claims — which rarely interest you — now sit at Clearstream. Clearstream is the name of a bank. Clearstream is actually a fairly
+
+00:14:51.960 --> 00:14:53.360
+large custodian bank, where these securities are kept physically — not physically, but at least digitally. Picture it: when you hold a security,
+
+00:14:55.380 --> 00:14:56.800
+the security is booked in your depot, but data-wise it's mirrored — better said, the original is at the Lagerstelle, at Clearstream.
+
+00:14:56.920 --> 00:15:00.680
+I know, I wanted to sell it and unfortunately they no longer [connect] my bank with the other bank. I do know the firm. Okay, strange. Shares,
+
+00:15:00.760 --> 00:15:04.600
+When you look into your paperwork — after buying, a few documents get flushed into your depot — you can read where
+
+00:15:05.100 --> 00:15:07.380
+your securities are actually stored. What does it say? Lagerstelle or Verwahrstelle (custodian)? It's all nicely listed if you want to know. Conflicts,
+
+00:15:07.380 --> 00:15:08.880
+right. Conflicts arise simply when data isn't cleaned up. Okay, so
+
+00:15:08.960 --> 00:15:11.320
+a case worker sits at the bank, turns on RaQuest in the morning, and says, oh, my Webpart reported conflicts to me. I need to
+
+00:15:11.320 --> 00:15:13.520
+resolve them, go in — bam — and she works, tackles the conflict, researches, ah, the Lagerstellennummer is 123, enter it, tap tap, next, resolving one conflict after another, and only then is the data
+
+00:15:13.540 --> 00:15:16.440
+cleaned. That would be her job, because she sees this Webpart showing conflicts. Administration — that's something only I see. If I have certain
+
+00:15:17.980 --> 00:15:20.340
+rights, I can manage users here — create a user: Anna Krause, Bogdan, Ursu — and I can give the user roles, so they may apply, for instance,
+
+00:15:20.340 --> 00:15:21.800
+but may not do Massenverarbeitung (bulk processing), and definitely not have an application administrator's rights — that's just a case worker. So we have here
+
+00:15:21.940 --> 00:15:23.280
+a very sophisticated role concept assigned to users. Users are, as a rule, the people at the bank who work with RaQuest. Auswertungen (reports/analyses).
+
+00:15:24.120 --> 00:15:24.720
+Picture Auswertungen as 90% Excel lists. When I click Auswertungen → Berichte (Reports),
+
+00:15:25.820 --> 00:15:28.920
+I'm always taken to the reports, and I click on a report
+
+00:15:28.920 --> 00:15:32.220
+and I see, okay, filter masks again — I could look at a few reports here. I want to see a customer report,
+
+00:15:32.220 --> 00:15:35.320
+and then I might have to enter some data, or not. Sometimes reports work without filters, so I click Next and see if it gives me something. No, it needs a parameter.
+
+00:15:35.420 --> 00:15:37.020
+Then I'd have to invent and know a parameter. Is there anything else?
+
+00:15:37.020 --> 00:15:39.480
+It didn't show me
+
+00:15:41.180 --> 00:15:44.620
+which cases are 'light'? — Sometimes, unfortunately not yet. I can give you an example. That's a very good question, but it's not that sophisticated yet.
+
+00:15:44.780 --> 00:15:46.160
+When you go in and see, okay, some fields are pre-filled — beyond that, are there fields that are mandatory? You don't know. You find out. And I'd wish, as a business analyst, hey,
+
+00:15:47.000 --> 00:15:49.680
+color this field red or something, so I understand it. I don't want to have to fill every field. We'll be out of luck there. What comes out
+
+00:15:49.780 --> 00:15:53.940
+is an Excel list. Just click Next, bottom-right, or Preview top-left, then you get the quick preview and can download the Excel. Maybe we have
+
+00:15:53.940 --> 00:15:55.520
+a good example. But I won't dwell on it if I can't find one. — Have you ever communicated something like that into a list,
+
+00:15:55.520 --> 00:16:00.020
+or do you in the BA have a task list where you say, this needs to go into a sprint at some point? — Whenever an idea pops up and you write it down, it goes
+
+00:16:00.580 --> 00:16:01.740
+into TFS, into the Backlog. Backlog items, it's called. That's the backlog. Everything that should be done gets collected there.
+
+00:16:02.300 --> 00:16:05.880
+Usually — I personally often go so far as to say, this actually needs to be done fairly soon, May, June, July — and I assign it. But there are many
+
+00:16:05.880 --> 00:16:07.320
+requirements so trivially unimportant that they just sit. Of course some things get prioritized — the developers do those first — and other things stay put. This one would be a requirement:
+
+00:16:08.320 --> 00:16:10.560
+build the fields so I know which are mandatory. That requirement could be classed as unimportant, because the customer isn't really crying out for it.
+
+00:16:10.560 --> 00:16:13.680
+The customer noticed it once, but got used to it. Over time they figured out which were mandatory fields. So you could argue: stays in the backlog for now. And at some point
+
+00:16:13.680 --> 00:16:16.020
+maybe a junior developer who wants to practice or learn gets the easy tasks. One option.
+
+00:16:16.800 --> 00:16:19.160
+We keep trying things out, then discard them again — so there's a lot of movement. Administration is very important for
+
+00:16:19.380 --> 00:16:20.980
+users, roles, permissions, etc., and reports would be something like — how can Christopher show you that an Excel list comes out, I have to first [find an example].
+
+00:16:22.380 --> 00:16:24.500
+That's interesting. B-Depot, which they won't go into now. Dokumente → Fachdokumente verwalten (manage specialist documents), very interesting.
+
+00:16:25.080 --> 00:16:27.540
+Briefly touched: we used to only support Standard Refund and built software for that. Now, for a few years, we can also do
+
+00:16:27.540 --> 00:16:29.840
+pre-exemption. There are, let's say, three main processes for reclaiming or getting money from abroad. The first is Vorabbefreiung (advance exemption) — heard of it?
+
+00:16:30.340 --> 00:16:32.660
+Okay. The second is Quick Refund — a fast reclaim. And the third is Standard Refund. And you can think of it this way.
+
+00:16:33.040 --> 00:16:36.420
+RaQuest only ever had Standard Refund at first — you go to Beantragen, Ansprüche beantragen. But when it comes to advance exemption, we only collect documents. Then you enter this process.
+
+00:16:37.420 --> 00:16:39.260
+Dokumente → Fachdokumente verwalten. Maybe in the future we'll put other documents in, but here we collect rows for documents. This is a test database. There may be nothing in it.
+
+00:16:39.260 --> 00:16:41.880
+Actually, there is. Then you'd have rows for documents here. Each row is a document — for example a Wohnsitzbestätigung (residence certificate).
+
+00:16:41.880 --> 00:16:44.140
+And these documents are collected and then handed over in a package to the Lagerstelle at some point. And the Lagerstelle then knows the documents are there.
+
+00:16:44.360 --> 00:16:46.180
+Now I can transfer you the money.
+
+00:16:46.720 --> 00:16:47.940
+So it's a very, very exciting, very important program area we'll approach our customers with even more in the future. I count three customers who'll use it,
+
+00:16:48.660 --> 00:16:51.300
+but I know others will take it too. It's a product that's slowly really picking up speed as a product line.
+
+00:16:51.300 --> 00:16:53.440
+Yes, the documents product line. So, the menu bar. We've now touched on the menu bar a bit. You can already orient yourself.
+
+00:16:54.760 --> 00:16:56.140
+And now let's go a bit into these Webparts, these black boxes. This one is about system login. Who's logged in — it's SV2.
+
+00:16:56.740 --> 00:16:58.760
+So the username is SV2. And the case worker assigned to that username is Sabrina Josefina Klatterbrock. That is, me.
+
+00:16:59.680 --> 00:17:02.640
+I logged in with this name, this username. And this username happens to have Sabrina Josefina Klatterbrock, case worker, assigned.
+
+00:17:02.780 --> 00:17:04.560
+And this username has roles assigned. I'll read them: expert (Sachverständige), case worker, bulk processing, data/system administrator, and application master-data manager.
+
+00:17:05.380 --> 00:17:07.260
+There are many other roles. I can flip through them. Here you see other roles. It's just a very simple overview.
+
+00:17:07.260 --> 00:17:10.500
+Which role may do and can do what? I'll happily share this presentation afterwards. Case worker and expert are the usual clerks who set all these processes in motion.
+
+00:17:11.840 --> 00:17:13.440
+They may, for example, carry out use cases in the application — like applying for claims. To Switzerland, they may do that.
+
+00:17:13.520 --> 00:17:15.680
+Payment receipts are matched. Booking in and out, they may do that. Experts (Sachverständige) are a bit like supervisors — usually department heads or so.
+
+00:17:16.900 --> 00:17:18.640
+They're people who get a bit more rights. They may release or delete a four-eyes approval.
+
+00:17:18.780 --> 00:17:20.500
+And they simply have a bit more power. There are auditors (Revision). Then there's application administrator, data correction, and so on and so forth.
+
+00:17:20.500 --> 00:17:21.880
+We can go into that in more detail when you're ready. So a case worker usually has these two roles: expert and/or case worker.
+
+00:17:23.260 --> 00:17:24.560
+And when someone has to do something in bulk, they also get bulk processing. Whoever has to do data correction, because data is wrong, gets that role too.
+
+00:17:24.560 --> 00:17:25.840
+System administrator is very, very powerful — sets up systems, can really set up RaQuest end to end. The application master-data manager just does master data.
+
+00:17:26.680 --> 00:17:28.220
+So, I've given myself all these rights. I can do quite a lot. And you can log out of RaQuest too — let's do that. Log out. We're deliberately doing basics today.
+
+00:17:28.220 --> 00:17:29.660
+Then you can log back in. So — log out, we wait here. If you want out of RaQuest, you could also change your password. Okay, it's all fairly easy in this Webpart.
+
+00:17:29.660 --> 00:17:31.920
+Then we get to Quarantäne (quarantine). A very topical word lately. I looked up yesterday where the word 'quarantine' comes from.
+
+00:17:32.020 --> 00:17:33.720
+It comes from the region around Venice. Fascinating — back in the plague era they said ships arriving must spend 40 days in quarantine.
+
+00:17:33.720 --> 00:17:35.620
+I don't know if it was a neighboring island where they had to park for 40 days. That's the origin of the word 'quarantine'.
+
+00:17:35.620 --> 00:17:37.760
+Although with the plague they didn't know exactly how long the incubation was. But they just took a flat 40 days, and only then could you enter the city.
+
+00:17:38.180 --> 00:17:39.460
+And you could also enter the city if you were very wealthy. Interesting — you get it on Wikipedia. But in this case, quarantine is data.
+
+00:17:39.720 --> 00:17:41.200
+It's faulty, as we saw. And it has to be cleaned up. Then there's also the Antragsquarantäne (application quarantine). It's like conflicts, but here you're already further in the process — you already have Anträge up top.
+
+00:17:41.200 --> 00:17:43.140
+So in the menu bar, on the second bullet, you're already further. Applications have been created. And it could be that some case worker deleted tax data or so.
+
+00:17:44.220 --> 00:17:45.720
+Or deleted some customer info that sends the application into quarantine. Picture it: Anna Krause moves house.
+
+00:17:46.120 --> 00:17:48.720
+Anna Krause didn't report her new address. The bank only knows she moved. Anna Krause maybe also has a new tax number, if possible. And now it's been removed from RaQuest.
+
+00:17:48.720 --> 00:17:51.880
+Then her existing Swiss application, not yet refunded, moves into application quarantine — because it may not be applied for. She has a new residence.
+
+00:17:51.880 --> 00:17:52.540
+That's not verified. So it goes into quarantine, and the case worker can call it up and process it.
+
+00:17:53.100 --> 00:17:54.120
+Maybe he also has to correspond with Anna Krause. Or the client advisors correspond with her and pull the data in. Then we have Kritische Rückforderungen (critical reclaims).
+
+00:17:54.780 --> 00:17:55.900
+Earlier, under master-data application settings, we briefly saw the expiry deadlines. Each country has different deadlines. I'm just talking off the cuff, since I don't have it memorized.
+
+00:17:56.440 --> 00:17:56.880
+In France three years, in Switzerland four years, and so on. Then here's a Webpart that displays something. Caution!
+
+00:17:58.860 --> 00:18:00.960
+In a few weeks, days, months the deadline expires. Dear case worker, file your applications quickly now. This is a reporting.
+
+00:18:00.960 --> 00:18:01.900
+We call it critical reclaims.
+
+00:18:04.300 --> 00:18:04.900
+And with mouse-over you'd again get more data flushed in. Let me go to current — 1, 1, 1.
+
+00:18:05.580 --> 00:18:06.540
+And then it says, oh, I have critical reclaims in France: 33.
+
+00:18:06.960 --> 00:18:09.280
+Then I could click on 'current' and get a new page showing which of these claims are critical. There's a mark (Fleck) in there.
+
+00:18:09.400 --> 00:18:10.420
+The mark signals: ah, expiring soon. I should slowly apply for these now. Then here I could also start the process directly — apply.
+
+00:18:10.420 --> 00:18:14.320
+Bam, get all the documents ready, send things off, because we don't have much time. Let me switch to the PowerPoint. You can also show it visually.
+
+00:18:14.480 --> 00:18:16.660
+RaQuest has its data model behind it, but it's quite simple. Take France as an example. Here we'd have 60 months' limitation — what's that, 5 years?
+
+00:18:16.660 --> 00:18:18.040
+So you have plenty of time — the blue strip. Now you have a pay-day. A pay-day is always when the dividend is distributed.
+
+00:18:18.040 --> 00:18:20.460
+From that point the clock starts, up to 5 years into the future. And when the 5 years are up, it's time-barred. That's why I wrote 'verjährt' (barred) here at the end.
+
+00:18:20.460 --> 00:18:22.660
+And maybe you still have it in quarantine, in the application quarantine. And you can look again — oh damn, the applications are time-barred. The customer doesn't get his money.
+
+00:18:22.660 --> 00:18:24.600
+Then here you have intermediate deadlines too — a Lagerstellenfrist (custodian deadline) — because the custodian also says, hey, 180 days before the official deadline of 60 months, I'd like to be reminded.
+
+00:18:24.660 --> 00:18:25.820
+Or rather, not reminded — just give me all your applications. Submit them within this deadline, or it's over. That's the custodian deadline.
+
+00:18:25.940 --> 00:18:27.400
+Then RaQuest also has a built-in Warnfrist (warning deadline), where you say, we want to be in even earlier. For example, when I studied for school, I learned from the start, but not toward the end.
+
+00:18:27.400 --> 00:18:30.960
+And whoever filed his applications in the first months has nothing more to do here, in these critical periods. So you have, say, a 90-day warning deadline.
+
+00:18:30.960 --> 00:18:35.160
+And then it's this light-colored mark. And when you're in the custodian deadline, it's a red mark. So, I go into RaQuest.
+
+00:18:35.340 --> 00:18:37.420
+And I see light marks and red marks. So I know: okay, the red mark was the custodian deadline, the light mark was the warning deadline. And an exclamation mark — what was that?
+
+00:18:37.420 --> 00:18:38.680
+Oh, it's already ba— sorry? It's time-barred, yes. Nothing more can be done. That's the nail in the coffin. That's it. Missed.
+
+00:18:38.780 --> 00:18:40.240
+Close. We've now learned critical reclaims a bit too. It's a monitoring system for the markets and a reporting system for the case workers.
+
+00:18:40.420 --> 00:18:42.960
+So, what do we have here — Warndokumente (warning documents)? Very interesting, because I told you: up top there's a document process, Fachdokumente verwalten.
+
+00:18:42.960 --> 00:18:44.920
+But just because it's a menu item doesn't mean the customer gets reported to. And down here is a report for it. So for warning documents: hey, dear bank case worker, please create 39 documents.
+
+00:18:45.580 --> 00:18:46.280
+If you don't create them, you run into a kind of limitation too. So this absolutely has to be filed. Create.
+
+00:18:46.500 --> 00:18:48.800
+As trivial as the word sounds, it's really just creating documents. There's a very complex, exciting data model behind when these notices arise.
+
+00:18:49.420 --> 00:18:50.160
+Why, how, wherefore? You have to make a lot of settings. But once they arise, it's good reporting. We don't go through every Webpart, because some don't concern us for a while.
+
+00:18:50.600 --> 00:18:51.580
+And when they concern, say, Bogdan specifically, you can go deeper.
+
+00:18:51.700 --> 00:18:52.640
+And we'll do that in the future too — RaQuest can really only be digested in pieces. And when you have a specific case, you can go deeper.
+
+00:18:52.640 --> 00:18:54.960
+Because behind each of these Webparts lies so much — so much mass of subject matter. Without wanting to scare you.
+
+00:18:55.060 --> 00:18:56.520
+Now up top we have Hintergrundaktivitäten (background activities). Extremely exciting. This happens whenever something happens in RaQuest, when data moves.
+
+00:18:57.480 --> 00:18:58.080
+Let's kick off a process and watch the background activities. We learned we can click top-left on Beantragen, Ansprüche beantragen.
+
+00:18:58.700 --> 00:19:00.000
+I'll go in boldly now. You haven't seen a single document yet. You don't know the process yet — you only know this interface a bit by sight.
+
+00:19:00.100 --> 00:19:00.880
+So now I'll show you the process. And with the process, background activities arise. As a case worker you should and may watch them.
+
+00:19:01.100 --> 00:19:02.380
+Because behind everything you do there are often calculations, computations, etc.
+
+00:19:02.380 --> 00:19:04.020
+So, to introduce you to the process a bit, let's go straight into it now. Beantragen, Ansprüche beantragen.
+
+00:19:04.140 --> 00:19:05.640
+Here you see lots of filters and search masks. Just to show once. Here's a dropdown menu with the arrow. Let's pick Switzerland.
+
+00:19:05.640 --> 00:19:06.300
+Because it's a good example. Then, back here is a little circle. This circle is a search field.
+
+00:19:06.300 --> 00:19:07.920
+If I click it, I get to another search mask and now have to search for a contact, for example. I want the contact — Kontaktart Finanzinstitut. I want the institution that operates RaQuest: the bank EU-MB.
+
+00:19:07.920 --> 00:19:08.860
+Double-click. Now I've selected it. Switzerland and this institution. Those are the filters I've preset.
+
+00:19:08.860 --> 00:19:10.820
+And I don't have to use all filters, but there are very, very many — which just signals to you: ah, there's a lot of complexity here too.
+
+00:19:11.520 --> 00:19:11.860
+Now I click Suche starten.
+
+00:19:12.060 --> 00:19:14.780
+And I get, for the Switzerland market I set, for the institution, 117 Swiss applications or claims.
+
+00:19:14.780 --> 00:19:16.220
+This data, if everything went perfectly and you solved the conflicts, is perfectly implemented in RaQuest and sits on the status 'beantragbar' (applicable).
+
+00:19:17.020 --> 00:19:18.520
+What's a status? We have many different statuses. You can't say 'Status' [plural] I think — Statie? 'Statie' is a nice word.
+
+00:19:18.520 --> 00:19:19.920
+I can work with that. Let me show you a status — our status model. It's proven itself over the years. On claims you'd first have Konflikt. We learned that.
+
+00:19:20.420 --> 00:19:21.580
+When a claim is a conflict, it must be resolved. Once resolved, it calculates as either not-applicable or applicable. Applicable is the target status we want, because then we can enter the process.
+
+00:19:21.680 --> 00:19:23.160
+Then you can advance to cancelled — then it's cancelled. Faulty. In progress, or applied-for. 'Beantragt' (applied-for) is our target status for the future.
+
+00:19:23.160 --> 00:19:24.300
+So what we're doing together now is moving from applicable to applied-for. These statuses will accompany you often, and you'll know them inside out.
+
+00:19:25.060 --> 00:19:26.300
+There's also — when you have others — a model for the application history (Antragsverlauf). It has different statuses with different names. I won't hit you with that now.
+
+00:19:26.300 --> 00:19:27.080
+I stared at these diagrams for a while too. But once you put RaQuest next to it and actually run these processes, you understand it. All the green arrows.
+
+00:19:27.080 --> 00:19:28.900
+So you take an action, and a status arises. Another action, another status. Then you can roll it all back — hence two arrows pointing up. And you land back in a previous status.
+
+00:19:28.900 --> 00:19:31.720
+That's roughly it. You'll get this and can study it calmly. We enter the process. Hey, this one's applicable. Right-click, then I go to Beantragen.
+
+00:19:31.720 --> 00:19:34.360
+What RaQuest does now: it copies this claim in and says, you have a Swiss claim, that's why it says CH,
+
+00:19:34.360 --> 00:19:36.360
+for the depot, for this customer AG2R — a test customer with a peculiar name — copied in once, available.
+
+00:19:36.360 --> 00:19:37.640
+I could also have ten claims, ten different Swiss shares — I could have grouped them in here. Double-click.
+
+00:19:37.640 --> 00:19:38.960
+Then you get another mask, and now we come to Antragsmodule (application modules).
+
+00:19:39.680 --> 00:19:40.540
+I'd suggest we go another 13 minutes and then take a break. I'm ready for a coffee for everyone. Okay.
+
+00:19:40.960 --> 00:19:41.580
+We're now inside the application, very interesting. So RaQuest already built us an application container fully automatically.
+
+00:19:41.580 --> 00:19:42.920
+The claim now points to this application with the application number RA-NR ...20. That's now its unique ID, its unique application ID number.
+
+00:19:42.920 --> 00:19:44.020
+And here we have an application module. These modules will come up often. For every country there are different modules. For every foreign tax authority there are modules — for every Lagerstelle.
+
+00:19:44.020 --> 00:19:45.220
+And this module is Switzerland at tax office Switzerland — 'CH bei FA CH'. So market Switzerland at the Swiss tax office.
+
+00:19:45.660 --> 00:19:46.140
+That's how you read it. FA = Finanzamt Switzerland — the tax office in Switzerland. And here is the domicile. Ah, the customer lives in France.
+
+00:19:46.140 --> 00:19:46.880
+Here we also see the claim's data and know: ah, okay, reclaimable withholding tax 10,000 Swiss francs. Just to point it out.
+
+00:19:48.560 --> 00:19:50.360
+And all this data is now used for the application. And I go into the Druckprozess (print process). We enter a pre-print process. It has these gray bars. Just let it sink in.
+
+00:19:50.360 --> 00:19:52.040
+Here, for example, is the bar for the application. Here the bar for the customer. And a bar for the customer's tax office. And a bar for the foreign tax authority — in Switzerland, for example.
+
+00:19:52.040 --> 00:19:53.660
+And these bars open one after another. So not all are active — right now only the first is active, and the customer's tax office is active. What do I do? I want to print an application.
+
+00:19:53.660 --> 00:19:54.480
+A Swiss application, which we'll see shortly. If we don't see it, I have to set something. I have to set something. One second. Haha.
+
+00:19:54.480 --> 00:19:55.460
+That was domicile France.
+
+00:19:55.660 --> 00:19:56.440
+We'll take our time.
+
+00:19:56.440 --> 00:19:57.580
+No, it's not here — it's in Switzerland. Since this is a test version I'm using for the first time today. Ah, we activated it for France.
+
+00:19:57.580 --> 00:20:00.040
+Very good. So, print process. We print an application, and down here we print a cover letter to the customer's tax office. It really looks like a cover letter. Top-right. Mail goes out, right?
+
+00:20:00.160 --> 00:20:01.280
+There is actually — when I print the applications for mail-out. Let me quickly go top-right on 'print all selected documents'.
+
+00:20:01.420 --> 00:20:02.140
+Then I first get PDFs. So it renders and assembles the PDFs with all the data.
+
+00:20:02.460 --> 00:20:03.300
+It's a very elaborate process, so it takes a moment. And what you see here is a freshly hatched Swiss application, fully printed.
+
+00:20:03.440 --> 00:20:04.160
+It says Form 83, it says Swiss and blah blah blah.
+
+00:20:04.160 --> 00:20:05.540
+So it's a Swiss application referring to the France market, to the France domicile.
+
+00:20:07.080 --> 00:20:08.100
+Let me zoom out a bit so you see how much paper there is, and zoom back in. What do you see? You see the institution's address.
+
+00:20:08.100 --> 00:20:08.780
+You may already see the customer data — here AG2R, an address, the institution's address that does this for you.
+
+00:20:08.780 --> 00:20:10.100
+You see the bank details — where the money must be transferred. France, IBAN. And you see the claim here. Then, okay, there's a total line.
+
+00:20:10.100 --> 00:20:14.720
+There could be several claims in there. And then 10,260 is reclaimed. Total amount. 10,260 is reclaimed.
+
+00:20:14.900 --> 00:20:16.240
+That's what we submit to the foreign tax authority, what we want to get. Then you see Antragsfragen (application questions). What's that?
+
+00:20:16.240 --> 00:20:17.860
+The Swiss state — really any state — wants to check whether you're truly entitled. For that you have to resolve certain matters.
+
+00:20:17.860 --> 00:20:18.780
+That Christoph Huckermann, say, if he held a company in Switzerland, might be a case where he may not reclaim at all.
+
+00:20:18.780 --> 00:20:20.560
+If you may no longer handle it, then you have to set various crosses here. And RaQuest can set the crosses fully automatically. So we can influence all of it.
+
+00:20:20.560 --> 00:20:21.480
+And we set the crosses pretty much automatically. Then you can go down — there's a second copy, a third copy. Because who gets copies?
+
+00:20:22.120 --> 00:20:23.800
+The customer gets a copy, the foreign authority gets a copy, and the customer's tax office gets a copy. And here we see a cover letter that actually tells the French authority,
+
+00:20:23.800 --> 00:20:25.100
+even in French, 'dear French foreign tax authority, please, please' — this is the letter to the tax office.
+
+00:20:25.220 --> 00:20:26.220
+Dear French authority, you are the customer's authority, the customer's tax office,
+
+00:20:27.360 --> 00:20:28.300
+issue us a residence certificate (Wohnsitzbestätigung) that the Frenchman lives in France, in — I don't know — Paris,
+
+00:20:29.120 --> 00:20:29.980
+is taxed there, is resident there. And so, with this letter, we obtain the residence proof.
+
+00:20:30.020 --> 00:20:30.800
+Here it says in French, 'certificat de résidence', that we're requesting a residence confirmation.
+
+00:20:30.800 --> 00:20:32.700
+And that's it. This form, and now — Anna, your question — has to be printed. Either way, still 90% on paper mostly.
+
+00:20:32.700 --> 00:20:33.360
+Then it's put into envelopes by the bank's case workers. But that's a bit outside our sphere of influence,
+
+00:20:33.480 --> 00:20:35.960
+because the foreign authorities all still work very little digitally sometimes, and they want it by post.
+
+00:20:39.500 --> 00:20:39.940
+So if there were a way to send it by email and it were allowed, they might do it.
+
+00:20:40.100 --> 00:20:41.900
+Then in RaQuest we could say, yes, you have the PDFs here, but you could save, print, pull the stuff off and save it as PDF somewhere.
+
+00:20:42.060 --> 00:20:42.740
+And then maybe one day you could go so far as to connect the email inbox, connect email accounts.
+
+00:20:42.740 --> 00:20:44.020
+That'd be a way of thinking — all documents into email and off they go. But no, that doesn't exist yet.
+
+00:20:46.940 --> 00:20:48.240
+The electronic signature — nowadays you can too; Mr. Färker sends me invoices digitally — there are such billing systems with electronic signatures and the like.
+
+00:20:48.460 --> 00:20:49.380
+In this case, when the tax offices don't want it — we have 800 tax offices in Germany — they all still get it by post.
+
+00:20:49.380 --> 00:20:50.380
+And when they scan it back in digitally on-site at a central scanning center — but that's all outside my scope or knowledge; we can deliver these documents and PDFs, save them, and then he can send it to the printer and envelope it.
+
+00:20:50.940 --> 00:20:51.960
+90% of cases. There's also already a digital process, which we call STTI, that we grew in parallel — parallel to these print processes.
+
+00:20:52.040 --> 00:20:53.120
+Okay, now you say, all fine, I've reviewed the application as a case worker, the signatures are on, super cool, the crosses are on, and then he can click Eintragen (enter/commit).
+
+00:20:53.120 --> 00:20:54.920
+I clicked Eintragen bottom-right, confirmed the process, and then he can click Übernehmen (apply).
+
+00:20:54.920 --> 00:20:56.420
+So now, with the second confirmation, this data — the application — is truly fixed. Now it exists. Before, it was a creation process.
+
+00:20:56.420 --> 00:20:57.220
+Now it exists. Here we see the old claim as it was copied, and here we see an application with an application number.
+
+00:20:57.220 --> 00:20:58.220
+Now we already see, ah, there's a new status called 'Wohnsitzbestätigung eingefordert' (residence certificate requested).
+
+00:21:00.920 --> 00:21:02.000
+And that's exactly it. We wrote to the tax office in France to request the residence certificate — that's what we did, requested it. Now we wait two weeks — they're fast — they send the certificate to the bank.
+
+00:21:02.000 --> 00:21:02.940
+The bank takes the certificate — ah, it's here — goes into RaQuest, right-click, Empfangsbestätigung (receipt confirmation), write to the tax office, bam. Is it confirmed? Yes, it's there. It's like a process stamp.
+
+00:21:03.020 --> 00:21:04.160
+Then we say, okay, right-click, back into the print process, because now I have all the documents — the application and the residence certificate. Print them.
+
+00:21:04.160 --> 00:21:05.580
+And a new print category opens. Let me scroll down, note briefly — ah, the Beantragungsstelle (filing office) is now open. So I can write to the filing office.
+
+00:21:05.580 --> 00:21:07.960
+Where do we want to file again? To Switzerland. And here more documents get printed too — an application list, tax voucher, withholding tax, relevant income.
+
+00:21:08.700 --> 00:21:09.820
+So don't be alarmed — RaQuest, I'm told, has well over 500 forms already implemented. I can't name every single one, or explain them all right away,
+
+00:21:09.820 --> 00:21:11.160
+you have to talk through the forms together, one at a time. And then you say, now I send this into the print process. And ha — here are even the authorized signatories, Charles Waldorf and Herbert Stadler,
+
+00:21:11.160 --> 00:21:14.340
+who'd now be the authorized signatories. Then I send it into the print process via 'print all selected documents'.
+
+00:21:15.340 --> 00:21:17.420
+Now it renders again and sends us into the print process. So we're at the end of the whole process. It took longer with the explaining, but if I do it at full speed,
+
+00:21:17.420 --> 00:21:18.240
+I'm through in two, five minutes. Two to five minutes I'd estimate. Now we have a new cover letter to the foreign tax administration in Switzerland,
+
+00:21:18.300 --> 00:21:19.020
+asking the tax administration to please transfer money to this IBAN. And do we have other documents?
+
+00:21:19.020 --> 00:21:20.300
+Yes, here we have further statements, listings and proofs that the tax authority might also like to have.
+
+00:21:20.300 --> 00:21:21.560
+Here are even the signatures of Waldorf and Stadler. And we have complex setting options for
+
+00:21:21.800 --> 00:21:23.100
+how we control these signatures in RaQuest, and we'd now have the documents. Now he has to print them again, put them in envelopes, and off to the foreign tax authority. Now the case worker says, all good.
+
+00:21:25.100 --> 00:21:26.000
+Done. I click Eintragen. Now I'm back in the print process. I confirm this a second time — always confirm twice. Eintragen again. Now we see, fantastic.
+
+00:21:26.000 --> 00:21:27.100
+Our application is now on status 'beantragt' (applied-for). Here, the last column. So we had, and I'll show it again, initially a claim on 'applicable'.
+
+00:21:27.600 --> 00:21:28.680
+Here the claim on this middle status 'applicable'. We moved it into an application. And then we see this application. Status history.
+
+00:21:28.680 --> 00:21:29.320
+Note we had 'residence certificate requested' as a status. And third, 'applied-for' was the third status. So not every status always occurs — it depends on the process design.
+
+00:21:29.380 --> 00:21:29.860
+And now we're on 'applied-for' and have basically almost finished the process. Because now it rests with the tax authority. It may take a year until the money comes.
+
+00:21:29.860 --> 00:21:31.780
+And now we have a perfect landing. At 11 o'clock let's take a short break until 10 past, okay? Then we'll see each other again. Okay.
