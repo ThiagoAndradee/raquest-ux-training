@@ -706,7 +706,8 @@
 .tax-flash-term{cursor:pointer;border-radius:8px;padding:2px 6px;transition:.15s;background:transparent;border:0;width:auto}
 .tax-flash-term:hover{background:color-mix(in srgb,var(--accent) 14%,transparent)}
 .tax-flash-term.saved{color:var(--amar)}
-.tax-flash-save-star{font-size:18px;margin-left:4px;color:var(--amar)}
+.tax-flash-save-star{font-size:18px;margin-left:6px;color:var(--amar);background:transparent;border:0;cursor:pointer;padding:0 4px;border-radius:8px;line-height:1;transition:.15s}
+.tax-flash-save-star:hover{background:color-mix(in srgb,var(--amar) 18%,transparent)}
 .tax-flash-save-btn{font-family:var(--disp);font-size:13px;font-weight:600;border-radius:9px;
   border:1px solid color-mix(in srgb,var(--amar) 45%,transparent);background:transparent;color:var(--amar);
   padding:7px 14px;cursor:pointer;transition:.15s}
@@ -884,7 +885,7 @@
 .tax-sort-bucket:focus-visible,
 .tax-flash-card:focus-visible,
 .tax-lyrics-seg-head:focus-visible,
-.tax-flash-term:focus-visible{
+.tax-flash-save-star:focus-visible{
   outline:2px solid var(--turq);outline-offset:2px;border-radius:8px;
 }
 .tax-narrflow .tax-flow-node.on{opacity:1}

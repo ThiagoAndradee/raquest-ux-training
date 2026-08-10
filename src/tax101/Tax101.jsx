@@ -1434,15 +1434,16 @@ function FlashDeck({ scene, lang, t, onBack, onFinish }) {
                 {CAT_LABEL[lang][FLASH_CAT[card.term] || "process"]}
               </span>
               <button className="tax-flash-speak" onClick={(e) => { e.stopPropagation(); speak(card.term); }} title="Speak">🔊</button>
-              <button
-                className={`tax-flash-term ${saved.has(card.term) ? "saved" : ""}`}
-                onClick={(e) => { e.stopPropagation(); toggleSave(card.term); }}
-                onKeyDown={(e) => e.stopPropagation()}
-                title={lang === "pt" ? "Clique pra salvar" : "Click to save"}
-                aria-pressed={saved.has(card.term)}
-              >
-                {card.term} <span className="tax-flash-save-star">{saved.has(card.term) ? "★" : "☆"}</span>
-              </button>
+              <span className={`tax-flash-term ${saved.has(card.term) ? "saved" : ""}`}>
+                {card.term}
+                <button
+                  className="tax-flash-save-star"
+                  onClick={(e) => { e.stopPropagation(); toggleSave(card.term); }}
+                  onKeyDown={(e) => e.stopPropagation()}
+                  title={lang === "pt" ? "Clique pra salvar" : "Click to save"}
+                  aria-pressed={saved.has(card.term)}
+                >{saved.has(card.term) ? "★" : "☆"}</button>
+              </span>
               <span className="tax-flash-hint">{lang === "pt" ? "Toque pra revelar" : "Tap to reveal"}</span>
             </div>
             <div className="tax-flash-face tax-flash-back">
