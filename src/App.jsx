@@ -27,7 +27,7 @@ export default function App() {
   const [earnedBadges, setEarnedBadges] = useState([]);
   const [finished, setFinished] = useState(false);
   // track which reward blocks were already granted, to avoid double-award
-  const [granted, setGranted] = useState({}); // key -> true
+  const [, setGranted] = useState({}); // key -> true
   const [activeSeg, setActiveSeg] = useState(0); // which segment of the current chapter is shown in the top player
   const [name, setName] = useState(""); // learner's name, for the certificate
   const [email, setEmail] = useState(""); // learner's email — training summary is sent here
