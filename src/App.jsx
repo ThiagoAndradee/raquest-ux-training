@@ -8,6 +8,8 @@ import LevelUpOverlay from "./components/LevelUpOverlay";
 import Certificate from "./components/Certificate";
 import DevControls from "./components/DevControls";
 import Tax101 from "./tax101/Tax101";
+import Karaoke from "./components/Karaoke";
+import "./components/karaoke.css";
 import { TopBar, Dots } from "./components/Chrome";
 
 const XP_PER_CHAPTER = 20;
@@ -227,6 +229,11 @@ export default function App() {
     return <Tax101 initialLang={lang} name={name} onExit={() => setMode(null)} />;
   }
 
+  // ---------- KARAOKE (independent full-screen module) ----------
+  if (mode === "karaoke") {
+    return <Karaoke initialLang={lang} onExit={() => setMode(null)} />;
+  }
+
   // ---------- START SCREEN (name + email → start) ----------
   if (!started) {
     const canStart = name.trim() && /.+@.+\..+/.test(email.trim());
@@ -318,6 +325,18 @@ export default function App() {
               <span className="hero-track-text">
                 <span className="hero-track-title">{t.courseTaxTitle}</span>
                 <span className="hero-track-sub">{t.courseTaxSub}</span>
+              </span>
+              <span className="hero-track-go">▶</span>
+            </button>
+            <button
+              className="hero-track-card"
+              onClick={() => setMode("karaoke")}
+              type="button"
+            >
+              <span className="hero-track-emoji">🎤</span>
+              <span className="hero-track-text">
+                <span className="hero-track-title">Karaoke</span>
+                <span className="hero-track-sub">Cante as músicas do WHT com a letra sincronizada</span>
               </span>
               <span className="hero-track-go">▶</span>
             </button>

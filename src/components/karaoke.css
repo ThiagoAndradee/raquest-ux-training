@@ -1,0 +1,51 @@
+/* ---------- Karaoke player ---------- */
+.karaoke{min-height:100vh;background:var(--bg);color:var(--tx);display:flex;flex-direction:column}
+.karaoke-top{display:flex;align-items:flex-start;justify-content:space-between;gap:16px;padding:18px 22px 10px;border-bottom:1px solid var(--line);flex-wrap:wrap}
+.karaoke-top .btn.ghost{flex:0 0 auto}
+.karaoke-title{flex:1 1 320px;min-width:0}
+.karaoke-title .karaoke-badge{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.12em;color:var(--turq);background:color-mix(in srgb,var(--turq) 14%,transparent);padding:3px 10px;border-radius:999px;margin-bottom:6px}
+.karaoke-title h1{font-family:var(--disp);font-size:clamp(20px,3vw,30px);margin:0;line-height:1.1}
+.karaoke-title p{margin:4px 0 0;color:var(--mut);font-size:13px}
+.karaoke-track-tabs{display:flex;gap:6px;flex-wrap:wrap;flex:0 0 auto}
+.karaoke-tab{background:transparent;border:1px solid var(--line);color:var(--mut);padding:7px 12px;border-radius:999px;font-size:12px;font-weight:600;cursor:pointer;transition:.15s}
+.karaoke-tab:hover{border-color:var(--accent);color:var(--tx)}
+.karaoke-tab.on{background:var(--accent);border-color:var(--accent);color:#fff}
+
+.karaoke-body{flex:1;display:grid;grid-template-columns:1fr 320px;gap:18px;padding:18px 22px;min-height:0}
+.karaoke-lyrics{overflow-y:auto;padding:8px 12px 120px;border-radius:14px;background:color-mix(in srgb,var(--panel) 60%,transparent);border:1px solid var(--line);max-height:calc(100vh - 120px);scroll-behavior:smooth}
+.karaoke-line{display:flex;gap:12px;align-items:baseline;width:100%;text-align:left;background:transparent;border:0;border-left:3px solid transparent;padding:8px 10px;margin:2px 0;border-radius:8px;cursor:pointer;transition:.18s;color:var(--mut);font-family:var(--disp);font-size:clamp(16px,2.2vw,22px);line-height:1.35}
+.karaoke-line:hover{background:color-mix(in srgb,var(--accent) 10%,transparent);color:var(--tx)}
+.karaoke-line.marked{color:var(--tx)}
+.karaoke-line.active{color:var(--azulc);border-left-color:var(--turq);background:color-mix(in srgb,var(--turq) 12%,transparent);font-weight:700;transform:scale(1.01)}
+.karaoke-line.sync-next{border-left-color:var(--amar);background:color-mix(in srgb,var(--amar) 14%,transparent);box-shadow:0 0 0 2px color-mix(in srgb,var(--amar) 40%,transparent)}
+.karaoke-line-idx{flex:0 0 44px;font-size:11px;color:var(--mut);font-family:var(--mono,monospace);text-align:right;align-self:center}
+.karaoke-line.sync-next .karaoke-line-idx{color:var(--amar);font-size:16px}
+.karaoke-line-blank{height:14px}
+
+.karaoke-edit{width:100%;min-height:60vh;background:var(--panel);color:var(--tx);border:1px solid var(--line);border-radius:10px;padding:14px;font-family:var(--mono,monospace);font-size:13px;line-height:1.5;resize:vertical}
+
+.karaoke-side{display:flex;flex-direction:column;gap:14px}
+.karaoke-progress{height:8px;border-radius:999px;background:var(--panel2);cursor:pointer;overflow:hidden;border:1px solid var(--line)}
+.karaoke-progress-fill{height:100%;background:linear-gradient(90deg,var(--turq),var(--azul));transition:width .1s linear}
+.karaoke-time{display:flex;justify-content:space-between;font-size:12px;color:var(--mut);font-family:var(--mono,monospace)}
+.karaoke-controls{display:flex;gap:8px;align-items:center}
+.karaoke-controls .btn.primary.big{flex:1;font-size:18px;padding:12px}
+
+.karaoke-sync-box{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px}
+.karaoke-sync-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;font-size:13px;font-weight:600}
+.karaoke-sync-toggle{background:transparent;border:1px solid var(--line);color:var(--mut);padding:5px 12px;border-radius:999px;font-size:12px;font-weight:700;cursor:pointer;transition:.15s}
+.karaoke-sync-toggle.on{background:var(--amar);border-color:var(--amar);color:#1a1a1a}
+.karaoke-sync-hint{font-size:12px;color:var(--mut);line-height:1.5;margin:0 0 10px}
+.karaoke-mark-btn{width:100%;font-size:14px;padding:10px}
+.karaoke-sync-stats{display:flex;justify-content:space-between;align-items:center;margin-top:10px;font-size:12px;color:var(--mut)}
+.karaoke-link{background:transparent;border:0;color:var(--turq);cursor:pointer;font-size:12px;text-decoration:underline}
+.karaoke-link:hover{color:var(--azulc)}
+
+.karaoke-edit-box{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.karaoke-edit-box .btn{flex:0 0 auto}
+
+@media (max-width:760px){
+  .karaoke-body{grid-template-columns:1fr}
+  .karaoke-lyrics{max-height:50vh}
+  .karaoke-top{flex-direction:column;align-items:stretch}
+}
