@@ -2,7 +2,7 @@ import React, { useState, useCallback, useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import confetti from "canvas-confetti";
 import { chapters, badges, UI, meta } from "./content";
-import ChapterVideo, { toSec } from "./components/ChapterVideo";
+import ChapterVideo from "./components/ChapterVideo";
 import ChapterDeck from "./components/ChapterDeck";
 import LevelUpOverlay from "./components/LevelUpOverlay";
 import Certificate from "./components/Certificate";
@@ -36,16 +36,10 @@ export default function App() {
   const [quizAnswers, setQuizAnswers] = useState([]); // [{chapter, question, chosen, correctAnswer, correct}]
   const [emailStatus, setEmailStatus] = useState(null); // null | "sending" | "sent" | "error"
   const emailSentRef = useRef(false); // guard: send the summary only once per finish
-  const [unlocked, setUnlocked] = useState(false); // chapter content gated until the video is watched
-  const [phase, setPhase] = useState("video"); // "video" | "deck"
+  const [unlocked, setUnlocked] = useState(true); // content always available — no video gate
   const [levelUp, setLevelUp] = useState(null); // new level when crossing a boundary
   const [briefed, setBriefed] = useState(false); // intro slide shown once before chapter 1
   const [mode, setMode] = useState(null); // null = start screen, "course" = Erste Schritte, "tax101" = explainer
-  // video gate timer: auto-unlock content after the segment's known duration (+ buffer) once playback starts
-  const [counting, setCounting] = useState(false);
-  const [remaining, setRemaining] = useState(0);
-  const timerRef = useRef(null);
-  const timerStartedRef = useRef(false); // guard: start the countdown only on the first play of the chapter
 
   const t = UI[lang];
   const total = chapters.length;
@@ -53,15 +47,10 @@ export default function App() {
   const level = Math.floor(xp / LEVEL_STEP) + 1;
   const levelProgress = ((xp % LEVEL_STEP) / LEVEL_STEP) * 100;
 
-  // reset to the first segment + re-lock + back to video phase whenever the chapter changes
+  // reset to the first segment whenever the chapter changes (content stays unlocked — no video gate)
   useEffect(() => {
     setActiveSeg(0);
-    setUnlocked(false);
-    setPhase("video");
-    setCounting(false);
-    setRemaining(0);
-    timerStartedRef.current = false;
-    if (timerRef.current) { clearInterval(timerRef.current); timerRef.current = null; }
+    setUnlocked(true);
   }, [idx]);
 
   // detect level-up: when `level` increases, fire the overlay
@@ -151,66 +140,6 @@ export default function App() {
     if (finished && mode === "course") sendResults();
   }, [finished, mode, sendResults]);
 
-
-  // duration of the currently active segment (ee - ss), with a 3s buffer
-  const activeSegDur = (() => {
-    const s = ch?.video?.[activeSeg] || ch?.video?.[0];
-    if (!s) return 0;
-    return Math.max(3, toSec(s.ee) - toSec(s.ss)) + 3;
-  })();
-
-  const clearTimer = () => {
-    if (timerRef.current) { clearInterval(timerRef.current); timerRef.current = null; }
-  };
-
-  const unlockChapter = useCallback(() => {
-    clearTimer();
-    setCounting(false);
-    setRemaining(0);
-    setUnlocked(true);
-    setPhase("deck");
-  }, []);
-
-  const startTimer = useCallback(() => {
-    setRemaining(activeSegDur);
-    setCounting(true);
-    clearTimer();
-    timerRef.current = setInterval(() => {
-      setRemaining((r) => {
-        if (r <= 1) { unlockChapter(); return 0; }
-        return r - 1;
-      });
-    }, 1000);
-  }, [activeSegDur, unlockChapter]);
-
-  // the video's own play button starts the countdown (once per chapter)
-  const handleVideoPlay = useCallback(() => {
-    if (timerStartedRef.current) return;
-    timerStartedRef.current = true;
-    startTimer();
-  }, [startTimer]);
-
-  // dev shortcut: jump the countdown to 1s so you can watch the unlock transition
-  const skipTimer = useCallback(() => {
-    if (unlocked) return;
-    clearTimer();
-    setCounting(true);
-    setRemaining(5);
-    timerRef.current = setInterval(() => {
-      setRemaining((r) => {
-        if (r <= 1) { unlockChapter(); return 0; }
-        return r - 1;
-      });
-    }, 1000);
-  }, [unlocked, unlockChapter]);
-
-  // if the learner switches segment while the timer is running, re-base the countdown on the new segment
-  useEffect(() => {
-    if (!counting) return;
-    setRemaining(activeSegDur);
-  }, [activeSeg, activeSegDur, counting]);
-
-  const handleVideoEnded = useCallback(() => { if (!unlocked) unlockChapter(); }, [unlocked, unlockChapter]);
 
   const restart = () => {
     setStarted(false);
@@ -478,26 +407,41 @@ export default function App() {
                   chapterIdx={idx}
                   activeSeg={activeSeg}
                   setActiveSeg={setActiveSeg}
-                  onEnded={handleVideoEnded}
-                  onPlay={handleVideoPlay}
-                  paused={unlocked && phase === "deck"}
+                  paused={false}
                 />
-                {unlocked && phase === "deck" && (
-                  <div className="ch-deck-overlay">
-                    <ChapterDeck
-                      chapter={ch}
-                      lang={lang}
-                      t={t}
-                      idx={idx}
-                      allChapters={chapters}
-                      onAward={grantOnce}
-                      onCardsSeen={onCardsSeen}
-                      onQuizComplete={onQuizComplete}
-                      onQuizAnswer={onQuizAnswer}
-                      onFinish={() => go(idx + 1)}
-                    />
-                  </div>
-                )}
+                <div className="ch-deck-below">
+                  <ChapterDeck
+                    chapter={ch}
+                    lang={lang}
+                    t={t}
+                    idx={idx}
+                    allChapters={chapters}
+                    onAward={grantOnce}
+                    onCardsSeen={onCardsSeen}
+                    onQuizComplete={onQuizComplete}
+                    onQuizAnswer={onQuizAnswer}
+                    onFinish={() => go(idx + 1)}
+                  />
+                </div>
+                <div className="ch-nav">
+                  <button
+                    type="button"
+                    className="ch-nav-btn"
+                    onClick={() => go(idx - 1)}
+                    disabled={idx === 0}
+                  >
+                    ‹ {t.prev || "Previous"}
+                  </button>
+                  <span className="ch-nav-count">{idx + 1} / {total}</span>
+                  <button
+                    type="button"
+                    className="ch-nav-btn ch-nav-btn--next"
+                    onClick={() => go(idx + 1)}
+                    disabled={idx >= total - 1}
+                  >
+                    {t.next || "Next"} ›
+                  </button>
+                </div>
               </div>
             )}
           </motion.section>
@@ -511,11 +455,7 @@ export default function App() {
       )}
 
       <DevControls
-        remaining={remaining}
-        counting={counting}
         unlocked={unlocked}
-        onSkip={skipTimer}
-        onSkipVideo={unlockChapter}
         onNext={() => go(idx + 1)}
         onPrev={() => go(idx - 1)}
         idx={idx}
