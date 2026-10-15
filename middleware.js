@@ -50,7 +50,7 @@ ${error ? '<div class="err" role="alert">Falsches Passwort.</div>' : ''}
 }
 
 export default async function middleware(request) {
-  const password = process.env.SITE_PASSWORD;
+  const password = (process.env.SITE_PASSWORD || '').trim();
   if (!password) {
     return new Response('Site fechado: configure SITE_PASSWORD no Vercel.', { status: 503 });
   }
@@ -59,15 +59,26 @@ export default async function middleware(request) {
   const url = new URL(request.url);
 
   if (url.pathname === LOGIN_PATH && request.method === 'POST') {
-    const form = await request.formData();
-    if (form.get('password') === password) {
-      return new Response(null, {
-        status: 303,
-        headers: {
-          location: '/',
-          'set-cookie': `${COOKIE}=${expected}; Path=/; Max-Age=2592000; HttpOnly; Secure; SameSite=Lax`,
-        },
-      });
+    let typed = '';
+    try {
+      const body = await request.text();
+      typed = (new URLSearchParams(body).get('password') || '').trim();
+    } catch (e) {
+      typed = '';
+    }
+    if (typed === password) {
+      // 200 com o cookie + redirecionamento no navegador (mais confiável que 303 com Set-Cookie)
+      return new Response(
+        '<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=/"><title>OK</title><p>Weiter…</p><script>location.replace("/")</script>',
+        {
+          status: 200,
+          headers: {
+            'content-type': 'text/html; charset=utf-8',
+            'cache-control': 'no-store',
+            'set-cookie': `${COOKIE}=${expected}; Path=/; Max-Age=2592000; HttpOnly; Secure; SameSite=Lax`,
+          },
+        }
+      );
     }
     return loginPage(true);
   }
